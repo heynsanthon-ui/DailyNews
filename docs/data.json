@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T10:36:42.680Z",
-  "edition": "Updated 12:36 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T10:44:33.132Z",
+  "edition": "Updated 12:44 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -101,7 +101,7 @@
         {
           "title": "Springboks safe at No 1",
           "link": "https://www.sarugbymag.co.za/springboks-safe-no-1/",
-          "summary": "The Springboks cannot relinquish their world No 1 ranking against the Wallabies in Perth. The post Springboks safe at No 1 appeared first on SA Rugby magazine.",
+          "summary": "The Springboks can't relinquish their world No 1 ranking against the Wallabies in Perth, but they can't gain anything either. The post Springboks safe at No 1 appeared first on SA Rugby magazine.",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Springboks-anthem-Baltimore-Michael-Franken-Photography-e1789985140684.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-21T10:06:42.000Z"
@@ -1352,5 +1352,129 @@
         "seedRank": 86
       }
     }
-  ]
+  ],
+  "outage": {
+    "suburb": "Die Wilgers",
+    "municipality": "City of Tshwane",
+    "source": "City of Tshwane Service Interruptions Portal",
+    "generatedAt": "2026-09-21T10:44:33.201Z",
+    "status": {
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 3h 15m"
+    },
+    "forecast": [
+      {
+        "date": "2026-09-21",
+        "day": "Mon",
+        "dayOfMonth": 21,
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
+      },
+      {
+        "date": "2026-09-22",
+        "day": "Tue",
+        "dayOfMonth": 22,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
+      },
+      {
+        "date": "2026-09-23",
+        "day": "Wed",
+        "dayOfMonth": 23,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
+      },
+      {
+        "date": "2026-09-24",
+        "day": "Thu",
+        "dayOfMonth": 24,
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+      },
+      {
+        "date": "2026-09-25",
+        "day": "Fri",
+        "dayOfMonth": 25,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
+      },
+      {
+        "date": "2026-09-26",
+        "day": "Sat",
+        "dayOfMonth": 26,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
+      },
+      {
+        "date": "2026-09-27",
+        "day": "Sun",
+        "dayOfMonth": 27,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
+      }
+    ],
+    "maintenance": [
+      {
+        "date": "2026-09-21",
+        "infrastructure": "Wapadrand Substation Upgrades",
+        "status": "Scheduled",
+        "etr": "Today, 14:00–16:30"
+      },
+      {
+        "date": "2026-09-21",
+        "infrastructure": "Garsfontein Rd Transformer Repair",
+        "status": "In Progress",
+        "etr": "~45 min remaining"
+      },
+      {
+        "date": "2026-09-24",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement",
+        "status": "Scheduled",
+        "etr": "Thu 24, 09:00–12:00"
+      }
+    ],
+    "reliability": {
+      "daysSinceLastUnplannedOutage": 12,
+      "avgOutageDurationHours": 3.5,
+      "monthly": [
+        {
+          "month": "Apr",
+          "unplannedHours": 5,
+          "scheduledHours": 3
+        },
+        {
+          "month": "May",
+          "unplannedHours": 2,
+          "scheduledHours": 4
+        },
+        {
+          "month": "Jun",
+          "unplannedHours": 8,
+          "scheduledHours": 2
+        },
+        {
+          "month": "Jul",
+          "unplannedHours": 3,
+          "scheduledHours": 5
+        },
+        {
+          "month": "Aug",
+          "unplannedHours": 6,
+          "scheduledHours": 3
+        },
+        {
+          "month": "Sep",
+          "unplannedHours": 4,
+          "scheduledHours": 4
+        }
+      ]
+    }
+  }
 }
