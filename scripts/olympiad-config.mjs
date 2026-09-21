@@ -4,6 +4,6 @@
 // chess-results.com, open South Africa's team page, and copy the new "tnr"
 // number from the URL.
 export const olympiadTeams = [
-  { id: "open", label: "South Africa — Open", tnr: 1469895, fed: "RSA" },
-  { id: "women", label: "South Africa — Women", tnr: 1469896, fed: "RSA" },
+  { id: "open", label: "South Africa — Open", event: "Open", tnr: 1469895, fed: "RSA" },
+  { id: "women", label: "South Africa — Women", event: "Women", tnr: 1469896, fed: "RSA" },
 ];

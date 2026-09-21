@@ -5,6 +5,7 @@ import Parser from "rss-parser";
 import { sections, ARTICLES_PER_SECTION } from "./feeds.mjs";
 import { olympiadTeams } from "./olympiad-config.mjs";
 import { fetchOlympiadTeam } from "./olympiad.mjs";
+import { fetchStandings } from "./standings.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.join(__dirname, "..", "docs");
@@ -162,11 +163,28 @@ async function buildOlympiad() {
   return results.filter(Boolean);
 }
 
+async function buildStandings() {
+  const results = await Promise.all(
+    olympiadTeams.map(async (team) => {
+      try {
+        const data = await fetchStandings(team);
+        console.log(`  ok   standings/${team.id} (round ${data.asOfRound}, ${data.top10.length} teams)`);
+        return data;
+      } catch (err) {
+        console.warn(`  FAIL standings/${team.id} — ${err.message}`);
+        return null;
+      }
+    })
+  );
+  return results.filter(Boolean);
+}
+
 async function main() {
   const now = new Date();
-  const [builtSections, olympiad] = await Promise.all([
+  const [builtSections, olympiad, standings] = await Promise.all([
     Promise.all(sections.map(buildSection)),
     buildOlympiad(),
+    buildStandings(),
   ]);
 
   const data = {
@@ -174,6 +192,7 @@ async function main() {
     edition: editionLabel(now),
     sections: builtSections,
     olympiad,
+    standings,
   };
 
   await mkdir(OUT_DIR, { recursive: true });

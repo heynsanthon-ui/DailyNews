@@ -129,6 +129,70 @@ function renderOlympiadRound(round) {
   return wrap;
 }
 
+function renderStandingsTable(group) {
+  const wrap = document.createElement("div");
+  wrap.className = "olympiad-round";
+
+  wrap.appendChild(cell("div", `Top 10 after Round ${group.asOfRound}`, "olympiad-round-header"));
+
+  const tableWrap = document.createElement("div");
+  tableWrap.className = "olympiad-table-wrap";
+  const table = document.createElement("table");
+  table.className = "olympiad-table";
+
+  const thead = document.createElement("thead");
+  const headRow = document.createElement("tr");
+  ["Rk", "Team", "W", "D", "L", "Pts"].forEach((h) => headRow.appendChild(cell("th", h)));
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+  const rowFor = (t) => {
+    const tr = document.createElement("tr");
+    tr.appendChild(cell("td", t.rank));
+    tr.appendChild(cell("td", `${t.team} (${t.fed})`));
+    tr.appendChild(cell("td", t.wins));
+    tr.appendChild(cell("td", t.draws));
+    tr.appendChild(cell("td", t.losses));
+    tr.appendChild(cell("td", t.matchPoints, "olympiad-result"));
+    if (t.fed === "RSA") tr.classList.add("olympiad-sa-row");
+    return tr;
+  };
+
+  group.top10.forEach((t) => tbody.appendChild(rowFor(t)));
+
+  if (group.sa && !group.top10.some((t) => t.fed === "RSA")) {
+    const spacer = document.createElement("tr");
+    const spacerCell = cell("td", "⋯");
+    spacerCell.colSpan = 6;
+    spacerCell.className = "olympiad-spacer";
+    spacer.appendChild(spacerCell);
+    tbody.appendChild(spacer);
+    tbody.appendChild(rowFor(group.sa));
+  }
+
+  table.appendChild(tbody);
+  tableWrap.appendChild(table);
+  wrap.appendChild(tableWrap);
+  return wrap;
+}
+
+function renderStandingsSection(standings) {
+  if (!standings || standings.length === 0) return null;
+
+  const wrap = document.createElement("section");
+  wrap.className = "section";
+  wrap.appendChild(cell("h2", "Olympiad Standings", "section-title"));
+
+  standings.forEach((group) => {
+    if (!group.top10 || group.top10.length === 0) return;
+    wrap.appendChild(cell("h3", group.label, "olympiad-team-title"));
+    wrap.appendChild(renderStandingsTable(group));
+  });
+
+  return wrap;
+}
+
 function renderOlympiadSection(teams) {
   if (!teams || teams.length === 0) return null;
 
@@ -170,6 +234,8 @@ async function main() {
       if (section.id === "chess") {
         const olympiad = renderOlympiadSection(data.olympiad);
         if (olympiad) paper.appendChild(olympiad);
+        const standings = renderStandingsSection(data.standings);
+        if (standings) paper.appendChild(standings);
       }
     });
   } catch (err) {
