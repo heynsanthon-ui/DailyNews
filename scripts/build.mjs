@@ -1,4 +1,5 @@
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile, mkdir, readFile } from "node:fs/promises";
+import { createHash } from "node:crypto";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import Parser from "rss-parser";
@@ -240,6 +241,25 @@ async function main() {
 
   const total = builtSections.reduce((sum, s) => sum + s.articles.length, 0);
   console.log(`\nWrote ${OUT_FILE} — ${total} articles across ${builtSections.length} sections.`);
+
+  await stampAssetVersions();
+}
+
+// Content-hash app.js/style.css into their <script>/<link> tags in
+// index.html, so a browser that cached an older page always picks up a
+// changed file instead of serving stale JS/CSS from its cache.
+async function stampAssetVersions() {
+  const indexPath = path.join(OUT_DIR, "index.html");
+  let html = await readFile(indexPath, "utf-8");
+
+  for (const asset of ["app.js", "style.css"]) {
+    const content = await readFile(path.join(OUT_DIR, asset), "utf-8");
+    const hash = createHash("sha256").update(content).digest("hex").slice(0, 8);
+    html = html.replace(new RegExp(`${asset}\\?v=[^"]*`), `${asset}?v=${hash}`);
+  }
+
+  await writeFile(indexPath, html, "utf-8");
+  console.log("Stamped asset versions in index.html");
 }
 
 main()
