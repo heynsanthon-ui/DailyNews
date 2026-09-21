@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T09:38:09.736Z",
-  "edition": "Updated 11:38 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T09:47:49.314Z",
+  "edition": "Updated 11:47 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -99,6 +99,14 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Tappe: Strong scrum can be nullified",
+          "link": "https://www.sarugbymag.co.za/tappe-strong-scrum-can-nullified/",
+          "summary": "URC head of match officials Tappe Henning has questioned World Rugby’s decision to remove the scrum option from a free kick. The post Tappe: Strong scrum can be nullified appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/05/Bulls-Munster-scrum-March-2026-Sydney-Seshibedi-e1780132433478.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T09:46:54.000Z"
+        },
+        {
           "title": "All Blacks: Ardie Savea set for lengthy stint on the sidelines as injury update provided",
           "link": "https://www.planetrugby.com/news/all-blacks-ardie-savea-set-for-lengthy-stint-on-the-sidelines-as-injury-update-provided",
           "summary": "New Zealand Rugby have provided an update on the full extent of All Blacks captain Ardie Savea's shoulder injury sustained during the recent Greatest Rivalry series against the Springboks.",
@@ -129,14 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Marcell-Coetzee-Hanro-Liebenberg-14-Aug-2026-Vodacom-Bulls-e1789642883442.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-21T07:40:55.000Z"
-        },
-        {
-          "title": "URC ‘upgrades’ TMO support in South Africa as experimental law gets World Rugby’s greenlight",
-          "link": "https://www.planetrugby.com/news/urc-upgrades-tmo-support-in-south-africa-as-experimental-law-gets-world-rugbys-greenlight",
-          "summary": "The URC referee boss says that the competition have been permitted by World Rugby to continue an 'experimental law'.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/20144941/URC-referees-during-a-TMO-Review-and-an-inset-of-a-scrum-between-the-Stormers-and-Lions-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-21T07:13:15.000Z"
         }
       ]
     },
@@ -183,6 +183,140 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/412900/412981.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-17T11:18:08.000Z"
+        }
+      ]
+    }
+  ],
+  "performance": [
+    {
+      "id": "open",
+      "label": "Open",
+      "seedRank": 77,
+      "totalTeams": 150,
+      "seedRatingAvg": 2323,
+      "currentRank": 80,
+      "matchPoints": "6",
+      "roster": [
+        {
+          "board": 1,
+          "name": "Karsten, Jan",
+          "title": "IM",
+          "rating": 2386,
+          "games": 4,
+          "points": 2,
+          "avgOpponentRating": 2385,
+          "performanceRating": 2385,
+          "ratingChange": 0.4
+        },
+        {
+          "board": 2,
+          "name": "Levitan, Caleb Levi",
+          "title": "IM",
+          "rating": 2316,
+          "games": 4,
+          "points": 2.5,
+          "avgOpponentRating": 2256,
+          "performanceRating": 2351,
+          "ratingChange": 5.4
+        },
+        {
+          "board": 3,
+          "name": "Mhango, Banele",
+          "title": "FM",
+          "rating": 2354,
+          "games": 4,
+          "points": 1.5,
+          "avgOpponentRating": 2278,
+          "performanceRating": 2191,
+          "ratingChange": -15.4
+        },
+        {
+          "board": 4,
+          "name": "Mnyasta, Charlton",
+          "title": null,
+          "rating": 2236,
+          "games": 5,
+          "points": 3.5,
+          "avgOpponentRating": 2177,
+          "performanceRating": 2326,
+          "ratingChange": 14.8
+        },
+        {
+          "board": 5,
+          "name": "Dinham, James",
+          "title": null,
+          "rating": 2124,
+          "games": 3,
+          "points": 2.5,
+          "avgOpponentRating": 1817,
+          "performanceRating": 2090,
+          "ratingChange": 4.6
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "label": "Women",
+      "seedRank": 86,
+      "totalTeams": 150,
+      "seedRatingAvg": 1895,
+      "currentRank": 90,
+      "matchPoints": "5",
+      "roster": [
+        {
+          "board": 1,
+          "name": "Badenhorst, Chloe",
+          "title": "WFM",
+          "rating": 1997,
+          "games": 5,
+          "points": 2,
+          "avgOpponentRating": 1868,
+          "performanceRating": 1796,
+          "ratingChange": -20.8
+        },
+        {
+          "board": 2,
+          "name": "Laubscher, Anzel",
+          "title": "WIM",
+          "rating": 1817,
+          "games": 4,
+          "points": 2.5,
+          "avgOpponentRating": 1646,
+          "performanceRating": 1741,
+          "ratingChange": -6
+        },
+        {
+          "board": 3,
+          "name": "Nel, Hayley",
+          "title": "WCM",
+          "rating": 1864,
+          "games": 5,
+          "points": 2.5,
+          "avgOpponentRating": 1777,
+          "performanceRating": 1777,
+          "ratingChange": -9.8
+        },
+        {
+          "board": 4,
+          "name": "Klaasen, Robyn Julian",
+          "title": null,
+          "rating": 1839,
+          "games": 2,
+          "points": 1,
+          "avgOpponentRating": 1784,
+          "performanceRating": 1784,
+          "ratingChange": -2.4
+        },
+        {
+          "board": 5,
+          "name": "Masango, Sizakele",
+          "title": null,
+          "rating": 1880,
+          "games": 4,
+          "points": 3,
+          "avgOpponentRating": 1812,
+          "performanceRating": 2005,
+          "ratingChange": 13.6
         }
       ]
     }
@@ -516,6 +650,63 @@
             }
           ]
         }
+      ],
+      "roster": [
+        {
+          "board": 1,
+          "name": "Karsten, Jan",
+          "title": "IM",
+          "rating": 2386,
+          "games": 4,
+          "points": 2,
+          "avgOpponentRating": 2385,
+          "performanceRating": 2385,
+          "ratingChange": 0.4
+        },
+        {
+          "board": 2,
+          "name": "Levitan, Caleb Levi",
+          "title": "IM",
+          "rating": 2316,
+          "games": 4,
+          "points": 2.5,
+          "avgOpponentRating": 2256,
+          "performanceRating": 2351,
+          "ratingChange": 5.4
+        },
+        {
+          "board": 3,
+          "name": "Mhango, Banele",
+          "title": "FM",
+          "rating": 2354,
+          "games": 4,
+          "points": 1.5,
+          "avgOpponentRating": 2278,
+          "performanceRating": 2191,
+          "ratingChange": -15.4
+        },
+        {
+          "board": 4,
+          "name": "Mnyasta, Charlton",
+          "title": null,
+          "rating": 2236,
+          "games": 5,
+          "points": 3.5,
+          "avgOpponentRating": 2177,
+          "performanceRating": 2326,
+          "ratingChange": 14.8
+        },
+        {
+          "board": 5,
+          "name": "Dinham, James",
+          "title": null,
+          "rating": 2124,
+          "games": 3,
+          "points": 2.5,
+          "avgOpponentRating": 1817,
+          "performanceRating": 2090,
+          "ratingChange": 4.6
+        }
       ]
     },
     {
@@ -845,6 +1036,63 @@
               "opponentResult": "0"
             }
           ]
+        }
+      ],
+      "roster": [
+        {
+          "board": 1,
+          "name": "Badenhorst, Chloe",
+          "title": "WFM",
+          "rating": 1997,
+          "games": 5,
+          "points": 2,
+          "avgOpponentRating": 1868,
+          "performanceRating": 1796,
+          "ratingChange": -20.8
+        },
+        {
+          "board": 2,
+          "name": "Laubscher, Anzel",
+          "title": "WIM",
+          "rating": 1817,
+          "games": 4,
+          "points": 2.5,
+          "avgOpponentRating": 1646,
+          "performanceRating": 1741,
+          "ratingChange": -6
+        },
+        {
+          "board": 3,
+          "name": "Nel, Hayley",
+          "title": "WCM",
+          "rating": 1864,
+          "games": 5,
+          "points": 2.5,
+          "avgOpponentRating": 1777,
+          "performanceRating": 1777,
+          "ratingChange": -9.8
+        },
+        {
+          "board": 4,
+          "name": "Klaasen, Robyn Julian",
+          "title": null,
+          "rating": 1839,
+          "games": 2,
+          "points": 1,
+          "avgOpponentRating": 1784,
+          "performanceRating": 1784,
+          "ratingChange": -2.4
+        },
+        {
+          "board": 5,
+          "name": "Masango, Sizakele",
+          "title": null,
+          "rating": 1880,
+          "games": 4,
+          "points": 3,
+          "avgOpponentRating": 1812,
+          "performanceRating": 2005,
+          "ratingChange": 13.6
         }
       ]
     }
