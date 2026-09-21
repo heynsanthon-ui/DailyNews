@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T10:44:33.132Z",
-  "edition": "Updated 12:44 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T10:57:06.141Z",
+  "edition": "Updated 12:57 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -117,7 +117,7 @@
         {
           "title": "Bok Test another big step up for Tizzano",
           "link": "https://www.sarugbymag.co.za/bok-test-another-big-step-tizzano/",
-          "summary": "Wallabies loose forward Carlo Tizzano is eager to challenge himself against “the best team in the world” when Australia and the Springboks clash in Perth on Sunday. The post Bok Test another big step up for Tizzano…",
+          "summary": "Loose forward Carlo Tizzano is eager to challenge himself against “the best team in the world” when the Wallabies and Springboks clash in Perth on Sunday. The post Bok Test another big step up for Tizzano appeared first…",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2166134703-e1789983308535.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-21T09:58:08.000Z"
@@ -1357,10 +1357,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-21T10:44:33.201Z",
+    "generatedAt": "2026-09-21T10:57:06.213Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 15m"
+      "label": "🟡 Planned Maintenance In 3h 3m"
     },
     "forecast": [
       {
@@ -1442,7 +1442,7 @@
     ],
     "reliability": {
       "daysSinceLastUnplannedOutage": 12,
-      "avgOutageDurationHours": 3.5,
+      "avgOutageDurationHours": 4.3,
       "monthly": [
         {
           "month": "Apr",
@@ -1474,7 +1474,21 @@
           "unplannedHours": 4,
           "scheduledHours": 4
         }
-      ]
+      ],
+      "durationStats": {
+        "min": 2.1,
+        "max": 14,
+        "q1": 3,
+        "median": 3.6,
+        "q3": 4.3,
+        "whiskerLow": 2.1,
+        "whiskerHigh": 5.2,
+        "outliers": [
+          14
+        ],
+        "mean": 4.3,
+        "sampleCount": 15
+      }
     }
   }
 }
