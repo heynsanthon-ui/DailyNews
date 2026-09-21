@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T09:47:49.314Z",
-  "edition": "Updated 11:47 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T09:50:23.899Z",
+  "edition": "Updated 11:50 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -192,7 +192,6 @@
       "id": "open",
       "label": "Open",
       "seedRank": 77,
-      "totalTeams": 150,
       "seedRatingAvg": 2323,
       "currentRank": 80,
       "matchPoints": "6",
@@ -258,7 +257,6 @@
       "id": "women",
       "label": "Women",
       "seedRank": 86,
-      "totalTeams": 150,
       "seedRatingAvg": 1895,
       "currentRank": 90,
       "matchPoints": "5",
