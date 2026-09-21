@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-21T09:55:52.023Z",
-  "edition": "Updated 11:55 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T10:01:46.240Z",
+  "edition": "Updated 12:01 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Chess Olympiad - Live!",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-21T11:45:00.000Z"
+        },
         {
           "title": "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-5",
@@ -31,14 +39,6 @@
           "publishedAt": "2026-09-20T16:14:00.000Z"
         },
         {
-          "title": "Chess Olympiad - Live!",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-20T11:45:00.000Z"
-        },
-        {
           "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
           "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
           "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display…",
@@ -52,6 +52,30 @@
       "id": "world",
       "title": "World & Politics",
       "articles": [
+        {
+          "title": "Can the US win the AI cold war with China?",
+          "link": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china?traffic_source=rss",
+          "summary": "US attempts to slow down Chinese progress on AI through economic restrictions could backfire.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T09:50:16.000Z"
+        },
+        {
+          "title": "Mourinho holds up images of ‘two clear red cards’ after Atletico defeat",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mourinho-holds-up-images-of-two-clear-red-cards-after-atletico-defeat?traffic_source=rss",
+          "summary": "Jose Mourinho held up images of ‘two clear red card’ challenges he says cost his team the match against Atletico.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T09:47:49.000Z"
+        },
+        {
+          "title": "Protests in Texas after ICE agent shoots Venezuelan man",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protests-in-texas-after-ice-agent-shoots-venezuelan-man?traffic_source=rss",
+          "summary": "Protesters gathered in the US state of Texas after an ICE agent shot a Venezuelan man during an immigration enforcement",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T09:42:24.000Z"
+        },
         {
           "title": "Three arrested in South Africa over one of nine women's bodies found",
           "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
@@ -67,30 +91,6 @@
           "image": null,
           "source": "Al Jazeera",
           "publishedAt": "2026-09-21T09:08:47.000Z"
-        },
-        {
-          "title": "Aliko Dangote: Refining Nigeria’s oil, helping Africa, and creating wealth",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth?traffic_source=rss",
-          "summary": "The world’s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T09:02:25.000Z"
-        },
-        {
-          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-          "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-21T08:56:27.000Z"
-        },
-        {
-          "title": "Australia’s deaths to outnumber births by 2060s, report says",
-          "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
-          "summary": "Number of Australians aged 85 or older projected to triple by 2065–66, according to government forecast.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T08:53:31.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Clarke: Boks exposed aerial weakness",
+          "link": "https://www.sarugbymag.co.za/clarke-boks-exposed-aerial-weakness/",
+          "summary": "Caleb Clarke admits the All Blacks have struggled to adapt to the new aerial laws and that the Springboks exposed that. The post Clarke: Boks exposed aerial weakness appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2602073-e1789984269178.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T10:01:37.000Z"
+        },
+        {
+          "title": "Bok Test another big step up for Tizzano",
+          "link": "https://www.sarugbymag.co.za/bok-test-another-big-step-tizzano/",
+          "summary": "Wallabies loose forward Carlo Tizzano is eager to challenge himself against “the best team in the world” when Australia and the Springboks clash in Perth on Sunday. The post Bok Test another big step up for Tizzano…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2166134703-e1789983308535.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T09:58:08.000Z"
+        },
         {
           "title": "Tappe: Strong scrum can be nullified",
           "link": "https://www.sarugbymag.co.za/tappe-strong-scrum-can-nullified/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2616729-e1788860734220.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-21T08:58:00.000Z"
-        },
-        {
-          "title": "Saffas Abroad: Du Preez delivers for Bayonne",
-          "link": "https://www.sarugbymag.co.za/saffas-abroad-du-preez-delivers-for-bayonne/",
-          "summary": "Bayonne flyhalf Rob du Preez was among the standout performers as South Africa’s foreign legion impressed in the French Top 14 this past weekend. The post Saffas Abroad: Du Preez delivers for Bayonne appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Rob-du-Preez-Bayonne-edsaintetienne-Instagram.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T08:14:55.000Z"
-        },
-        {
-          "title": "Marcell: Bulls ready to end URC final hoodoo",
-          "link": "https://www.sarugbymag.co.za/marcell-bulls-ready-to-end-urc-final-hoodoo/",
-          "summary": "Marcell Coetzee says the Bulls are determined to turn their URC final heartbreak into motivation as they target a breakthrough title this season. The post Marcell: Bulls ready to end URC final hoodoo appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Marcell-Coetzee-Hanro-Liebenberg-14-Aug-2026-Vodacom-Bulls-e1789642883442.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T07:40:55.000Z"
         }
       ]
     },
