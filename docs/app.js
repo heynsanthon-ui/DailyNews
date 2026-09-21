@@ -12,16 +12,31 @@ function relativeTime(isoDate) {
   return `${days} day${days === 1 ? "" : "s"} ago`;
 }
 
-function renderCard(article) {
+function cell(tag, text, className) {
+  const el = document.createElement(tag);
+  if (text != null) el.textContent = text;
+  if (className) el.className = className;
+  return el;
+}
+
+function numCell(text) {
+  return cell("td", text, "num");
+}
+
+function storyMeta(article) {
+  return [article.source, relativeTime(article.publishedAt)].filter(Boolean).join(" · ");
+}
+
+function renderLead(article) {
   const a = document.createElement("a");
-  a.className = "card";
+  a.className = "story-link story-lead" + (article.image ? "" : " no-image");
   a.href = article.link;
   a.target = "_blank";
   a.rel = "noopener noreferrer";
 
   if (article.image) {
     const img = document.createElement("img");
-    img.className = "card-image";
+    img.className = "story-lead-image";
     img.src = article.image;
     img.alt = "";
     img.loading = "lazy";
@@ -31,59 +46,85 @@ function renderCard(article) {
   }
 
   const body = document.createElement("div");
-  body.className = "card-body";
+  body.appendChild(cell("h3", article.title, "story-lead-headline"));
+  if (article.summary) body.appendChild(cell("p", article.summary, "story-lead-summary"));
+  body.appendChild(cell("div", storyMeta(article), "story-meta"));
+  a.appendChild(body);
 
-  const headline = document.createElement("h3");
-  headline.className = "card-headline";
-  headline.textContent = article.title;
-  body.appendChild(headline);
+  return a;
+}
 
-  if (article.summary) {
-    const summary = document.createElement("p");
-    summary.className = "card-summary";
-    summary.textContent = article.summary;
-    body.appendChild(summary);
+function renderSecondary(article) {
+  const a = document.createElement("a");
+  a.className = "story-link";
+  a.href = article.link;
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+
+  if (article.image) {
+    const img = document.createElement("img");
+    img.className = "story-secondary-image";
+    img.src = article.image;
+    img.alt = "";
+    img.loading = "lazy";
+    img.referrerPolicy = "no-referrer";
+    img.onerror = () => img.remove();
+    a.appendChild(img);
   }
 
-  const meta = document.createElement("div");
-  meta.className = "card-meta";
-  meta.textContent = [article.source, relativeTime(article.publishedAt)].filter(Boolean).join(" · ");
-  body.appendChild(meta);
+  a.appendChild(cell("h4", article.title, "story-secondary-headline"));
+  if (article.summary) a.appendChild(cell("p", article.summary, "story-secondary-summary"));
+  a.appendChild(cell("div", storyMeta(article), "story-meta"));
 
-  a.appendChild(body);
+  return a;
+}
+
+function renderBrief(article) {
+  const a = document.createElement("a");
+  a.className = "story-link story-brief";
+  a.href = article.link;
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+
+  a.appendChild(cell("span", article.title, "story-brief-headline"));
+  a.appendChild(cell("span", storyMeta(article), "story-brief-meta"));
+
   return a;
 }
 
 function renderSection(section) {
   const wrap = document.createElement("section");
   wrap.className = "section";
+  wrap.id = `section-${section.id}`;
 
-  const title = document.createElement("h2");
-  title.className = "section-title";
-  title.textContent = section.title;
-  wrap.appendChild(title);
-
-  const grid = document.createElement("div");
-  grid.className = "card-grid";
+  wrap.appendChild(cell("h2", section.title, "section-title"));
 
   if (section.articles.length === 0) {
-    const empty = document.createElement("p");
-    empty.className = "status";
-    empty.textContent = "No stories right now — check back later.";
-    wrap.appendChild(empty);
-  } else {
-    section.articles.forEach((article) => grid.appendChild(renderCard(article)));
+    wrap.appendChild(cell("p", "No stories right now — check back later.", "status"));
+    return wrap;
+  }
+
+  const [lead, ...rest] = section.articles;
+  const secondary = rest.slice(0, 2);
+  const briefs = rest.slice(2);
+
+  wrap.appendChild(renderLead(lead));
+
+  if (secondary.length > 0) {
+    const grid = document.createElement("div");
+    grid.className = "story-secondary-grid";
+    secondary.forEach((article) => grid.appendChild(renderSecondary(article)));
     wrap.appendChild(grid);
   }
 
-  return wrap;
-}
+  if (briefs.length > 0) {
+    const list = document.createElement("div");
+    list.className = "story-briefs";
+    briefs.forEach((article) => list.appendChild(renderBrief(article)));
+    wrap.appendChild(list);
+  }
 
-function cell(tag, text, className) {
-  const el = document.createElement(tag);
-  if (text != null) el.textContent = text;
-  if (className) el.className = className;
-  return el;
+  return wrap;
 }
 
 function renderOlympiadRound(round) {
@@ -105,7 +146,9 @@ function renderOlympiadRound(round) {
 
   const thead = document.createElement("thead");
   const headRow = document.createElement("tr");
-  ["Bd", "Player", "Rtg", "", "Opponent", "Rtg"].forEach((h) => headRow.appendChild(cell("th", h)));
+  ["Bd", "Player", "Rtg", "", "Opponent", "Rtg"].forEach((h, i) =>
+    headRow.appendChild(cell("th", h, i === 2 || i === 5 ? "num" : undefined))
+  );
   thead.appendChild(headRow);
   table.appendChild(thead);
 
@@ -115,12 +158,12 @@ function renderOlympiadRound(round) {
     .sort((a, b) => a.board - b.board)
     .forEach((b) => {
       const tr = document.createElement("tr");
-      tr.appendChild(cell("td", b.board));
+      tr.appendChild(numCell(b.board));
       tr.appendChild(cell("td", [b.title, b.player].filter(Boolean).join(" ")));
-      tr.appendChild(cell("td", b.rating ?? "—"));
-      tr.appendChild(cell("td", b.result ?? "–", "olympiad-result"));
+      tr.appendChild(numCell(b.rating ?? "—"));
+      tr.appendChild(cell("td", b.result ?? "–", "olympiad-result num"));
       tr.appendChild(cell("td", [b.opponentTitle, b.opponent].filter(Boolean).join(" ")));
-      tr.appendChild(cell("td", b.opponentRating ?? "—"));
+      tr.appendChild(numCell(b.opponentRating ?? "—"));
       tbody.appendChild(tr);
     });
   table.appendChild(tbody);
@@ -142,20 +185,23 @@ function renderStandingsTable(group) {
 
   const thead = document.createElement("thead");
   const headRow = document.createElement("tr");
-  ["Rk", "Team", "W", "D", "L", "Pts", "Seed", "vs Seed"].forEach((h) => headRow.appendChild(cell("th", h)));
+  const numericHeads = new Set(["Rk", "W", "D", "L", "Pts", "Seed", "vs Seed"]);
+  ["Rk", "Team", "W", "D", "L", "Pts", "Seed", "vs Seed"].forEach((h) =>
+    headRow.appendChild(cell("th", h, numericHeads.has(h) ? "num" : undefined))
+  );
   thead.appendChild(headRow);
   table.appendChild(thead);
 
   const tbody = document.createElement("tbody");
   const rowFor = (t) => {
     const tr = document.createElement("tr");
-    tr.appendChild(cell("td", t.rank));
+    tr.appendChild(numCell(t.rank));
     tr.appendChild(cell("td", `${t.team} (${t.fed})`));
-    tr.appendChild(cell("td", t.wins));
-    tr.appendChild(cell("td", t.draws));
-    tr.appendChild(cell("td", t.losses));
-    tr.appendChild(cell("td", t.matchPoints, "olympiad-result"));
-    tr.appendChild(cell("td", t.seedRank ?? "—"));
+    tr.appendChild(numCell(t.wins));
+    tr.appendChild(numCell(t.draws));
+    tr.appendChild(numCell(t.losses));
+    tr.appendChild(cell("td", t.matchPoints, "olympiad-result num"));
+    tr.appendChild(numCell(t.seedRank ?? "—"));
 
     let vsSeedText = "—";
     if (t.seedRank != null) {
@@ -164,7 +210,7 @@ function renderStandingsTable(group) {
       else if (diff < 0) vsSeedText = `▼ ${-diff}`;
       else vsSeedText = "on seed";
     }
-    tr.appendChild(cell("td", vsSeedText, "olympiad-result"));
+    tr.appendChild(cell("td", vsSeedText, "olympiad-result num"));
 
     if (t.fed === "RSA") tr.classList.add("olympiad-sa-row");
     return tr;
@@ -192,7 +238,8 @@ function renderStandingsSection(standings) {
   if (!standings || standings.length === 0) return null;
 
   const wrap = document.createElement("section");
-  wrap.className = "section";
+  wrap.className = "section section-scoreboard";
+  wrap.id = "section-standings";
   wrap.appendChild(cell("h2", "Olympiad Standings", "section-title"));
 
   standings.forEach((group) => {
@@ -237,19 +284,22 @@ function renderPerformanceTeam(team) {
 
     const thead = document.createElement("thead");
     const headRow = document.createElement("tr");
-    ["Bd", "Player", "Rtg", "Score", "Perf.", "+/-"].forEach((h) => headRow.appendChild(cell("th", h)));
+    const numericHeads = new Set(["Bd", "Rtg", "Score", "Perf.", "+/-"]);
+    ["Bd", "Player", "Rtg", "Score", "Perf.", "+/-"].forEach((h) =>
+      headRow.appendChild(cell("th", h, numericHeads.has(h) ? "num" : undefined))
+    );
     thead.appendChild(headRow);
     table.appendChild(thead);
 
     const tbody = document.createElement("tbody");
     team.roster.forEach((p) => {
       const tr = document.createElement("tr");
-      tr.appendChild(cell("td", p.board));
+      tr.appendChild(numCell(p.board));
       tr.appendChild(cell("td", [p.title, p.name].filter(Boolean).join(" ")));
-      tr.appendChild(cell("td", p.rating ?? "—"));
-      tr.appendChild(cell("td", p.points != null && p.games != null ? `${p.points}/${p.games}` : "—"));
-      tr.appendChild(cell("td", p.performanceRating ?? "—"));
-      tr.appendChild(cell("td", formatChange(p.ratingChange), "olympiad-result"));
+      tr.appendChild(numCell(p.rating ?? "—"));
+      tr.appendChild(numCell(p.points != null && p.games != null ? `${p.points}/${p.games}` : "—"));
+      tr.appendChild(numCell(p.performanceRating ?? "—"));
+      tr.appendChild(cell("td", formatChange(p.ratingChange), "olympiad-result num"));
       tbody.appendChild(tr);
     });
     table.appendChild(tbody);
@@ -264,7 +314,8 @@ function renderPerformanceSection(performance) {
   if (!performance || performance.length === 0) return null;
 
   const wrap = document.createElement("section");
-  wrap.className = "section";
+  wrap.className = "section section-scoreboard";
+  wrap.id = "section-performance";
   wrap.appendChild(cell("h2", "Performance vs Expectations", "section-title"));
 
   performance.forEach((team) => {
@@ -279,7 +330,8 @@ function renderOlympiadSection(teams) {
   if (!teams || teams.length === 0) return null;
 
   const wrap = document.createElement("section");
-  wrap.className = "section";
+  wrap.className = "section section-scoreboard";
+  wrap.id = "section-olympiad";
   wrap.appendChild(cell("h2", "SA at the Olympiad", "section-title"));
 
   teams.forEach((team) => {
@@ -289,6 +341,16 @@ function renderOlympiadSection(teams) {
   });
 
   return wrap;
+}
+
+function renderJumpNav(sections) {
+  const nav = document.getElementById("jump-nav");
+  sections.forEach((section) => {
+    const link = document.createElement("a");
+    link.href = `#section-${section.id}`;
+    link.textContent = section.title;
+    nav.appendChild(link);
+  });
 }
 
 async function main() {
@@ -311,6 +373,7 @@ async function main() {
 
     labelEl.textContent = data.edition || "";
     status.remove();
+    renderJumpNav(data.sections);
     data.sections.forEach((section) => {
       paper.appendChild(renderSection(section));
       if (section.id === "chess") {

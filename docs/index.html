@@ -17,13 +17,14 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" />
 
-<link rel="stylesheet" href="style.css?v=ba88d690" />
+<link rel="stylesheet" href="style.css?v=1" />
 </head>
 <body>
 <header class="masthead">
   <div class="masthead-inner">
+    <p class="masthead-kicker">Personal Edition</p>
     <h1 class="masthead-title">The Daily Edition</h1>
     <div class="masthead-meta">
       <span id="edition-date"></span>
@@ -33,7 +34,9 @@
   </div>
 </header>
 
-<main id="paper">
+<nav id="jump-nav" class="jump-nav" aria-label="Sections"></nav>
+
+<main id="paper" class="paper">
   <p id="status" class="status">Fetching this morning's edition…</p>
 </main>
 
@@ -41,6 +44,6 @@
   <p>Assembled automatically each morning and topped up through the day.</p>
 </footer>
 
-<script src="app.js?v=7a9b722b"></script>
+<script src="app.js?v=1"></script>
 </body>
 </html>
