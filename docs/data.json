@@ -1,10 +1,190 @@
 {
-  "generatedAt": null,
-  "edition": "Awaiting first build",
+  "generatedAt": "2026-09-21T09:06:35.416Z",
+  "edition": "Updated 11:06 SAST — Mon, 21 Sept",
   "sections": [
-    { "id": "chess", "title": "Chess", "articles": [] },
-    { "id": "world", "title": "World & Politics", "articles": [] },
-    { "id": "rugby", "title": "Springboks", "articles": [] },
-    { "id": "cricket", "title": "Proteas", "articles": [] }
+    {
+      "id": "chess",
+      "title": "Chess",
+      "articles": [
+        {
+          "title": "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-5",
+          "summary": "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2½–1½, with Frederik Svane (pictured)…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-21T08:10:00.000Z"
+        },
+        {
+          "title": "Move to bring chess to 5,000 refugee children",
+          "link": "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
+          "summary": "Movement in Refuge is seeking further support to expand its chess programme for Rohingya children in Cox's Bazar, Bangladesh, after an initial FIDE-backed project reached young refugees in August. The charity hopes to…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-20T19:30:00.000Z"
+        },
+        {
+          "title": "Top Seeds Tumble As Germany Beats U.S. While Poland Defeats Indian Women",
+          "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
+          "summary": "GM Frederik Svane's win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-20T16:14:00.000Z"
+        },
+        {
+          "title": "Chess Olympiad - Live!",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-20T11:45:00.000Z"
+        },
+        {
+          "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
+          "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
+          "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-20T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World & Politics",
+      "articles": [
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T08:56:27.000Z"
+        },
+        {
+          "title": "Three South Korean military officers wounded in explosion near border",
+          "link": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
+          "summary": "South Korean officers injured in DMZ explosion, possibly caused by a landmine, according to local media reports.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T07:45:12.000Z"
+        },
+        {
+          "title": "Seven Ethiopian rebel groups form new alliance",
+          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+          "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/d7511890-b585-11f1-b2a3-f56f2cdf83e9.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T07:35:16.000Z"
+        },
+        {
+          "title": "Afghanistan says three killed in Pakistani air attacks",
+          "link": "https://www.aljazeera.com/news/2026/9/21/afghanistan-says-three-killed-in-pakistani-air-attacks?traffic_source=rss",
+          "summary": "Three members of one family killed in air raid on house in Kunar province, Afghan Taliban deputy spokesperson says.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T07:30:10.000Z"
+        },
+        {
+          "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
+          "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffb/live/0f622390-b55a-11f1-9ca7-a18634eccc53.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T07:20:27.000Z"
+        }
+      ]
+    },
+    {
+      "id": "rugby",
+      "title": "Springboks",
+      "articles": [
+        {
+          "title": "All Blacks: Ardie Savea set for lengthy stint on the sidelines as injury update provided",
+          "link": "https://www.planetrugby.com/news/all-blacks-ardie-savea-set-for-lengthy-stint-on-the-sidelines-as-injury-update-provided",
+          "summary": "New Zealand Rugby have provided an update on the full extent of All Blacks captain Ardie Savea's shoulder injury sustained during the recent Greatest Rivalry series against the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/21095406/Ardie-Savea-and-Luke-Jacobson-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-21T09:00:46.000Z"
+        },
+        {
+          "title": "Tindall: Boks got the game unlocked",
+          "link": "https://www.sarugbymag.co.za/tindall-boks-got-game-unlocked/",
+          "summary": "Mike Tindall reckons the Springboks have “cracked the code” by being attritional and expansive, yet the ex-England star wonders if South Africa could adapt to a scrum law change. The post Tindall: Boks got the game…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2616729-e1788860734220.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T08:58:00.000Z"
+        },
+        {
+          "title": "Saffas Abroad: Du Preez delivers for Bayonne",
+          "link": "https://www.sarugbymag.co.za/saffas-abroad-du-preez-delivers-for-bayonne/",
+          "summary": "Bayonne flyhalf Rob du Preez was among the standout performers as South Africa’s foreign legion impressed in the French Top 14 this past weekend. The post Saffas Abroad: Du Preez delivers for Bayonne appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Rob-du-Preez-Bayonne-edsaintetienne-Instagram.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T08:14:55.000Z"
+        },
+        {
+          "title": "Marcell: Bulls ready to end URC final hoodoo",
+          "link": "https://www.sarugbymag.co.za/marcell-bulls-ready-to-end-urc-final-hoodoo/",
+          "summary": "Marcell Coetzee says the Bulls are determined to turn their URC final heartbreak into motivation as they target a breakthrough title this season. The post Marcell: Bulls ready to end URC final hoodoo appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Marcell-Coetzee-Hanro-Liebenberg-14-Aug-2026-Vodacom-Bulls-e1789642883442.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T07:40:55.000Z"
+        },
+        {
+          "title": "URC ‘upgrades’ TMO support in South Africa as experimental law gets World Rugby’s greenlight",
+          "link": "https://www.planetrugby.com/news/urc-upgrades-tmo-support-in-south-africa-as-experimental-law-gets-world-rugbys-greenlight",
+          "summary": "The URC referee boss says that the competition have been permitted by World Rugby to continue an 'experimental law'.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/20144941/URC-referees-during-a-TMO-Review-and-an-inset-of-a-scrum-between-the-Stormers-and-Lions-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-21T07:13:15.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cricket",
+      "title": "Proteas",
+      "articles": [
+        {
+          "title": "Edwards called up to Australia's ODI squad for South Africa series",
+          "link": "https://www.cricinfo.com/ci/content/story/1555223.html?ex_cid=OTC-RSS",
+          "summary": "Billy Stanlake has been ruled out with a side strain and Spencer Johnson is also returning home",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422800/422839.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-21T07:48:19.000Z"
+        },
+        {
+          "title": "Hlubi, Nini seal 5-0 win for South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1555029.html?ex_cid=OTC-RSS",
+          "summary": "Zimbabwe were 102 for 2 chasing 165 but couldn't see the game through with Hlubi and Nini finishing with three wickets each",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/401900/401977.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-19T15:40:31.000Z"
+        },
+        {
+          "title": "Ngidi out with hamstring injury; Mokoena called up for Australia ODIs",
+          "link": "https://www.cricinfo.com/ci/content/story/1554808.html?ex_cid=OTC-RSS",
+          "summary": "South Africa are also without Kagiso Rabada and Ottneil Baartman for the three-ODI series against Australia",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/408900/408920.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-18T07:26:33.000Z"
+        },
+        {
+          "title": "Miane Smit's maiden T20I century puts South Africa 4-0 up",
+          "link": "https://www.cricinfo.com/ci/content/story/1554723.html?ex_cid=OTC-RSS",
+          "summary": "South Africa posted 205 for 4, their third-highest T20I total, which proved 80 too many for Zimbabwe",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422600/422651.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-17T15:23:35.000Z"
+        },
+        {
+          "title": "Labuschagne to captain Queensland in One-Day Cup before South Africa Tests",
+          "link": "https://www.cricinfo.com/ci/content/story/1554652.html?ex_cid=OTC-RSS",
+          "summary": "With his Test place in the balance, Labuschagne will captain Queensland against Victoria at Allan Border Field on Saturday",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/412900/412981.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-17T11:18:08.000Z"
+        }
+      ]
+    }
   ]
 }
