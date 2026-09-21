@@ -185,7 +185,7 @@ async function buildSeeding() {
     olympiadTeams.map(async (team) => {
       try {
         const data = await fetchSeeding(team);
-        console.log(`  ok   seeding/${team.id} (seed ${data.seedRank} of ${data.totalTeams})`);
+        console.log(`  ok   seeding/${team.id} (seed ${data.seedRank})`);
         return { id: team.id, ...data };
       } catch (err) {
         console.warn(`  FAIL seeding/${team.id} — ${err.message}`);
@@ -207,7 +207,6 @@ function buildPerformance(olympiad, standings, seeding) {
         id: team.id,
         label: team.event,
         seedRank: seed?.seedRank ?? null,
-        totalTeams: seed?.totalTeams ?? null,
         seedRatingAvg: seed?.ratingAvg ?? null,
         currentRank: stand?.sa?.rank ?? null,
         matchPoints: stand?.sa?.matchPoints ?? null,

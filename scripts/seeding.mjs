@@ -20,9 +20,13 @@ function findSeedingTable(root) {
   return node;
 }
 
-// Returns South Africa's pre-tournament seed (rank by average rating) and
-// the total number of teams, so it can be compared with their current
-// standing to see whether they're over- or under-performing expectations.
+// Returns South Africa's pre-tournament seed (rank by average rating), so it
+// can be compared with their current standing to see whether they're over-
+// or under-performing expectations.
+//
+// Note: chess-results.com's seeding page caps out at 150 rows regardless of
+// how many teams actually registered, so we deliberately don't report a
+// "total teams" count here — it would understate the real field size.
 export async function fetchSeeding({ tnr, fed }) {
   const url = `https://s1.chess-results.com/tnr${tnr}.aspx?lan=1&art=32&turdet=YES&flag=30`;
   const res = await Promise.race([
@@ -33,12 +37,11 @@ export async function fetchSeeding({ tnr, fed }) {
   const html = await res.text();
   const root = parse(html);
   const table = findSeedingTable(root);
-  if (!table) return { seedRank: null, totalTeams: null, ratingAvg: null };
+  if (!table) return { seedRank: null, ratingAvg: null };
 
   const rows = directChildren(table, "TR");
   let seedRank = null;
   let ratingAvg = null;
-  let totalTeams = 0;
 
   for (const row of rows) {
     if (directChildren(row, "TH").length > 0) continue;
@@ -46,12 +49,12 @@ export async function fetchSeeding({ tnr, fed }) {
     if (tds.length < 5) continue;
     const rank = Number.parseInt(cellText(tds[0]), 10);
     if (!Number.isFinite(rank)) continue;
-    totalTeams = Math.max(totalTeams, rank);
     if (cellText(tds[2]) === fed) {
       seedRank = rank;
       ratingAvg = Number.parseInt(cellText(tds[4]), 10);
+      break;
     }
   }
 
-  return { seedRank, totalTeams, ratingAvg: Number.isFinite(ratingAvg) ? ratingAvg : null };
+  return { seedRank, ratingAvg: Number.isFinite(ratingAvg) ? ratingAvg : null };
 }

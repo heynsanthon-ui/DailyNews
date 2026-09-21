@@ -212,7 +212,7 @@ function renderPerformanceTeam(team) {
   }
 
   const summaryBits = [
-    team.seedRank != null ? `Seeded ${team.seedRank}${team.totalTeams ? ` of ${team.totalTeams}` : ""}` : null,
+    team.seedRank != null ? `Seeded ${team.seedRank}` : null,
     team.currentRank != null ? `now ${team.currentRank}` : null,
     verdict,
   ].filter(Boolean);
