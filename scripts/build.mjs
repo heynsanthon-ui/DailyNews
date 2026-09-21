@@ -78,7 +78,12 @@ function matchesKeywords(item, keywords) {
 
 async function fetchFeed(feed) {
   try {
-    const parsed = await parser.parseURL(feed.url);
+    const parsed = await Promise.race([
+      parser.parseURL(feed.url),
+      new Promise((_, reject) =>
+        setTimeout(() => reject(new Error("hard timeout after 20s")), 20000)
+      ),
+    ]);
     const items = (parsed.items || []).filter((item) => matchesKeywords(item, feed.keywords));
     console.log(`  ok   ${feed.url} (${items.length} items)`);
     return items.map((item) => ({
@@ -156,7 +161,9 @@ async function main() {
   console.log(`\nWrote ${OUT_FILE} — ${total} articles across ${builtSections.length} sections.`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
