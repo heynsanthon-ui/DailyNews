@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T10:01:46.240Z",
-  "edition": "Updated 12:01 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T10:02:21.927Z",
+  "edition": "Updated 12:02 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,28 +53,12 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Can the US win the AI cold war with China?",
-          "link": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china?traffic_source=rss",
-          "summary": "US attempts to slow down Chinese progress on AI through economic restrictions could backfire.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T09:50:16.000Z"
-        },
-        {
-          "title": "Mourinho holds up images of ‘two clear red cards’ after Atletico defeat",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mourinho-holds-up-images-of-two-clear-red-cards-after-atletico-defeat?traffic_source=rss",
-          "summary": "Jose Mourinho held up images of ‘two clear red card’ challenges he says cost his team the match against Atletico.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T09:47:49.000Z"
-        },
-        {
-          "title": "Protests in Texas after ICE agent shoots Venezuelan man",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protests-in-texas-after-ice-agent-shoots-venezuelan-man?traffic_source=rss",
-          "summary": "Protesters gathered in the US state of Texas after an ICE agent shot a Venezuelan man during an immigration enforcement",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T09:42:24.000Z"
+          "title": "Inside a camp for Yemeni refugees who have fled to Djibouti",
+          "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+          "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60f/live/da3d9d40-b59d-11f1-abe6-535e7b14de4c.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T10:00:31.000Z"
         },
         {
           "title": "Three arrested in South Africa over one of nine women's bodies found",
@@ -91,6 +75,22 @@
           "image": null,
           "source": "Al Jazeera",
           "publishedAt": "2026-09-21T09:08:47.000Z"
+        },
+        {
+          "title": "Aliko Dangote: Refining Nigeria’s oil, helping Africa, and creating wealth",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth?traffic_source=rss",
+          "summary": "The world’s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T09:02:25.000Z"
+        },
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93f5/live/3af71800-b571-11f1-9877-152b2e8b38a0.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T08:56:27.000Z"
         }
       ]
     },
