@@ -79,6 +79,72 @@ function renderSection(section) {
   return wrap;
 }
 
+function cell(tag, text, className) {
+  const el = document.createElement(tag);
+  if (text != null) el.textContent = text;
+  if (className) el.className = className;
+  return el;
+}
+
+function renderOlympiadRound(round) {
+  const wrap = document.createElement("div");
+  wrap.className = "olympiad-round";
+
+  const scoreText =
+    round.saScore != null && round.opponentScore != null
+      ? `SA ${round.saScore} – ${round.opponentScore}`
+      : "In progress";
+  wrap.appendChild(
+    cell("div", `Round ${round.round} · vs ${round.opponent} · ${scoreText}`, "olympiad-round-header")
+  );
+
+  const tableWrap = document.createElement("div");
+  tableWrap.className = "olympiad-table-wrap";
+  const table = document.createElement("table");
+  table.className = "olympiad-table";
+
+  const thead = document.createElement("thead");
+  const headRow = document.createElement("tr");
+  ["Bd", "Player", "Rtg", "", "Opponent", "Rtg"].forEach((h) => headRow.appendChild(cell("th", h)));
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+  round.boards
+    .slice()
+    .sort((a, b) => a.board - b.board)
+    .forEach((b) => {
+      const tr = document.createElement("tr");
+      tr.appendChild(cell("td", b.board));
+      tr.appendChild(cell("td", [b.title, b.player].filter(Boolean).join(" ")));
+      tr.appendChild(cell("td", b.rating ?? "—"));
+      tr.appendChild(cell("td", b.result ?? "–", "olympiad-result"));
+      tr.appendChild(cell("td", [b.opponentTitle, b.opponent].filter(Boolean).join(" ")));
+      tr.appendChild(cell("td", b.opponentRating ?? "—"));
+      tbody.appendChild(tr);
+    });
+  table.appendChild(tbody);
+  tableWrap.appendChild(table);
+  wrap.appendChild(tableWrap);
+  return wrap;
+}
+
+function renderOlympiadSection(teams) {
+  if (!teams || teams.length === 0) return null;
+
+  const wrap = document.createElement("section");
+  wrap.className = "section";
+  wrap.appendChild(cell("h2", "SA at the Olympiad", "section-title"));
+
+  teams.forEach((team) => {
+    if (!team.rounds || team.rounds.length === 0) return;
+    wrap.appendChild(cell("h3", team.label, "olympiad-team-title"));
+    team.rounds.forEach((round) => wrap.appendChild(renderOlympiadRound(round)));
+  });
+
+  return wrap;
+}
+
 async function main() {
   const paper = document.getElementById("paper");
   const status = document.getElementById("status");
@@ -99,7 +165,13 @@ async function main() {
 
     labelEl.textContent = data.edition || "";
     status.remove();
-    data.sections.forEach((section) => paper.appendChild(renderSection(section)));
+    data.sections.forEach((section) => {
+      paper.appendChild(renderSection(section));
+      if (section.id === "chess") {
+        const olympiad = renderOlympiadSection(data.olympiad);
+        if (olympiad) paper.appendChild(olympiad);
+      }
+    });
   } catch (err) {
     status.textContent = "Couldn't load today's edition. Pull to refresh in a bit.";
     console.error(err);

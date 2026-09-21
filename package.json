@@ -8,6 +8,7 @@
     "build": "node scripts/build.mjs"
   },
   "dependencies": {
+    "node-html-parser": "^6.1.13",
     "rss-parser": "^3.13.0"
   }
 }

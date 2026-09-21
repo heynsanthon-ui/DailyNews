@@ -3,6 +3,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import Parser from "rss-parser";
 import { sections, ARTICLES_PER_SECTION } from "./feeds.mjs";
+import { olympiadTeams } from "./olympiad-config.mjs";
+import { fetchOlympiadTeam } from "./olympiad.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.join(__dirname, "..", "docs");
@@ -144,14 +146,34 @@ function editionLabel(now) {
   return `Updated ${timeStr} SAST — ${dateStr}`;
 }
 
+async function buildOlympiad() {
+  const results = await Promise.all(
+    olympiadTeams.map(async (team) => {
+      try {
+        const data = await fetchOlympiadTeam(team);
+        console.log(`  ok   olympiad/${team.id} (${data.rounds.length} rounds)`);
+        return data;
+      } catch (err) {
+        console.warn(`  FAIL olympiad/${team.id} — ${err.message}`);
+        return null;
+      }
+    })
+  );
+  return results.filter(Boolean);
+}
+
 async function main() {
   const now = new Date();
-  const builtSections = await Promise.all(sections.map(buildSection));
+  const [builtSections, olympiad] = await Promise.all([
+    Promise.all(sections.map(buildSection)),
+    buildOlympiad(),
+  ]);
 
   const data = {
     generatedAt: now.toISOString(),
     edition: editionLabel(now),
     sections: builtSections,
+    olympiad,
   };
 
   await mkdir(OUT_DIR, { recursive: true });
