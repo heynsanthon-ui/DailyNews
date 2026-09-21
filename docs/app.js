@@ -142,7 +142,7 @@ function renderStandingsTable(group) {
 
   const thead = document.createElement("thead");
   const headRow = document.createElement("tr");
-  ["Rk", "Team", "W", "D", "L", "Pts"].forEach((h) => headRow.appendChild(cell("th", h)));
+  ["Rk", "Team", "W", "D", "L", "Pts", "Seed", "vs Seed"].forEach((h) => headRow.appendChild(cell("th", h)));
   thead.appendChild(headRow);
   table.appendChild(thead);
 
@@ -155,6 +155,17 @@ function renderStandingsTable(group) {
     tr.appendChild(cell("td", t.draws));
     tr.appendChild(cell("td", t.losses));
     tr.appendChild(cell("td", t.matchPoints, "olympiad-result"));
+    tr.appendChild(cell("td", t.seedRank ?? "—"));
+
+    let vsSeedText = "—";
+    if (t.seedRank != null) {
+      const diff = t.seedRank - t.rank; // positive = better than seed
+      if (diff > 0) vsSeedText = `▲ ${diff}`;
+      else if (diff < 0) vsSeedText = `▼ ${-diff}`;
+      else vsSeedText = "on seed";
+    }
+    tr.appendChild(cell("td", vsSeedText, "olympiad-result"));
+
     if (t.fed === "RSA") tr.classList.add("olympiad-sa-row");
     return tr;
   };
@@ -164,7 +175,7 @@ function renderStandingsTable(group) {
   if (group.sa && !group.top10.some((t) => t.fed === "RSA")) {
     const spacer = document.createElement("tr");
     const spacerCell = cell("td", "⋯");
-    spacerCell.colSpan = 6;
+    spacerCell.colSpan = 8;
     spacerCell.className = "olympiad-spacer";
     spacer.appendChild(spacerCell);
     tbody.appendChild(spacer);

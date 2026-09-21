@@ -197,6 +197,23 @@ async function buildSeeding() {
   return results.filter(Boolean);
 }
 
+function withSeedRank(team, seedList) {
+  const seed = seedList.find((s) => s.fed === team.fed);
+  return { ...team, seedRank: seed?.rank ?? null };
+}
+
+function enrichStandingsWithSeed(standings, seeding) {
+  return standings.map((group) => {
+    const seed = seeding.find((s) => s.id === group.id);
+    const seedList = seed?.all ?? [];
+    return {
+      ...group,
+      top10: group.top10.map((t) => withSeedRank(t, seedList)),
+      sa: group.sa ? withSeedRank(group.sa, seedList) : null,
+    };
+  });
+}
+
 function buildPerformance(olympiad, standings, seeding) {
   return olympiadTeams
     .map((team) => {
@@ -226,6 +243,7 @@ async function main() {
     buildSeeding(),
   ]);
   const performance = buildPerformance(olympiad, standings, seeding);
+  const enrichedStandings = enrichStandingsWithSeed(standings, seeding);
 
   const data = {
     generatedAt: now.toISOString(),
@@ -233,7 +251,7 @@ async function main() {
     sections: builtSections,
     performance,
     olympiad,
-    standings,
+    standings: enrichedStandings,
   };
 
   await mkdir(OUT_DIR, { recursive: true });
