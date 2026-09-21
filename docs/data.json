@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-21T13:01:21.367Z",
-  "edition": "Updated 15:01 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T16:01:16.502Z",
+  "edition": "Updated 18:01 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Play Chess Against NFL Star Mack Hollins",
+          "link": "https://www.chess.com/news/view/play-chess-against-nfl-star-mack-hollins",
+          "summary": "Think you can take down an NFL receiver at chess? Now&rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ.…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-21T16:00:00.000Z"
+        },
+        {
+          "title": "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30",
+          "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
+          "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-21T15:00:09.000Z"
+        },
         {
           "title": "Chess Olympiad - Live!",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-20T19:30:00.000Z"
-        },
-        {
-          "title": "Top Seeds Tumble As Germany Beats U.S. While Poland Defeats Indian Women",
-          "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
-          "summary": "GM Frederik Svane's win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-20T16:14:00.000Z"
-        },
-        {
-          "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
-          "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
-          "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-20T07:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Israeli attacks on Gaza kill three, including a child",
-          "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-          "summary": "Israeli attacks on Palestinians continue in Gaza despite a 'ceasefire' signed in October.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T12:32:43.000Z"
-        },
-        {
-          "title": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
-          "link": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
-          "summary": "At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T12:31:10.000Z"
-        },
-        {
-          "title": "Three arrested in South Africa over one of nine women's body finds",
-          "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-          "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-21T12:22:00.000Z"
-        },
-        {
-          "title": "British Museum bans visitors from photographing Bayeux Tapestry",
-          "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
-          "summary": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b6/live/4a7eb910-b5ab-11f1-a430-4d16ee157c41.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-21T12:21:40.000Z"
-        },
-        {
-          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
           "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-          "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+          "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-21T12:21:02.000Z"
+          "publishedAt": "2026-09-21T15:58:53.000Z"
+        },
+        {
+          "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+          "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc4/live/2a039960-b5d0-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T15:55:59.000Z"
+        },
+        {
+          "title": "Xhaka under investigation over Covid-19 certificate",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b39a/live/f4f040d0-b5b5-11f1-8d1d-a985658d9d3a.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T15:24:51.000Z"
+        },
+        {
+          "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+          "link": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss",
+          "summary": "Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T15:21:52.000Z"
+        },
+        {
+          "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+          "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
+          "summary": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T15:18:12.000Z"
         }
       ]
     },
@@ -99,9 +99,33 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Springboks legend warns of dangers of scrum law which ‘needs to go out of rugby’",
+          "link": "https://www.planetrugby.com/news/springboks-legend-warns-of-dangers-of-scrum-law-which-needs-to-go-out-of-rugby",
+          "summary": "Steven Kitshoff is the latest ex-international to voice his dissatisfaction with World Rugby's 'brake foot' law and wants it to be removed from the game.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/21155427/Springboks-v-All-Blacks-and-Steven-Kitshoff-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-21T15:02:15.000Z"
+        },
+        {
+          "title": "A given Sunday made for Manie",
+          "link": "https://www.sarugbymag.co.za/given-sunday-made-manie/",
+          "summary": "This week’s clash Down Under presents Rassie Erasmus with the ideal opportunity to showcase the Springboks’ attacking edge with Manie Libbok at flyhalf. The post A given Sunday made for Manie appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2618615-e1789998859316.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T14:56:02.000Z"
+        },
+        {
+          "title": "Lions brimming with pride",
+          "link": "https://www.sarugbymag.co.za/lions-brimming-pride/",
+          "summary": "Lions head coach Ivan van Rooyen has named a 59-man squad for the Joburg-based outfit's 2026-27 campaign. The post Lions brimming with pride appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2552142-e1790001677649.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-21T14:44:12.000Z"
+        },
+        {
           "title": "Kitsie names Doogz’s deputy",
           "link": "https://www.sarugbymag.co.za/kitsie-names-doogzs-deputy/",
-          "summary": "Former Springbok prop Steven Kitshoff has picked the player he wants to replace Damian de Allende at inside centre against the Wallabies in Perth on Sunday. The post Kitsie names Doogz’s deputy appeared first on SA…",
+          "summary": "Former Springbok prop Steven Kitshoff has picked the player he wants to replace Damian de Allende at inside centre for Sunday's one-off Test against the Wallabies in Perth. The post Kitsie names Doogz’s deputy appeared…",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2249040614-e1789993789630.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-21T12:36:26.000Z"
@@ -113,30 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2472828-e1789990431836.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-21T11:43:51.000Z"
-        },
-        {
-          "title": "‘Don’t want to take old Boks to World Cup’",
-          "link": "https://www.sarugbymag.co.za/dont-want-take-old-boks-world-cup/",
-          "summary": "Steven Kitshoff, Steve Hansen and Ewen McKenzie agree that honest conversations need to be had between Rassie Erasmus and his ageing Springbok world champions. The post ‘Don’t want to take old Boks to World Cup’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2617221-e1789988349881.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T11:20:48.000Z"
-        },
-        {
-          "title": "Kitshoff calls for scrum law change",
-          "link": "https://www.sarugbymag.co.za/kitsie-calls-scrum-law-change/",
-          "summary": "Double World Cup-winning former Springbok prop Steven Kitshoff has urged World Rugby to rethink its brake-foot law. The post Kitshoff calls for scrum law change appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Brake-foot-penalty-e1789990873697.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T11:15:28.000Z"
-        },
-        {
-          "title": "All Blacks: Dave Rennie puts 10 internationals on NPC duty after returning from Greatest Rivalry tour",
-          "link": "https://www.planetrugby.com/news/all-blacks-dave-rennie-puts-10-internationals-on-npc-duty-after-returning-from-greatest-rivalry-tour",
-          "summary": "New Zealand Rugby have confirmed that 10 All Blacks, who were in action during the Rugby's Greatest Rivalry tour of South Africa, will return to NPC duty this week.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/21114041/Simon-Parker-and-Dave-Rennie-image-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-21T10:57:03.000Z"
         }
       ]
     },
@@ -329,8 +329,8 @@
           "date": "2026/09/21",
           "opponent": "Italy (ITA)",
           "opponentFed": "ITA",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "2",
+          "opponentScore": "2",
           "boards": [
             {
               "board": 1,
@@ -340,8 +340,8 @@
               "opponent": "Lodici, Lorenzo",
               "opponentTitle": "GM",
               "opponentRating": 2573,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 2,
@@ -351,8 +351,8 @@
               "opponent": "Moroni, Luca Jr",
               "opponentTitle": "GM",
               "opponentRating": 2556,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 3,
@@ -362,8 +362,8 @@
               "opponent": "Sonis, Francesco",
               "opponentTitle": "GM",
               "opponentRating": 2539,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 4,
@@ -373,8 +373,8 @@
               "opponent": "Di Benedetto, Edoardo",
               "opponentTitle": "IM",
               "opponentRating": 2473,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             }
           ]
         },
@@ -716,7 +716,7 @@
           "date": "2026/09/21",
           "opponent": "Lesotho (LES)",
           "opponentFed": "LES",
-          "saScore": "0",
+          "saScore": "4",
           "opponentScore": "0",
           "boards": [
             {
@@ -727,8 +727,8 @@
               "opponent": "Ntsielo, Bonolo",
               "opponentTitle": "WCM",
               "opponentRating": 1803,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 2,
@@ -738,8 +738,8 @@
               "opponent": "Boitumelo, Sethabathaba",
               "opponentTitle": null,
               "opponentRating": 1615,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 3,
@@ -749,8 +749,8 @@
               "opponent": "Lieketseng, Ngatane",
               "opponentTitle": "WFM",
               "opponentRating": 1578,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 4,
@@ -760,8 +760,8 @@
               "opponent": "Pontso, Makhebesela",
               "opponentTitle": null,
               "opponentRating": 1519,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             }
           ]
         },
@@ -1357,10 +1357,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-21T13:01:21.422Z",
+    "generatedAt": "2026-09-21T16:01:16.571Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 59m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
