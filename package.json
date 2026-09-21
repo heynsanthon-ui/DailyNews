@@ -1,0 +1,13 @@
+{
+  "name": "dailynews",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal daily news edition, built each morning and topped up during the day.",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

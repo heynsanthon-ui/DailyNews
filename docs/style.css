@@ -1,0 +1,172 @@
+:root {
+  --paper: #f4efe4;
+  --paper-card: #fffdf8;
+  --ink: #1c1a15;
+  --ink-soft: #4a4638;
+  --rule: #cfc6ad;
+  --accent: #8a1f11;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #17150f;
+    --paper-card: #221f17;
+    --ink: #f2ede0;
+    --ink-soft: #c9c2ac;
+    --rule: #47422f;
+    --accent: #e2795f;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  -webkit-font-smoothing: antialiased;
+  padding-bottom: 3rem;
+}
+
+a {
+  color: inherit;
+}
+
+.masthead {
+  border-bottom: 3px double var(--ink);
+  padding: 1.4rem 1rem 1rem;
+}
+
+.masthead-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.masthead-title {
+  font-family: "Playfair Display", "Times New Roman", serif;
+  font-weight: 900;
+  font-size: clamp(2rem, 6vw, 3.2rem);
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+.masthead-meta {
+  margin-top: 0.4rem;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.masthead-meta .dot {
+  margin: 0 0.5em;
+}
+
+#paper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.status {
+  text-align: center;
+  color: var(--ink-soft);
+  padding: 3rem 1rem;
+  font-style: italic;
+}
+
+.section {
+  margin-top: 2.4rem;
+}
+
+.section-title {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 0 0 0.9rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--ink);
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.4rem;
+}
+
+.card {
+  display: block;
+  text-decoration: none;
+  background: var(--paper-card);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover,
+.card:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+.card-image {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: var(--rule);
+  display: block;
+}
+
+.card-body {
+  padding: 0.9rem 1rem 1.1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-headline {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  line-height: 1.28;
+  margin: 0 0 0.5rem;
+  color: var(--ink);
+}
+
+.card-summary {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  margin: 0 0 0.8rem;
+  flex: 1;
+}
+
+.card-meta {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+
+.colophon {
+  max-width: 1100px;
+  margin: 3rem auto 0;
+  padding: 1rem;
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--rule);
+}
+
+@media (max-width: 480px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "generatedAt": null,
+  "edition": "Awaiting first build",
+  "sections": [
+    { "id": "chess", "title": "Chess", "articles": [] },
+    { "id": "world", "title": "World & Politics", "articles": [] },
+    { "id": "rugby", "title": "Springboks", "articles": [] },
+    { "id": "cricket", "title": "Proteas", "articles": [] }
+  ]
+}
