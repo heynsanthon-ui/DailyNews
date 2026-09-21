@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T09:28:10.008Z",
-  "edition": "Updated 11:28 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T09:38:09.736Z",
+  "edition": "Updated 11:38 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -847,6 +847,242 @@
           ]
         }
       ]
+    }
+  ],
+  "standings": [
+    {
+      "id": "open",
+      "label": "Open",
+      "asOfRound": 5,
+      "top10": [
+        {
+          "rank": 1,
+          "fed": "UZB",
+          "team": "Uzbekistan",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 2,
+          "fed": "IND",
+          "team": "India",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 3,
+          "fed": "GER",
+          "team": "Germany",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 4,
+          "fed": "CHN",
+          "team": "China",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 5,
+          "fed": "FRA",
+          "team": "France",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 6,
+          "fed": "IRI",
+          "team": "Iran",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 7,
+          "fed": "ARM",
+          "team": "Armenia",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 8,
+          "fed": "ENG",
+          "team": "England",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 9,
+          "fed": "ROU",
+          "team": "Romania",
+          "games": 5,
+          "wins": 3,
+          "draws": 2,
+          "losses": 0,
+          "matchPoints": "8"
+        },
+        {
+          "rank": 10,
+          "fed": "ESP",
+          "team": "Spain",
+          "games": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "8"
+        }
+      ],
+      "sa": {
+        "rank": 80,
+        "fed": "RSA",
+        "team": "South Africa",
+        "games": 5,
+        "wins": 3,
+        "draws": 0,
+        "losses": 2,
+        "matchPoints": "6"
+      }
+    },
+    {
+      "id": "women",
+      "label": "Women",
+      "asOfRound": 5,
+      "top10": [
+        {
+          "rank": 1,
+          "fed": "POL",
+          "team": "Poland",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 2,
+          "fed": "CHN",
+          "team": "China",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 3,
+          "fed": "KAZ",
+          "team": "Kazakhstan",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 4,
+          "fed": "AZE",
+          "team": "Azerbaijan",
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "matchPoints": "10"
+        },
+        {
+          "rank": 5,
+          "fed": "USA",
+          "team": "United States of America",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 6,
+          "fed": "UZB",
+          "team": "Uzbekistan",
+          "games": 5,
+          "wins": 4,
+          "draws": 1,
+          "losses": 0,
+          "matchPoints": "9"
+        },
+        {
+          "rank": 7,
+          "fed": "BUL",
+          "team": "Bulgaria",
+          "games": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "8"
+        },
+        {
+          "rank": 8,
+          "fed": "IND",
+          "team": "India",
+          "games": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "8"
+        },
+        {
+          "rank": 9,
+          "fed": "GER",
+          "team": "Germany",
+          "games": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "8"
+        },
+        {
+          "rank": 10,
+          "fed": "SRB",
+          "team": "Serbia",
+          "games": 5,
+          "wins": 4,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "8"
+        }
+      ],
+      "sa": {
+        "rank": 90,
+        "fed": "RSA",
+        "team": "South Africa",
+        "games": 5,
+        "wins": 2,
+        "draws": 1,
+        "losses": 2,
+        "matchPoints": "5"
+      }
     }
   ]
 }
