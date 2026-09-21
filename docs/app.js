@@ -193,6 +193,77 @@ function renderStandingsSection(standings) {
   return wrap;
 }
 
+function formatChange(n) {
+  if (n == null) return "—";
+  const sign = n > 0 ? "+" : "";
+  return `${sign}${n}`;
+}
+
+function renderPerformanceTeam(team) {
+  const wrap = document.createElement("div");
+  wrap.className = "olympiad-round";
+
+  let verdict = "";
+  if (team.seedRank != null && team.currentRank != null) {
+    const diff = team.seedRank - team.currentRank; // positive = better than seed
+    if (diff > 0) verdict = `${diff} place${diff === 1 ? "" : "s"} better than seed`;
+    else if (diff < 0) verdict = `${-diff} place${-diff === 1 ? "" : "s"} below seed`;
+    else verdict = "right on seed";
+  }
+
+  const summaryBits = [
+    team.seedRank != null ? `Seeded ${team.seedRank}${team.totalTeams ? ` of ${team.totalTeams}` : ""}` : null,
+    team.currentRank != null ? `now ${team.currentRank}` : null,
+    verdict,
+  ].filter(Boolean);
+  wrap.appendChild(cell("div", summaryBits.join(" · "), "olympiad-round-header"));
+
+  if (team.roster && team.roster.length > 0) {
+    const tableWrap = document.createElement("div");
+    tableWrap.className = "olympiad-table-wrap";
+    const table = document.createElement("table");
+    table.className = "olympiad-table";
+
+    const thead = document.createElement("thead");
+    const headRow = document.createElement("tr");
+    ["Bd", "Player", "Rtg", "Score", "Perf.", "+/-"].forEach((h) => headRow.appendChild(cell("th", h)));
+    thead.appendChild(headRow);
+    table.appendChild(thead);
+
+    const tbody = document.createElement("tbody");
+    team.roster.forEach((p) => {
+      const tr = document.createElement("tr");
+      tr.appendChild(cell("td", p.board));
+      tr.appendChild(cell("td", [p.title, p.name].filter(Boolean).join(" ")));
+      tr.appendChild(cell("td", p.rating ?? "—"));
+      tr.appendChild(cell("td", p.points != null && p.games != null ? `${p.points}/${p.games}` : "—"));
+      tr.appendChild(cell("td", p.performanceRating ?? "—"));
+      tr.appendChild(cell("td", formatChange(p.ratingChange), "olympiad-result"));
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    tableWrap.appendChild(table);
+    wrap.appendChild(tableWrap);
+  }
+
+  return wrap;
+}
+
+function renderPerformanceSection(performance) {
+  if (!performance || performance.length === 0) return null;
+
+  const wrap = document.createElement("section");
+  wrap.className = "section";
+  wrap.appendChild(cell("h2", "Performance vs Expectations", "section-title"));
+
+  performance.forEach((team) => {
+    wrap.appendChild(cell("h3", team.label, "olympiad-team-title"));
+    wrap.appendChild(renderPerformanceTeam(team));
+  });
+
+  return wrap;
+}
+
 function renderOlympiadSection(teams) {
   if (!teams || teams.length === 0) return null;
 
@@ -236,6 +307,8 @@ async function main() {
         if (olympiad) paper.appendChild(olympiad);
         const standings = renderStandingsSection(data.standings);
         if (standings) paper.appendChild(standings);
+        const performance = renderPerformanceSection(data.performance);
+        if (performance) paper.appendChild(performance);
       }
     });
   } catch (err) {

@@ -46,8 +46,69 @@ function findBoardPairingsTable(root) {
   return node;
 }
 
-function parseBoardPairings(html) {
-  const root = parse(html);
+function findTeamCompositionTable(root) {
+  const headers = root.querySelectorAll("h2");
+  const target = headers.find((h) => h.text.trim().startsWith("Team composition"));
+  if (!target) return null;
+  let node = target.nextElementSibling;
+  while (node && (!node.tagName || node.tagName.toUpperCase() !== "TABLE")) {
+    node = node.nextElementSibling;
+  }
+  return node;
+}
+
+function parseNumber(text) {
+  const n = Number.parseFloat((text || "").replace(",", "."));
+  return Number.isFinite(n) ? n : null;
+}
+
+// Per-player performance vs expectations: rating faced (RtgAvg), performance
+// rating (Rp), and the rating points gained/lost this event (rtg+/-).
+function parseRoster(root) {
+  const table = findTeamCompositionTable(root);
+  if (!table) return [];
+
+  const roster = [];
+  for (const row of directChildren(table, "TR")) {
+    const ths = directChildren(row, "TH");
+    if (ths.length > 0) continue;
+
+    const tds = directChildren(row, "TD");
+    if (tds.length < 12) continue;
+
+    const board = Number.parseInt(cellText(tds[0]), 10);
+    if (!Number.isFinite(board)) continue;
+
+    const nameLink = tds[2].querySelector("a");
+    const name = nameLink ? nameLink.text.trim() : cellText(tds[2]);
+    if (!name) continue;
+
+    const title = cellText(tds[1]);
+    const rating = Number.parseInt(cellText(tds[3]), 10);
+    const roundsCount = tds.length - 12;
+    const points = parseNumber(cellText(tds[6 + roundsCount]));
+    const games = Number.parseInt(cellText(tds[7 + roundsCount]), 10);
+    const avgOpponentRating = Number.parseInt(cellText(tds[8 + roundsCount]), 10);
+    const performanceRating = Number.parseInt(cellText(tds[9 + roundsCount]), 10);
+    const ratingChange = parseNumber(cellText(tds[11 + roundsCount]));
+
+    roster.push({
+      board,
+      name,
+      title: TITLES.has(title) ? title : null,
+      rating: Number.isFinite(rating) ? rating : null,
+      games: Number.isFinite(games) ? games : null,
+      points,
+      avgOpponentRating: Number.isFinite(avgOpponentRating) ? avgOpponentRating : null,
+      performanceRating: Number.isFinite(performanceRating) ? performanceRating : null,
+      ratingChange,
+    });
+  }
+
+  return roster.sort((a, b) => a.board - b.board);
+}
+
+function parseBoardPairings(root) {
   const table = findBoardPairingsTable(root);
   if (!table) return [];
 
@@ -146,6 +207,8 @@ export async function fetchOlympiadTeam(team) {
   ]);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const html = await res.text();
-  const rounds = parseBoardPairings(html);
-  return { id: team.id, label: team.label, rounds };
+  const root = parse(html);
+  const rounds = parseBoardPairings(root);
+  const roster = parseRoster(root);
+  return { id: team.id, label: team.label, rounds, roster };
 }

@@ -6,6 +6,7 @@ import { sections, ARTICLES_PER_SECTION } from "./feeds.mjs";
 import { olympiadTeams } from "./olympiad-config.mjs";
 import { fetchOlympiadTeam } from "./olympiad.mjs";
 import { fetchStandings } from "./standings.mjs";
+import { fetchSeeding } from "./seeding.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.join(__dirname, "..", "docs");
@@ -179,18 +180,58 @@ async function buildStandings() {
   return results.filter(Boolean);
 }
 
+async function buildSeeding() {
+  const results = await Promise.all(
+    olympiadTeams.map(async (team) => {
+      try {
+        const data = await fetchSeeding(team);
+        console.log(`  ok   seeding/${team.id} (seed ${data.seedRank} of ${data.totalTeams})`);
+        return { id: team.id, ...data };
+      } catch (err) {
+        console.warn(`  FAIL seeding/${team.id} — ${err.message}`);
+        return null;
+      }
+    })
+  );
+  return results.filter(Boolean);
+}
+
+function buildPerformance(olympiad, standings, seeding) {
+  return olympiadTeams
+    .map((team) => {
+      const oly = olympiad.find((o) => o.id === team.id);
+      const stand = standings.find((s) => s.id === team.id);
+      const seed = seeding.find((s) => s.id === team.id);
+      if (!oly && !stand && !seed) return null;
+      return {
+        id: team.id,
+        label: team.event,
+        seedRank: seed?.seedRank ?? null,
+        totalTeams: seed?.totalTeams ?? null,
+        seedRatingAvg: seed?.ratingAvg ?? null,
+        currentRank: stand?.sa?.rank ?? null,
+        matchPoints: stand?.sa?.matchPoints ?? null,
+        roster: oly?.roster ?? [],
+      };
+    })
+    .filter(Boolean);
+}
+
 async function main() {
   const now = new Date();
-  const [builtSections, olympiad, standings] = await Promise.all([
+  const [builtSections, olympiad, standings, seeding] = await Promise.all([
     Promise.all(sections.map(buildSection)),
     buildOlympiad(),
     buildStandings(),
+    buildSeeding(),
   ]);
+  const performance = buildPerformance(olympiad, standings, seeding);
 
   const data = {
     generatedAt: now.toISOString(),
     edition: editionLabel(now),
     sections: builtSections,
+    performance,
     olympiad,
     standings,
   };
