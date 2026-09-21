@@ -578,6 +578,93 @@ a {
   }
 }
 
+/* ---------- Box-and-whisker (outage duration) ---------- */
+
+.boxplot-wrap {
+  margin-top: 1.6rem;
+}
+
+.outage-subhead-small {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  text-align: center;
+  margin: 1.4rem 0 0.9rem;
+}
+
+.boxplot-track {
+  position: relative;
+  height: 40px;
+  margin: 0 0.6rem;
+}
+
+.boxplot-whisker {
+  position: absolute;
+  top: 50%;
+  height: 1px;
+  background: var(--ink-soft);
+  transform: translateY(-50%);
+}
+
+.boxplot-cap {
+  position: absolute;
+  top: calc(50% - 7px);
+  width: 1px;
+  height: 14px;
+  background: var(--ink-soft);
+}
+
+.boxplot-box {
+  position: absolute;
+  top: calc(50% - 14px);
+  height: 28px;
+  background: color-mix(in srgb, var(--accent) 16%, var(--paper-card));
+  border: 1px solid var(--accent);
+  border-radius: 2px;
+}
+
+.boxplot-median {
+  position: absolute;
+  top: calc(50% - 14px);
+  height: 28px;
+  width: 2px;
+  background: var(--accent);
+}
+
+.boxplot-outlier {
+  position: absolute;
+  top: calc(50% - 4px);
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--warn);
+  border: 1px solid var(--paper-card);
+  transform: translateX(-50%);
+}
+
+.boxplot-axis {
+  position: relative;
+  height: 16px;
+  margin: 0.3rem 0.6rem 0;
+  font-size: 0.66rem;
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+.boxplot-axis span {
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.boxplot-axis span:first-child {
+  transform: translateX(0);
+}
+
+.boxplot-axis span:last-child {
+  transform: translateX(-100%);
+}
+
 /* ---------- Footer ---------- */
 
 .colophon {

@@ -99,6 +99,59 @@ function buildMaintenanceRegistry(now, forecast) {
   return registry;
 }
 
+function round1(n) {
+  return Math.round(n * 10) / 10;
+}
+
+function median(sortedValues) {
+  const n = sortedValues.length;
+  const mid = Math.floor(n / 2);
+  return n % 2 === 0 ? (sortedValues[mid - 1] + sortedValues[mid]) / 2 : sortedValues[mid];
+}
+
+// Standard Tukey box-and-whisker: quartiles from sorted halves, whiskers
+// extend to the most extreme values still within 1.5x IQR of the box,
+// anything beyond that is reported as an outlier rather than stretching
+// the whisker to it.
+function boxPlotStats(values) {
+  const sorted = [...values].sort((a, b) => a - b);
+  const n = sorted.length;
+  const mid = Math.floor(n / 2);
+  const lowerHalf = sorted.slice(0, mid);
+  const upperHalf = n % 2 === 0 ? sorted.slice(mid) : sorted.slice(mid + 1);
+
+  const q1 = median(lowerHalf);
+  const q3 = median(upperHalf);
+  const iqr = q3 - q1;
+  const lowFence = q1 - 1.5 * iqr;
+  const highFence = q3 + 1.5 * iqr;
+
+  const nonOutliers = sorted.filter((v) => v >= lowFence && v <= highFence);
+  const outliers = sorted.filter((v) => v < lowFence || v > highFence);
+  const mean = sorted.reduce((a, b) => a + b, 0) / n;
+
+  return {
+    min: round1(sorted[0]),
+    max: round1(sorted[n - 1]),
+    q1: round1(q1),
+    median: round1(median(sorted)),
+    q3: round1(q3),
+    whiskerLow: round1(nonOutliers[0]),
+    whiskerHigh: round1(nonOutliers[nonOutliers.length - 1]),
+    outliers: outliers.map(round1),
+    mean: round1(mean),
+    sampleCount: n,
+  };
+}
+
+function buildDurationStats() {
+  // Individual outage durations (hours) over the last 6 months. One severe
+  // storm-related outage sits well outside the typical range on purpose,
+  // so the box plot has a real outlier to show.
+  const samples = [2.1, 2.4, 2.8, 3.0, 3.2, 3.3, 3.5, 3.6, 3.8, 3.9, 4.1, 4.3, 4.6, 5.2, 14.0];
+  return boxPlotStats(samples);
+}
+
 function buildMonthlyHistory(now) {
   // Last 6 months of unplanned-failure vs scheduled-maintenance hours.
   const sample = [5, 2, 8, 3, 6, 4]; // unplanned hours, oldest -> newest
@@ -120,6 +173,7 @@ export async function fetchOutageData({ suburb, municipality, source }) {
   const now = new Date();
   const forecast = buildForecast(now);
   const status = deriveStatus(now, forecast[0]);
+  const durationStats = buildDurationStats();
 
   return {
     suburb,
@@ -131,8 +185,9 @@ export async function fetchOutageData({ suburb, municipality, source }) {
     maintenance: buildMaintenanceRegistry(now, forecast),
     reliability: {
       daysSinceLastUnplannedOutage: 12,
-      avgOutageDurationHours: 3.5,
+      avgOutageDurationHours: durationStats.mean,
       monthly: buildMonthlyHistory(now),
+      durationStats,
     },
   };
 }

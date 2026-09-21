@@ -395,6 +395,73 @@ function renderOutageChart(monthly) {
   return chart;
 }
 
+function renderBoxPlot(stats) {
+  const wrap = document.createElement("div");
+  wrap.className = "boxplot-wrap";
+  wrap.appendChild(cell("div", "Outage Duration Distribution — Last 6 Months", "outage-subhead-small"));
+
+  const axisMax = Math.max(stats.whiskerHigh, ...stats.outliers) * 1.15;
+  const pct = (v) => (v / axisMax) * 100;
+
+  const track = document.createElement("div");
+  track.className = "boxplot-track";
+
+  const whisker = cell("div", null, "boxplot-whisker");
+  whisker.style.left = `${pct(stats.whiskerLow)}%`;
+  whisker.style.width = `${pct(stats.whiskerHigh) - pct(stats.whiskerLow)}%`;
+  track.appendChild(whisker);
+
+  [stats.whiskerLow, stats.whiskerHigh].forEach((v) => {
+    const capEl = cell("div", null, "boxplot-cap");
+    capEl.style.left = `${pct(v)}%`;
+    track.appendChild(capEl);
+  });
+
+  const box = cell("div", null, "boxplot-box");
+  box.style.left = `${pct(stats.q1)}%`;
+  box.style.width = `${pct(stats.q3) - pct(stats.q1)}%`;
+  box.title = `IQR ${stats.q1}h – ${stats.q3}h`;
+  track.appendChild(box);
+
+  const medianLine = cell("div", null, "boxplot-median");
+  medianLine.style.left = `${pct(stats.median)}%`;
+  medianLine.title = `Median ${stats.median}h`;
+  track.appendChild(medianLine);
+
+  stats.outliers.forEach((v) => {
+    const dot = cell("div", null, "boxplot-outlier");
+    dot.style.left = `${pct(v)}%`;
+    dot.title = `Outlier: ${v}h`;
+    track.appendChild(dot);
+  });
+
+  wrap.appendChild(track);
+
+  const axis = document.createElement("div");
+  axis.className = "boxplot-axis";
+  const zeroLabel = cell("span", "0h");
+  zeroLabel.style.left = "0%";
+  const maxLabel = cell("span", `${Math.round(axisMax)}h`);
+  maxLabel.style.left = "100%";
+  axis.appendChild(zeroLabel);
+  axis.appendChild(maxLabel);
+  wrap.appendChild(axis);
+
+  const outlierText =
+    stats.outliers.length > 0
+      ? ` · ${stats.outliers.length} outlier${stats.outliers.length === 1 ? "" : "s"} (${stats.outliers.join("h, ")}h)`
+      : "";
+  wrap.appendChild(
+    cell(
+      "p",
+      `Median ${stats.median}h · typical range ${stats.q1}h–${stats.q3}h${outlierText}`,
+      "outage-footnote"
+    )
+  );
+
+  return wrap;
+}
+
 function renderOutageSection(outage) {
   if (!outage) return null;
 
@@ -453,6 +520,11 @@ function renderOutageSection(outage) {
   stats.appendChild(avgStat);
   wrap.appendChild(stats);
 
+  if (outage.reliability.durationStats) {
+    wrap.appendChild(renderBoxPlot(outage.reliability.durationStats));
+  }
+
+  wrap.appendChild(cell("div", "Monthly Downtime — Unplanned vs Scheduled", "outage-subhead-small"));
   wrap.appendChild(renderOutageChart(outage.reliability.monthly));
   const legend = document.createElement("div");
   legend.className = "outage-legend";
