@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T09:06:35.416Z",
-  "edition": "Updated 11:06 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T09:28:10.008Z",
+  "edition": "Updated 11:28 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,6 +53,30 @@
       "title": "World & Politics",
       "articles": [
         {
+          "title": "Three arrested in South Africa over one of nine women's bodies found",
+          "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+          "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-21T09:18:19.000Z"
+        },
+        {
+          "title": "Michael Carrick demands Manchester United response after ‘pathetic’ jibes",
+          "link": "https://www.aljazeera.com/sports/2026/9/21/michael-carrick-demands-manchester-united-response-after-pathetic-jibes?traffic_source=rss",
+          "summary": "With only one win so far this season, United have equalled their lowest points total in season after five matches.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T09:08:47.000Z"
+        },
+        {
+          "title": "Aliko Dangote: Refining Nigeria’s oil, helping Africa, and creating wealth",
+          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth?traffic_source=rss",
+          "summary": "The world’s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T09:02:25.000Z"
+        },
+        {
           "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
           "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
           "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
@@ -61,36 +85,12 @@
           "publishedAt": "2026-09-21T08:56:27.000Z"
         },
         {
-          "title": "Three South Korean military officers wounded in explosion near border",
-          "link": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
-          "summary": "South Korean officers injured in DMZ explosion, possibly caused by a landmine, according to local media reports.",
+          "title": "Australia’s deaths to outnumber births by 2060s, report says",
+          "link": "https://www.aljazeera.com/economy/2026/9/21/australias-deaths-to-outnumber-births-by-2060s-report-says?traffic_source=rss",
+          "summary": "Number of Australians aged 85 or older projected to triple by 2065–66, according to government forecast.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T07:45:12.000Z"
-        },
-        {
-          "title": "Seven Ethiopian rebel groups form new alliance",
-          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-          "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/d7511890-b585-11f1-b2a3-f56f2cdf83e9.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-21T07:35:16.000Z"
-        },
-        {
-          "title": "Afghanistan says three killed in Pakistani air attacks",
-          "link": "https://www.aljazeera.com/news/2026/9/21/afghanistan-says-three-killed-in-pakistani-air-attacks?traffic_source=rss",
-          "summary": "Three members of one family killed in air raid on house in Kunar province, Afghan Taliban deputy spokesperson says.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T07:30:10.000Z"
-        },
-        {
-          "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-          "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffb/live/0f622390-b55a-11f1-9ca7-a18634eccc53.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-21T07:20:27.000Z"
+          "publishedAt": "2026-09-21T08:53:31.000Z"
         }
       ]
     },
@@ -183,6 +183,668 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/412900/412981.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-17T11:18:08.000Z"
+        }
+      ]
+    }
+  ],
+  "olympiad": [
+    {
+      "id": "open",
+      "label": "South Africa — Open",
+      "rounds": [
+        {
+          "round": 6,
+          "date": "2026/09/21",
+          "opponent": "Italy (ITA)",
+          "opponentFed": "ITA",
+          "saScore": "0",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Lodici, Lorenzo",
+              "opponentTitle": "GM",
+              "opponentRating": 2573,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 2,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Moroni, Luca Jr",
+              "opponentTitle": "GM",
+              "opponentRating": 2556,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 3,
+              "player": "Mnyasta, Charlton",
+              "title": null,
+              "rating": 2236,
+              "opponent": "Sonis, Francesco",
+              "opponentTitle": "GM",
+              "opponentRating": 2539,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 4,
+              "player": "Dinham, James",
+              "title": null,
+              "rating": 2124,
+              "opponent": "Di Benedetto, Edoardo",
+              "opponentTitle": "IM",
+              "opponentRating": 2473,
+              "result": null,
+              "opponentResult": null
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "date": "2026/09/20",
+          "opponent": "Zimbabwe (ZIM)",
+          "opponentFed": "ZIM",
+          "saScore": "3",
+          "opponentScore": "1",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Mwadzura, Roy",
+              "opponentTitle": "FM",
+              "opponentRating": 2211,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 2,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Jele, Tapiwa",
+              "opponentTitle": null,
+              "opponentRating": 2204,
+              "result": "½",
+              "opponentResult": "½"
+            },
+            {
+              "board": 3,
+              "player": "Mnyasta, Charlton",
+              "title": null,
+              "rating": 2236,
+              "opponent": "Mushore, Emarald Takudzwa",
+              "opponentTitle": null,
+              "opponentRating": 2139,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 4,
+              "player": "Dinham, James",
+              "title": null,
+              "rating": 2124,
+              "opponent": "Mapuranga, Vitalis",
+              "opponentTitle": null,
+              "opponentRating": 2058,
+              "result": "½",
+              "opponentResult": "½"
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "date": "2026/09/19",
+          "opponent": "Sweden (SWE)",
+          "opponentFed": "SWE",
+          "saScore": "1",
+          "opponentScore": "3",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Grandelius, Nils",
+              "opponentTitle": "GM",
+              "opponentRating": 2603,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 2,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Seo, Jung Min",
+              "opponentTitle": "IM",
+              "opponentRating": 2503,
+              "result": "½",
+              "opponentResult": "½"
+            },
+            {
+              "board": 3,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Blomqvist, Erik",
+              "opponentTitle": "GM",
+              "opponentRating": 2482,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 4,
+              "player": "Mnyasta, Charlton",
+              "title": null,
+              "rating": 2236,
+              "opponent": "Sorensen, Hampus",
+              "opponentTitle": "IM",
+              "opponentRating": 2428,
+              "result": "½",
+              "opponentResult": "½"
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "date": "2026/09/18",
+          "opponent": "Cote d’Ivoire (CIV)",
+          "opponentFed": "CIV",
+          "saScore": "4",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "De Gondo, Simplice Armel",
+              "opponentTitle": "FM",
+              "opponentRating": 2071,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 2,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Manan, Yoboue Hermann",
+              "opponentTitle": "CM",
+              "opponentRating": 2061,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 3,
+              "player": "Mnyasta, Charlton",
+              "title": null,
+              "rating": 2236,
+              "opponent": "Tanoe, Yao Aubin Maximilien",
+              "opponentTitle": null,
+              "opponentRating": 2002,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 4,
+              "player": "Dinham, James",
+              "title": null,
+              "rating": 2124,
+              "opponent": "Nean, Franck Anderson",
+              "opponentTitle": "CM",
+              "opponentRating": 1993,
+              "result": "1",
+              "opponentResult": "0"
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "date": "2026/09/17",
+          "opponent": "Austria (AUT)",
+          "opponentFed": "AUT",
+          "saScore": "0",
+          "opponentScore": "4",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Alekseenko, Kirill",
+              "opponentTitle": "GM",
+              "opponentRating": 2656,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 2,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Dotzer, Lukas",
+              "opponentTitle": "IM",
+              "opponentRating": 2472,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 3,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Peyrer, Konstantin",
+              "opponentTitle": "IM",
+              "opponentRating": 2485,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 4,
+              "player": "Mnyasta, Charlton",
+              "title": null,
+              "rating": 2236,
+              "opponent": "Baidetskyi, Valentin",
+              "opponentTitle": "GM",
+              "opponentRating": 2511,
+              "result": "0",
+              "opponentResult": "1"
+            }
+          ]
+        },
+        {
+          "round": 1,
+          "date": "2026/09/16",
+          "opponent": "Democratic Republic of the Congo (COD)",
+          "opponentFed": "COD",
+          "saScore": "4",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "De Billoez, Yves",
+              "opponentTitle": null,
+              "opponentRating": 1988,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 2,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Kabamwanishi, Mashala",
+              "opponentTitle": "FM",
+              "opponentRating": 1940,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 3,
+              "player": "Mnyasta, Charlton",
+              "title": null,
+              "rating": 2236,
+              "opponent": "Makuwa, Mbayo Gaetan",
+              "opponentTitle": null,
+              "opponentRating": 1804,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 4,
+              "player": "Dinham, James",
+              "title": null,
+              "rating": 2124,
+              "opponent": "Kanda, Josue",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": "1",
+              "opponentResult": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "label": "South Africa — Women",
+      "rounds": [
+        {
+          "round": 6,
+          "date": "2026/09/21",
+          "opponent": "Lesotho (LES)",
+          "opponentFed": "LES",
+          "saScore": "0",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Ntsielo, Bonolo",
+              "opponentTitle": "WCM",
+              "opponentRating": 1803,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 2,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Boitumelo, Sethabathaba",
+              "opponentTitle": null,
+              "opponentRating": 1615,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 3,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Lieketseng, Ngatane",
+              "opponentTitle": "WFM",
+              "opponentRating": 1578,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 4,
+              "player": "Masango, Sizakele",
+              "title": null,
+              "rating": 1880,
+              "opponent": "Pontso, Makhebesela",
+              "opponentTitle": null,
+              "opponentRating": 1519,
+              "result": null,
+              "opponentResult": null
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "date": "2026/09/20",
+          "opponent": "Cyprus (CYP)",
+          "opponentFed": "CYP",
+          "saScore": "2",
+          "opponentScore": "2",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Paunescu, Aida",
+              "opponentTitle": "WCM",
+              "opponentRating": 1691,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 2,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Sarkisian, Aikaterina",
+              "opponentTitle": null,
+              "opponentRating": 1612,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 3,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Sokolova, Victoria",
+              "opponentTitle": "WCM",
+              "opponentRating": 1711,
+              "result": "½",
+              "opponentResult": "½"
+            },
+            {
+              "board": 4,
+              "player": "Masango, Sizakele",
+              "title": null,
+              "rating": 1880,
+              "opponent": "Sokolova, Larisa",
+              "opponentTitle": "WCM",
+              "opponentRating": 1690,
+              "result": "½",
+              "opponentResult": "½"
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "date": "2026/09/19",
+          "opponent": "Belgium (BEL)",
+          "opponentFed": "BEL",
+          "saScore": "1½",
+          "opponentScore": "2½",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Goossens, Hanne",
+              "opponentTitle": "WIM",
+              "opponentRating": 2248,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 2,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Vanduyfhuys, Daria",
+              "opponentTitle": "WFM",
+              "opponentRating": 2123,
+              "result": "½",
+              "opponentResult": "½"
+            },
+            {
+              "board": 3,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Lascar, Radoslawa",
+              "opponentTitle": null,
+              "opponentRating": 1975,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 4,
+              "player": "Masango, Sizakele",
+              "title": null,
+              "rating": 1880,
+              "opponent": "Dierckens, Sarah",
+              "opponentTitle": null,
+              "opponentRating": 1923,
+              "result": "1",
+              "opponentResult": "0"
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "date": "2026/09/18",
+          "opponent": "Ethiopia (ETH)",
+          "opponentFed": "ETH",
+          "saScore": "2½",
+          "opponentScore": "1½",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Bantiwalu, Aster Melake",
+              "opponentTitle": null,
+              "opponentRating": 1684,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 2,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Negi, Sina Tadesse",
+              "opponentTitle": null,
+              "opponentRating": 1447,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 3,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Ayele, Hana Mulugeta",
+              "opponentTitle": null,
+              "opponentRating": 1615,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 4,
+              "player": "Masango, Sizakele",
+              "title": null,
+              "rating": 1880,
+              "opponent": "Melebo, Netsanet Lukas",
+              "opponentTitle": null,
+              "opponentRating": 1617,
+              "result": "½",
+              "opponentResult": "½"
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "date": "2026/09/17",
+          "opponent": "Peru (PER)",
+          "opponentFed": "PER",
+          "saScore": "1",
+          "opponentScore": "3",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Cori T., Deysi",
+              "opponentTitle": "IM",
+              "opponentRating": 2316,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 2,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Jimenez Salas, Maria Teresa",
+              "opponentTitle": "WIM",
+              "opponentRating": 2184,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 3,
+              "player": "Klaasen, Robyn Julian",
+              "title": null,
+              "rating": 1839,
+              "opponent": "Contreras Huaman, Fiorella",
+              "opponentTitle": "FM",
+              "opponentRating": 2168,
+              "result": "0",
+              "opponentResult": "1"
+            },
+            {
+              "board": 4,
+              "player": "Masango, Sizakele",
+              "title": null,
+              "rating": 1880,
+              "opponent": "Zarate Oyague, Flor De Maria",
+              "opponentTitle": null,
+              "opponentRating": 2019,
+              "result": "1",
+              "opponentResult": "0"
+            }
+          ]
+        },
+        {
+          "round": 1,
+          "date": "2026/09/16",
+          "opponent": "Comoros Islands (COM)",
+          "opponentFed": "COM",
+          "saScore": "4",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Isma, Ismaila Djailane",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 2,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Fahima, Ali Mohamed Mohamed",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 3,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Bambaouma, Maissane",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": "1",
+              "opponentResult": "0"
+            },
+            {
+              "board": 4,
+              "player": "Klaasen, Robyn Julian",
+              "title": null,
+              "rating": 1839,
+              "opponent": "Ahmed, Houmairaou",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": "1",
+              "opponentResult": "0"
+            }
+          ]
         }
       ]
     }
