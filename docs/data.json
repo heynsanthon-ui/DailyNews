@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T10:57:06.141Z",
-  "edition": "Updated 12:57 SAST — Mon, 21 Sept",
+  "generatedAt": "2026-09-21T13:01:21.367Z",
+  "edition": "Updated 15:01 SAST — Mon, 21 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Three arrested in South Africa over one of nine women's bodies found",
+          "title": "Israeli attacks on Gaza kill three, including a child",
+          "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
+          "summary": "Israeli attacks on Palestinians continue in Gaza despite a 'ceasefire' signed in October.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T12:32:43.000Z"
+        },
+        {
+          "title": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
+          "link": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
+          "summary": "At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-21T12:31:10.000Z"
+        },
+        {
+          "title": "Three arrested in South Africa over one of nine women's body finds",
           "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
           "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-21T10:35:01.000Z"
+          "publishedAt": "2026-09-21T12:22:00.000Z"
         },
         {
-          "title": "Seven Ethiopian rebel groups form new alliance",
-          "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-          "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb9c/live/d7511890-b585-11f1-b2a3-f56f2cdf83e9.jpg",
+          "title": "British Museum bans visitors from photographing Bayeux Tapestry",
+          "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
+          "summary": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b6/live/4a7eb910-b5ab-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-21T10:29:34.000Z"
+          "publishedAt": "2026-09-21T12:21:40.000Z"
         },
         {
-          "title": "Mystery object spotted hovering over Tehran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-          "summary": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T10:10:14.000Z"
-        },
-        {
-          "title": "A simple guide to the Yemen conflict",
-          "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
-          "summary": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-21T10:01:30.000Z"
-        },
-        {
-          "title": "Frank Gardner: Inside a camp for Yemeni refugees who have fled to Djibouti",
-          "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-          "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60f/live/da3d9d40-b59d-11f1-abe6-535e7b14de4c.jpg",
+          "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b6/live/7001c260-b5a9-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-21T10:00:31.000Z"
+          "publishedAt": "2026-09-21T12:21:02.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Springboks safe at No 1",
-          "link": "https://www.sarugbymag.co.za/springboks-safe-no-1/",
-          "summary": "The Springboks can't relinquish their world No 1 ranking against the Wallabies in Perth, but they can't gain anything either. The post Springboks safe at No 1 appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Springboks-anthem-Baltimore-Michael-Franken-Photography-e1789985140684.jpg",
+          "title": "Kitsie names Doogz’s deputy",
+          "link": "https://www.sarugbymag.co.za/kitsie-names-doogzs-deputy/",
+          "summary": "Former Springbok prop Steven Kitshoff has picked the player he wants to replace Damian de Allende at inside centre against the Wallabies in Perth on Sunday. The post Kitsie names Doogz’s deputy appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2249040614-e1789993789630.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T10:06:42.000Z"
+          "publishedAt": "2026-09-21T12:36:26.000Z"
         },
         {
-          "title": "Clarke: Boks exposed aerial weakness",
-          "link": "https://www.sarugbymag.co.za/clarke-boks-exposed-aerial-weakness/",
-          "summary": "Caleb Clarke admits the All Blacks have struggled to adapt to the new aerial laws and that the Springboks exposed that. The post Clarke: Boks exposed aerial weakness appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2602073-e1789984269178.jpg",
+          "title": "Lions draw a line under Pead saga",
+          "link": "https://www.sarugbymag.co.za/lions-draw-line-pead-saga/",
+          "summary": "Haashim Pead’s stint with the Lions is over and the scrumhalf is free to continue his career elsewhere. The post Lions draw a line under Pead saga appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2472828-e1789990431836.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T10:01:37.000Z"
+          "publishedAt": "2026-09-21T11:43:51.000Z"
         },
         {
-          "title": "Bok Test another big step up for Tizzano",
-          "link": "https://www.sarugbymag.co.za/bok-test-another-big-step-tizzano/",
-          "summary": "Loose forward Carlo Tizzano is eager to challenge himself against “the best team in the world” when the Wallabies and Springboks clash in Perth on Sunday. The post Bok Test another big step up for Tizzano appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2166134703-e1789983308535.jpg",
+          "title": "‘Don’t want to take old Boks to World Cup’",
+          "link": "https://www.sarugbymag.co.za/dont-want-take-old-boks-world-cup/",
+          "summary": "Steven Kitshoff, Steve Hansen and Ewen McKenzie agree that honest conversations need to be had between Rassie Erasmus and his ageing Springbok world champions. The post ‘Don’t want to take old Boks to World Cup’…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2617221-e1789988349881.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T09:58:08.000Z"
+          "publishedAt": "2026-09-21T11:20:48.000Z"
         },
         {
-          "title": "Tappe: Strong scrum can be nullified",
-          "link": "https://www.sarugbymag.co.za/tappe-strong-scrum-can-nullified/",
-          "summary": "URC head of match officials Tappe Henning has questioned World Rugby’s decision to remove the scrum option from a free kick. The post Tappe: Strong scrum can be nullified appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/05/Bulls-Munster-scrum-March-2026-Sydney-Seshibedi-e1780132433478.jpg",
+          "title": "Kitshoff calls for scrum law change",
+          "link": "https://www.sarugbymag.co.za/kitsie-calls-scrum-law-change/",
+          "summary": "Double World Cup-winning former Springbok prop Steven Kitshoff has urged World Rugby to rethink its brake-foot law. The post Kitshoff calls for scrum law change appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Brake-foot-penalty-e1789990873697.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-21T09:46:54.000Z"
+          "publishedAt": "2026-09-21T11:15:28.000Z"
         },
         {
-          "title": "All Blacks: Ardie Savea set for lengthy stint on the sidelines as injury update provided",
-          "link": "https://www.planetrugby.com/news/all-blacks-ardie-savea-set-for-lengthy-stint-on-the-sidelines-as-injury-update-provided",
-          "summary": "New Zealand Rugby have provided an update on the full extent of All Blacks captain Ardie Savea's shoulder injury sustained during the recent Greatest Rivalry series against the Springboks.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/21095406/Ardie-Savea-and-Luke-Jacobson-image-120x120.jpg",
+          "title": "All Blacks: Dave Rennie puts 10 internationals on NPC duty after returning from Greatest Rivalry tour",
+          "link": "https://www.planetrugby.com/news/all-blacks-dave-rennie-puts-10-internationals-on-npc-duty-after-returning-from-greatest-rivalry-tour",
+          "summary": "New Zealand Rugby have confirmed that 10 All Blacks, who were in action during the Rugby's Greatest Rivalry tour of South Africa, will return to NPC duty this week.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/21114041/Simon-Parker-and-Dave-Rennie-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-21T09:00:46.000Z"
+          "publishedAt": "2026-09-21T10:57:03.000Z"
         }
       ]
     },
@@ -1357,10 +1357,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-21T10:57:06.213Z",
+    "generatedAt": "2026-09-21T13:01:21.422Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 3m"
+      "label": "🟡 Planned Maintenance In 59m"
     },
     "forecast": [
       {
