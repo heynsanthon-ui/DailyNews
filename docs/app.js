@@ -343,14 +343,124 @@ function renderOlympiadSection(teams) {
   return wrap;
 }
 
-function renderJumpNav(sections) {
+function renderJumpNav(items) {
   const nav = document.getElementById("jump-nav");
-  sections.forEach((section) => {
+  items.forEach(({ id, title }) => {
     const link = document.createElement("a");
-    link.href = `#section-${section.id}`;
-    link.textContent = section.title;
+    link.href = `#section-${id}`;
+    link.textContent = title;
     nav.appendChild(link);
   });
+}
+
+function renderOutageDay(day) {
+  const el = document.createElement("div");
+  el.className = day.hasOutage ? "outage-day has-outage" : "outage-day";
+  el.appendChild(cell("div", day.day, "outage-day-label"));
+  el.appendChild(cell("div", day.dayOfMonth, "outage-day-num"));
+  if (day.hasOutage) {
+    el.appendChild(cell("div", "Planned", "outage-day-badge"));
+    el.appendChild(cell("div", day.window, "outage-day-window"));
+  }
+  return el;
+}
+
+function renderOutageChart(monthly) {
+  const max = Math.max(1, ...monthly.flatMap((m) => [m.unplannedHours, m.scheduledHours]));
+  const chart = document.createElement("div");
+  chart.className = "outage-chart";
+
+  monthly.forEach((m) => {
+    const col = document.createElement("div");
+    col.className = "outage-chart-col";
+
+    const bars = document.createElement("div");
+    bars.className = "outage-chart-bars";
+
+    const unplanned = cell("div", null, "outage-chart-bar unplanned");
+    unplanned.style.height = `${(m.unplannedHours / max) * 100}%`;
+    unplanned.title = `${m.month}: ${m.unplannedHours}h unplanned`;
+
+    const scheduled = cell("div", null, "outage-chart-bar scheduled");
+    scheduled.style.height = `${(m.scheduledHours / max) * 100}%`;
+    scheduled.title = `${m.month}: ${m.scheduledHours}h scheduled`;
+
+    bars.appendChild(unplanned);
+    bars.appendChild(scheduled);
+    col.appendChild(bars);
+    col.appendChild(cell("div", m.month, "outage-chart-month"));
+    chart.appendChild(col);
+  });
+
+  return chart;
+}
+
+function renderOutageSection(outage) {
+  if (!outage) return null;
+
+  const wrap = document.createElement("section");
+  wrap.className = "section section-scoreboard";
+  wrap.id = "section-outage";
+  wrap.appendChild(cell("h2", `Power Outlook — ${outage.suburb}`, "section-title"));
+
+  wrap.appendChild(cell("div", outage.status.label, `outage-status level-${outage.status.level}`));
+
+  // 1. Horizon forecast
+  wrap.appendChild(cell("h3", "Next 7 Days", "outage-subhead"));
+  const forecast = document.createElement("div");
+  forecast.className = "outage-forecast";
+  outage.forecast.forEach((day) => forecast.appendChild(renderOutageDay(day)));
+  wrap.appendChild(forecast);
+
+  // 2. Maintenance registry
+  wrap.appendChild(cell("h3", "Localized Maintenance Registry", "outage-subhead"));
+  const tableWrap = document.createElement("div");
+  tableWrap.className = "olympiad-table-wrap";
+  const table = document.createElement("table");
+  table.className = "olympiad-table";
+  const thead = document.createElement("thead");
+  const headRow = document.createElement("tr");
+  ["Date", "Affected Infrastructure", "Status", "ETR"].forEach((h) => headRow.appendChild(cell("th", h)));
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+  const tbody = document.createElement("tbody");
+  outage.maintenance.forEach((m) => {
+    const tr = document.createElement("tr");
+    tr.appendChild(cell("td", m.date));
+    tr.appendChild(cell("td", m.infrastructure));
+    tr.appendChild(cell("td", m.status, m.status === "In Progress" ? "olympiad-result" : undefined));
+    tr.appendChild(cell("td", m.etr));
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  tableWrap.appendChild(table);
+  wrap.appendChild(tableWrap);
+  wrap.appendChild(cell("p", `Data synced from ${outage.source}.`, "outage-footnote"));
+
+  // 3. Suburb history & reliability index
+  wrap.appendChild(cell("h3", "Suburb History & Reliability Index", "outage-subhead"));
+  const stats = document.createElement("div");
+  stats.className = "outage-stats";
+  const daysStat = document.createElement("div");
+  daysStat.className = "outage-stat";
+  daysStat.appendChild(cell("div", outage.reliability.daysSinceLastUnplannedOutage, "outage-stat-value"));
+  daysStat.appendChild(cell("div", "Days Since Last Unplanned Outage", "outage-stat-label"));
+  const avgStat = document.createElement("div");
+  avgStat.className = "outage-stat";
+  avgStat.appendChild(cell("div", `${outage.reliability.avgOutageDurationHours}h`, "outage-stat-value"));
+  avgStat.appendChild(cell("div", "Average Outage Duration", "outage-stat-label"));
+  stats.appendChild(daysStat);
+  stats.appendChild(avgStat);
+  wrap.appendChild(stats);
+
+  wrap.appendChild(renderOutageChart(outage.reliability.monthly));
+  const legend = document.createElement("div");
+  legend.className = "outage-legend";
+  legend.appendChild(cell("span", "Unplanned", "unplanned"));
+  legend.appendChild(cell("span", "Scheduled", "scheduled"));
+  wrap.appendChild(legend);
+
+  return wrap;
 }
 
 async function main() {
@@ -373,7 +483,11 @@ async function main() {
 
     labelEl.textContent = data.edition || "";
     status.remove();
-    renderJumpNav(data.sections);
+
+    const navItems = data.sections.map((s) => ({ id: s.id, title: s.title }));
+    if (data.outage) navItems.push({ id: "outage", title: `Power — ${data.outage.suburb}` });
+    renderJumpNav(navItems);
+
     data.sections.forEach((section) => {
       paper.appendChild(renderSection(section));
       if (section.id === "chess") {
@@ -385,6 +499,9 @@ async function main() {
         if (performance) paper.appendChild(performance);
       }
     });
+
+    const outage = renderOutageSection(data.outage);
+    if (outage) paper.appendChild(outage);
   } catch (err) {
     status.textContent = "Couldn't load today's edition. Pull to refresh in a bit.";
     console.error(err);

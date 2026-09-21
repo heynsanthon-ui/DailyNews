@@ -8,6 +8,8 @@ import { olympiadTeams } from "./olympiad-config.mjs";
 import { fetchOlympiadTeam } from "./olympiad.mjs";
 import { fetchStandings } from "./standings.mjs";
 import { fetchSeeding } from "./seeding.mjs";
+import { outageLocation } from "./outage-config.mjs";
+import { fetchOutageData } from "./outage.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.join(__dirname, "..", "docs");
@@ -234,13 +236,25 @@ function buildPerformance(olympiad, standings, seeding) {
     .filter(Boolean);
 }
 
+async function buildOutage() {
+  try {
+    const data = await fetchOutageData(outageLocation);
+    console.log(`  ok   outage/${outageLocation.suburb} (${data.status.label})`);
+    return data;
+  } catch (err) {
+    console.warn(`  FAIL outage/${outageLocation.suburb} — ${err.message}`);
+    return null;
+  }
+}
+
 async function main() {
   const now = new Date();
-  const [builtSections, olympiad, standings, seeding] = await Promise.all([
+  const [builtSections, olympiad, standings, seeding, outage] = await Promise.all([
     Promise.all(sections.map(buildSection)),
     buildOlympiad(),
     buildStandings(),
     buildSeeding(),
+    buildOutage(),
   ]);
   const performance = buildPerformance(olympiad, standings, seeding);
   const enrichedStandings = enrichStandingsWithSeed(standings, seeding);
@@ -252,6 +266,7 @@ async function main() {
     performance,
     olympiad,
     standings: enrichedStandings,
+    outage,
   };
 
   await mkdir(OUT_DIR, { recursive: true });

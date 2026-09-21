@@ -6,6 +6,7 @@
   --ink-soft: #5a5646;
   --rule: #cfc6ad;
   --accent: #8a1f11;
+  --warn: #8a5a00;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -17,6 +18,7 @@
     --ink-soft: #b3ac98;
     --rule: #47422f;
     --accent: #e2795f;
+    --warn: #d9a441;
   }
 }
 
@@ -369,6 +371,211 @@ a {
 .olympiad-spacer {
   text-align: center;
   color: var(--ink-soft);
+}
+
+/* ---------- Power outlook ---------- */
+
+.outage-status {
+  text-align: center;
+  font-size: 1.02rem;
+  font-weight: 600;
+  padding: 0.75rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--paper-card);
+  margin-bottom: 1.3rem;
+}
+
+.outage-status.level-planned {
+  border-color: var(--warn);
+}
+
+.outage-status.level-active {
+  border-color: var(--accent);
+}
+
+.outage-subhead {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 1.6rem 0 0.7rem;
+  color: var(--ink);
+}
+
+.outage-subhead:first-of-type {
+  margin-top: 0;
+}
+
+.outage-forecast {
+  display: flex;
+  gap: 0.6rem;
+  overflow-x: auto;
+  padding-bottom: 0.3rem;
+}
+
+.outage-day {
+  flex: 1 1 0;
+  min-width: 84px;
+  text-align: center;
+  padding: 0.6rem 0.4rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--paper-card);
+}
+
+.outage-day.has-outage {
+  border-color: var(--warn);
+  background: color-mix(in srgb, var(--warn) 12%, var(--paper-card));
+}
+
+.outage-day-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+}
+
+.outage-day-num {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 0.1rem 0;
+}
+
+.outage-day-badge {
+  font-size: 0.62rem;
+  font-weight: 700;
+  color: var(--warn);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.outage-day-window {
+  font-size: 0.64rem;
+  color: var(--ink-soft);
+  margin-top: 0.1rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.outage-footnote {
+  margin-top: 0.7rem;
+  font-size: 0.72rem;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+.outage-stats {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.3rem;
+}
+
+.outage-stat {
+  flex: 1 1 160px;
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--paper-card);
+}
+
+.outage-stat-value {
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
+  font-size: 2rem;
+  color: var(--accent);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.outage-stat-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  margin-top: 0.35rem;
+}
+
+.outage-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.9rem;
+  height: 130px;
+  padding: 0 0.4rem;
+}
+
+.outage-chart-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  height: 100%;
+  justify-content: flex-end;
+}
+
+.outage-chart-bars {
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+  height: 100%;
+}
+
+.outage-chart-bar {
+  width: 10px;
+  border-radius: 2px 2px 0 0;
+  min-height: 2px;
+}
+
+.outage-chart-bar.unplanned {
+  background: var(--accent);
+}
+
+.outage-chart-bar.scheduled {
+  background: var(--ink-soft);
+  opacity: 0.5;
+}
+
+.outage-chart-month {
+  font-size: 0.66rem;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.outage-legend {
+  display: flex;
+  gap: 1.3rem;
+  justify-content: center;
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  margin-top: 0.6rem;
+}
+
+.outage-legend span::before {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+}
+
+.outage-legend .unplanned::before {
+  background: var(--accent);
+}
+
+.outage-legend .scheduled::before {
+  background: var(--ink-soft);
+  opacity: 0.5;
+}
+
+@media (max-width: 640px) {
+  .outage-stats {
+    flex-direction: column;
+  }
 }
 
 /* ---------- Footer ---------- */
