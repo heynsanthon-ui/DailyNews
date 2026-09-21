@@ -12,9 +12,9 @@ function relativeTime(isoDate) {
   return `${days} day${days === 1 ? "" : "s"} ago`;
 }
 
-function renderCard(article, isFeature) {
+function renderCard(article) {
   const a = document.createElement("a");
-  a.className = isFeature ? "card card-feature" : "card";
+  a.className = "card";
   a.href = article.link;
   a.target = "_blank";
   a.rel = "noopener noreferrer";
@@ -26,13 +26,8 @@ function renderCard(article, isFeature) {
     img.alt = "";
     img.loading = "lazy";
     img.referrerPolicy = "no-referrer";
-    img.onerror = () => {
-      const placeholder = cell("div", (article.source || "?").slice(0, 1).toUpperCase(), "card-image-placeholder");
-      img.replaceWith(placeholder);
-    };
+    img.onerror = () => img.remove();
     a.appendChild(img);
-  } else {
-    a.appendChild(cell("div", (article.source || "?").slice(0, 1).toUpperCase(), "card-image-placeholder"));
   }
 
   const body = document.createElement("div");
@@ -69,7 +64,7 @@ function renderSection(section) {
   wrap.appendChild(title);
 
   const grid = document.createElement("div");
-  grid.className = "bento-grid";
+  grid.className = "card-grid";
 
   if (section.articles.length === 0) {
     const empty = document.createElement("p");
@@ -77,7 +72,7 @@ function renderSection(section) {
     empty.textContent = "No stories right now — check back later.";
     wrap.appendChild(empty);
   } else {
-    section.articles.forEach((article, i) => grid.appendChild(renderCard(article, i === 0)));
+    section.articles.forEach((article) => grid.appendChild(renderCard(article)));
     wrap.appendChild(grid);
   }
 
@@ -296,23 +291,11 @@ function renderOlympiadSection(teams) {
   return wrap;
 }
 
-function startLiveClock() {
-  const clockEl = document.getElementById("live-clock");
-  if (!clockEl) return;
-  const tick = () => {
-    clockEl.textContent = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit", second: "2-digit" });
-  };
-  tick();
-  setInterval(tick, 1000);
-}
-
 async function main() {
   const paper = document.getElementById("paper");
   const status = document.getElementById("status");
   const dateEl = document.getElementById("edition-date");
   const labelEl = document.getElementById("edition-label");
-
-  startLiveClock();
 
   dateEl.textContent = new Date().toLocaleDateString("en-ZA", {
     weekday: "long",

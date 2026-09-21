@@ -2,13 +2,9 @@
   --paper: #f4efe4;
   --paper-card: #fffdf8;
   --ink: #1c1a15;
-  --ink-soft: #4a5568;
+  --ink-soft: #4a4638;
   --rule: #cfc6ad;
   --accent: #8a1f11;
-  --card-border: rgba(0, 0, 0, 0.06);
-  --card-shadow: 0 4px 30px rgba(0, 0, 0, 0.04);
-  --card-shadow-hover: 0 10px 30px rgba(0, 0, 0, 0.09);
-  --placeholder: linear-gradient(135deg, #cfc6ad, #e7e0cc);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -16,13 +12,9 @@
     --paper: #17150f;
     --paper-card: #221f17;
     --ink: #f2ede0;
-    --ink-soft: #b9b3a6;
+    --ink-soft: #c9c2ac;
     --rule: #47422f;
     --accent: #e2795f;
-    --card-border: rgba(255, 255, 255, 0.08);
-    --card-shadow: 0 4px 30px rgba(0, 0, 0, 0.35);
-    --card-shadow-hover: 0 10px 30px rgba(0, 0, 0, 0.5);
-    --placeholder: linear-gradient(135deg, #34301f, #47422f);
   }
 }
 
@@ -34,7 +26,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
   -webkit-font-smoothing: antialiased;
   padding-bottom: 3rem;
 }
@@ -43,21 +35,13 @@ a {
   color: inherit;
 }
 
-/* ---------- Header ---------- */
-
 .masthead {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  background: color-mix(in srgb, var(--paper) 92%, transparent);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--card-border);
-  padding: 1.2rem 1rem 1rem;
+  border-bottom: 3px double var(--ink);
+  padding: 1.4rem 1rem 1rem;
 }
 
 .masthead-inner {
-  max-width: 1600px;
+  max-width: 1100px;
   margin: 0 auto;
   text-align: center;
 }
@@ -65,31 +49,27 @@ a {
 .masthead-title {
   font-family: "Playfair Display", "Times New Roman", serif;
   font-weight: 900;
-  font-size: clamp(1.8rem, 5vw, 2.9rem);
-  letter-spacing: 0.01em;
+  font-size: clamp(2rem, 6vw, 3.2rem);
+  letter-spacing: 0.02em;
   margin: 0;
 }
 
 .masthead-meta {
-  margin-top: 0.35rem;
+  margin-top: 0.4rem;
   color: var(--ink-soft);
-  font-size: 0.85rem;
-  letter-spacing: 0.03em;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
-  font-variant-numeric: tabular-nums;
 }
 
 .masthead-meta .dot {
   margin: 0 0.5em;
-  opacity: 0.6;
 }
 
-/* ---------- Layout container ---------- */
-
-.paper {
-  max-width: 1600px;
+#paper {
+  max-width: 1100px;
   margin: 0 auto;
-  padding: max(1.5rem, 3vw);
+  padding: 0 1rem;
 }
 
 .status {
@@ -100,101 +80,52 @@ a {
 }
 
 .section {
-  margin-top: 2.6rem;
-}
-
-.section:first-child {
-  margin-top: 1.6rem;
+  margin-top: 2.4rem;
 }
 
 .section-title {
   font-family: "Playfair Display", serif;
   font-weight: 700;
-  font-size: 1.4rem;
-  margin: 0 0 1rem;
+  font-size: 1.5rem;
+  margin: 0 0 0.9rem;
   padding-bottom: 0.4rem;
   border-bottom: 2px solid var(--ink);
 }
 
-/* ---------- Bento grid ---------- */
-
-.bento-grid {
+.card-grid {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.4rem;
 }
-
-@media (min-width: 768px) and (max-width: 1023px) {
-  .bento-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .card-feature {
-    grid-column: span 2;
-  }
-}
-
-@media (min-width: 1024px) {
-  .bento-grid {
-    grid-template-columns: repeat(4, 1fr);
-  }
-  .card-feature {
-    grid-column: span 2;
-    grid-row: span 2;
-  }
-}
-
-/* ---------- Cards ---------- */
 
 .card {
-  display: flex;
-  flex-direction: column;
+  display: block;
   text-decoration: none;
   background: var(--paper-card);
-  border: 1px solid var(--card-border);
-  border-radius: 16px;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
   overflow: hidden;
-  box-shadow: var(--card-shadow);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-@media (hover: hover) and (pointer: fine) {
-  .card:hover,
-  .card:focus-visible {
-    transform: translateY(-2px);
-    box-shadow: var(--card-shadow-hover);
-  }
+.card:hover,
+.card:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
 }
 
-.card-image,
-.card-image-placeholder {
+.card-image {
   width: 100%;
   aspect-ratio: 16 / 10;
   object-fit: cover;
+  background: var(--rule);
   display: block;
-  border-radius: 16px 16px 0 0;
-}
-
-.card-feature .card-image,
-.card-feature .card-image-placeholder {
-  aspect-ratio: 16 / 9;
-  height: 100%;
-  min-height: 220px;
-}
-
-.card-image-placeholder {
-  background: var(--placeholder);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--ink-soft);
-  font-family: "Playfair Display", serif;
-  font-size: 1.8rem;
-  font-weight: 700;
-  opacity: 0.55;
 }
 
 .card-body {
-  padding: 1.25rem;
+  padding: 0.9rem 1rem 1.1rem;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -203,42 +134,26 @@ a {
 .card-headline {
   font-family: "Playfair Display", serif;
   font-weight: 700;
-  line-height: 1.2;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
+  line-height: 1.28;
   margin: 0 0 0.5rem;
   color: var(--ink);
 }
 
-.card-feature .card-headline {
-  font-size: 1.5rem;
-}
-
 .card-summary {
-  font-size: 0.92rem;
+  font-size: 0.95rem;
   line-height: 1.5;
   color: var(--ink-soft);
   margin: 0 0 0.8rem;
   flex: 1;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.card-feature .card-summary {
-  -webkit-line-clamp: 4;
-  font-size: 1rem;
 }
 
 .card-meta {
-  font-size: 0.74rem;
+  font-size: 0.78rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--accent);
-  font-weight: 600;
 }
-
-/* ---------- Olympiad / results / standings ---------- */
 
 .olympiad-team-title {
   font-family: "Playfair Display", serif;
@@ -251,17 +166,15 @@ a {
 .olympiad-round {
   margin-bottom: 1rem;
   background: var(--paper-card);
-  border: 1px solid var(--card-border);
-  border-radius: 16px;
-  box-shadow: var(--card-shadow);
-  overflow: hidden;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
 }
 
 .olympiad-round-header {
-  padding: 0.6rem 1rem;
+  padding: 0.55rem 0.8rem;
   font-weight: 600;
-  font-size: 0.9rem;
-  border-bottom: 1px solid var(--card-border);
+  font-size: 0.92rem;
+  border-bottom: 1px solid var(--rule);
   background: color-mix(in srgb, var(--accent) 8%, transparent);
 }
 
@@ -272,22 +185,22 @@ a {
 .olympiad-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.86rem;
+  font-size: 0.88rem;
   white-space: nowrap;
 }
 
 .olympiad-table th,
 .olympiad-table td {
-  padding: 0.5rem 0.8rem;
+  padding: 0.4rem 0.6rem;
   text-align: left;
-  border-bottom: 1px solid var(--card-border);
+  border-bottom: 1px solid var(--rule);
 }
 
 .olympiad-table th {
   color: var(--ink-soft);
   font-weight: 600;
   text-transform: uppercase;
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   letter-spacing: 0.03em;
 }
 
@@ -311,14 +224,18 @@ a {
   color: var(--ink-soft);
 }
 
-/* ---------- Footer ---------- */
-
 .colophon {
-  max-width: 1600px;
+  max-width: 1100px;
   margin: 3rem auto 0;
   padding: 1rem;
   text-align: center;
   color: var(--ink-soft);
   font-size: 0.85rem;
-  border-top: 1px solid var(--card-border);
+  border-top: 1px solid var(--rule);
+}
+
+@media (max-width: 480px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
 }
