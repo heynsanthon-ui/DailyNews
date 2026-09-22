@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-22T13:02:21.670Z",
-  "edition": "Updated 15:02 SAST — Tue, 22 Sept",
+  "generatedAt": "2026-09-22T16:02:03.271Z",
+  "edition": "Updated 18:02 SAST — Tue, 22 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Quo vadis, Fischer Random Chess? (2)",
+          "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
+          "summary": "In a previous article we described the genesis of this increasingly popular form of chess – and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-22T15:30:00.000Z"
+        },
+        {
+          "title": "Chess.com Seirawan Chess Championship Starts September 30",
+          "link": "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
+          "summary": "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&mdash;and a whole new set of…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-22T15:02:40.000Z"
+        },
         {
           "title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
           "link": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-21T20:45:00.000Z"
-        },
-        {
-          "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
-          "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-          "summary": "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against GM Nodirbek Yakubboev, but he…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-21T20:30:00.000Z"
-        },
-        {
-          "title": "Nakamura Makes It Back-To-Back Bullet Brawls",
-          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
-          "summary": "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura's second straight week in first place, his 18th win of the year, and his 67th total to date. To…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-21T19:22:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-          "summary": "The 2019 attacks were the deadliest the country had seen since the end of its civil war.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg",
+          "title": "Father admits causing death of his son in Cyprus hotel fall",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+          "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-22T12:59:22.000Z"
+          "publishedAt": "2026-09-22T15:52:35.000Z"
         },
         {
-          "title": "How Trump's media ban sparked a broadcaster boycott",
-          "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-          "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ffa/live/e7abbca0-b665-11f1-b785-7d19738c6de2.png",
-          "source": "BBC News",
-          "publishedAt": "2026-09-22T12:26:31.000Z"
-        },
-        {
-          "title": "La Liga President Tebas slams Real Madrid refereeing ‘conspiracy’ claims",
-          "link": "https://www.aljazeera.com/sports/2026/9/22/la-liga-president-tebas-slams-real-madrid-refereeing-conspiracy-claims?traffic_source=rss",
-          "summary": "Madrid boss Jose Mourinho accuses officials of bias after his side's 2-1 derby defeat by Atletico Madrid.",
+          "title": "Trump TV: Can the US president bypass mainstream media?",
+          "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
+          "summary": "Trump has launched his own channel amid an ongoing rift with the White House press pool.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T12:11:18.000Z"
+          "publishedAt": "2026-09-22T15:33:22.000Z"
         },
         {
-          "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-          "summary": "First day of high-level meeting to kick off with speeches from world leaders, including from Brazil, US, Turkiye, Qatar.",
+          "title": "The return of Palestinian football: ‘We are a people who must live’",
+          "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
+          "summary": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T12:00:00.000Z"
+          "publishedAt": "2026-09-22T15:32:27.000Z"
         },
         {
-          "title": "Who actually has power at the United Nations?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/who-actually-has-power-at-the-united-nations-2?traffic_source=rss",
-          "summary": "Every country at the UN gets a vote. But five countries have a power the other 188 don’t: the power of veto in the UNSC.",
+          "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
+          "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
+          "summary": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T11:51:07.000Z"
+          "publishedAt": "2026-09-22T15:27:49.000Z"
+        },
+        {
+          "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
+          "link": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss",
+          "summary": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-22T15:23:14.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Stormers clued up on Connacht threat",
-          "link": "https://www.sarugbymag.co.za/stormers-clued-connacht-threat/",
-          "summary": "Assistant coach Dawie Snyman says Connacht's identity under Stuart Lancaster makes them a dangerous URC season-opening challenge for the Stormers on Friday. The post Stormers clued up on Connacht threat appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2553473-e1790080748508.jpg",
+          "title": "Bobo picks Bok bolter",
+          "link": "https://www.sarugbymag.co.za/bobo-picks-bok-bolter/",
+          "summary": "Former Springbok centre Gcobani Bobo believes the upcoming URC season could propel a young South African star into the Bok mix ahead of next year’s World Cup. The post Bobo picks Bok bolter appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/Junior-Boks-trophy-18-July-2026-Tamuna-Kulumbegashvili-World-Rugby-e1784697500729.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T12:51:45.000Z"
+          "publishedAt": "2026-09-22T15:39:27.000Z"
         },
         {
-          "title": "Wallabies name the area they are ‘definitely growing’ in before hosting Springboks and single out ‘silver lining’ of Charlie Cale’s latest setback",
-          "link": "https://www.planetrugby.com/news/wallabies-name-the-area-they-are-definitely-growing-in-before-hosting-springboks-and-single-out-silver-lining-of-charlie-cales-latest-setback",
-          "summary": "Tom Donnelly has high hopes for his improving Wallabies pack against the Springboks in Perth this weekend.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/22123451/Inset-Top-Left-2026-09-22T123428.588-1-120x120.jpg",
+          "title": "Springboks team: Five takeaways as Rassie Erasmus ‘not in the business of sympathy caps’ with squad ‘overhaul’ but head coach opts for ‘insurance policy’ bench",
+          "link": "https://www.planetrugby.com/news/springboks-team-five-takeaways-as-rassie-erasmus-not-in-the-business-of-sympathy-caps-with-squad-overhaul-but-head-coach-opts-for-insurance-policy-bench",
+          "summary": "Our key takeaways from the Springboks' selection to face the Wallabies this weekend.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/22151556/Springboks-team-v-Australia-5-takeaways-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-22T11:42:07.000Z"
+          "publishedAt": "2026-09-22T15:00:16.000Z"
         },
         {
-          "title": "Steven Kitshoff: Rassie Erasmus has a ‘crew’ of Springboks that he turns to when the ‘chips are down’",
-          "link": "https://www.planetrugby.com/news/steven-kitshoff-rassie-erasmus-has-a-crew-of-springboks-that-he-turns-to-when-the-chips-are-down",
-          "summary": "Rassie Erasmus showed who he trusts most in the Springboks squad, according to Steven Kitshoff.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/22121418/Springboks-centre-Jesse-Kriel-and-an-inset-of-Steven-Kitshoff-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-22T11:29:46.000Z"
+          "title": "Hatton: Sharks developing new DNA",
+          "link": "https://www.sarugbymag.co.za/hatton-sharks-developing-new-dna/",
+          "summary": "No 8 Nick Hatton says the Sharks are still shaping their identity as JP Pietersen’s men look to build on last season’s revival. The post Hatton: Sharks developing new DNA appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Nick-Hatton-17-September-2026-Steve-Haag-Gallo-Images-e1790088002581.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T14:30:50.000Z"
         },
         {
-          "title": "Springboks team: Winners and losers as Rassie Erasmus rewards ‘egoless’ warrior and the ‘unluckiest’ snub",
-          "link": "https://www.planetrugby.com/news/springboks-team-v-wallabies-perth-winners-and-losers-from-rassies-selections",
-          "summary": "Winners and losers from Rassie Erasmus' Springboks selections for the one-off Test against the Wallabies.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/22120557/Andre-Esterhuizen-Manie-Libbok-and-Springboks-head-coach-Rassie-Erasmus-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-22T11:14:07.000Z"
+          "title": "Zas eyes special W in milestone outing",
+          "link": "https://www.sarugbymag.co.za/zas-eyes-special-w-milestone-outing/",
+          "summary": "Speedster Leolin Zas is relishing the opportunity to join the Stormers’ centurion ranks and mark the occasion with a big victory in Galway. The post Zas eyes special W in milestone outing appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2597775-e1790084046959.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T14:25:39.000Z"
         },
         {
-          "title": "Wallabies: Taniela Tupou’s ‘dead right’ verdict on the Springboks and his honest admission about his ‘first few months in France’ with Racing",
-          "link": "https://www.planetrugby.com/news/wallabies-taniela-tupous-dead-right-verdict-on-the-springboks-and-his-honest-admission-about-his-first-few-months-in-france-with-racing",
-          "summary": "“Look, I'm not really worried about what the ABs did in those games; I'm just worried about what we're going to do this week.\"",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/22111742/Inset-Top-Left-2026-09-22T111710.593-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-22T10:25:21.000Z"
+          "title": "Ackers wary of ‘hungry’ Zebre",
+          "link": "https://www.sarugbymag.co.za/ackers-wary-hungry-zebre%e2%80%a8%e2%80%a8/",
+          "summary": "Bulls coach Johan Ackermann is refusing to let a stacked squad and a new campaign create any illusions about Saturday’s URC season opener in Parma. The post Ackers wary of ‘hungry’ Zebre appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Johan-Ackermann-Bulls-19-June-2026-Ramsey-Cardy-Gallo-Images-e1790084816635.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T13:55:12.000Z"
         }
       ]
     },
@@ -1465,10 +1465,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-22T13:02:21.739Z",
+    "generatedAt": "2026-09-22T16:02:03.343Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 58m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
