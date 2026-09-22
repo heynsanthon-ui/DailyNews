@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T16:02:03.271Z",
-  "edition": "Updated 18:02 SAST — Tue, 22 Sept",
+  "generatedAt": "2026-09-22T19:01:18.603Z",
+  "edition": "Updated 21:01 SAST — Tue, 22 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Father admits causing death of his son in Cyprus hotel fall",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-          "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/f8142c20-b670-11f1-b711-df5e4d50c2fd.jpg",
+          "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
+          "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
+          "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-22T18:48:37.000Z"
+        },
+        {
+          "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
+          "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
+          "summary": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-22T18:46:32.000Z"
+        },
+        {
+          "title": "US to build two military bases in Greenland under new deal with Denmark",
+          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+          "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-22T15:52:35.000Z"
+          "publishedAt": "2026-09-22T18:43:29.000Z"
         },
         {
-          "title": "Trump TV: Can the US president bypass mainstream media?",
-          "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-          "summary": "Trump has launched his own channel amid an ongoing rift with the White House press pool.",
+          "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
+          "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T15:33:22.000Z"
+          "publishedAt": "2026-09-22T18:27:01.000Z"
         },
         {
-          "title": "The return of Palestinian football: ‘We are a people who must live’",
-          "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
-          "summary": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions.",
+          "title": "Trump says US officials met for three hours with Iranian delegation",
+          "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
+          "summary": "This is a breaking news story.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T15:32:27.000Z"
-        },
-        {
-          "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
-          "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-          "summary": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T15:27:49.000Z"
-        },
-        {
-          "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
-          "link": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss",
-          "summary": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T15:23:14.000Z"
+          "publishedAt": "2026-09-22T18:14:12.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "‘We know what’s coming’",
+          "link": "https://www.sarugbymag.co.za/know-whats-coming/",
+          "summary": "Wallabies forwards coach Tom Donnelly expects a typical physical onslaught from the Springboks in Perth on Sunday despite changes in personnel. The post ‘We know what’s coming’ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Wallabies-Springboks-scrum-16-August-2025-Sydney-Seshibedi-Gallo-Images-e1790099037250.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T17:47:05.000Z"
+        },
+        {
+          "title": "Rassie hopes it doesn’t get sticky Down Under",
+          "link": "https://www.sarugbymag.co.za/rassie-hopes-doesnt-get-sticky/",
+          "summary": "Fans shouldn’t expect the Springboks to come flying out the blocks on Sunday, warns Rassie Erasmus, but the team will be hungry to play after “idling for a hell of a long time”. The post Rassie hopes it doesn’t get…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2598905-e1790090327804.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T16:14:10.000Z"
+        },
         {
           "title": "Bobo picks Bok bolter",
           "link": "https://www.sarugbymag.co.za/bobo-picks-bok-bolter/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Nick-Hatton-17-September-2026-Steve-Haag-Gallo-Images-e1790088002581.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-22T14:30:50.000Z"
-        },
-        {
-          "title": "Zas eyes special W in milestone outing",
-          "link": "https://www.sarugbymag.co.za/zas-eyes-special-w-milestone-outing/",
-          "summary": "Speedster Leolin Zas is relishing the opportunity to join the Stormers’ centurion ranks and mark the occasion with a big victory in Galway. The post Zas eyes special W in milestone outing appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2597775-e1790084046959.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T14:25:39.000Z"
-        },
-        {
-          "title": "Ackers wary of ‘hungry’ Zebre",
-          "link": "https://www.sarugbymag.co.za/ackers-wary-hungry-zebre%e2%80%a8%e2%80%a8/",
-          "summary": "Bulls coach Johan Ackermann is refusing to let a stacked squad and a new campaign create any illusions about Saturday’s URC season opener in Parma. The post Ackers wary of ‘hungry’ Zebre appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Johan-Ackermann-Bulls-19-June-2026-Ramsey-Cardy-Gallo-Images-e1790084816635.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T13:55:12.000Z"
         }
       ]
     },
@@ -1465,10 +1465,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-22T16:02:03.343Z",
+    "generatedAt": "2026-09-22T19:01:18.674Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
