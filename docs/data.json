@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T07:02:35.029Z",
-  "edition": "Updated 09:02 SAST — Tue, 22 Sept",
+  "generatedAt": "2026-09-22T10:01:38.205Z",
+  "edition": "Updated 12:01 SAST — Tue, 22 Sept",
   "sections": [
     {
       "id": "chess",
@@ -8,7 +8,7 @@
       "articles": [
         {
           "title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-6",
+          "link": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
           "summary": "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2½–1½ in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an…",
           "image": null,
           "source": "ChessBase",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Attempted murder for the man who shot three Palestinians in Vermont",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_us-man-who-shot-three-palestinians-guilty-220926?traffic_source=rss",
-          "summary": "Jason Eaton was found guilty of attempted second-degree murder for the shooting of three Palestinian college students.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T06:16:54.000Z"
-        },
-        {
-          "title": "Nigeria’s refining revolution has a monopoly problem",
-          "link": "https://www.aljazeera.com/opinions/2026/9/22/nigerias-refining-revolution-has-a-monopoly-problem?traffic_source=rss",
-          "summary": "Dangote has slashed fuel imports, but market concentration risks keeping the benefits from common Nigerians.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T06:15:15.000Z"
-        },
-        {
-          "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-          "summary": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f73/live/802ac5d0-b5de-11f1-88a2-d7d3c19446bf.jpg",
+          "title": "British man missing after diving into Lake Como to rescue teenager",
+          "link": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+          "summary": "The UK Foreign Office says it is supporting the man's family and working with local authorities.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec3e/live/510c2510-b62d-11f1-a555-63bc9cabe94f.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-22T05:58:35.000Z"
+          "publishedAt": "2026-09-22T09:35:43.000Z"
         },
         {
-          "title": "‘Orphaned’ by floods, more than 500 Nepali children face uncertain future",
-          "link": "https://www.aljazeera.com/news/2026/9/22/orphaned-by-floods-more-than-500-nepali-children-face-uncertain-future?traffic_source=rss",
-          "summary": "More than 500 children are now in shelters, their parents missing or declared dead since the August 26 floods.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T05:57:39.000Z"
+          "title": "Teenager captured after 11 shot at Turkish high school",
+          "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e11/live/743768a0-b660-11f1-bc1f-3f186ca4140c.png",
+          "source": "BBC News",
+          "publishedAt": "2026-09-22T09:31:31.000Z"
         },
         {
-          "title": "G7 foreign ministers demand Houthis halt strikes on Saudi Arabia",
-          "link": "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss",
-          "summary": "Ministers demand an end to maritime shipping attacks and urge Iran to stop arming the Yemeni group.",
+          "title": "Can you take the 'London' out of London Fashion Week?",
+          "link": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
+          "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1697/live/5ebd8b80-b372-11f1-9023-9990160baacc.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-22T09:27:28.000Z"
+        },
+        {
+          "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
+          "link": "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss",
+          "summary": "Sri Lanka were bowled out for 69 runs, 10 less than Mandhana's belligerent match-winning innings as India retained gold.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T05:32:40.000Z"
+          "publishedAt": "2026-09-22T09:12:55.000Z"
+        },
+        {
+          "title": "Gunman opens fire near high school in western Turkiye, wounding eight",
+          "link": "https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss",
+          "summary": "Police arrest suspect in shooting near high school as injured are rushed to local hospitals for treatment.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-22T09:04:13.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Rising star won’t face Boks",
-          "link": "https://www.sarugbymag.co.za/rising-star-wont-face-boks/",
-          "summary": "A luckless Wallaby has been ruled out of Sunday’s one-off Test against the Springboks in Perth after suffering another injury setback. The post Rising star won’t face Boks appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Isaac-Henry-Charlie-Cale-7-August-2026-Paul-Miller-Getty-Images-e1790059814312.jpg",
+          "title": "Stormers borrow American-based ace",
+          "link": "https://www.sarugbymag.co.za/stormers-borrow-american-based-ace/",
+          "summary": "Having secured the services of Haashim Pead, the Stormers have signed another scrumhalf. The post Stormers borrow American-based ace appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Neethling-Fouche-Hanro-Liebenberg-Andre-Warner-11-September-2026-Cole-Cruickshank-Gallo-Images-e1790069372715.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T06:54:41.000Z"
+          "publishedAt": "2026-09-22T09:32:04.000Z"
         },
         {
-          "title": "Bosch back for Bulls",
-          "link": "https://www.sarugbymag.co.za/bosch-back-for-bulls/",
-          "summary": "Curwin Bosch has been included in a 26-man Bulls touring squad for URC matches against Zebre Parma and Munster to start their campaign. The post Bosch back for Bulls appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Curwin-Bosch-Bulls-15-Aug-2026-e1790060298362.jpg",
+          "title": "Rassie: André the Giant deserves captaincy",
+          "link": "https://www.sarugbymag.co.za/rassie-backs-andre-giant/",
+          "summary": "Rassie Erasmus says André Esterhuizen is the “right man” to captain the Springboks against the Wallabies in Perth on Sunday. The post Rassie: André the Giant deserves captaincy appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Andre-Esterhuizen-16-August-2025-Anton-Geyser-Gallo-Images-e1790067693688.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T05:59:27.000Z"
+          "publishedAt": "2026-09-22T09:02:41.000Z"
         },
         {
-          "title": "Putt: All Blacks should play overseas",
-          "link": "https://www.sarugbymag.co.za/putt-blacks-play-overseas/",
-          "summary": "Former Sharks and Springbok scrumhalf Kevin Putt says Super Rugby no longer prepares players for Test rugby. The post Putt: All Blacks should play overseas appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Cam-Roigard-Tyrel-Lomax-5-June-2026-Hagen-Hopkins-Getty-Images-e1790053741619.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T05:16:25.000Z"
-        },
-        {
-          "title": "All Black set for NPC return",
-          "link": "https://www.sarugbymag.co.za/black-set-npc-return/",
-          "summary": "A versatile All Black is ready to make his comeback from a three-month injury layoff, with the Bledisloe Cup looming. The post All Black set for NPC return appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Leicester-Faingaanuku-24-April-2026-Hannah-Peters-Getty-Images-e1790051458916.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-22T04:33:37.000Z"
-        },
-        {
-          "title": "Springboks legend warns of dangers of scrum law which ‘needs to go out of rugby’",
-          "link": "https://www.planetrugby.com/news/springboks-legend-warns-of-dangers-of-scrum-law-which-needs-to-go-out-of-rugby",
-          "summary": "Steven Kitshoff is the latest ex-international to voice his dissatisfaction with World Rugby's 'brake foot' law and wants it to be removed from the game.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/21155427/Springboks-v-All-Blacks-and-Steven-Kitshoff-image-120x120.jpg",
+          "title": "Springboks team: Rassie Erasmus rotates for Wallabies showdown with new captain named in Siya Kolisi’s absence",
+          "link": "https://www.planetrugby.com/news/springboks-team-v-wallabies-new-captain-named-as-rassie-erasmus-makes-wholesale-changes",
+          "summary": "Rassie Erasmus has named Andre Esterhuizen as the new Springboks captain in a largely changed team to face Australia.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/22095607/Springboks-captain-Andre-Esterhuizen-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-21T15:02:15.000Z"
+          "publishedAt": "2026-09-22T08:58:13.000Z"
+        },
+        {
+          "title": "New captain for new-look Boks",
+          "link": "https://www.sarugbymag.co.za/polly-calls-the-shots-for-boks-in-perth/",
+          "summary": "Rassie Erasmus has overhauled the Springbok team for Sunday’s one-off Test against the Wallabies in Perth and sprung a surprise with his choice of skipper. The post New captain for new-look Boks appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Springboks-anthem-4-July-2026-Steve-Haag-Getty-Images-e1790066835122.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T08:30:11.000Z"
+        },
+        {
+          "title": "Kiwis to discuss dumping Super Rugby",
+          "link": "https://www.sarugbymag.co.za/kiwis-discuss-dumping-super-rugby/",
+          "summary": "NZ Rugby is reportedly considering replacing both Super Rugby Pacific and the NPC with an eight-to-10-team national competition from 2028. The post Kiwis to discuss dumping Super Rugby appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Ruben-Love-Hurricanes-20-June-2026-Phil-Walter-Getty-Images-e1790064736891.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-22T08:17:10.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Colin Ingram, 41, retires from professional cricket",
+          "link": "https://www.cricinfo.com/ci/content/story/1555342.html?ex_cid=OTC-RSS",
+          "summary": "Colin Ingram, 41, was last in action for Glamorgan in the ongoing County Championship season",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415286.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-22T09:26:10.000Z"
+        },
         {
           "title": "Edwards called up to Australia's ODI squad for South Africa series",
           "link": "https://www.cricinfo.com/ci/content/story/1555223.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/422600/422651.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-17T15:23:35.000Z"
-        },
-        {
-          "title": "Labuschagne to captain Queensland in One-Day Cup before South Africa Tests",
-          "link": "https://www.cricinfo.com/ci/content/story/1554652.html?ex_cid=OTC-RSS",
-          "summary": "With his Test place in the balance, Labuschagne will captain Queensland against Victoria at Allan Border Field on Saturday",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/412900/412981.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-17T11:18:08.000Z"
         }
       ]
     }
@@ -1465,10 +1465,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-22T07:02:35.095Z",
+    "generatedAt": "2026-09-22T10:01:38.289Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 57m"
+      "label": "🟡 Planned Maintenance In 3h 58m"
     },
     "forecast": [
       {
