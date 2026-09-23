@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T07:02:26.909Z",
-  "edition": "Updated 09:02 SAST — Wed, 23 Sept",
+  "generatedAt": "2026-09-23T10:01:35.778Z",
+  "edition": "Updated 12:01 SAST — Wed, 23 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-          "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-          "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94af/live/1e4085d0-b714-11f1-8d21-19ad84e0e822.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-23T06:12:56.000Z"
-        },
-        {
-          "title": "Trump rallies Latin American allies against drug cartels",
-          "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
-          "summary": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action.",
+          "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
+          "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
+          "summary": "Trump threatens to 'annihilate' Iran and then brags about diplomacy, provoking Tehran to warn of a response.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T05:34:40.000Z"
+          "publishedAt": "2026-09-23T09:40:20.000Z"
         },
         {
-          "title": "Cooperation is the goal at the UNGA, but is it possible?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss",
-          "summary": "Debate opened at the UN General Assembly and leaders from across the world made their arguments.",
+          "title": "UN General Assembly quiz: Who said these 10 famous quotes?",
+          "link": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss",
+          "summary": "With world leaders at the UN General Assembly podium this week, play our quiz matching famous quotes to who said them.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T05:07:26.000Z"
+          "publishedAt": "2026-09-23T09:06:41.000Z"
         },
         {
-          "title": "Six-year-old sets Rubik’s Cube world record twice in three days",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss",
-          "summary": "Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.",
+          "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
+          "link": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
+          "summary": "Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T04:58:08.000Z"
+          "publishedAt": "2026-09-23T09:02:02.000Z"
         },
         {
-          "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-          "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
-          "summary": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
+          "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
+          "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss",
+          "summary": "Chanu finally clinches an elusive Asian Games medal in Japan and Ri Song-gum wins North Korea’s first gold.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T04:42:15.000Z"
+          "publishedAt": "2026-09-23T08:58:18.000Z"
+        },
+        {
+          "title": "US senator condemns Netanyahu as a ‘chronic liar’ ahead of UNGA visit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-senator-condemns-netanyahu-as-a-chronic-liar-ahead-of-unga-visit?traffic_source=rss",
+          "summary": "US Democratic senator Chris Van Hollen has called Netanyahu a lying war criminal ahead of his visit to UNGA",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-23T08:44:44.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Sir Steve Hansen: Rassie Erasmus needs to have ‘honest conversations’ with ageing Springboks",
-          "link": "https://www.planetrugby.com/news/sir-steve-hansen-rassie-erasmus-needs-to-have-honest-conversations",
-          "summary": "Sir Steve Hansen believes Rassie Erasmus needs to have honest conversations with ageing Springboks players.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23072923/Springboks-players-stand-during-the-national-anthem-before-a-Rugbys-Greatest-Rivalry-Test-match-against-New-Zealand-and-an-inset-of-Sir-Steve-Hansen-1-120x120.jpg",
+          "title": "Bok bug has bitten Erich",
+          "link": "https://www.sarugbymag.co.za/bok-bug-bitten-erich/",
+          "summary": "Lions utility back Erich Cronjé says spending time training with the Springboks has motivated him even more to play in the green and gold. The post Bok bug has bitten Erich appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2526805-e1790156563484.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-23T09:43:55.000Z"
+        },
+        {
+          "title": "Springboks: Rassie Erasmus reveals Malcolm Marx experiment that could debut versus Australia",
+          "link": "https://www.planetrugby.com/news/springboks-rassie-erasmus-reveals-malcolm-marx-experiment",
+          "summary": "Rassie Erasmus has plans to experiment with the best player in the world.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23092506/Malcolm-Marx-and-an-inset-of-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-23T06:33:10.000Z"
+          "publishedAt": "2026-09-23T08:40:00.000Z"
         },
         {
-          "title": "Potential new role for Wallabies star",
-          "link": "https://www.sarugbymag.co.za/potential-new-role-wallabies-star/",
-          "summary": "Wallabies coach Les Kiss is set to move outside centre Joseph-Aukuso Suaalii elsewhere in the backline when he names his team for Sunday’s Test against the Springboks in Perth. The post Potential new role for Wallabies…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/09/2233973247-e1757402534358.jpg",
+          "title": "Mallett: Don’t move Marx",
+          "link": "https://www.sarugbymag.co.za/mallett-dont-move-marx/",
+          "summary": "Nick Mallett has questioned why Rassie Erasmus would want to use Malcolm Marx at flank against the Wallabies in Perth on Sunday. The post Mallett: Don’t move Marx appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2613244-e1788877468334.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T05:23:34.000Z"
+          "publishedAt": "2026-09-23T08:06:28.000Z"
         },
         {
-          "title": "Bobo: Stormers must evolve",
-          "link": "https://www.sarugbymag.co.za/bobo-stormers-must-evolve/",
-          "summary": "Former Springbok centre Gcobani Bobo believes the Stormers need a “massive mindset change” if they are to mount a sustained challenge for the URC title this season. The post Bobo: Stormers must evolve appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/05/Sacha-Feinberg-Mngomezulu-Stormers-9-May-2026.jpg",
+          "title": "Vermeulen hails Bok ‘go-to guy’ Jasper",
+          "link": "https://www.sarugbymag.co.za/vermeulen-hails-bok-go-guy-jasper/",
+          "summary": "Duane Vermeulen has underlined Jasper Wiese’s growing influence in the Springbok set-up ahead of the powerful No 8’s 50th Test in Perth on Sunday. The post Vermeulen hails Bok ‘go-to guy’ Jasper appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Jasper-Wiese-12-September-2026-Alan-Spiegler-Gallo-Images-e1789494616837.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T05:07:00.000Z"
+          "publishedAt": "2026-09-23T08:01:37.000Z"
         },
         {
-          "title": "4G a big challenge for Stormers",
-          "link": "https://www.sarugbymag.co.za/4g-big-challenge-stormers/",
-          "summary": "The Stormers want to hit the ground running and pick up points at the start of the 2026-27 URC, but John Dobson’s men must first grasp playing on synthetic pitches again. The post 4G a big challenge for Stormers…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2507425-e1790110003658.jpg",
+          "title": "Duane: We’ll have a game on our hands",
+          "link": "https://www.sarugbymag.co.za/duane-boks-will-game-hands/",
+          "summary": "Duane Vermeulen says the Springboks are expecting a very different and unpredictable challenge from the Wallabies in Perth on Sunday. The post Duane: We’ll have a game on our hands appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2613837-e1790147661594.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T04:30:05.000Z"
-        },
-        {
-          "title": "Nienaber nervous about entering Lions’ den",
-          "link": "https://www.sarugbymag.co.za/nienaber-nervous-entering-lions-den/",
-          "summary": "Jacques Nienaber claims it'll be tough going for URC defending champions Leinster on Saturday at Ellis Park, where the Lions “put their heart and soul into defending”. The post Nienaber nervous about entering Lions’ den…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2580258-e1790125930548.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T04:15:50.000Z"
+          "publishedAt": "2026-09-23T07:16:22.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Chiedza Dhururu and Olinder Chare back in Zimbabwe squad for WI series",
+          "link": "https://www.cricinfo.com/ci/content/story/1555473.html?ex_cid=OTC-RSS",
+          "summary": "Pemhiwa and Mabhera make way from the squad that played South Africa, while Tsuma misses out because of injury",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422500/422557.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-23T09:40:45.000Z"
+        },
+        {
+          "title": "Williams replaces Maphaka as SA's hamstring crisis intensifies",
+          "link": "https://www.cricinfo.com/ci/content/story/1555463.html?ex_cid=OTC-RSS",
+          "summary": "Rabada, Baartman and Ngidi are already out of the ODI series against Australia with hamstring issues",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422300/422304.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-23T08:03:16.000Z"
+        },
         {
           "title": "Cummins likely to miss first ODI with quicks prioritising Test preparations",
           "link": "https://www.cricinfo.com/ci/content/story/1555437.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/420100/420126.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-22T12:29:51.000Z"
-        },
-        {
-          "title": "Colin Ingram, 41, retires from professional cricket",
-          "link": "https://www.cricinfo.com/ci/content/story/1555342.html?ex_cid=OTC-RSS",
-          "summary": "Colin Ingram, 41, was last in action for Glamorgan in the ongoing County Championship season",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/415200/415286.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-22T10:50:09.000Z"
-        },
-        {
-          "title": "Edwards called up to Australia's ODI squad for South Africa series",
-          "link": "https://www.cricinfo.com/ci/content/story/1555223.html?ex_cid=OTC-RSS",
-          "summary": "Billy Stanlake has been ruled out with a side strain and Spencer Johnson is also returning home",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/422800/422839.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-21T07:48:19.000Z"
         }
       ]
     }
@@ -1465,10 +1465,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-23T07:02:26.983Z",
+    "generatedAt": "2026-09-23T10:01:35.851Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 58m"
+      "label": "🟡 Planned Maintenance In 3h 58m"
     },
     "forecast": [
       {
