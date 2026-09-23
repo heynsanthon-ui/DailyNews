@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-09-22T19:01:18.603Z",
-  "edition": "Updated 21:01 SAST — Tue, 22 Sept",
+  "generatedAt": "2026-09-23T04:01:32.151Z",
+  "edition": "Morning Edition — Wed, 23 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Samarkand R6 (women): China and Kazakhstan remain perfect",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
+          "summary": "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2½–1½, while China beat Poland 3½–½ after the latter had defeated…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-22T23:50:00.000Z"
+        },
+        {
+          "title": "'Mister Dionísio', Who Played Chess At Brazilian Mall For 20 Years, Dies At 96",
+          "link": "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
+          "summary": "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as \"Mr. Dionisio,\" Sganzerla…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-22T22:42:02.000Z"
+        },
+        {
+          "title": "On-Fire Firouzja Finishes First In Titled Tuesday",
+          "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
+          "summary": "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws,…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-22T19:44:37.000Z"
+        },
         {
           "title": "Quo vadis, Fischer Random Chess? (2)",
           "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-22T15:02:40.000Z"
-        },
-        {
-          "title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
-          "link": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
-          "summary": "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2½–1½ in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-22T08:15:00.000Z"
-        },
-        {
-          "title": "John Donaldson: New insights into Bobby Fischer",
-          "link": "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
-          "summary": "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-22T07:39:22.000Z"
-        },
-        {
-          "title": "How can humans prosper in the AI era? Child's play",
-          "link": "https://en.chessbase.com/post/how-can-humans-prosper-in-the-ai-era",
-          "summary": "Robots solve puzzles more efficiently, but there's a joy derived from unscrambling a Rubik's Cube or mastering chess. This Telegraph article, by Judit Polgar and Erno Rubik, argues that as AI becomes vastly faster and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-21T20:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Qatar’s emir urges diplomacy as Gulf at ‘one of the most dangerous phases’",
-          "link": "https://www.aljazeera.com/news/2026/9/22/qatars-emir-urges-diplomacy-as-gulf-at-one-of-the-most-dangerous?traffic_source=rss",
-          "summary": "Sheikh Tamim says years of delayed diplomacy led to the US-Israeli war on Iran.",
+          "title": "Venezuelans protest interim leader Delcy Rodriguez at UN headquarters",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss",
+          "summary": "Venezuelans protested in New York against interim President Delcy Rodriguez's participation in the UN General Assembly.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T18:48:37.000Z"
+          "publishedAt": "2026-09-23T03:08:51.000Z"
         },
         {
-          "title": "US signs ‘tremendous’ Arctic security deal with Denmark, Greenland",
-          "link": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland?traffic_source=rss",
-          "summary": "NATO and the European Union welcome accord that ends months-long standoff after Trump threatened to seize Greenland.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T18:46:32.000Z"
-        },
-        {
-          "title": "US to build two military bases in Greenland under new deal with Denmark",
-          "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-          "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad23/live/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+          "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+          "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-22T18:43:29.000Z"
+          "publishedAt": "2026-09-23T02:57:00.000Z"
         },
         {
-          "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-          "summary": "Qatari Emir Sheikh Tamim bin Hamad Al Thani called for the reopening of the Strait of Hormuz while speaking at the UN.",
+          "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+          "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
+          "summary": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T18:27:01.000Z"
+          "publishedAt": "2026-09-23T02:50:36.000Z"
         },
         {
-          "title": "Trump says US officials met for three hours with Iranian delegation",
-          "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-          "summary": "This is a breaking news story.",
+          "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
+          "link": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
+          "summary": "France's Macron says suffering in Gaza should 'shame all of us' as Canada's Carney pledges $71m for two-state efforts.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-22T18:14:12.000Z"
+          "publishedAt": "2026-09-23T02:36:32.000Z"
+        },
+        {
+          "title": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss",
+          "summary": "UK PM Burnham condemned Israel’s war on Gaza, and explains why the UK sanctioned illegal Israeli settlements.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-23T02:24:01.000Z"
         }
       ]
     },
@@ -1465,27 +1465,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-22T19:01:18.674Z",
+    "generatedAt": "2026-09-23T04:01:32.224Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 58m"
     },
     "forecast": [
-      {
-        "date": "2026-09-22",
-        "day": "Tue",
-        "dayOfMonth": 22,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-23",
         "day": "Wed",
         "dayOfMonth": 23,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-24",
@@ -1499,17 +1491,17 @@
         "date": "2026-09-25",
         "day": "Fri",
         "dayOfMonth": 25,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-09-26",
         "day": "Sat",
         "dayOfMonth": 26,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-09-27",
@@ -1526,26 +1518,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-09-29",
+        "day": "Tue",
+        "dayOfMonth": 29,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Fri 25, 09:00–12:00"
+        "etr": "Sat 26, 09:00–12:00"
       }
     ],
     "reliability": {
