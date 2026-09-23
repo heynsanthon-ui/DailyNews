@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T13:03:31.099Z",
-  "edition": "Updated 15:03 SAST — Wed, 23 Sept",
+  "generatedAt": "2026-09-23T16:01:27.372Z",
+  "edition": "Updated 18:01 SAST — Wed, 23 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Pakistan must ‘catch up’ with India in T20 cricket, says coach Hesson",
-          "link": "https://www.aljazeera.com/sports/2026/9/23/pakistan-must-catch-up-with-india-in-t20-cricket-says-coach-hesson?traffic_source=rss",
-          "summary": "Pakistan could face India in the knockouts of the Asian Games, where the world champions won gold in 2023.",
+          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+          "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+          "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-23T15:59:00.000Z"
+        },
+        {
+          "title": "KPMG manager says she was fired after facing harassment over her keffiyeh",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss",
+          "summary": "KPMG manager says she was fired after facing harassment over her keffiyeh",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T12:46:03.000Z"
+          "publishedAt": "2026-09-23T15:52:13.000Z"
         },
         {
-          "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc76/live/1fb1ec20-b740-11f1-aa9c-3d062fa3aea7.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-23T12:31:31.000Z"
-        },
-        {
-          "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
-          "link": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
-          "summary": "The 2027 Africa Cup of Nations will be held in Kenya, Uganda and Tanzania, with 24 qualification spots up for grabs.",
+          "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
+          "summary": "Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T12:29:21.000Z"
+          "publishedAt": "2026-09-23T15:49:59.000Z"
         },
         {
-          "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-          "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg",
+          "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+          "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+          "summary": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929e/live/2a02d820-b767-11f1-a7b2-f3bdba1cd194.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-23T12:24:02.000Z"
+          "publishedAt": "2026-09-23T15:46:28.000Z"
         },
         {
-          "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
-          "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c5d/live/94bf0a90-b72f-11f1-9f81-a10976817ca3.jpg",
+          "title": "Poland accuses Russian military helicopter of violating its airspace",
+          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+          "summary": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0465/live/f3c02980-b75b-11f1-8e7f-6f99c81f3136.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-23T12:22:53.000Z"
+          "publishedAt": "2026-09-23T15:37:20.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Pead: Stormers move a dream",
-          "link": "https://www.sarugbymag.co.za/pead-stormers-move-a-dream/",
-          "summary": "Haashim Pead says he couldn’t be more excited to join the Stormers and represent his hometown team. The post Pead: Stormers move a dream appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Haashim-Pead-Stormers-e1790161951565.jpg",
+          "title": "Lions target All Blacks standard",
+          "link": "https://www.sarugbymag.co.za/lions-target-blacks-standard/",
+          "summary": "Lions captain Francke Horn wants his side to perform in the URC like they did against the All Blacks. The post Lions target All Blacks standard appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Francke-Horn-Lions-All-Blacks-25-August-2026-Sydney-Seshibedi-Gallo-Images-e1790178306478.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T11:18:00.000Z"
+          "publishedAt": "2026-09-23T15:48:02.000Z"
         },
         {
-          "title": "Captain Harry outlines Wallabies’ victory plan",
-          "link": "https://www.sarugbymag.co.za/captain-harry-outlines-wallabies-victory-plan/",
-          "summary": "Harry Wilson knows the Wallabies will be in for a tough evening if they allow the Springboks to build momentum in Sunday’s Test in Perth. The post Captain Harry outlines Wallabies’ victory plan appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/2286613196-e1784780472740.jpg",
+          "title": "Keo & Zels: Rassie fires up his braai Boks",
+          "link": "https://www.sarugbymag.co.za/keo-zels-rassie-fires-braai-boks-wallabies-perth/",
+          "summary": "The boys are backing a South African URC clean sweep and their beloved Boks to deliver on Sunday. The post Keo & Zels: Rassie fires up his braai Boks appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-4.10.19-PM.jpeg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T10:28:25.000Z"
+          "publishedAt": "2026-09-23T14:24:27.000Z"
         },
         {
-          "title": "Why Rassie Erasmus snubbed Eben Etzebeth and Handre Pollard for Springboks captaincy: ‘We are trying to build our leadership group’",
-          "link": "https://www.planetrugby.com/news/rassie-erasmus-explains-shock-andre-esterhuizen-springboks-captaincy-call",
-          "summary": "Rassie Erasmus says that Andre Esterhuizen 'deserves the opportunity' to captain the Springboks.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23105501/Springboks-star-Andre-Esterhuizen-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "title": "Nick Mallett: ‘Unusual selection’ from Rassie Erasmus means Springboks have ‘a very big ask’ against Wallabies",
+          "link": "https://www.planetrugby.com/news/nick-mallett-unusual-selection-from-rassie-erasmus-means-springboks-have-a-very-big-ask-against-wallabies",
+          "summary": "Nick Mallett feels the Springboks' starting line-up for Sunday's Test against the Wallabies in Perth is an \"unusual selection\".",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23151402/Springboks-players-in-huddle-and-Nick-Mallett-photo-4-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-23T10:11:14.000Z"
+          "publishedAt": "2026-09-23T14:15:14.000Z"
         },
         {
-          "title": "POLL: Who’s SA’s URC title hope?",
-          "link": "https://www.sarugbymag.co.za/poll-whos-sas-urc-title-hope/",
-          "summary": "Which South African team has the best chance of lifting the URC trophy this season? The post POLL: Who’s SA’s URC title hope? appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/URC-trophy-Brendan-Moran-Sportsfile-via-Getty-Images-e1789535359432.jpg",
+          "title": "Care: André the Giant is proper",
+          "link": "https://www.sarugbymag.co.za/care-andre-giant-proper/",
+          "summary": "Danny Care has hailed André Esterhuizen as one of the best players he has ever played with ahead of the Springbok’s first Test as captain. The post Care: André the Giant is proper appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Andre-Esterhuizen-22-August-2026-Floris-van-Schouwenburg-Gallo-Images-e1787586678255.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T10:02:41.000Z"
+          "publishedAt": "2026-09-23T14:14:22.000Z"
         },
         {
-          "title": "Bok bug has bitten Erich",
-          "link": "https://www.sarugbymag.co.za/bok-bug-bitten-erich/",
-          "summary": "Lions utility back Erich Cronjé says spending time training with the Springboks has motivated him even more to play in the green and gold. The post Bok bug has bitten Erich appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2526805-e1790156563484.jpg",
+          "title": "Wallabies wing waits for final Bok 23",
+          "link": "https://www.sarugbymag.co.za/wallabies-wing-waits-for-final-bok-23/",
+          "summary": "Harry Potter believes the Wallabies can benefit from the Springboks’ early team announcement, barring any late changes. The post Wallabies wing waits for final Bok 23 appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Potter-15-August-2026-Cameron-Spencer-Getty-Images-e1790173922430.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T09:43:55.000Z"
+          "publishedAt": "2026-09-23T14:10:51.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "With four fast bowlers already lost to injury, the hosts will have to balance playing their strongest team and keeping players fit",
           "image": "http://p.imgci.com/db/PICTURES/CMS/367100/367150.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-23T11:21:08.000Z"
+          "publishedAt": "2026-09-23T13:03:15.000Z"
         },
         {
           "title": "'I'm very keen to come back and play' - Tahir eyes CPL 2027 at 48",
@@ -258,41 +258,41 @@
       "label": "Women",
       "seedRank": 86,
       "seedRatingAvg": 1895,
-      "currentRank": 64,
-      "matchPoints": "7",
+      "currentRank": 45,
+      "matchPoints": "9",
       "roster": [
         {
           "board": 1,
           "name": "Badenhorst, Chloe",
           "title": "WFM",
           "rating": 1997,
-          "games": 6,
-          "points": 3,
-          "avgOpponentRating": 1857,
-          "performanceRating": 1857,
-          "ratingChange": -15.8
+          "games": 7,
+          "points": 4,
+          "avgOpponentRating": 1872,
+          "performanceRating": 1922,
+          "ratingChange": -6.8
         },
         {
           "board": 2,
           "name": "Laubscher, Anzel",
           "title": "WIM",
           "rating": 1817,
-          "games": 5,
+          "games": 6,
           "points": 3.5,
-          "avgOpponentRating": 1639,
+          "avgOpponentRating": 1731,
           "performanceRating": 1788,
-          "ratingChange": -1.2
+          "ratingChange": -3.2
         },
         {
           "board": 3,
           "name": "Nel, Hayley",
           "title": "WCM",
           "rating": 1864,
-          "games": 6,
-          "points": 3.5,
-          "avgOpponentRating": 1744,
-          "performanceRating": 1801,
-          "ratingChange": -6.6
+          "games": 7,
+          "points": 4,
+          "avgOpponentRating": 1757,
+          "performanceRating": 1807,
+          "ratingChange": -7.4
         },
         {
           "board": 4,
@@ -310,11 +310,11 @@
           "name": "Masango, Sizakele",
           "title": null,
           "rating": 1880,
-          "games": 5,
-          "points": 4,
-          "avgOpponentRating": 1754,
-          "performanceRating": 1994,
-          "ratingChange": 15.6
+          "games": 6,
+          "points": 5,
+          "avgOpponentRating": 1779,
+          "performanceRating": 2052,
+          "ratingChange": 26.2
         }
       ]
     }
@@ -329,8 +329,8 @@
           "date": "2026/09/23",
           "opponent": "Uzbekistan 3 (UZB)",
           "opponentFed": "UZB",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "1",
+          "opponentScore": "3",
           "boards": [
             {
               "board": 1,
@@ -340,8 +340,8 @@
               "opponent": "Saydaliev, Saidakbar",
               "opponentTitle": "IM",
               "opponentRating": 2475,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 2,
@@ -351,8 +351,8 @@
               "opponent": "Rakhmatullaev, Almas",
               "opponentTitle": "IM",
               "opponentRating": 2418,
-              "result": null,
-              "opponentResult": null
+              "result": "½",
+              "opponentResult": "½"
             },
             {
               "board": 3,
@@ -362,8 +362,8 @@
               "opponent": "Abdurakhmonov, Mukhammadali",
               "opponentTitle": "IM",
               "opponentRating": 2390,
-              "result": null,
-              "opponentResult": null
+              "result": "½",
+              "opponentResult": "½"
             },
             {
               "board": 4,
@@ -373,8 +373,8 @@
               "opponent": "Omonov, Asrorjon",
               "opponentTitle": "IM",
               "opponentRating": 2347,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             }
           ]
         },
@@ -770,8 +770,8 @@
           "date": "2026/09/23",
           "opponent": "Costa Rica (CRC)",
           "opponentFed": "CRC",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "2½",
+          "opponentScore": "1½",
           "boards": [
             {
               "board": 1,
@@ -781,8 +781,8 @@
               "opponent": "Rodriguez Arrieta, Maria Elena",
               "opponentTitle": "WIM",
               "opponentRating": 1963,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 2,
@@ -792,8 +792,8 @@
               "opponent": "Mayorga Araya, Sofia",
               "opponentTitle": "WIM",
               "opponentRating": 2189,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 3,
@@ -803,8 +803,8 @@
               "opponent": "Canales Chinchilla, Victoria",
               "opponentTitle": "WCM",
               "opponentRating": 1837,
-              "result": null,
-              "opponentResult": null
+              "result": "½",
+              "opponentResult": "½"
             },
             {
               "board": 4,
@@ -814,8 +814,8 @@
               "opponent": "Gamboa Alvarado, Olga Leticia",
               "opponentTitle": "WFM",
               "opponentRating": 1904,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             }
           ]
         },
@@ -1150,33 +1150,33 @@
           "name": "Badenhorst, Chloe",
           "title": "WFM",
           "rating": 1997,
-          "games": 6,
-          "points": 3,
-          "avgOpponentRating": 1857,
-          "performanceRating": 1857,
-          "ratingChange": -15.8
+          "games": 7,
+          "points": 4,
+          "avgOpponentRating": 1872,
+          "performanceRating": 1922,
+          "ratingChange": -6.8
         },
         {
           "board": 2,
           "name": "Laubscher, Anzel",
           "title": "WIM",
           "rating": 1817,
-          "games": 5,
+          "games": 6,
           "points": 3.5,
-          "avgOpponentRating": 1639,
+          "avgOpponentRating": 1731,
           "performanceRating": 1788,
-          "ratingChange": -1.2
+          "ratingChange": -3.2
         },
         {
           "board": 3,
           "name": "Nel, Hayley",
           "title": "WCM",
           "rating": 1864,
-          "games": 6,
-          "points": 3.5,
-          "avgOpponentRating": 1744,
-          "performanceRating": 1801,
-          "ratingChange": -6.6
+          "games": 7,
+          "points": 4,
+          "avgOpponentRating": 1757,
+          "performanceRating": 1807,
+          "ratingChange": -7.4
         },
         {
           "board": 4,
@@ -1194,11 +1194,11 @@
           "name": "Masango, Sizakele",
           "title": null,
           "rating": 1880,
-          "games": 5,
-          "points": 4,
-          "avgOpponentRating": 1754,
-          "performanceRating": 1994,
-          "ratingChange": 15.6
+          "games": 6,
+          "points": 5,
+          "avgOpponentRating": 1779,
+          "performanceRating": 2052,
+          "ratingChange": 26.2
         }
       ]
     }
@@ -1335,128 +1335,128 @@
     {
       "id": "women",
       "label": "Women",
-      "asOfRound": 6,
+      "asOfRound": 7,
       "top10": [
         {
           "rank": 1,
           "fed": "CHN",
           "team": "China",
-          "games": 6,
+          "games": 7,
           "wins": 6,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "matchPoints": "12",
+          "matchPoints": "13",
           "seedRank": 4
         },
         {
           "rank": 2,
           "fed": "KAZ",
           "team": "Kazakhstan",
-          "games": 6,
+          "games": 7,
           "wins": 6,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "matchPoints": "12",
+          "matchPoints": "13",
           "seedRank": 3
         },
         {
           "rank": 3,
           "fed": "IND",
           "team": "India",
-          "games": 6,
-          "wins": 5,
+          "games": 7,
+          "wins": 6,
           "draws": 0,
           "losses": 1,
-          "matchPoints": "10",
+          "matchPoints": "12",
           "seedRank": 1
         },
         {
           "rank": 4,
           "fed": "BUL",
           "team": "Bulgaria",
-          "games": 6,
-          "wins": 5,
+          "games": 7,
+          "wins": 6,
           "draws": 0,
           "losses": 1,
-          "matchPoints": "10",
+          "matchPoints": "12",
           "seedRank": 11
         },
         {
           "rank": 5,
-          "fed": "GER",
-          "team": "Germany",
-          "games": 6,
+          "fed": "GEO",
+          "team": "Georgia",
+          "games": 7,
           "wins": 5,
-          "draws": 0,
-          "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 10
+          "draws": 2,
+          "losses": 0,
+          "matchPoints": "12",
+          "seedRank": 2
         },
         {
           "rank": 6,
-          "fed": "SUI",
-          "team": "Switzerland",
-          "games": 6,
-          "wins": 4,
-          "draws": 2,
-          "losses": 0,
-          "matchPoints": "10",
-          "seedRank": 17
-        },
-        {
-          "rank": 7,
           "fed": "ARM",
           "team": "Armenia",
-          "games": 6,
-          "wins": 5,
+          "games": 7,
+          "wins": 6,
           "draws": 0,
           "losses": 1,
-          "matchPoints": "10",
+          "matchPoints": "12",
           "seedRank": 16
         },
         {
-          "rank": 8,
-          "fed": "POL",
-          "team": "Poland",
-          "games": 6,
-          "wins": 5,
+          "rank": 7,
+          "fed": "MGL",
+          "team": "Mongolia",
+          "games": 7,
+          "wins": 6,
           "draws": 0,
           "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 9
+          "matchPoints": "12",
+          "seedRank": 15
+        },
+        {
+          "rank": 8,
+          "fed": "USA",
+          "team": "United States of America",
+          "games": 7,
+          "wins": 5,
+          "draws": 1,
+          "losses": 1,
+          "matchPoints": "11",
+          "seedRank": 5
         },
         {
           "rank": 9,
-          "fed": "AZE",
-          "team": "Azerbaijan",
-          "games": 6,
+          "fed": "UZB",
+          "team": "Uzbekistan",
+          "games": 7,
           "wins": 5,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 7
+          "matchPoints": "11",
+          "seedRank": 13
         },
         {
           "rank": 10,
-          "fed": "GEO",
-          "team": "Georgia",
-          "games": 6,
+          "fed": "NED",
+          "team": "Netherlands",
+          "games": 7,
           "wins": 4,
-          "draws": 2,
+          "draws": 3,
           "losses": 0,
-          "matchPoints": "10",
-          "seedRank": 2
+          "matchPoints": "11",
+          "seedRank": 12
         }
       ],
       "sa": {
-        "rank": 64,
+        "rank": 45,
         "fed": "RSA",
         "team": "South Africa",
-        "games": 6,
-        "wins": 3,
+        "games": 7,
+        "wins": 4,
         "draws": 1,
         "losses": 2,
-        "matchPoints": "7",
+        "matchPoints": "9",
         "seedRank": 86
       }
     }
@@ -1465,10 +1465,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-23T13:03:31.169Z",
+    "generatedAt": "2026-09-23T16:01:27.444Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 56m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
