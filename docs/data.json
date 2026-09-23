@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-23T16:01:27.372Z",
-  "edition": "Updated 18:01 SAST — Wed, 23 Sept",
+  "generatedAt": "2026-09-23T19:01:34.205Z",
+  "edition": "Updated 21:01 SAST — Wed, 23 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Total Chess World Championship Tour announces six more stars for pilot",
+          "link": "https://en.chessbase.com/post/total-chess-world-ch-2026-lineup",
+          "summary": "The 24-player field for the Total Chess World Championship Tour Pilot in Budapest is now complete, with Levon Aronian, Le Quang Liem, Jorden van Foreest, Abhimanyu Mishra, Shakhriyar Mamedyarov and Andrew Hong joining…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-23T20:30:00.000Z"
+        },
+        {
+          "title": "Uzbekistan Leads With 7/7 Match Wins; China, Kazakhstan Share Women's Lead",
+          "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-7",
+          "summary": "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-23T16:42:00.000Z"
+        },
         {
           "title": "Chess Olympiad - Live!",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-22T19:44:00.000Z"
-        },
-        {
-          "title": "Quo vadis, Fischer Random Chess? (2)",
-          "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
-          "summary": "In a previous article we described the genesis of this increasingly popular form of chess – and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-22T15:30:00.000Z"
-        },
-        {
-          "title": "Chess.com Seirawan Chess Championship Starts September 30",
-          "link": "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
-          "summary": "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&mdash;and a whole new set of…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-22T15:02:40.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
+          "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+          "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+          "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-23T15:59:00.000Z"
+          "publishedAt": "2026-09-23T18:51:12.000Z"
         },
         {
-          "title": "KPMG manager says she was fired after facing harassment over her keffiyeh",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss",
-          "summary": "KPMG manager says she was fired after facing harassment over her keffiyeh",
+          "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
+          "link": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
+          "summary": "Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T15:52:13.000Z"
+          "publishedAt": "2026-09-23T18:36:39.000Z"
         },
         {
-          "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
-          "summary": "Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.",
+          "title": "Why does Greenland matter to the US?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss",
+          "summary": "Donald Trump says a new deal gives the US complete control over the island's security.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T15:49:59.000Z"
+          "publishedAt": "2026-09-23T18:35:55.000Z"
         },
         {
-          "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-          "link": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-          "summary": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929e/live/2a02d820-b767-11f1-a7b2-f3bdba1cd194.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-23T15:46:28.000Z"
+          "title": "US says it is open to talks with Cuba if it changes government",
+          "link": "https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss",
+          "summary": "Marco Rubio made comments after Trump called Cuba a 'failed state' at the UN, prompting Cuban delegation to walk out.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-23T18:34:20.000Z"
         },
         {
-          "title": "Poland accuses Russian military helicopter of violating its airspace",
-          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-          "summary": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0465/live/f3c02980-b75b-11f1-8e7f-6f99c81f3136.jpg",
+          "title": "Iran's president tells Trump it will never 'bend the knee'",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+          "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-23T15:37:20.000Z"
+          "publishedAt": "2026-09-23T18:15:31.000Z"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "label": "Open",
       "seedRank": 77,
       "seedRatingAvg": 2323,
-      "currentRank": 71,
+      "currentRank": 99,
       "matchPoints": "7",
       "roster": [
         {
@@ -201,53 +201,53 @@
           "name": "Karsten, Jan",
           "title": "IM",
           "rating": 2386,
-          "games": 5,
-          "points": 3,
-          "avgOpponentRating": 2423,
-          "performanceRating": 2495,
-          "ratingChange": 15.2
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 6,
+          "performanceRating": 2432,
+          "ratingChange": 7.6
         },
         {
           "board": 2,
           "name": "Levitan, Caleb Levi",
           "title": "IM",
           "rating": 2316,
-          "games": 4,
-          "points": 2.5,
-          "avgOpponentRating": 2256,
-          "performanceRating": 2351,
-          "ratingChange": 5.4
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 5,
+          "performanceRating": 2360,
+          "ratingChange": 8.2
         },
         {
           "board": 3,
           "name": "Mhango, Banele",
           "title": "FM",
           "rating": 2354,
-          "games": 5,
-          "points": 2.5,
-          "avgOpponentRating": 2333,
-          "performanceRating": 2333,
-          "ratingChange": -0.2
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 6,
+          "performanceRating": 2343,
+          "ratingChange": 0.8
         },
         {
           "board": 4,
           "name": "Mnyasta, Charlton",
           "title": null,
           "rating": 2236,
-          "games": 6,
-          "points": 3.5,
-          "avgOpponentRating": 2237,
-          "performanceRating": 2294,
-          "ratingChange": 12
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 7,
+          "performanceRating": 2253,
+          "ratingChange": 5
         },
         {
           "board": 5,
           "name": "Dinham, James",
           "title": null,
           "rating": 2124,
-          "games": 4,
-          "points": 2.5,
-          "avgOpponentRating": 1981,
+          "games": 2,
+          "points": null,
+          "avgOpponentRating": 4,
           "performanceRating": 2076,
           "ratingChange": 2.4
         }
@@ -266,9 +266,9 @@
           "name": "Badenhorst, Chloe",
           "title": "WFM",
           "rating": 1997,
-          "games": 7,
-          "points": 4,
-          "avgOpponentRating": 1872,
+          "games": 4,
+          "points": null,
+          "avgOpponentRating": 7,
           "performanceRating": 1922,
           "ratingChange": -6.8
         },
@@ -277,9 +277,9 @@
           "name": "Laubscher, Anzel",
           "title": "WIM",
           "rating": 1817,
-          "games": 6,
-          "points": 3.5,
-          "avgOpponentRating": 1731,
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 6,
           "performanceRating": 1788,
           "ratingChange": -3.2
         },
@@ -288,9 +288,9 @@
           "name": "Nel, Hayley",
           "title": "WCM",
           "rating": 1864,
-          "games": 7,
-          "points": 4,
-          "avgOpponentRating": 1757,
+          "games": 4,
+          "points": null,
+          "avgOpponentRating": 7,
           "performanceRating": 1807,
           "ratingChange": -7.4
         },
@@ -299,9 +299,9 @@
           "name": "Klaasen, Robyn Julian",
           "title": null,
           "rating": 1839,
-          "games": 2,
-          "points": 1,
-          "avgOpponentRating": 1784,
+          "games": 1,
+          "points": null,
+          "avgOpponentRating": 2,
           "performanceRating": 1784,
           "ratingChange": -2.4
         },
@@ -310,9 +310,9 @@
           "name": "Masango, Sizakele",
           "title": null,
           "rating": 1880,
-          "games": 6,
-          "points": 5,
-          "avgOpponentRating": 1779,
+          "games": 5,
+          "points": null,
+          "avgOpponentRating": 6,
           "performanceRating": 2052,
           "ratingChange": 26.2
         }
@@ -324,6 +324,60 @@
       "id": "open",
       "label": "South Africa — Open",
       "rounds": [
+        {
+          "round": 8,
+          "date": "2026/09/24",
+          "opponent": "Puerto Rico (PUR)",
+          "opponentFed": "PUR",
+          "saScore": "0",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 2,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 3,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 4,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            }
+          ]
+        },
         {
           "round": 7,
           "date": "2026/09/23",
@@ -709,53 +763,53 @@
           "name": "Karsten, Jan",
           "title": "IM",
           "rating": 2386,
-          "games": 5,
-          "points": 3,
-          "avgOpponentRating": 2423,
-          "performanceRating": 2495,
-          "ratingChange": 15.2
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 6,
+          "performanceRating": 2432,
+          "ratingChange": 7.6
         },
         {
           "board": 2,
           "name": "Levitan, Caleb Levi",
           "title": "IM",
           "rating": 2316,
-          "games": 4,
-          "points": 2.5,
-          "avgOpponentRating": 2256,
-          "performanceRating": 2351,
-          "ratingChange": 5.4
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 5,
+          "performanceRating": 2360,
+          "ratingChange": 8.2
         },
         {
           "board": 3,
           "name": "Mhango, Banele",
           "title": "FM",
           "rating": 2354,
-          "games": 5,
-          "points": 2.5,
-          "avgOpponentRating": 2333,
-          "performanceRating": 2333,
-          "ratingChange": -0.2
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 6,
+          "performanceRating": 2343,
+          "ratingChange": 0.8
         },
         {
           "board": 4,
           "name": "Mnyasta, Charlton",
           "title": null,
           "rating": 2236,
-          "games": 6,
-          "points": 3.5,
-          "avgOpponentRating": 2237,
-          "performanceRating": 2294,
-          "ratingChange": 12
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 7,
+          "performanceRating": 2253,
+          "ratingChange": 5
         },
         {
           "board": 5,
           "name": "Dinham, James",
           "title": null,
           "rating": 2124,
-          "games": 4,
-          "points": 2.5,
-          "avgOpponentRating": 1981,
+          "games": 2,
+          "points": null,
+          "avgOpponentRating": 4,
           "performanceRating": 2076,
           "ratingChange": 2.4
         }
@@ -765,6 +819,60 @@
       "id": "women",
       "label": "South Africa — Women",
       "rounds": [
+        {
+          "round": 8,
+          "date": "2026/09/24",
+          "opponent": "Estonia (EST)",
+          "opponentFed": "EST",
+          "saScore": "0",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 2,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 3,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 4,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            }
+          ]
+        },
         {
           "round": 7,
           "date": "2026/09/23",
@@ -1150,9 +1258,9 @@
           "name": "Badenhorst, Chloe",
           "title": "WFM",
           "rating": 1997,
-          "games": 7,
-          "points": 4,
-          "avgOpponentRating": 1872,
+          "games": 4,
+          "points": null,
+          "avgOpponentRating": 7,
           "performanceRating": 1922,
           "ratingChange": -6.8
         },
@@ -1161,9 +1269,9 @@
           "name": "Laubscher, Anzel",
           "title": "WIM",
           "rating": 1817,
-          "games": 6,
-          "points": 3.5,
-          "avgOpponentRating": 1731,
+          "games": 3,
+          "points": null,
+          "avgOpponentRating": 6,
           "performanceRating": 1788,
           "ratingChange": -3.2
         },
@@ -1172,9 +1280,9 @@
           "name": "Nel, Hayley",
           "title": "WCM",
           "rating": 1864,
-          "games": 7,
-          "points": 4,
-          "avgOpponentRating": 1757,
+          "games": 4,
+          "points": null,
+          "avgOpponentRating": 7,
           "performanceRating": 1807,
           "ratingChange": -7.4
         },
@@ -1183,9 +1291,9 @@
           "name": "Klaasen, Robyn Julian",
           "title": null,
           "rating": 1839,
-          "games": 2,
-          "points": 1,
-          "avgOpponentRating": 1784,
+          "games": 1,
+          "points": null,
+          "avgOpponentRating": 2,
           "performanceRating": 1784,
           "ratingChange": -2.4
         },
@@ -1194,9 +1302,9 @@
           "name": "Masango, Sizakele",
           "title": null,
           "rating": 1880,
-          "games": 6,
-          "points": 5,
-          "avgOpponentRating": 1779,
+          "games": 5,
+          "points": null,
+          "avgOpponentRating": 6,
           "performanceRating": 2052,
           "ratingChange": 26.2
         }
@@ -1207,127 +1315,127 @@
     {
       "id": "open",
       "label": "Open",
-      "asOfRound": 6,
+      "asOfRound": 7,
       "top10": [
         {
           "rank": 1,
           "fed": "UZB",
           "team": "Uzbekistan",
-          "games": 6,
-          "wins": 6,
+          "games": 7,
+          "wins": 7,
           "draws": 0,
           "losses": 0,
-          "matchPoints": "12",
+          "matchPoints": "14",
           "seedRank": 3
         },
         {
           "rank": 2,
+          "fed": "NED",
+          "team": "Netherlands",
+          "games": 7,
+          "wins": 6,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "12",
+          "seedRank": 6
+        },
+        {
+          "rank": 3,
+          "fed": "IND",
+          "team": "India",
+          "games": 7,
+          "wins": 6,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "12",
+          "seedRank": 2
+        },
+        {
+          "rank": 4,
+          "fed": "GER",
+          "team": "Germany",
+          "games": 7,
+          "wins": 6,
+          "draws": 0,
+          "losses": 1,
+          "matchPoints": "12",
+          "seedRank": 5
+        },
+        {
+          "rank": 5,
+          "fed": "AZE",
+          "team": "Azerbaijan",
+          "games": 7,
+          "wins": 5,
+          "draws": 2,
+          "losses": 0,
+          "matchPoints": "12",
+          "seedRank": 7
+        },
+        {
+          "rank": 6,
+          "fed": "ARM",
+          "team": "Armenia",
+          "games": 7,
+          "wins": 5,
+          "draws": 2,
+          "losses": 0,
+          "matchPoints": "12",
+          "seedRank": 10
+        },
+        {
+          "rank": 7,
           "fed": "CHN",
           "team": "China",
-          "games": 6,
+          "games": 7,
           "wins": 5,
           "draws": 1,
-          "losses": 0,
+          "losses": 1,
           "matchPoints": "11",
           "seedRank": 4
         },
         {
-          "rank": 3,
-          "fed": "ARM",
-          "team": "Armenia",
-          "games": 6,
-          "wins": 5,
-          "draws": 1,
-          "losses": 0,
-          "matchPoints": "11",
-          "seedRank": 10
-        },
-        {
-          "rank": 4,
+          "rank": 8,
           "fed": "FRA",
           "team": "France",
-          "games": 6,
+          "games": 7,
           "wins": 4,
-          "draws": 2,
+          "draws": 3,
           "losses": 0,
-          "matchPoints": "10",
+          "matchPoints": "11",
           "seedRank": 9
         },
         {
-          "rank": 5,
-          "fed": "NED",
-          "team": "Netherlands",
-          "games": 6,
-          "wins": 5,
-          "draws": 0,
-          "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 6
-        },
-        {
-          "rank": 6,
-          "fed": "TUR",
-          "team": "Turkiye",
-          "games": 6,
-          "wins": 5,
-          "draws": 0,
-          "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 14
-        },
-        {
-          "rank": 7,
-          "fed": "IND",
-          "team": "India",
-          "games": 6,
-          "wins": 5,
-          "draws": 0,
-          "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 2
-        },
-        {
-          "rank": 8,
-          "fed": "GRE",
-          "team": "Greece",
-          "games": 6,
-          "wins": 5,
-          "draws": 0,
-          "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 19
-        },
-        {
           "rank": 9,
-          "fed": "GER",
-          "team": "Germany",
-          "games": 6,
+          "fed": "IRI",
+          "team": "Iran",
+          "games": 7,
           "wins": 5,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "matchPoints": "10",
-          "seedRank": 5
+          "matchPoints": "11",
+          "seedRank": 18
         },
         {
           "rank": 10,
-          "fed": "ENG",
-          "team": "England",
-          "games": 6,
-          "wins": 4,
-          "draws": 2,
-          "losses": 0,
-          "matchPoints": "10",
-          "seedRank": 11
+          "fed": "SRB",
+          "team": "Serbia",
+          "games": 7,
+          "wins": 5,
+          "draws": 1,
+          "losses": 1,
+          "matchPoints": "11",
+          "seedRank": 15
         }
       ],
       "sa": {
-        "rank": 71,
+        "rank": 99,
         "fed": "RSA",
         "team": "South Africa",
-        "games": 6,
+        "games": 7,
         "wins": 3,
         "draws": 1,
-        "losses": 2,
+        "losses": 3,
         "matchPoints": "7",
         "seedRank": 77
       }
@@ -1465,10 +1573,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-23T16:01:27.444Z",
+    "generatedAt": "2026-09-23T19:01:34.272Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
