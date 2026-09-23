@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-23T10:01:35.778Z",
-  "edition": "Updated 12:01 SAST — Wed, 23 Sept",
+  "generatedAt": "2026-09-23T13:03:31.099Z",
+  "edition": "Updated 15:03 SAST — Wed, 23 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "Samarkand R6 (women): China and Kazakhstan remain perfect",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-6-women",
-          "summary": "China and Kazakhstan reached the rest day as joint leaders of the Women's Chess Olympiad with perfect 12/12 match scores. Kazakhstan edged Azerbaijan 2½–1½, while China beat Poland 3½–½ after the latter had defeated…",
+          "title": "Chess Olympiad - Live!",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-09-22T23:50:00.000Z"
+          "publishedAt": "2026-09-23T11:45:00.000Z"
         },
         {
           "title": "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
-          "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
-          "summary": "Trump threatens to 'annihilate' Iran and then brags about diplomacy, provoking Tehran to warn of a response.",
+          "title": "Pakistan must ‘catch up’ with India in T20 cricket, says coach Hesson",
+          "link": "https://www.aljazeera.com/sports/2026/9/23/pakistan-must-catch-up-with-india-in-t20-cricket-says-coach-hesson?traffic_source=rss",
+          "summary": "Pakistan could face India in the knockouts of the Asian Games, where the world champions won gold in 2023.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T09:40:20.000Z"
+          "publishedAt": "2026-09-23T12:46:03.000Z"
         },
         {
-          "title": "UN General Assembly quiz: Who said these 10 famous quotes?",
-          "link": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss",
-          "summary": "With world leaders at the UN General Assembly podium this week, play our quiz matching famous quotes to who said them.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T09:06:41.000Z"
+          "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+          "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc76/live/1fb1ec20-b740-11f1-aa9c-3d062fa3aea7.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-23T12:31:31.000Z"
         },
         {
-          "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
-          "link": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
-          "summary": "Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.",
+          "title": "AFCON 2027 qualifiers: Teams, top players, schedule, format, matches",
+          "link": "https://www.aljazeera.com/sports/2026/9/23/africa-cup-of-nations-afcon-2027-teams-schedule-salah-hakimi-mane?traffic_source=rss",
+          "summary": "The 2027 Africa Cup of Nations will be held in Kenya, Uganda and Tanzania, with 24 qualification spots up for grabs.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T09:02:02.000Z"
+          "publishedAt": "2026-09-23T12:29:21.000Z"
         },
         {
-          "title": "Mirabai Chanu wins Asian Games silver as Ri breaks weightlifting record",
-          "link": "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss",
-          "summary": "Chanu finally clinches an elusive Asian Games medal in Japan and Ri Song-gum wins North Korea’s first gold.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T08:58:18.000Z"
+          "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+          "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-23T12:24:02.000Z"
         },
         {
-          "title": "US senator condemns Netanyahu as a ‘chronic liar’ ahead of UNGA visit",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-senator-condemns-netanyahu-as-a-chronic-liar-ahead-of-unga-visit?traffic_source=rss",
-          "summary": "US Democratic senator Chris Van Hollen has called Netanyahu a lying war criminal ahead of his visit to UNGA",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T08:44:44.000Z"
+          "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+          "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c5d/live/94bf0a90-b72f-11f1-9f81-a10976817ca3.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-23T12:22:53.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Pead: Stormers move a dream",
+          "link": "https://www.sarugbymag.co.za/pead-stormers-move-a-dream/",
+          "summary": "Haashim Pead says he couldn’t be more excited to join the Stormers and represent his hometown team. The post Pead: Stormers move a dream appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Haashim-Pead-Stormers-e1790161951565.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-23T11:18:00.000Z"
+        },
+        {
+          "title": "Captain Harry outlines Wallabies’ victory plan",
+          "link": "https://www.sarugbymag.co.za/captain-harry-outlines-wallabies-victory-plan/",
+          "summary": "Harry Wilson knows the Wallabies will be in for a tough evening if they allow the Springboks to build momentum in Sunday’s Test in Perth. The post Captain Harry outlines Wallabies’ victory plan appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/2286613196-e1784780472740.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-23T10:28:25.000Z"
+        },
+        {
+          "title": "Why Rassie Erasmus snubbed Eben Etzebeth and Handre Pollard for Springboks captaincy: ‘We are trying to build our leadership group’",
+          "link": "https://www.planetrugby.com/news/rassie-erasmus-explains-shock-andre-esterhuizen-springboks-captaincy-call",
+          "summary": "Rassie Erasmus says that Andre Esterhuizen 'deserves the opportunity' to captain the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23105501/Springboks-star-Andre-Esterhuizen-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-23T10:11:14.000Z"
+        },
+        {
+          "title": "POLL: Who’s SA’s URC title hope?",
+          "link": "https://www.sarugbymag.co.za/poll-whos-sas-urc-title-hope/",
+          "summary": "Which South African team has the best chance of lifting the URC trophy this season? The post POLL: Who’s SA’s URC title hope? appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/URC-trophy-Brendan-Moran-Sportsfile-via-Getty-Images-e1789535359432.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-23T10:02:41.000Z"
+        },
+        {
           "title": "Bok bug has bitten Erich",
           "link": "https://www.sarugbymag.co.za/bok-bug-bitten-erich/",
           "summary": "Lions utility back Erich Cronjé says spending time training with the Springboks has motivated him even more to play in the green and gold. The post Bok bug has bitten Erich appeared first on SA Rugby magazine.",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2526805-e1790156563484.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-23T09:43:55.000Z"
-        },
-        {
-          "title": "Springboks: Rassie Erasmus reveals Malcolm Marx experiment that could debut versus Australia",
-          "link": "https://www.planetrugby.com/news/springboks-rassie-erasmus-reveals-malcolm-marx-experiment",
-          "summary": "Rassie Erasmus has plans to experiment with the best player in the world.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23092506/Malcolm-Marx-and-an-inset-of-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-23T08:40:00.000Z"
-        },
-        {
-          "title": "Mallett: Don’t move Marx",
-          "link": "https://www.sarugbymag.co.za/mallett-dont-move-marx/",
-          "summary": "Nick Mallett has questioned why Rassie Erasmus would want to use Malcolm Marx at flank against the Wallabies in Perth on Sunday. The post Mallett: Don’t move Marx appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2613244-e1788877468334.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T08:06:28.000Z"
-        },
-        {
-          "title": "Vermeulen hails Bok ‘go-to guy’ Jasper",
-          "link": "https://www.sarugbymag.co.za/vermeulen-hails-bok-go-guy-jasper/",
-          "summary": "Duane Vermeulen has underlined Jasper Wiese’s growing influence in the Springbok set-up ahead of the powerful No 8’s 50th Test in Perth on Sunday. The post Vermeulen hails Bok ‘go-to guy’ Jasper appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Jasper-Wiese-12-September-2026-Alan-Spiegler-Gallo-Images-e1789494616837.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T08:01:37.000Z"
-        },
-        {
-          "title": "Duane: We’ll have a game on our hands",
-          "link": "https://www.sarugbymag.co.za/duane-boks-will-game-hands/",
-          "summary": "Duane Vermeulen says the Springboks are expecting a very different and unpredictable challenge from the Wallabies in Perth on Sunday. The post Duane: We’ll have a game on our hands appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2613837-e1790147661594.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T07:16:22.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Party in South Africa as World Cup holders Australia come calling",
+          "link": "https://www.cricinfo.com/ci/content/story/1555479.html?ex_cid=OTC-RSS",
+          "summary": "With four fast bowlers already lost to injury, the hosts will have to balance playing their strongest team and keeping players fit",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/367100/367150.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-23T11:21:08.000Z"
+        },
+        {
+          "title": "'I'm very keen to come back and play' - Tahir eyes CPL 2027 at 48",
+          "link": "https://www.cricinfo.com/ci/content/story/1555476.html?ex_cid=OTC-RSS",
+          "summary": "Tahir wants to finish his career \"in front of the Guyanese crowd,\" whose franchise he has represented since 2018 in the CPL",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422300/422324.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-23T10:06:26.000Z"
+        },
         {
           "title": "Chiedza Dhururu and Olinder Chare back in Zimbabwe squad for WI series",
           "link": "https://www.cricinfo.com/ci/content/story/1555473.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/409600/409639.png",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-23T04:58:59.000Z"
-        },
-        {
-          "title": "Miller commits to SA despite no national contract",
-          "link": "https://www.cricinfo.com/ci/content/story/1555372.html?ex_cid=OTC-RSS",
-          "summary": "\"My priority has always been South Africa. Although I've played a lot of leagues, I love playing for South Africa. Nothing's changed\"",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413283.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-22T12:54:24.000Z"
-        },
-        {
-          "title": "ICC's agenda for 2027-31: more T20Is, fewer bilateral ODIs",
-          "link": "https://www.cricinfo.com/ci/content/story/1555369.html?ex_cid=OTC-RSS",
-          "summary": "ICC's cricket operations workshop in Dubai to finalise the FTP for 2027-31, which has Big 3 commitments all but set",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/420100/420126.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-22T12:29:51.000Z"
         }
       ]
     }
@@ -1465,10 +1465,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-23T10:01:35.851Z",
+    "generatedAt": "2026-09-23T13:03:31.169Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 58m"
+      "label": "🟡 Planned Maintenance In 56m"
     },
     "forecast": [
       {
