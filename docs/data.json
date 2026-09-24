@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-23T19:01:34.205Z",
-  "edition": "Updated 21:01 SAST — Wed, 23 Sept",
+  "generatedAt": "2026-09-24T04:01:28.701Z",
+  "edition": "Morning Edition — Thu, 24 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Samarkand R7 (open): Uzbekistan continue dominating run, extend lead",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-7",
+          "summary": "Uzbekistan opened a two-point lead in the Chess Olympiad after defeating China 3–1 in round seven, with Nodirbek Abdusattorov and Nodirbek Yakubboev scoring the decisive wins. The hosts remain the only team unbeaten on…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-24T03:55:00.000Z"
+        },
+        {
+          "title": "Behind the scenes in Samarkand: The playing hall",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-vlog-2",
+          "summary": "The ChessBase crew continues its coverage from the Chess Olympiad in Samarkand, moving from the exhibition stand to the playing hall and capturing some of the atmosphere around the event. The latest vlog features…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-23T21:30:00.000Z"
+        },
         {
           "title": "Total Chess World Championship Tour announces six more stars for pilot",
           "link": "https://en.chessbase.com/post/total-chess-world-ch-2026-lineup",
@@ -23,28 +39,12 @@
           "publishedAt": "2026-09-23T16:42:00.000Z"
         },
         {
-          "title": "Chess Olympiad - Live!",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-23T11:45:00.000Z"
-        },
-        {
           "title": "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96",
           "link": "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
           "summary": "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as \"Mr. Dionisio,\" Sganzerla…",
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-22T22:42:00.000Z"
-        },
-        {
-          "title": "On-Fire Firouzja Finishes First In Titled Tuesday",
-          "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
-          "summary": "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws,…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-22T19:44:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-          "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg",
+          "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+          "link": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+          "summary": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-24T03:32:28.000Z"
+        },
+        {
+          "title": "Spain’s Sanchez warns of far-right threat in UNGA speech",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+          "summary": "Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-24T03:30:58.000Z"
+        },
+        {
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+          "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-23T18:51:12.000Z"
+          "publishedAt": "2026-09-24T03:22:54.000Z"
         },
         {
-          "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
-          "link": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
-          "summary": "Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.",
+          "title": "Australia says OpenAI agent hacked Medicare portal",
+          "link": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
+          "summary": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T18:36:39.000Z"
+          "publishedAt": "2026-09-24T02:34:58.000Z"
         },
         {
-          "title": "Why does Greenland matter to the US?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss",
-          "summary": "Donald Trump says a new deal gives the US complete control over the island's security.",
+          "title": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
+          "summary": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T18:35:55.000Z"
-        },
-        {
-          "title": "US says it is open to talks with Cuba if it changes government",
-          "link": "https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss",
-          "summary": "Marco Rubio made comments after Trump called Cuba a 'failed state' at the UN, prompting Cuban delegation to walk out.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-23T18:34:20.000Z"
-        },
-        {
-          "title": "Iran's president tells Trump it will never 'bend the knee'",
-          "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-          "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-23T18:15:31.000Z"
+          "publishedAt": "2026-09-24T02:23:06.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Porthen ready to seize chance in Perth",
+          "link": "https://www.sarugbymag.co.za/porthen-ready-seize-chance-perth/",
+          "summary": "Zach Porthen says the Springboks’ fringe players are “hungry” to prove themselves against the Wallabies on Sunday. The post Porthen ready to seize chance in Perth appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Zachary-Porthen-22-August-2026-Floris-van-Schouwenburg-Gallo-Images-e1790146418758.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T04:00:41.000Z"
+        },
+        {
+          "title": "FREE DIGI-MAG: Boks’ greatness grows",
+          "link": "https://www.sarugbymag.co.za/free-digi-mag-boks-greatness-grows/",
+          "summary": "Read the new issue of SA Rugby magazine, which reflects on the Springboks' famous Rugby's Greatest Rivalry series win. The post FREE DIGI-MAG: Boks’ greatness grows appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SA-Rugby-magazine-October-2026-e1789981147317.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T03:55:06.000Z"
+        },
         {
           "title": "Lions target All Blacks standard",
           "link": "https://www.sarugbymag.co.za/lions-target-blacks-standard/",
@@ -121,22 +137,6 @@
           "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23151402/Springboks-players-in-huddle-and-Nick-Mallett-photo-4-120x120.jpg",
           "source": "Planet Rugby",
           "publishedAt": "2026-09-23T14:15:14.000Z"
-        },
-        {
-          "title": "Care: André the Giant is proper",
-          "link": "https://www.sarugbymag.co.za/care-andre-giant-proper/",
-          "summary": "Danny Care has hailed André Esterhuizen as one of the best players he has ever played with ahead of the Springbok’s first Test as captain. The post Care: André the Giant is proper appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Andre-Esterhuizen-22-August-2026-Floris-van-Schouwenburg-Gallo-Images-e1787586678255.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T14:14:22.000Z"
-        },
-        {
-          "title": "Wallabies wing waits for final Bok 23",
-          "link": "https://www.sarugbymag.co.za/wallabies-wing-waits-for-final-bok-23/",
-          "summary": "Harry Potter believes the Wallabies can benefit from the Springboks’ early team announcement, barring any late changes. The post Wallabies wing waits for final Bok 23 appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Potter-15-August-2026-Cameron-Spencer-Getty-Images-e1790173922430.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T14:10:51.000Z"
         }
       ]
     },
@@ -1573,27 +1573,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-23T19:01:34.272Z",
+    "generatedAt": "2026-09-24T04:01:28.769Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 59m"
     },
     "forecast": [
-      {
-        "date": "2026-09-23",
-        "day": "Wed",
-        "dayOfMonth": 23,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-24",
         "day": "Thu",
         "dayOfMonth": 24,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-25",
@@ -1607,17 +1599,17 @@
         "date": "2026-09-26",
         "day": "Sat",
         "dayOfMonth": 26,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-09-27",
         "day": "Sun",
         "dayOfMonth": 27,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-09-28",
@@ -1634,26 +1626,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-09-30",
+        "day": "Wed",
+        "dayOfMonth": 30,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-09-26",
+        "date": "2026-09-27",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sat 26, 09:00–12:00"
+        "etr": "Sun 27, 09:00–12:00"
       }
     ],
     "reliability": {
