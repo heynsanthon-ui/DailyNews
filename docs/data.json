@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T04:01:28.701Z",
-  "edition": "Morning Edition — Thu, 24 Sept",
+  "generatedAt": "2026-09-24T07:02:41.978Z",
+  "edition": "Updated 09:02 SAST — Thu, 24 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
-          "link": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
-          "summary": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+          "title": "Pakistan says it launches air strikes on Afghanistan after drone attacks",
+          "link": "https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss",
+          "summary": "Strikes carried out in southeastern province of Khost cause no casualties, governor's office says.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T03:32:28.000Z"
+          "publishedAt": "2026-09-24T06:29:46.000Z"
         },
         {
-          "title": "Spain’s Sanchez warns of far-right threat in UNGA speech",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
-          "summary": "Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.",
+          "title": "Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan",
+          "link": "https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss",
+          "summary": "Media reports say US withheld army chief's visa to pressure him into accepting a 90-day truce in Sudan's civil war.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T03:30:58.000Z"
+          "publishedAt": "2026-09-24T06:25:08.000Z"
         },
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-24T03:22:54.000Z"
-        },
-        {
-          "title": "Australia says OpenAI agent hacked Medicare portal",
-          "link": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
-          "summary": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
+          "title": "Pakistan-administered Kashmir votes for president amid unrest",
+          "link": "https://www.aljazeera.com/news/2026/9/24/pakistan-administered-kashmir-votes-for-president-amid-unrest?traffic_source=rss",
+          "summary": "Lawmakers will choose a president despite seven vacant seats in districts at the centre of months of unrest.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T02:34:58.000Z"
+          "publishedAt": "2026-09-24T06:19:41.000Z"
         },
         {
-          "title": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
-          "summary": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past.",
+          "title": "Trump-Xi summit: Here’s what’s on the agenda, and why it matters",
+          "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+          "summary": "The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T02:23:06.000Z"
+          "publishedAt": "2026-09-24T06:11:30.000Z"
+        },
+        {
+          "title": "Gaza $2.45 billion reconstruction plan. Who decides its future?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/gaza-2-45-billion-reconstruction-plan-who-decides-its-future?traffic_source=rss",
+          "summary": "Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-24T06:09:05.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Notshe brings French lessons to Lions",
+          "link": "https://www.sarugbymag.co.za/notshe-brings-french-lessons-lions/",
+          "summary": "Sikhumbuzo Notshe believes his time in France can benefit the Lions as he begins a new chapter in Johannesburg. The post Notshe brings French lessons to Lions appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2623994-e1790232426321.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T06:57:09.000Z"
+        },
+        {
+          "title": "Mallett pinpoints Sacha’s next big lesson",
+          "link": "https://www.sarugbymag.co.za/mallett-pinpoints-sachas-next-big-lesson/",
+          "summary": "Former Springbok coach Nick Mallett believes Sacha Feinberg-Mngomezulu needs to make better decisions based on the quality of ball available to him. The post Mallett pinpoints Sacha’s next big lesson appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Sacha-Feinberg-Mngomezulu-5-September-2026-Sydney-Seshibedi-Gallo-Images-e1789796626742.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T05:01:00.000Z"
+        },
         {
           "title": "Porthen ready to seize chance in Perth",
           "link": "https://www.sarugbymag.co.za/porthen-ready-seize-chance-perth/",
@@ -107,36 +123,20 @@
           "publishedAt": "2026-09-24T04:00:41.000Z"
         },
         {
+          "title": "Wallabies plot Bok disruption",
+          "link": "https://www.sarugbymag.co.za/wallabies-plot-bok-disruption/",
+          "summary": "Lock Jeremy Williams says the Wallabies plan to put pressure on the Springbok lineout in Perth on Sunday. The post Wallabies plot Bok disruption appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Florian-Verhaeghe-Jeremy-Williams-11-July-2026-Chris-Hyde-Getty-Images-e1790229389308.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T03:55:57.000Z"
+        },
+        {
           "title": "FREE DIGI-MAG: Boks’ greatness grows",
           "link": "https://www.sarugbymag.co.za/free-digi-mag-boks-greatness-grows/",
           "summary": "Read the new issue of SA Rugby magazine, which reflects on the Springboks' famous Rugby's Greatest Rivalry series win. The post FREE DIGI-MAG: Boks’ greatness grows appeared first on SA Rugby magazine.",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SA-Rugby-magazine-October-2026-e1789981147317.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-24T03:55:06.000Z"
-        },
-        {
-          "title": "Lions target All Blacks standard",
-          "link": "https://www.sarugbymag.co.za/lions-target-blacks-standard/",
-          "summary": "Lions captain Francke Horn wants his side to perform in the URC like they did against the All Blacks. The post Lions target All Blacks standard appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Francke-Horn-Lions-All-Blacks-25-August-2026-Sydney-Seshibedi-Gallo-Images-e1790178306478.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T15:48:02.000Z"
-        },
-        {
-          "title": "Keo & Zels: Rassie fires up his braai Boks",
-          "link": "https://www.sarugbymag.co.za/keo-zels-rassie-fires-braai-boks-wallabies-perth/",
-          "summary": "The boys are backing a South African URC clean sweep and their beloved Boks to deliver on Sunday. The post Keo & Zels: Rassie fires up his braai Boks appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-4.10.19-PM.jpeg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-23T14:24:27.000Z"
-        },
-        {
-          "title": "Nick Mallett: ‘Unusual selection’ from Rassie Erasmus means Springboks have ‘a very big ask’ against Wallabies",
-          "link": "https://www.planetrugby.com/news/nick-mallett-unusual-selection-from-rassie-erasmus-means-springboks-have-a-very-big-ask-against-wallabies",
-          "summary": "Nick Mallett feels the Springboks' starting line-up for Sunday's Test against the Wallabies in Perth is an \"unusual selection\".",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23151402/Springboks-players-in-huddle-and-Nick-Mallett-photo-4-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-23T14:15:14.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Boland prepares to return to South Africa, a place he 'can't remember'",
+          "link": "https://www.cricinfo.com/ci/content/story/1555523.html?ex_cid=OTC-RSS",
+          "summary": "The quick played the last three of his 14 ODIs in South Africa in 2016 and is set to return with the Test squad next month",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/420900/420962.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-24T05:43:41.000Z"
+        },
         {
           "title": "Party in South Africa as World Cup holders Australia come calling",
           "link": "https://www.cricinfo.com/ci/content/story/1555479.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/422300/422304.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-23T08:03:16.000Z"
-        },
-        {
-          "title": "Cummins likely to miss first ODI with quicks prioritising Test preparations",
-          "link": "https://www.cricinfo.com/ci/content/story/1555437.html?ex_cid=OTC-RSS",
-          "summary": "Cummins arrived late to South Africa and is set to be managed alongside Mitchell Starc and Josh Hazlewood across the three ODIs with the Test series a priority",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/409600/409639.png",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-23T04:58:59.000Z"
         }
       ]
     }
@@ -334,45 +334,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Almedina Ortiz, Edgardo J.",
+              "opponentTitle": "FM",
+              "opponentRating": 2200,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Rodriguez Santiago, Jaime",
+              "opponentTitle": "FM",
+              "opponentRating": 2069,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Toro Cruz, Sebastian J.",
+              "opponentTitle": "FM",
+              "opponentRating": 2143,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Dinham, James",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "rating": 2124,
+              "opponent": "Zilleruelo Irizarry, Diego",
+              "opponentTitle": "CM",
+              "opponentRating": 2061,
               "result": null,
               "opponentResult": null
             }
@@ -829,45 +829,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Narva, Mai",
+              "opponentTitle": "IM",
+              "opponentRating": 2411,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Blokhin, Sofia",
+              "opponentTitle": "WFM",
+              "opponentRating": 2046,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Olde, Grete",
+              "opponentTitle": "WCM",
+              "opponentRating": 2002,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Masango, Sizakele",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "rating": 1880,
+              "opponent": "Tsiganova, Monika",
+              "opponentTitle": "WIM",
+              "opponentRating": 2014,
               "result": null,
               "opponentResult": null
             }
@@ -1573,10 +1573,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-24T04:01:28.769Z",
+    "generatedAt": "2026-09-24T07:02:42.047Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 59m"
+      "label": "🟡 Planned Maintenance In 6h 57m"
     },
     "forecast": [
       {
