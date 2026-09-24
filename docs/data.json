@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T16:01:29.655Z",
-  "edition": "Updated 18:01 SAST — Thu, 24 Sept",
+  "generatedAt": "2026-09-24T19:02:04.774Z",
+  "edition": "Updated 21:02 SAST — Thu, 24 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-          "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-24T16:00:29.000Z"
-        },
-        {
-          "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-          "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-24T15:53:06.000Z"
-        },
-        {
-          "title": "LIVE: Portugal vs Wales – UEFA Nations League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss",
-          "summary": "Follow updates, with build-up, team news and lineups, from our live text commentary stream coverage as Ronaldo stars.",
+          "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+          "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+          "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T15:46:12.000Z"
+          "publishedAt": "2026-09-24T18:19:03.000Z"
         },
         {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-24T15:42:07.000Z"
+          "title": "US and China presidents discuss cooperation, trade and AI risks",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+          "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-24T18:19:01.000Z"
         },
         {
-          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-          "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg",
+          "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+          "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+          "summary": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-24T18:13:32.000Z"
+        },
+        {
+          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+          "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-24T15:37:45.000Z"
+          "publishedAt": "2026-09-24T18:06:40.000Z"
+        },
+        {
+          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-24T17:55:44.000Z"
         }
       ]
     },
@@ -98,6 +98,30 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Ruhan wants to make Zassie smile",
+          "link": "https://www.sarugbymag.co.za/ruhan-wants-make-zassie-smile/",
+          "summary": "Skipper Ruhan Nel hopes the Stormers can do “great team man” Leolin Zas a favour and pick up the win in the winger’s 100th club appearance on Friday night. The post Ruhan wants to make Zassie smile appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2501904-e1790274641129.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T18:57:32.000Z"
+        },
+        {
+          "title": "Dobbo: We’re playing for two from two",
+          "link": "https://www.sarugbymag.co.za/dobbo-playing-two-two/",
+          "summary": "It’s a “big task” on Friday, but John Dobson wants the Stormers to set the record straight against Connacht and lay the groundwork for a strong start to the season. The post Dobbo: We’re playing for two from two…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2610256-e1790267348221.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T16:51:17.000Z"
+        },
+        {
+          "title": "Cheetahs, Pumas power to Tbilisi wins",
+          "link": "https://www.sarugbymag.co.za/cheetahs-pumas-power-to-tbilisi-wins/",
+          "summary": "The Cheetahs claimed a hard-fought victory over the Lusitanos on Thursday, while the Pumas hammered the Iberians. The post Cheetahs, Pumas power to Tbilisi wins appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Cheetahs-Lusitanos-24-Sep-2026-e1790267897456.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-24T16:38:58.000Z"
+        },
         {
           "title": "When Pead debuts, Bok duo play again",
           "link": "https://www.sarugbymag.co.za/pead-debuts-bok-duo-play/",
@@ -113,30 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Vusi-Moyo-25-August-2026-Steve-Haag-Gallo-Images-2-e1790260002866.jpeg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-24T13:27:55.000Z"
-        },
-        {
-          "title": "Roos at 6 as Zas hits 100 for Stormers",
-          "link": "https://www.sarugbymag.co.za/roos-6-zas-hits-100-stormers/",
-          "summary": "Evan Roos will pack down on the side of the scrum in Leolin Zas’ milestone Stormers appearance on Friday night, when the Cape club faces Connacht in round one of the 2026-27 URC. The post Roos at 6 as Zas hits 100 for…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/04/Stormers-Odds-e1775203128152.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T13:11:19.000Z"
-        },
-        {
-          "title": "Springboks: Nick Mallett reveals the two key ‘lessons’ which Sacha Feinberg-Mngomezulu ‘has to learn’",
-          "link": "https://www.planetrugby.com/news/springboks-nick-mallett-reveals-the-two-key-lessons-which-sacha-feinberg-mngomezulu-has-to-learn",
-          "summary": "Nick Mallett has highlighted two key areas which Springboks fly-half Sacha Feinberg-Mgomezulu has to work on to improve his playmaking skills.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/24131546/Sacha-Feinberg-Mngomezulu-and-Nick-Mallett-photo-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-24T13:08:04.000Z"
-        },
-        {
-          "title": "Bulls back new halfback combo",
-          "link": "https://www.sarugbymag.co.za/bulls-back-new-halfback-combo/",
-          "summary": "Curwin Bosch will make his URC debut for the Bulls in Saturday's opening-round clash against Zebre Parma in Italy. The post Bulls back new halfback combo appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Curwin-Bosch-Bulls-Aug-2026-e1786448711109.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T13:00:25.000Z"
         }
       ]
     },
@@ -145,12 +145,12 @@
       "title": "Proteas",
       "articles": [
         {
-          "title": "Breetzke's hundred, Jansen's fireworks take South Africa to 297",
+          "title": "Maharaj stars as Australia collapse to spin after Breetzke hundred",
           "link": "https://www.cricinfo.com/ci/content/story/1555570.html?ex_cid=OTC-RSS",
-          "summary": "The home side had been wobbling on 168 for 5 but a sixth-wicket stand of 107 transformed the innings",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422958.jpg",
+          "summary": "Marco Jansen followed a powerful 75 off 59 balls with one of the great catches to inspire the home side",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422961.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-24T12:30:06.000Z"
+          "publishedAt": "2026-09-24T16:30:58.000Z"
         },
         {
           "title": "Australia opt to bowl, Edwards debuts, Green, Starc, Hazlewood return",
@@ -193,19 +193,19 @@
       "label": "Open",
       "seedRank": 77,
       "seedRatingAvg": 2323,
-      "currentRank": 99,
-      "matchPoints": "7",
+      "currentRank": 78,
+      "matchPoints": "9",
       "roster": [
         {
           "board": 1,
           "name": "Karsten, Jan",
           "title": "IM",
           "rating": 2386,
-          "games": 3,
+          "games": 4,
           "points": null,
-          "avgOpponentRating": 6,
-          "performanceRating": 2432,
-          "ratingChange": 7.6
+          "avgOpponentRating": 7,
+          "performanceRating": 2448,
+          "ratingChange": 12.8
         },
         {
           "board": 2,
@@ -214,20 +214,20 @@
           "rating": 2316,
           "games": 3,
           "points": null,
-          "avgOpponentRating": 5,
-          "performanceRating": 2360,
-          "ratingChange": 8.2
+          "avgOpponentRating": 6,
+          "performanceRating": 2309,
+          "ratingChange": 2
         },
         {
           "board": 3,
           "name": "Mhango, Banele",
           "title": "FM",
           "rating": 2354,
-          "games": 3,
+          "games": 4,
           "points": null,
-          "avgOpponentRating": 6,
-          "performanceRating": 2343,
-          "ratingChange": 0.8
+          "avgOpponentRating": 7,
+          "performanceRating": 2364,
+          "ratingChange": 5.4
         },
         {
           "board": 4,
@@ -245,11 +245,11 @@
           "name": "Dinham, James",
           "title": null,
           "rating": 2124,
-          "games": 2,
+          "games": 3,
           "points": null,
-          "avgOpponentRating": 4,
-          "performanceRating": 2076,
-          "ratingChange": 2.4
+          "avgOpponentRating": 5,
+          "performanceRating": 2069,
+          "ratingChange": 0.6
         }
       ]
     },
@@ -267,7 +267,7 @@
           "title": "WFM",
           "rating": 1997,
           "games": 4,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 8,
           "performanceRating": 1940,
           "ratingChange": -8.4
@@ -278,7 +278,7 @@
           "title": "WIM",
           "rating": 1817,
           "games": 3,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 7,
           "performanceRating": 1776,
           "ratingChange": -7.4
@@ -289,7 +289,7 @@
           "title": "WCM",
           "rating": 1864,
           "games": 4,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 8,
           "performanceRating": 1788,
           "ratingChange": -13.6
@@ -311,7 +311,7 @@
           "title": null,
           "rating": 1880,
           "games": 5,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 7,
           "performanceRating": 1970,
           "ratingChange": 19.8
@@ -324,6 +324,60 @@
       "id": "open",
       "label": "South Africa — Open",
       "rounds": [
+        {
+          "round": 9,
+          "date": "2026/09/25",
+          "opponent": "Cuba (CUB)",
+          "opponentFed": "CUB",
+          "saScore": "0",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 2,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 3,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 4,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            }
+          ]
+        },
         {
           "round": 8,
           "date": "2026/09/24",
@@ -763,11 +817,11 @@
           "name": "Karsten, Jan",
           "title": "IM",
           "rating": 2386,
-          "games": 3,
+          "games": 4,
           "points": null,
-          "avgOpponentRating": 6,
-          "performanceRating": 2432,
-          "ratingChange": 7.6
+          "avgOpponentRating": 7,
+          "performanceRating": 2448,
+          "ratingChange": 12.8
         },
         {
           "board": 2,
@@ -776,20 +830,20 @@
           "rating": 2316,
           "games": 3,
           "points": null,
-          "avgOpponentRating": 5,
-          "performanceRating": 2360,
-          "ratingChange": 8.2
+          "avgOpponentRating": 6,
+          "performanceRating": 2309,
+          "ratingChange": 2
         },
         {
           "board": 3,
           "name": "Mhango, Banele",
           "title": "FM",
           "rating": 2354,
-          "games": 3,
+          "games": 4,
           "points": null,
-          "avgOpponentRating": 6,
-          "performanceRating": 2343,
-          "ratingChange": 0.8
+          "avgOpponentRating": 7,
+          "performanceRating": 2364,
+          "ratingChange": 5.4
         },
         {
           "board": 4,
@@ -807,11 +861,11 @@
           "name": "Dinham, James",
           "title": null,
           "rating": 2124,
-          "games": 2,
+          "games": 3,
           "points": null,
-          "avgOpponentRating": 4,
-          "performanceRating": 2076,
-          "ratingChange": 2.4
+          "avgOpponentRating": 5,
+          "performanceRating": 2069,
+          "ratingChange": 0.6
         }
       ]
     },
@@ -819,6 +873,60 @@
       "id": "women",
       "label": "South Africa — Women",
       "rounds": [
+        {
+          "round": 9,
+          "date": "2026/09/25",
+          "opponent": "Luxembourg (LUX)",
+          "opponentFed": "LUX",
+          "saScore": "0",
+          "opponentScore": "0",
+          "boards": [
+            {
+              "board": 1,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 2,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 3,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            },
+            {
+              "board": 4,
+              "player": "no player",
+              "title": null,
+              "rating": 0,
+              "opponent": "no player",
+              "opponentTitle": null,
+              "opponentRating": 0,
+              "result": null,
+              "opponentResult": null
+            }
+          ]
+        },
         {
           "round": 8,
           "date": "2026/09/24",
@@ -1259,7 +1367,7 @@
           "title": "WFM",
           "rating": 1997,
           "games": 4,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 8,
           "performanceRating": 1940,
           "ratingChange": -8.4
@@ -1270,7 +1378,7 @@
           "title": "WIM",
           "rating": 1817,
           "games": 3,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 7,
           "performanceRating": 1776,
           "ratingChange": -7.4
@@ -1281,7 +1389,7 @@
           "title": "WCM",
           "rating": 1864,
           "games": 4,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 8,
           "performanceRating": 1788,
           "ratingChange": -13.6
@@ -1303,7 +1411,7 @@
           "title": null,
           "rating": 1880,
           "games": 5,
-          "points": 0,
+          "points": null,
           "avgOpponentRating": 7,
           "performanceRating": 1970,
           "ratingChange": 19.8
@@ -1315,128 +1423,128 @@
     {
       "id": "open",
       "label": "Open",
-      "asOfRound": 7,
+      "asOfRound": 8,
       "top10": [
         {
           "rank": 1,
           "fed": "UZB",
           "team": "Uzbekistan",
-          "games": 7,
+          "games": 8,
           "wins": 7,
           "draws": 0,
-          "losses": 0,
+          "losses": 1,
           "matchPoints": "14",
           "seedRank": 3
         },
         {
           "rank": 2,
-          "fed": "NED",
-          "team": "Netherlands",
-          "games": 7,
-          "wins": 6,
+          "fed": "GER",
+          "team": "Germany",
+          "games": 8,
+          "wins": 7,
           "draws": 0,
           "losses": 1,
-          "matchPoints": "12",
-          "seedRank": 6
+          "matchPoints": "14",
+          "seedRank": 5
         },
         {
           "rank": 3,
-          "fed": "IND",
-          "team": "India",
-          "games": 7,
+          "fed": "CHN",
+          "team": "China",
+          "games": 8,
           "wins": 6,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "matchPoints": "12",
-          "seedRank": 2
+          "matchPoints": "13",
+          "seedRank": 4
         },
         {
           "rank": 4,
-          "fed": "GER",
-          "team": "Germany",
-          "games": 7,
+          "fed": "NED",
+          "team": "Netherlands",
+          "games": 8,
           "wins": 6,
-          "draws": 0,
+          "draws": 1,
           "losses": 1,
-          "matchPoints": "12",
-          "seedRank": 5
+          "matchPoints": "13",
+          "seedRank": 6
         },
         {
           "rank": 5,
           "fed": "AZE",
           "team": "Azerbaijan",
-          "games": 7,
+          "games": 8,
           "wins": 5,
-          "draws": 2,
+          "draws": 3,
           "losses": 0,
-          "matchPoints": "12",
+          "matchPoints": "13",
           "seedRank": 7
         },
         {
           "rank": 6,
-          "fed": "ARM",
-          "team": "Armenia",
-          "games": 7,
-          "wins": 5,
-          "draws": 2,
-          "losses": 0,
-          "matchPoints": "12",
-          "seedRank": 10
+          "fed": "USA",
+          "team": "United States of America",
+          "games": 8,
+          "wins": 6,
+          "draws": 1,
+          "losses": 1,
+          "matchPoints": "13",
+          "seedRank": 1
         },
         {
           "rank": 7,
-          "fed": "CHN",
-          "team": "China",
-          "games": 7,
-          "wins": 5,
+          "fed": "IND",
+          "team": "India",
+          "games": 8,
+          "wins": 6,
           "draws": 1,
           "losses": 1,
-          "matchPoints": "11",
-          "seedRank": 4
+          "matchPoints": "13",
+          "seedRank": 2
         },
         {
           "rank": 8,
           "fed": "FRA",
           "team": "France",
-          "games": 7,
-          "wins": 4,
+          "games": 8,
+          "wins": 5,
           "draws": 3,
           "losses": 0,
-          "matchPoints": "11",
+          "matchPoints": "13",
           "seedRank": 9
         },
         {
           "rank": 9,
-          "fed": "IRI",
-          "team": "Iran",
-          "games": 7,
+          "fed": "ARM",
+          "team": "Armenia",
+          "games": 8,
           "wins": 5,
-          "draws": 1,
-          "losses": 1,
-          "matchPoints": "11",
-          "seedRank": 18
+          "draws": 3,
+          "losses": 0,
+          "matchPoints": "13",
+          "seedRank": 10
         },
         {
           "rank": 10,
-          "fed": "SRB",
-          "team": "Serbia",
-          "games": 7,
-          "wins": 5,
+          "fed": "UZB",
+          "team": "Uzbekistan 2",
+          "games": 8,
+          "wins": 6,
           "draws": 1,
           "losses": 1,
-          "matchPoints": "11",
-          "seedRank": 15
+          "matchPoints": "13",
+          "seedRank": 3
         }
       ],
       "sa": {
-        "rank": 99,
+        "rank": 78,
         "fed": "RSA",
         "team": "South Africa",
-        "games": 7,
-        "wins": 3,
+        "games": 8,
+        "wins": 4,
         "draws": 1,
         "losses": 3,
-        "matchPoints": "7",
+        "matchPoints": "9",
         "seedRank": 77
       }
     },
@@ -1573,10 +1681,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-24T16:01:29.724Z",
+    "generatedAt": "2026-09-24T19:02:04.825Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
