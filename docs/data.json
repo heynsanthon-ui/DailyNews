@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-25T07:03:11.121Z",
-  "edition": "Updated 09:03 SAST — Fri, 25 Sept",
+  "generatedAt": "2026-09-25T10:01:33.705Z",
+  "edition": "Updated 12:01 SAST — Fri, 25 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "7/7 points, rating performance 2955!",
+          "link": "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
+          "summary": "We have seen a lot of great performances at the Olympiad in Samarkand – many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-25T09:30:00.000Z"
+        },
         {
           "title": "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-8",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-24T11:45:00.000Z"
-        },
-        {
-          "title": "Samarkand R7 (open): Uzbekistan continue dominating run, extend lead",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-7",
-          "summary": "Uzbekistan opened a two-point lead in the Chess Olympiad after defeating China 3–1 in round seven, with Nodirbek Abdusattorov and Nodirbek Yakubboev scoring the decisive wins. The hosts remain the only team unbeaten on…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-24T03:55:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
-          "link": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
-          "summary": "Prime Minister Balendra Shah says world leaders must act on climate change.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T06:56:51.000Z"
-        },
-        {
-          "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
-          "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
-          "summary": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T06:44:31.000Z"
-        },
-        {
-          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
+          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+          "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T06:40:18.000Z"
+          "publishedAt": "2026-09-25T09:35:37.000Z"
         },
         {
-          "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
-          "summary": "Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.",
+          "title": "Switzerland’s neutrality vote is asking the wrong question",
+          "link": "https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question?traffic_source=rss",
+          "summary": "The real question is what neutrality can still do for Switzerland.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T06:28:00.000Z"
+          "publishedAt": "2026-09-25T09:32:58.000Z"
         },
         {
-          "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
-          "link": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
-          "summary": "Mexico's southwestern communities brace for Hurricane Polo, while Hawaii faces its third hurricane threat of the year.",
+          "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
+          "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+          "summary": "Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8014/live/697f6cb0-b8c6-11f1-a430-4d16ee157c41.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-25T09:20:04.000Z"
+        },
+        {
+          "title": "Nepal PM says global order is broken in fighting climate crisis",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
+          "summary": "Nepal’s Prime Minister Balendra Shah was applauded at the UN General Assembly after his speech on climate crisis.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T06:00:15.000Z"
+          "publishedAt": "2026-09-25T09:11:52.000Z"
+        },
+        {
+          "title": "Saudi Arabia allies line up support as Houthi attacks mount",
+          "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
+          "summary": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T08:32:48.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Wallabies team: Les Kiss gambles with Joseph Suaalii positional switch and forward-heavy bench split for Springboks",
-          "link": "https://www.planetrugby.com/news/wallabies-team-v-springboks-joseph-suaalii-positional-switch-as-les-kiss-gambles-with-bench-split",
-          "summary": "Head coach Les Kiss has named his Wallabies team to face the Springboks in Perth.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25073709/Joseph-Aukuso-Suaalii-and-an-inset-of-Wallabies-head-coach-Les-Kiss-1-120x120.jpg",
+          "title": "Siya wishes Ardie well for his next move",
+          "link": "https://www.sarugbymag.co.za/siya-wishes-ardie-well-next-move/",
+          "summary": "Siya Kolisi was among those who commented on All Blacks skipper Ardie Savea’s social media post teasing his possible new Super Rugby team. The post Siya wishes Ardie well for his next move appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2612850-e1790329244943.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-25T10:00:50.000Z"
+        },
+        {
+          "title": "Wallabies team: Five takeaways as Les Kiss throws Joseph Suaalii ‘curveball’ in a bid to offset Springboks’ strengths",
+          "link": "https://www.planetrugby.com/news/wallabies-team-v-springboks-five-takeaways-from-les-kiss-selections-for-perth",
+          "summary": "Five takeaways from the Wallabies team selected to face the Springboks in Perth.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25103109/Wallabies-coach-Les-Kiss-and-an-inset-of-Joseph-Sualli-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T06:42:00.000Z"
+          "publishedAt": "2026-09-25T09:39:48.000Z"
         },
         {
-          "title": "Rassie Erasmus explains ‘chops and changes’ for Australia and why the Springboks have ‘to roll the dice’",
-          "link": "https://www.planetrugby.com/news/why-the-springboks-are-rolling-the-dice-rassie-erasmus-explains-wholesale-changes",
-          "summary": "Rassie Erasmus believes that it was was necessary to make wholesale changes to the Springboks matchday 23.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23113105/Springboks-full-back-Aphelele-Fassi-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T05:57:32.000Z"
-        },
-        {
-          "title": "Suaalii wings it for Bok showdown",
-          "link": "https://www.sarugbymag.co.za/suaalii-wings-bok-showdown/",
-          "summary": "Wallabies coach Les Kiss has named Joseph Suaalii on the left wing and opted for a 6-2 bench split for Sunday's one-off Test against the Springboks in Perth. The post Suaalii wings it for Bok showdown appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2292133921-e1788510396449.jpg",
+          "title": "Ox building towards something bigger",
+          "link": "https://www.sarugbymag.co.za/ox-building-towards-something-bigger/",
+          "summary": "After “one of the hardest four weeks” of his career, Springbok prop Ox Nché now has his sights fixed on the Wallabies and the Nations Championship at the end of the year. The post Ox building towards something bigger…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2609231-e1790325275442.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T05:47:33.000Z"
+          "publishedAt": "2026-09-25T09:00:16.000Z"
         },
         {
-          "title": "Herschel: I want to pick up where Krappie left off",
-          "link": "https://www.sarugbymag.co.za/herschel-want-pick-krappie-left-off/",
-          "summary": "Herschel Jantjies says the fire is still burning inside him to perform for the Springboks – starting against the Wallabies in Perth on Sunday. The post Herschel: I want to pick up where Krappie left off appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2598897-e1790274343984.jpg",
+          "title": "Kiss: Joe was up for it",
+          "link": "https://www.sarugbymag.co.za/kiss-joe-was-up-for-it/",
+          "summary": "Wallabies coach Les Kiss says Joseph Suaalii embraced his surprise positional switch ahead of Sunday’s Test against the Springboks in Perth. The post Kiss: Joe was up for it appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2297013103-e1790321407809.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T04:00:17.000Z"
+          "publishedAt": "2026-09-25T07:39:14.000Z"
         },
         {
-          "title": "Yaqeen in No 10 conversation for Edinburgh",
-          "link": "https://www.sarugbymag.co.za/yaqeen-no-10-conversation-edinburgh/",
-          "summary": "Flyhalf Jurie Matthee’s position in the Stormers pecking order is assured for now, but the grit and skill of Yaqeen Ahmed will put pressure on his teammate. The post Yaqeen in No 10 conversation for Edinburgh appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2597834-e1790292742250.jpg",
+          "title": "Watch: Stokke ‘emotional’ about Wallabies duel",
+          "link": "https://www.sarugbymag.co.za/watch-stokke-emotional-wallabies-duel/",
+          "summary": "On the latest Rassie on Alles, Mzwandile Stick and Deon Davids address the significance of Sunday’s one-off Test between the Springboks and 2027 World Cup hosts Australia. The post Watch: Stokke ‘emotional’ about…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2445966-e1790321758288.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T03:58:29.000Z"
+          "publishedAt": "2026-09-25T07:36:31.000Z"
         }
       ]
     },
@@ -1681,10 +1681,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-25T07:03:11.195Z",
+    "generatedAt": "2026-09-25T10:01:33.777Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 57m"
+      "label": "🟡 Planned Maintenance In 3h 58m"
     },
     "forecast": [
       {
