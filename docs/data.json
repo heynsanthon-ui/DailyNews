@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-25T04:01:25.756Z",
-  "edition": "Morning Edition — Fri, 25 Sept",
+  "generatedAt": "2026-09-25T07:03:11.121Z",
+  "edition": "Updated 09:03 SAST — Fri, 25 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "\"Chess is something magic\": An interview with Timur Turlov",
-          "link": "https://en.chessbase.com/post/chess-is-something-magic-an-interview-with-timur-turlov",
-          "summary": "Timur Turlov is an entrepreneur, president of the Kazakhstan Chess Federation and a candidate for the FIDE presidency. But how did he get into chess? In a conversation with Johannes Fischer at the Chess Olympiad in…",
+          "title": "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-8",
+          "summary": "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2½–1½ to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-09-24T16:32:00.000Z"
+          "publishedAt": "2026-09-25T08:30:00.000Z"
         },
         {
           "title": "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India",
@@ -21,6 +21,14 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-24T15:47:00.000Z"
+        },
+        {
+          "title": "Bodhana Sivanandan: Chess and other passions",
+          "link": "https://en.chessbase.com/post/bodhana-sivanandan-chess-and-other-passions",
+          "summary": "Bodhana Sivanandan is only eleven years old, but in Samarkand she is already playing in her second Olympiad. And with considerable success: after seven rounds, she has scored six points on top board for the England…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-24T15:00:08.000Z"
         },
         {
           "title": "Chess Olympiad - Live!",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-24T03:55:00.000Z"
-        },
-        {
-          "title": "Behind the scenes in Samarkand: The playing hall",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-vlog-2",
-          "summary": "The ChessBase crew continues its coverage from the Chess Olympiad in Samarkand, moving from the exhibition stand to the playing hall and capturing some of the atmosphere around the event. The latest vlog features…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-23T21:30:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-          "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
+          "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+          "link": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+          "summary": "Prime Minister Balendra Shah says world leaders must act on climate change.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T06:56:51.000Z"
+        },
+        {
+          "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+          "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+          "summary": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T06:44:31.000Z"
+        },
+        {
+          "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+          "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+          "summary": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T03:57:09.000Z"
+          "publishedAt": "2026-09-25T06:40:18.000Z"
         },
         {
-          "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
-          "summary": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+          "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+          "summary": "Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T03:49:43.000Z"
+          "publishedAt": "2026-09-25T06:28:00.000Z"
         },
         {
-          "title": "Young men flee Tigray amid fears of forced recruitment",
-          "link": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
-          "summary": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+          "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+          "link": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+          "summary": "Mexico's southwestern communities brace for Hurricane Polo, while Hawaii faces its third hurricane threat of the year.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T03:45:06.000Z"
-        },
-        {
-          "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
-          "link": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
-          "summary": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T03:41:25.000Z"
-        },
-        {
-          "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-          "link": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
-          "summary": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T03:35:22.000Z"
+          "publishedAt": "2026-09-25T06:00:15.000Z"
         }
       ]
     },
@@ -98,6 +98,30 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Wallabies team: Les Kiss gambles with Joseph Suaalii positional switch and forward-heavy bench split for Springboks",
+          "link": "https://www.planetrugby.com/news/wallabies-team-v-springboks-joseph-suaalii-positional-switch-as-les-kiss-gambles-with-bench-split",
+          "summary": "Head coach Les Kiss has named his Wallabies team to face the Springboks in Perth.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25073709/Joseph-Aukuso-Suaalii-and-an-inset-of-Wallabies-head-coach-Les-Kiss-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T06:42:00.000Z"
+        },
+        {
+          "title": "Rassie Erasmus explains ‘chops and changes’ for Australia and why the Springboks have ‘to roll the dice’",
+          "link": "https://www.planetrugby.com/news/why-the-springboks-are-rolling-the-dice-rassie-erasmus-explains-wholesale-changes",
+          "summary": "Rassie Erasmus believes that it was was necessary to make wholesale changes to the Springboks matchday 23.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/23113105/Springboks-full-back-Aphelele-Fassi-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T05:57:32.000Z"
+        },
+        {
+          "title": "Suaalii wings it for Bok showdown",
+          "link": "https://www.sarugbymag.co.za/suaalii-wings-bok-showdown/",
+          "summary": "Wallabies coach Les Kiss has named Joseph Suaalii on the left wing and opted for a 6-2 bench split for Sunday's one-off Test against the Springboks in Perth. The post Suaalii wings it for Bok showdown appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2292133921-e1788510396449.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-25T05:47:33.000Z"
+        },
         {
           "title": "Herschel: I want to pick up where Krappie left off",
           "link": "https://www.sarugbymag.co.za/herschel-want-pick-krappie-left-off/",
@@ -107,36 +131,12 @@
           "publishedAt": "2026-09-25T04:00:17.000Z"
         },
         {
-          "title": "Watch: Age no barrier for Brannas",
-          "link": "https://www.sarugbymag.co.za/watch-age-no-barrier-for-brannas/",
-          "summary": "Celebrate Deon Fourie's 40th birthday with a look back at his career highlights. The post Watch: Age no barrier for Brannas appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2023/09/33VF8RQ-highres-e1695933030297.jpg",
+          "title": "Yaqeen in No 10 conversation for Edinburgh",
+          "link": "https://www.sarugbymag.co.za/yaqeen-no-10-conversation-edinburgh/",
+          "summary": "Flyhalf Jurie Matthee’s position in the Stormers pecking order is assured for now, but the grit and skill of Yaqeen Ahmed will put pressure on his teammate. The post Yaqeen in No 10 conversation for Edinburgh appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2597834-e1790292742250.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T03:55:07.000Z"
-        },
-        {
-          "title": "Ruhan wants to make Zassie smile",
-          "link": "https://www.sarugbymag.co.za/ruhan-wants-make-zassie-smile/",
-          "summary": "Skipper Ruhan Nel hopes the Stormers can do “great team man” Leolin Zas a favour and pick up the win in the winger’s 100th club appearance on Friday night. The post Ruhan wants to make Zassie smile appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2501904-e1790274641129.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T18:57:32.000Z"
-        },
-        {
-          "title": "Dobbo: We’re playing for two from two",
-          "link": "https://www.sarugbymag.co.za/dobbo-playing-two-two/",
-          "summary": "It’s a “big task” on Friday, but John Dobson wants the Stormers to set the record straight against Connacht and lay the groundwork for a strong start to the season. The post Dobbo: We’re playing for two from two…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2610256-e1790267348221.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T16:51:17.000Z"
-        },
-        {
-          "title": "Cheetahs, Pumas power to Tbilisi wins",
-          "link": "https://www.sarugbymag.co.za/cheetahs-pumas-power-to-tbilisi-wins/",
-          "summary": "The Cheetahs claimed a hard-fought victory over the Lusitanos on Thursday, while the Pumas hammered the Iberians. The post Cheetahs, Pumas power to Tbilisi wins appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Cheetahs-Lusitanos-24-Sep-2026-e1790267897456.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T16:38:58.000Z"
+          "publishedAt": "2026-09-25T03:58:29.000Z"
         }
       ]
     },
@@ -334,45 +334,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Elias Reyes, Jorge Roberto",
+              "opponentTitle": "GM",
+              "opponentRating": 2505,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Martinez Duany, Lelys Stanley",
+              "opponentTitle": "GM",
+              "opponentRating": 2440,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Espinosa Veloz, Ermes",
+              "opponentTitle": "GM",
+              "opponentRating": 2460,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Mnyasta, Charlton",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "rating": 2236,
+              "opponent": "Alvarez Pedraza, Aramis",
+              "opponentTitle": "GM",
+              "opponentRating": 2433,
               "result": null,
               "opponentResult": null
             }
@@ -883,45 +883,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Wagener, Anna",
+              "opponentTitle": "WGM",
+              "opponentRating": 2160,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Lyon, Hannah Jane",
               "opponentTitle": null,
-              "opponentRating": 0,
+              "opponentRating": 1906,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Sivashankar, Samyukta",
               "opponentTitle": null,
-              "opponentRating": 0,
+              "opponentRating": 1878,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Masango, Sizakele",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
+              "rating": 1880,
+              "opponent": "Kremer, Nadine",
               "opponentTitle": null,
-              "opponentRating": 0,
+              "opponentRating": 1882,
               "result": null,
               "opponentResult": null
             }
@@ -1681,10 +1681,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-25T04:01:25.809Z",
+    "generatedAt": "2026-09-25T07:03:11.195Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 59m"
+      "label": "🟡 Planned Maintenance In 6h 57m"
     },
     "forecast": [
       {
