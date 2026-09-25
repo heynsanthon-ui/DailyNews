@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T13:03:34.405Z",
-  "edition": "Updated 15:03 SAST — Fri, 25 Sept",
+  "generatedAt": "2026-09-25T16:01:40.858Z",
+  "edition": "Updated 18:01 SAST — Fri, 25 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Pope warns against 'losing humanity' to AI machines",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-          "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg",
+          "title": "LIVE: Turkiye vs France – UEFA Nations League",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss",
+          "summary": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T15:47:07.000Z"
+        },
+        {
+          "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+          "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8b/live/842c9760-b8f1-11f1-a698-ff5dd8cb1a06.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T12:44:08.000Z"
+          "publishedAt": "2026-09-25T15:29:48.000Z"
         },
         {
-          "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-          "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-          "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50e/live/5b7ab3c0-b8dc-11f1-953d-97bd0803bc08.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-25T12:34:31.000Z"
-        },
-        {
-          "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
-          "link": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
-          "summary": "Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.",
+          "title": "What the Trump-Xi meeting revealed about global power",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
+          "summary": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T12:30:05.000Z"
+          "publishedAt": "2026-09-25T15:26:56.000Z"
         },
         {
-          "title": "US seeking to revive Russia-Ukraine ceasefire talks",
-          "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
-          "summary": "Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day.",
+          "title": "Trump hails ‘very productive’ talks with China’s Xi",
+          "link": "https://www.aljazeera.com/news/2026/9/25/trump-hails-very-productive-talks-with-chinas-xi?traffic_source=rss",
+          "summary": "Washington and Beijing to continue discussions on AI, technology transfer licensing after state visit by Chinese leader.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T12:09:14.000Z"
+          "publishedAt": "2026-09-25T15:19:34.000Z"
         },
         {
-          "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
-          "summary": "Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray.",
+          "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
+          "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T12:08:16.000Z"
+          "publishedAt": "2026-09-25T15:07:48.000Z"
         }
       ]
     },
@@ -98,6 +98,30 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Ex-Wallabies enforcer recalls infamous ‘find a green jersey and get a hit on’ brawl and the game plan the Springboks are ‘busy designing’ for Joseph Suaalii",
+          "link": "https://www.planetrugby.com/news/ex-wallabies-enforcer-recalls-infamous-find-a-green-jersey-and-get-a-hit-on-brawl-and-the-game-plan-the-springboks-are-busy-designing-for-joseph-suaalii",
+          "summary": "Former Wallabies enforcer Justin Harrison has recalled the infamous 20-player brawl against the Springboks that ended with him escaping a suspension in 2002.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25165104/Inset-bottom-right-2026-09-25T165044.863-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T15:58:53.000Z"
+        },
+        {
+          "title": "Wallabies v Springboks prediction: Rassie Erasmus’ selections make for a ‘fair fight’ but Bomb Squad will be the difference",
+          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-prediction-rassie-erasmus-selections-make-for-a-fair-fight-but-bomb-squad-will-be-the-difference",
+          "summary": "Why the Wallabies have every right to fancy this one rather more than the bookmakers do but will they come out on top against the Springboks?",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25114130/Paul-de-Villiers-in-action-for-Springboks-and-Fraser-McReight-for-Wallabies-Alamy-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T14:56:26.000Z"
+        },
+        {
+          "title": "Springboks: Herschel Jantjies reveals why the ‘fire is burning in him again’ ahead of Wallabies clash",
+          "link": "https://www.planetrugby.com/news/springboks-herschel-jantjies-reveals-why-the-fire-is-burning-in-him-again-ahead-of-wallabies-clash",
+          "summary": "Herschel Jantjies revealed that the \"fire was burning in him again\" ahead of the Springboks' one-off Test against the Wallabies in Perth on Sunday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25141727/Rassie-Erasmus-and-Herschel-Jantjies-photo-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T13:59:15.000Z"
+        },
         {
           "title": "Wallabies brace for ‘crashing’ Bok wave",
           "link": "https://www.sarugbymag.co.za/wallabies-brace-crashing-bok-wave/",
@@ -113,30 +137,6 @@
           "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25125703/Ben-Donaldson-and-Jordan-Petaia-image-120x120.jpg",
           "source": "Planet Rugby",
           "publishedAt": "2026-09-25T12:05:02.000Z"
-        },
-        {
-          "title": "Why rotated Springboks could be ‘well-oiled’ as Sir Steve Hansen claims there is no B team",
-          "link": "https://www.planetrugby.com/news/rotated-springboks-could-be-well-oiled-as-sir-steve-hansen-claims-there-is-no-b-team",
-          "summary": "Sir Steve Hansen says that the Wallabies won't be facing a Springboks B team despite Rassie Erasmus making 13 changes.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25124518/Springboks-back-Ethan-Hooker-and-an-inset-of-All-Blacks-head-coach-Sir-Steve-Hansen-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T11:55:47.000Z"
-        },
-        {
-          "title": "Jean stunned by Bok omission in Perth",
-          "link": "https://www.sarugbymag.co.za/jean-stunned-bok-omission-perth/",
-          "summary": "Schalk Burger expects a big impact from the Springbok bench against the Wallabies on Sunday, yet Jean de Villiers questions whether Rassie Erasmus missed a selection trick. The post Jean stunned by Bok omission in Perth…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/BJ-Dixon-Cameron-Hanekom-Paul-De-Villiers-Zachary-Porthen-4-July-2026-Steve-Haag-Getty-Images-e1783236358531.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T11:13:07.000Z"
-        },
-        {
-          "title": "JP reveals Hendrikse setback",
-          "link": "https://www.sarugbymag.co.za/jp-reveals-hendrikse-setback/",
-          "summary": "Sharks coach JP Pietersen has explained why Vusi Moyo will start Saturday's URC opener against the Ospreys at Kings Park, with Jordan Hendrikse missing out. The post JP reveals Hendrikse setback appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2618461-e1789027079456.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T10:05:28.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Former Namibia captain Yasmeen Khan included in South Africa's red-ball training camp",
+          "link": "https://www.cricinfo.com/ci/content/story/1555719.html?ex_cid=OTC-RSS",
+          "summary": "Preparation for Tests against India and Australia later this season gets underway",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423000/423024.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-25T15:40:16.000Z"
+        },
         {
           "title": "Maharaj stars as Australia collapse to spin after Breetzke hundred",
           "link": "https://www.cricinfo.com/ci/content/story/1555570.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/420900/420962.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-24T05:43:41.000Z"
-        },
-        {
-          "title": "Party in South Africa as World Cup holders Australia come calling",
-          "link": "https://www.cricinfo.com/ci/content/story/1555479.html?ex_cid=OTC-RSS",
-          "summary": "With four fast bowlers already lost to injury, the hosts will have to balance playing their strongest team and keeping players fit",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/367100/367150.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-23T13:03:15.000Z"
         }
       ]
     }
@@ -329,8 +329,8 @@
           "date": "2026/09/25",
           "opponent": "Cuba (CUB)",
           "opponentFed": "CUB",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "2",
+          "opponentScore": "2",
           "boards": [
             {
               "board": 1,
@@ -340,8 +340,8 @@
               "opponent": "Elias Reyes, Jorge Roberto",
               "opponentTitle": "GM",
               "opponentRating": 2505,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 2,
@@ -351,8 +351,8 @@
               "opponent": "Martinez Duany, Lelys Stanley",
               "opponentTitle": "GM",
               "opponentRating": 2440,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 3,
@@ -362,8 +362,8 @@
               "opponent": "Espinosa Veloz, Ermes",
               "opponentTitle": "GM",
               "opponentRating": 2460,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 4,
@@ -373,8 +373,8 @@
               "opponent": "Alvarez Pedraza, Aramis",
               "opponentTitle": "GM",
               "opponentRating": 2433,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             }
           ]
         },
@@ -878,8 +878,8 @@
           "date": "2026/09/25",
           "opponent": "Luxembourg (LUX)",
           "opponentFed": "LUX",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "3",
+          "opponentScore": "1",
           "boards": [
             {
               "board": 1,
@@ -889,8 +889,8 @@
               "opponent": "Wagener, Anna",
               "opponentTitle": "WGM",
               "opponentRating": 2160,
-              "result": null,
-              "opponentResult": null
+              "result": "½",
+              "opponentResult": "½"
             },
             {
               "board": 2,
@@ -900,8 +900,8 @@
               "opponent": "Lyon, Hannah Jane",
               "opponentTitle": null,
               "opponentRating": 1906,
-              "result": null,
-              "opponentResult": null
+              "result": "½",
+              "opponentResult": "½"
             },
             {
               "board": 3,
@@ -911,8 +911,8 @@
               "opponent": "Sivashankar, Samyukta",
               "opponentTitle": null,
               "opponentRating": 1878,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 4,
@@ -922,8 +922,8 @@
               "opponent": "Kremer, Nadine",
               "opponentTitle": null,
               "opponentRating": 1882,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             }
           ]
         },
@@ -1681,10 +1681,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-25T13:03:34.477Z",
+    "generatedAt": "2026-09-25T16:01:40.922Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 56m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
