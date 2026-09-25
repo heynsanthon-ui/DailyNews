@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T19:02:04.774Z",
-  "edition": "Updated 21:02 SAST — Thu, 24 Sept",
+  "generatedAt": "2026-09-25T04:01:25.756Z",
+  "edition": "Morning Edition — Fri, 25 Sept",
   "sections": [
     {
       "id": "chess",
@@ -17,7 +17,7 @@
         {
           "title": "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India",
           "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
-          "summary": "Germany ended Uzbekistan's streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026, winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored…",
+          "summary": "Germany ended Uzbekistan's streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane…",
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-24T15:47:00.000Z"
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-          "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-          "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T18:19:03.000Z"
-        },
-        {
-          "title": "US and China presidents discuss cooperation, trade and AI risks",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-          "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T18:19:01.000Z"
-        },
-        {
-          "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-          "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
-          "summary": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-24T18:13:32.000Z"
-        },
-        {
-          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-          "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+          "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b040/live/c2a19a30-b893-11f1-bc1f-3f186ca4140c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-24T18:06:40.000Z"
+          "publishedAt": "2026-09-25T03:57:09.000Z"
         },
         {
-          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-24T17:55:44.000Z"
+          "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+          "summary": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T03:49:43.000Z"
+        },
+        {
+          "title": "Young men flee Tigray amid fears of forced recruitment",
+          "link": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+          "summary": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T03:45:06.000Z"
+        },
+        {
+          "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+          "link": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+          "summary": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T03:41:25.000Z"
+        },
+        {
+          "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+          "link": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss",
+          "summary": "Saudi Arabia, Turkiye and Pakistan move to deepen defence coordination as Houthi attacks and Yemen fighting intensify.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T03:35:22.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Herschel: I want to pick up where Krappie left off",
+          "link": "https://www.sarugbymag.co.za/herschel-want-pick-krappie-left-off/",
+          "summary": "Herschel Jantjies says the fire is still burning inside him to perform for the Springboks – starting against the Wallabies in Perth on Sunday. The post Herschel: I want to pick up where Krappie left off appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2598897-e1790274343984.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-25T04:00:17.000Z"
+        },
+        {
+          "title": "Watch: Age no barrier for Brannas",
+          "link": "https://www.sarugbymag.co.za/watch-age-no-barrier-for-brannas/",
+          "summary": "Celebrate Deon Fourie's 40th birthday with a look back at his career highlights. The post Watch: Age no barrier for Brannas appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2023/09/33VF8RQ-highres-e1695933030297.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-25T03:55:07.000Z"
+        },
         {
           "title": "Ruhan wants to make Zassie smile",
           "link": "https://www.sarugbymag.co.za/ruhan-wants-make-zassie-smile/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Cheetahs-Lusitanos-24-Sep-2026-e1790267897456.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-24T16:38:58.000Z"
-        },
-        {
-          "title": "When Pead debuts, Bok duo play again",
-          "link": "https://www.sarugbymag.co.za/pead-debuts-bok-duo-play/",
-          "summary": "John Dobson has revealed the likely first outing for Stormers signing Haashim Pead, while shedding light on the return to action of Ben-Jason Dixon and Ntuthuko Mchunu. The post When Pead debuts, Bok duo play again…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2573093-e1790261818622.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T15:40:54.000Z"
-        },
-        {
-          "title": "Moyo to marshall Sharks in URC opener",
-          "link": "https://www.sarugbymag.co.za/moyo-to-marshall-sharks-urc-opener/",
-          "summary": "Vusi Moyo will spearhead the Sharks attack, with Nick Hatton captaining the side from No 8, against the Ospreys at Kings Park on Saturday. The post Moyo to marshall Sharks in URC opener appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Vusi-Moyo-25-August-2026-Steve-Haag-Gallo-Images-2-e1790260002866.jpeg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-24T13:27:55.000Z"
         }
       ]
     },
@@ -1681,27 +1681,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-24T19:02:04.825Z",
+    "generatedAt": "2026-09-25T04:01:25.809Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 59m"
     },
     "forecast": [
-      {
-        "date": "2026-09-24",
-        "day": "Thu",
-        "dayOfMonth": 24,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-25",
         "day": "Fri",
         "dayOfMonth": 25,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-26",
@@ -1715,17 +1707,17 @@
         "date": "2026-09-27",
         "day": "Sun",
         "dayOfMonth": 27,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-09-28",
         "day": "Mon",
         "dayOfMonth": 28,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-09-29",
@@ -1742,26 +1734,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-01",
+        "day": "Thu",
+        "dayOfMonth": 1,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sun 27, 09:00–12:00"
+        "etr": "Mon 28, 09:00–12:00"
       }
     ],
     "reliability": {
