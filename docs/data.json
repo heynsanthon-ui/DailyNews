@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-25T10:01:33.705Z",
-  "edition": "Updated 12:01 SAST — Fri, 25 Sept",
+  "generatedAt": "2026-09-25T13:03:34.405Z",
+  "edition": "Updated 15:03 SAST — Fri, 25 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Chess Olympiad - Live!",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-25T11:45:00.000Z"
+        },
         {
           "title": "7/7 points, rating performance 2955!",
           "link": "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-24T15:00:08.000Z"
-        },
-        {
-          "title": "Chess Olympiad - Live!",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-24T11:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Hundreds of thousands expected in Paris for Pope's visit",
+          "title": "Pope warns against 'losing humanity' to AI machines",
           "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-          "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+          "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T09:35:37.000Z"
+          "publishedAt": "2026-09-25T12:44:08.000Z"
         },
         {
-          "title": "Switzerland’s neutrality vote is asking the wrong question",
-          "link": "https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question?traffic_source=rss",
-          "summary": "The real question is what neutrality can still do for Switzerland.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T09:32:58.000Z"
-        },
-        {
-          "title": "Robbie Williams' surprise singalong after Peru gig cancelled",
-          "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
-          "summary": "Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8014/live/697f6cb0-b8c6-11f1-a430-4d16ee157c41.jpg",
+          "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+          "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50e/live/5b7ab3c0-b8dc-11f1-953d-97bd0803bc08.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T09:20:04.000Z"
+          "publishedAt": "2026-09-25T12:34:31.000Z"
         },
         {
-          "title": "Nepal PM says global order is broken in fighting climate crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-nepal-balendra-shah-climate-justice-speech-np?traffic_source=rss",
-          "summary": "Nepal’s Prime Minister Balendra Shah was applauded at the UN General Assembly after his speech on climate crisis.",
+          "title": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
+          "link": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
+          "summary": "Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T09:11:52.000Z"
+          "publishedAt": "2026-09-25T12:30:05.000Z"
         },
         {
-          "title": "Saudi Arabia allies line up support as Houthi attacks mount",
-          "link": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss",
-          "summary": "France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.",
+          "title": "US seeking to revive Russia-Ukraine ceasefire talks",
+          "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
+          "summary": "Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T08:32:48.000Z"
+          "publishedAt": "2026-09-25T12:09:14.000Z"
+        },
+        {
+          "title": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
+          "summary": "Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-25T12:08:16.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Siya wishes Ardie well for his next move",
-          "link": "https://www.sarugbymag.co.za/siya-wishes-ardie-well-next-move/",
-          "summary": "Siya Kolisi was among those who commented on All Blacks skipper Ardie Savea’s social media post teasing his possible new Super Rugby team. The post Siya wishes Ardie well for his next move appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2612850-e1790329244943.jpg",
+          "title": "Wallabies brace for ‘crashing’ Bok wave",
+          "link": "https://www.sarugbymag.co.za/wallabies-brace-crashing-bok-wave/",
+          "summary": "Loose forward Tom Hooper and winger Max Jorgensen are under no illusions about the size of the task awaiting Australia against the Springboks on Sunday. The post Wallabies brace for ‘crashing’ Bok wave appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2445241-e1790336605316.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T10:00:50.000Z"
+          "publishedAt": "2026-09-25T12:20:49.000Z"
         },
         {
-          "title": "Wallabies team: Five takeaways as Les Kiss throws Joseph Suaalii ‘curveball’ in a bid to offset Springboks’ strengths",
-          "link": "https://www.planetrugby.com/news/wallabies-team-v-springboks-five-takeaways-from-les-kiss-selections-for-perth",
-          "summary": "Five takeaways from the Wallabies team selected to face the Springboks in Perth.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25103109/Wallabies-coach-Les-Kiss-and-an-inset-of-Joseph-Sualli-1-120x120.jpg",
+          "title": "Wallabies team v Springboks: Winners and losers as Les Kiss presents playmaker with ‘golden chance’ while ‘highly rated’ code hopper misses out",
+          "link": "https://www.planetrugby.com/news/wallabies-team-v-springboks-winners-and-losers-as-les-kiss-presents-playmaker-with-golden-chance-while-highly-rated-code-hopper-misses-out",
+          "summary": "The winners and losers from Wallabies head coach Les Kiss' matchday squad for Sunday's one-off Test with the Springboks in Perth.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25125703/Ben-Donaldson-and-Jordan-Petaia-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T09:39:48.000Z"
+          "publishedAt": "2026-09-25T12:05:02.000Z"
         },
         {
-          "title": "Ox building towards something bigger",
-          "link": "https://www.sarugbymag.co.za/ox-building-towards-something-bigger/",
-          "summary": "After “one of the hardest four weeks” of his career, Springbok prop Ox Nché now has his sights fixed on the Wallabies and the Nations Championship at the end of the year. The post Ox building towards something bigger…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2609231-e1790325275442.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T09:00:16.000Z"
+          "title": "Why rotated Springboks could be ‘well-oiled’ as Sir Steve Hansen claims there is no B team",
+          "link": "https://www.planetrugby.com/news/rotated-springboks-could-be-well-oiled-as-sir-steve-hansen-claims-there-is-no-b-team",
+          "summary": "Sir Steve Hansen says that the Wallabies won't be facing a Springboks B team despite Rassie Erasmus making 13 changes.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25124518/Springboks-back-Ethan-Hooker-and-an-inset-of-All-Blacks-head-coach-Sir-Steve-Hansen-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T11:55:47.000Z"
         },
         {
-          "title": "Kiss: Joe was up for it",
-          "link": "https://www.sarugbymag.co.za/kiss-joe-was-up-for-it/",
-          "summary": "Wallabies coach Les Kiss says Joseph Suaalii embraced his surprise positional switch ahead of Sunday’s Test against the Springboks in Perth. The post Kiss: Joe was up for it appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2297013103-e1790321407809.jpg",
+          "title": "Jean stunned by Bok omission in Perth",
+          "link": "https://www.sarugbymag.co.za/jean-stunned-bok-omission-perth/",
+          "summary": "Schalk Burger expects a big impact from the Springbok bench against the Wallabies on Sunday, yet Jean de Villiers questions whether Rassie Erasmus missed a selection trick. The post Jean stunned by Bok omission in Perth…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/BJ-Dixon-Cameron-Hanekom-Paul-De-Villiers-Zachary-Porthen-4-July-2026-Steve-Haag-Getty-Images-e1783236358531.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T07:39:14.000Z"
+          "publishedAt": "2026-09-25T11:13:07.000Z"
         },
         {
-          "title": "Watch: Stokke ‘emotional’ about Wallabies duel",
-          "link": "https://www.sarugbymag.co.za/watch-stokke-emotional-wallabies-duel/",
-          "summary": "On the latest Rassie on Alles, Mzwandile Stick and Deon Davids address the significance of Sunday’s one-off Test between the Springboks and 2027 World Cup hosts Australia. The post Watch: Stokke ‘emotional’ about…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2445966-e1790321758288.jpg",
+          "title": "JP reveals Hendrikse setback",
+          "link": "https://www.sarugbymag.co.za/jp-reveals-hendrikse-setback/",
+          "summary": "Sharks coach JP Pietersen has explained why Vusi Moyo will start Saturday's URC opener against the Ospreys at Kings Park, with Jordan Hendrikse missing out. The post JP reveals Hendrikse setback appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2618461-e1789027079456.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T07:36:31.000Z"
+          "publishedAt": "2026-09-25T10:05:28.000Z"
         }
       ]
     },
@@ -1681,10 +1681,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-25T10:01:33.777Z",
+    "generatedAt": "2026-09-25T13:03:34.477Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 58m"
+      "label": "🟡 Planned Maintenance In 56m"
     },
     "forecast": [
       {
