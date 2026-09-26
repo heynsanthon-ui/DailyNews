@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T04:01:26.596Z",
-  "edition": "Morning Edition — Sat, 26 Sept",
+  "generatedAt": "2026-09-26T07:02:46.682Z",
+  "edition": "Updated 09:02 SAST — Sat, 26 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
+          "title": "Disaster declared as heavy rains spark Bangkok flooding",
+          "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae68/live/f2381670-b96a-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-26T06:28:58.000Z"
+        },
+        {
+          "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+          "link": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+          "summary": "Three years of Israel's war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-26T05:25:23.000Z"
+        },
+        {
+          "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+          "link": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+          "summary": "A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-26T05:23:09.000Z"
+        },
+        {
+          "title": "White House bars CNN from travelling with Trump on Air Force One",
+          "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+          "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4476/live/87b5fae0-b962-11f1-b1d1-571ed4d7ff2c.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-26T05:09:09.000Z"
+        },
+        {
           "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-26T03:49:41.000Z"
-        },
-        {
-          "title": "The bombs are still falling. Does diplomacy even work?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss",
-          "summary": "Al Jazeera’s Emma Withrow asked Al Anoud Al Thani what diplomacy can achieve.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T03:34:23.000Z"
-        },
-        {
-          "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
-          "link": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
-          "summary": "Rashad al-Alimi pledges amnesty for Houthi defectors in first speech since losing ground on the western Red Sea coast.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T03:10:43.000Z"
-        },
-        {
-          "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
-          "link": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
-          "summary": "Africa wants permanent seats and veto power, but agreement remains elusive.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T03:07:55.000Z"
-        },
-        {
-          "title": "OpenAI bots meddled with multiple US government agency sites",
-          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-          "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-26T02:50:56.000Z"
+          "publishedAt": "2026-09-26T05:03:09.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Siya to tackle Edinburgh?",
+          "link": "https://www.sarugbymag.co.za/siya-tackle-edinburgh/",
+          "summary": "John Dobson reveals Siya Kolisi was ready to jump in and make his official return for the Stormers in Friday night’s URC season-opening win in Galway. The post Siya to tackle Edinburgh? appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SiyaKolisiMarkusMuller-e1790401928691.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-26T05:55:51.000Z"
+        },
+        {
+          "title": "Wallabies suffer blow for Bok clash",
+          "link": "https://www.sarugbymag.co.za/wallabies-suffer-blow-bok-clash-2/",
+          "summary": "Head coach Les Kiss has been forced to replace a key member of the Wallabies tight five to face the world champion Springboks in Perth on Sunday. The post Wallabies suffer blow for Bok clash appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2293230822-e1790396430513.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-26T04:27:49.000Z"
+        },
         {
           "title": "Connacht v Stormers: Five takeaways as Springboks rookie ‘leads the way’ in visitors’ bonus-point win while Mack Hansen shines on comeback",
           "link": "https://www.planetrugby.com/news/connacht-v-stormers-five-takeaways-as-springboks-rookie-leads-the-way-in-visitors-bonus-point-win-while-mack-hansen-shines-on-comeback",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Andre-HugoVenterStormersvConnacht-e1790366780255.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-25T20:41:01.000Z"
-        },
-        {
-          "title": "Injury-hit Stormers forced into reshuffle",
-          "link": "https://www.sarugbymag.co.za/injury-hit-stormers-forced-reshuffle/",
-          "summary": "Director of rugby John Dobson has made several enforced adjustments to the Stormers side for Friday night’s URC opener against Connacht in Galway. The post Injury-hit Stormers forced into reshuffle appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2595189-e1790353906562.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T16:32:25.000Z"
-        },
-        {
-          "title": "Ex-Wallabies enforcer recalls infamous ‘find a green jersey and get a hit on’ brawl and the game plan the Springboks are ‘busy designing’ for Joseph Suaalii",
-          "link": "https://www.planetrugby.com/news/ex-wallabies-enforcer-recalls-infamous-find-a-green-jersey-and-get-a-hit-on-brawl-and-the-game-plan-the-springboks-are-busy-designing-for-joseph-suaalii",
-          "summary": "Former Wallabies enforcer Justin Harrison has recalled the infamous 20-player brawl against the Springboks that ended with him escaping a suspension in 2002.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25165104/Inset-bottom-right-2026-09-25T165044.863-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T15:58:53.000Z"
         }
       ]
     },
@@ -334,45 +334,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Amer, Karim",
+              "opponentTitle": "FM",
+              "opponentRating": 2147,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Mafaaz, Khalid",
+              "opponentTitle": "CM",
+              "opponentRating": 2057,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
+              "player": "Mnyasta, Charlton",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
+              "rating": 2236,
+              "opponent": "Zaman, Sohail",
               "opponentTitle": null,
-              "opponentRating": 0,
+              "opponentRating": 1935,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Dinham, James",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
+              "rating": 2124,
+              "opponent": "Zorez, Shabkhez",
               "opponentTitle": null,
-              "opponentRating": 0,
+              "opponentRating": 1933,
               "result": null,
               "opponentResult": null
             }
@@ -937,45 +937,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Repkova, Eva",
+              "opponentTitle": "IM",
+              "opponentRating": 2316,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Sucikova, Svetlana",
+              "opponentTitle": "WIM",
+              "opponentRating": 2166,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Nadzamova, Viktoria",
+              "opponentTitle": "WFM",
+              "opponentRating": 2145,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Masango, Sizakele",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "rating": 1880,
+              "opponent": "Walter, Ema",
+              "opponentTitle": "WFM",
+              "opponentRating": 2105,
               "result": null,
               "opponentResult": null
             }
@@ -1789,10 +1789,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-26T04:01:26.664Z",
+    "generatedAt": "2026-09-26T07:02:46.752Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 59m"
+      "label": "🟡 Planned Maintenance In 6h 57m"
     },
     "forecast": [
       {
