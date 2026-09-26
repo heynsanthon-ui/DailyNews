@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-25T19:02:17.803Z",
-  "edition": "Updated 21:02 SAST — Fri, 25 Sept",
+  "generatedAt": "2026-09-26T04:01:26.596Z",
+  "edition": "Morning Edition — Sat, 26 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-9",
+          "summary": "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2½–1½ in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-26T03:45:00.000Z"
+        },
         {
           "title": "On the Superfluity of Words (3)",
           "link": "https://en.chessbase.com/post/on-the-superfluity-of-words-3",
@@ -17,10 +25,10 @@
         {
           "title": "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points",
           "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
-          "summary": "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating the U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov, but…",
+          "summary": "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating top seed U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-09-25T16:45:40.000Z"
+          "publishedAt": "2026-09-25T16:45:00.000Z"
         },
         {
           "title": "Heartbreak For Minh Le, Victories For Carlsen, Maghsoodloo, Ashraf In 3 0 Thursday",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-25T11:45:00.000Z"
-        },
-        {
-          "title": "7/7 points, rating performance 2955!",
-          "link": "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
-          "summary": "We have seen a lot of great performances at the Olympiad in Samarkand – many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-25T09:30:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-          "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b5/live/159a3ed0-b8a9-11f1-a430-4d16ee157c41.jpg",
+          "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T18:36:30.000Z"
+          "publishedAt": "2026-09-26T03:49:41.000Z"
         },
         {
-          "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-          "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-          "summary": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector.",
+          "title": "The bombs are still falling. Does diplomacy even work?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss",
+          "summary": "Al Jazeera’s Emma Withrow asked Al Anoud Al Thani what diplomacy can achieve.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T18:30:20.000Z"
+          "publishedAt": "2026-09-26T03:34:23.000Z"
         },
         {
-          "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-          "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-          "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
+          "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+          "link": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+          "summary": "Rashad al-Alimi pledges amnesty for Houthi defectors in first speech since losing ground on the western Red Sea coast.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-26T03:10:43.000Z"
+        },
+        {
+          "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
+          "link": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
+          "summary": "Africa wants permanent seats and veto power, but agreement remains elusive.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-26T03:07:55.000Z"
+        },
+        {
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+          "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-25T18:29:28.000Z"
-        },
-        {
-          "title": "India’s Cockroach movement joins opposition push to oust election chief",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-          "summary": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T18:16:47.000Z"
-        },
-        {
-          "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-          "summary": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-25T18:15:43.000Z"
+          "publishedAt": "2026-09-26T02:50:56.000Z"
         }
       ]
     },
@@ -99,12 +99,28 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "LIVE: Connacht vs Stormers",
-          "link": "https://www.sarugbymag.co.za/live-connacht-vs-stormers-2/",
-          "summary": "Follow the live action as Connacht clash with the Stormers in round one of the 2026-27 #URC season. The post LIVE: Connacht vs Stormers appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Connacht-vs-Stormers-LIVE.jpg",
+          "title": "Connacht v Stormers: Five takeaways as Springboks rookie ‘leads the way’ in visitors’ bonus-point win while Mack Hansen shines on comeback",
+          "link": "https://www.planetrugby.com/news/connacht-v-stormers-five-takeaways-as-springboks-rookie-leads-the-way-in-visitors-bonus-point-win-while-mack-hansen-shines-on-comeback",
+          "summary": "Our five takeaways from the Stormers' URC triumph over Connacht at Dexcom Stadium in Galway.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25231215/Andre-Hugo-Venter-and-Mack-Hansen-pic-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-25T22:22:21.000Z"
+        },
+        {
+          "title": "Dobbo: We deserved to win",
+          "link": "https://www.sarugbymag.co.za/dobbo-deserved-win/",
+          "summary": "Director of rugby John Dobson was delighted with how the Stormers stuck to the plan and overcame adversity in Friday night’s URC season opener in Galway. The post Dobbo: We deserved to win appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/VernonPauloEzekielNgobeni-e1790371635711.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-25T18:20:40.000Z"
+          "publishedAt": "2026-09-25T21:50:22.000Z"
+        },
+        {
+          "title": "Stormers make winning start in Galway",
+          "link": "https://www.sarugbymag.co.za/stormers-make-winning-start-galway/",
+          "summary": "The Stormers overturned a second-half deficit to kick off their 2026-27 URC campaign with a bonus-point triumph against Connacht at The Sportsground on Friday night. The post Stormers make winning start in Galway…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Andre-HugoVenterStormersvConnacht-e1790366780255.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-25T20:41:01.000Z"
         },
         {
           "title": "Injury-hit Stormers forced into reshuffle",
@@ -121,22 +137,6 @@
           "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25165104/Inset-bottom-right-2026-09-25T165044.863-1-120x120.jpg",
           "source": "Planet Rugby",
           "publishedAt": "2026-09-25T15:58:53.000Z"
-        },
-        {
-          "title": "Wallabies v Springboks prediction: Rassie Erasmus’ selections make for a ‘fair fight’ but Bomb Squad will be the difference",
-          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-prediction-rassie-erasmus-selections-make-for-a-fair-fight-but-bomb-squad-will-be-the-difference",
-          "summary": "Why the Wallabies have every right to fancy this one rather more than the bookmakers do but will they come out on top against the Springboks?",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25114130/Paul-de-Villiers-in-action-for-Springboks-and-Fraser-McReight-for-Wallabies-Alamy-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T14:56:26.000Z"
-        },
-        {
-          "title": "Springboks: Herschel Jantjies reveals why the ‘fire is burning in him again’ ahead of Wallabies clash",
-          "link": "https://www.planetrugby.com/news/springboks-herschel-jantjies-reveals-why-the-fire-is-burning-in-him-again-ahead-of-wallabies-clash",
-          "summary": "Herschel Jantjies revealed that the \"fire was burning in him again\" ahead of the Springboks' one-off Test against the Wallabies in Perth on Sunday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25141727/Rassie-Erasmus-and-Herschel-Jantjies-photo-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-25T13:59:15.000Z"
         }
       ]
     },
@@ -1789,27 +1789,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-25T19:02:17.872Z",
+    "generatedAt": "2026-09-26T04:01:26.664Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 59m"
     },
     "forecast": [
-      {
-        "date": "2026-09-25",
-        "day": "Fri",
-        "dayOfMonth": 25,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-26",
         "day": "Sat",
         "dayOfMonth": 26,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-27",
@@ -1823,17 +1815,17 @@
         "date": "2026-09-28",
         "day": "Mon",
         "dayOfMonth": 28,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-09-29",
         "day": "Tue",
         "dayOfMonth": 29,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-09-30",
@@ -1850,26 +1842,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-02",
+        "day": "Fri",
+        "dayOfMonth": 2,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-09-28",
+        "date": "2026-09-29",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Mon 28, 09:00–12:00"
+        "etr": "Tue 29, 09:00–12:00"
       }
     ],
     "reliability": {
