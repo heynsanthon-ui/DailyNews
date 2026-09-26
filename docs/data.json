@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T13:01:05.850Z",
-  "edition": "Updated 15:01 SAST — Sat, 26 Sept",
+  "generatedAt": "2026-09-26T16:01:30.975Z",
+  "edition": "Updated 18:01 SAST — Sat, 26 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-          "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9589/live/54ec10f0-b9a7-11f1-bc1f-3f186ca4140c.jpg",
+          "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+          "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b9/live/73f91880-b9c0-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-26T12:51:10.000Z"
+          "publishedAt": "2026-09-26T15:48:51.000Z"
         },
         {
-          "title": "British national among six dead in building explosion close to Acropolis in Athens",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/b65e6fe0-b984-11f1-a8ed-73305fe15fa1.jpg",
+          "title": "Brazil's Lula bans online gambling ahead of presidential election",
+          "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+          "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10f/live/bf3283b0-b95a-11f1-b4ff-03f89ad0727d.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-26T12:47:25.000Z"
+          "publishedAt": "2026-09-26T15:46:40.000Z"
         },
         {
-          "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
-          "link": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
-          "summary": "Ireland are due to play Israel in the Nations League in Hungary on Sunday, but boycott pressure mounts on and off-field.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T11:48:08.000Z"
+          "title": "Watch: Bangkok declared flood disaster zone",
+          "link": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b50d/live/cf665130-b9be-11f1-9190-07b6ee147cf1.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-26T15:34:18.000Z"
         },
         {
-          "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills several people",
-          "link": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
-          "summary": "Pakistan Taliban (TTP) claims responsibility for attack in Khyber Pakhtunkhwa province.",
+          "title": "Thousands of students protest German military conscription",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
+          "summary": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T11:33:42.000Z"
+          "publishedAt": "2026-09-26T15:23:38.000Z"
         },
         {
-          "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-          "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
-          "summary": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.",
+          "title": "One year on, the UK’s recognition of Palestinian statehood is bearing fruit",
+          "link": "https://www.aljazeera.com/opinions/2026/9/26/one-year-on-the-uks-recognition-of-palestinian-statehood-is-bearing-fruit?traffic_source=rss",
+          "summary": "The British government is moving to translate rhetoric into policy.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T11:06:28.000Z"
+          "publishedAt": "2026-09-26T15:20:24.000Z"
         }
       ]
     },
@@ -99,12 +99,36 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "LIVE: Lions vs Leinster",
-          "link": "https://www.sarugbymag.co.za/live-lions-vs-leinster/",
-          "summary": "Follow the live action as the Lions host defending #URC champions Leinster at Ellis Park. The post LIVE: Lions vs Leinster appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Lions-vs-Leinster-LIVE.jpg",
+          "title": "Sharks overpower Ospreys",
+          "link": "https://www.sarugbymag.co.za/sharks-overpower-ospreys/",
+          "summary": "Luan Giliomee scored a brace while Vusi Moyo kicked 14 points as the Sharks opened their URC season with a five-try win against the Ospreys in Durban on Saturday afternoon. The post Sharks overpower Ospreys appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625186-e1790437757231.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T11:05:17.000Z"
+          "publishedAt": "2026-09-26T16:00:01.000Z"
+        },
+        {
+          "title": "Lions overcome youthful Leinster",
+          "link": "https://www.sarugbymag.co.za/lions-overcome-youthful-leinster/",
+          "summary": "The Lions edged Leinster in a tight URC opening-round clash at Ellis Park on Saturday. The post Lions overcome youthful Leinster appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2624887-e1790429838904.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-26T14:07:18.000Z"
+        },
+        {
+          "title": "LIVE: Sharks vs Ospreys",
+          "link": "https://www.sarugbymag.co.za/live-sharks-vs-ospreys-3/",
+          "summary": "Follow the live action as the Sharks clash with Ospreys at Kings Park. #URC The post LIVE: Sharks vs Ospreys appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Sharks-vs-Ospreys-LIVE.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-26T13:40:17.000Z"
+        },
+        {
+          "title": "Watch: Siya feeling ‘Impi yamaStormer’ vibe",
+          "link": "https://www.sarugbymag.co.za/watch-siya-feeling-impi-yamastormer-vibe/",
+          "summary": "Led by a spirited Sazi Sandi, the Stormers and returning Siya Kolisi celebrated a big win over Connacht in round one of the 2026-27 URC with song. The post Watch: Siya feeling ‘Impi yamaStormer’ vibe appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SiyaKolisiStormers.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-26T13:03:21.000Z"
         },
         {
           "title": "Sharks make late midfield switch",
@@ -113,30 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2614457-1-e1790415381227.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-26T09:46:26.000Z"
-        },
-        {
-          "title": "The Giant excited for his next evolution",
-          "link": "https://www.sarugbymag.co.za/giant-excited-next-evolution/",
-          "summary": "André Esterhuizen says his hybrid role has best prepared him to lead the Springboks on Sunday, when the world champions face the Wallabies in Australia. The post The Giant excited for his next evolution appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2609429-e1790408945939.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T08:29:02.000Z"
-        },
-        {
-          "title": "Boks wary of Suaalii aerial threat",
-          "link": "https://www.sarugbymag.co.za/boks-wary-suaalii-aerial-threat/",
-          "summary": "Springbok assistant coach Mzwandile Stick expects Joseph Suaalii to be a key weapon for the Wallabies in Sunday's one-off Test in Perth. The post Boks wary of Suaalii aerial threat appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2289577281-e1790410797785.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T08:23:55.000Z"
-        },
-        {
-          "title": "Springbok greats highlight two South African players who need ‘big game’ in Perth and call out ‘biggest problem’ hampering the Wallabies",
-          "link": "https://www.planetrugby.com/news/springbok-greats-highlight-two-south-african-players-who-need-big-game-in-perth-and-call-out-biggest-problem-hampering-the-wallabies",
-          "summary": "Retired Springbok enforcer Schalk Burger has named the two South African players who must impress Rassie Erasmus this weekend in Perth.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/25190737/Inset-bottom-right-2026-09-25T190715.246-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-26T08:13:20.000Z"
         }
       ]
     },
@@ -329,8 +329,8 @@
           "date": "2026/09/26",
           "opponent": "Pakistan (PAK)",
           "opponentFed": "PAK",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "3",
+          "opponentScore": "1",
           "boards": [
             {
               "board": 1,
@@ -340,8 +340,8 @@
               "opponent": "Amer, Karim",
               "opponentTitle": "FM",
               "opponentRating": 2147,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 2,
@@ -351,8 +351,8 @@
               "opponent": "Mafaaz, Khalid",
               "opponentTitle": "CM",
               "opponentRating": 2057,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 3,
@@ -362,8 +362,8 @@
               "opponent": "Zaman, Sohail",
               "opponentTitle": null,
               "opponentRating": 1935,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             },
             {
               "board": 4,
@@ -373,8 +373,8 @@
               "opponent": "Zorez, Shabkhez",
               "opponentTitle": null,
               "opponentRating": 1933,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             }
           ]
         },
@@ -932,8 +932,8 @@
           "date": "2026/09/26",
           "opponent": "Slovakia (SVK)",
           "opponentFed": "SVK",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "½",
+          "opponentScore": "3½",
           "boards": [
             {
               "board": 1,
@@ -943,8 +943,8 @@
               "opponent": "Repkova, Eva",
               "opponentTitle": "IM",
               "opponentRating": 2316,
-              "result": null,
-              "opponentResult": null
+              "result": "½",
+              "opponentResult": "½"
             },
             {
               "board": 2,
@@ -954,8 +954,8 @@
               "opponent": "Sucikova, Svetlana",
               "opponentTitle": "WIM",
               "opponentRating": 2166,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 3,
@@ -965,8 +965,8 @@
               "opponent": "Nadzamova, Viktoria",
               "opponentTitle": "WFM",
               "opponentRating": 2145,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 4,
@@ -976,8 +976,8 @@
               "opponent": "Walter, Ema",
               "opponentTitle": "WFM",
               "opponentRating": 2105,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             }
           ]
         },
@@ -1789,10 +1789,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-26T13:01:05.922Z",
+    "generatedAt": "2026-09-26T16:01:31.050Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 59m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
