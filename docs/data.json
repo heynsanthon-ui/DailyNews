@@ -1,13 +1,21 @@
 {
-  "generatedAt": "2026-09-26T19:01:28.531Z",
-  "edition": "Updated 21:01 SAST — Sat, 26 Sept",
+  "generatedAt": "2026-09-27T04:01:33.888Z",
+  "edition": "Morning Edition — Sun, 27 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "Uzbekistan Maintains Lead, Pursued By India; China Continues To Lead Women's",
+          "title": "Samarkand R10 (open): Uzbekistan enter final round with one-point lead over India",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-10",
+          "summary": "Uzbekistan will enter the final round of the Chess Olympiad with a one-point lead after beating Armenia 3½–½ in round ten. India remain their closest challengers following a clear victory over Uzbekistan 2, while…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-26T21:50:00.000Z"
+        },
+        {
+          "title": "Uzbekistan Still Leads India Before Final Round; Chinese Women Lead Kazakhstan",
           "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
           "summary": "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored…",
           "image": null,
@@ -20,15 +28,7 @@
           "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-09-26T14:00:50.000Z"
-        },
-        {
-          "title": "Chess Olympiad - Live!",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-26T11:45:00.000Z"
+          "publishedAt": "2026-09-26T15:05:00.000Z"
         },
         {
           "title": "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Tenth woman's body found in South Africa suburb as police probe killings",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
-          "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-26T18:30:04.000Z"
-        },
-        {
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
-          "source": "BBC News",
-          "publishedAt": "2026-09-26T18:17:12.000Z"
-        },
-        {
-          "title": "South African police discover body of 10th woman near Johannesburg",
-          "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-          "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+          "title": "German, Russian foreign ministers hold rare talks amid rising tensions",
+          "link": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
+          "summary": "Russia's Lavrov dismisses Wadephul's call to abandon 'dangerous path of escalation' with Europe.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T18:08:12.000Z"
+          "publishedAt": "2026-09-27T03:36:19.000Z"
         },
         {
-          "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
-          "summary": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
+          "title": "Bangkok declared disaster zone after heavy rains submerge roads",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
+          "summary": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T18:00:43.000Z"
+          "publishedAt": "2026-09-27T03:33:13.000Z"
         },
         {
-          "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-          "summary": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+          "title": "Thousands protest in Madrid against Spain’s housing crisis",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
+          "summary": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-26T17:55:22.000Z"
+          "publishedAt": "2026-09-27T03:17:52.000Z"
+        },
+        {
+          "title": "Powerful storm batters US Northeast disrupting power and travel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
+          "summary": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-27T02:19:34.000Z"
+        },
+        {
+          "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+          "summary": "The UN General Assembly wraps up with mixed diplomatic outcomes.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-27T01:59:17.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Pollard: Sh*t happens",
+          "link": "https://www.sarugbymag.co.za/pollard-sht-happens/",
+          "summary": "Handré Pollard has opened up on the freak training ground injury that ruled him out of the second Rugby's Greatest Rivalry Test against the All Blacks. The post Pollard: Sh*t happens appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Handre-Pollard-4-September-2026-Lefty-Shivambu-Gallo-Images-e1790247622744.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T04:00:40.000Z"
+        },
+        {
+          "title": "Stormers flex title-winning depth",
+          "link": "https://www.sarugbymag.co.za/stormers-flex-title-winning-depth/",
+          "summary": "The Stormers showed in Galway that they have the squad depth to challenge for the URC title, writes @mark_keohane The post Stormers flex title-winning depth appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/StormerscelebratetryinGalway.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T03:55:40.000Z"
+        },
         {
           "title": "Rampant Bulls complete Italian job",
           "link": "https://www.sarugbymag.co.za/rampant-bulls-complete-italian-job-parma/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625186-e1790437757231.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-26T16:00:01.000Z"
-        },
-        {
-          "title": "Lions overcome youthful Leinster",
-          "link": "https://www.sarugbymag.co.za/lions-overcome-youthful-leinster/",
-          "summary": "The Lions edged Leinster in a tight URC opening-round clash at Ellis Park on Saturday. The post Lions overcome youthful Leinster appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2624887-e1790429838904.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T14:07:18.000Z"
-        },
-        {
-          "title": "Bok Women bounce back in style",
-          "link": "https://www.sarugbymag.co.za/bok-women-bounce-back-style/",
-          "summary": "The Springbok Women hit back strongly from last week’s disappointment against Wales to beat Italy in their second WXV Global Series match in Pordenone on Saturday. The post Bok Women bounce back in style appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/BokWomenvItaly-e1790446385112.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T14:00:32.000Z"
         }
       ]
     },
@@ -334,45 +334,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Karsten, Jan",
+              "title": "IM",
+              "rating": 2386,
+              "opponent": "Risteski, Emil",
+              "opponentTitle": "IM",
+              "opponentRating": 2426,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Levitan, Caleb Levi",
+              "title": "IM",
+              "rating": 2316,
+              "opponent": "Zlatkov, Anton",
+              "opponentTitle": "FM",
+              "opponentRating": 2422,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Mhango, Banele",
+              "title": "FM",
+              "rating": 2354,
+              "opponent": "Pancevski, Filip",
+              "opponentTitle": "IM",
+              "opponentRating": 2422,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Mnyasta, Charlton",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "rating": 2236,
+              "opponent": "Nikolovski, Nikola",
+              "opponentTitle": "IM",
+              "opponentRating": 2393,
               "result": null,
               "opponentResult": null
             }
@@ -991,45 +991,45 @@
           "boards": [
             {
               "board": 1,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Badenhorst, Chloe",
+              "title": "WFM",
+              "rating": 1997,
+              "opponent": "Aktamova, Zilola",
+              "opponentTitle": "WIM",
+              "opponentRating": 2078,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 2,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Laubscher, Anzel",
+              "title": "WIM",
+              "rating": 1817,
+              "opponent": "Bobomurodova, Maftuna",
+              "opponentTitle": "WIM",
+              "opponentRating": 2030,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 3,
-              "player": "no player",
-              "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "player": "Nel, Hayley",
+              "title": "WCM",
+              "rating": 1864,
+              "opponent": "Shokirjonova, Barchinoy",
+              "opponentTitle": "WFM",
+              "opponentRating": 1996,
               "result": null,
               "opponentResult": null
             },
             {
               "board": 4,
-              "player": "no player",
+              "player": "Masango, Sizakele",
               "title": null,
-              "rating": 0,
-              "opponent": "no player",
-              "opponentTitle": null,
-              "opponentRating": 0,
+              "rating": 1880,
+              "opponent": "Shakhzodova, Ozoda",
+              "opponentTitle": "WCM",
+              "opponentRating": 1964,
               "result": null,
               "opponentResult": null
             }
@@ -1897,27 +1897,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-26T19:01:28.601Z",
+    "generatedAt": "2026-09-27T04:01:33.950Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 58m"
     },
     "forecast": [
-      {
-        "date": "2026-09-26",
-        "day": "Sat",
-        "dayOfMonth": 26,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-27",
         "day": "Sun",
         "dayOfMonth": 27,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-28",
@@ -1931,17 +1923,17 @@
         "date": "2026-09-29",
         "day": "Tue",
         "dayOfMonth": 29,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-09-30",
         "day": "Wed",
         "dayOfMonth": 30,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-01",
@@ -1958,26 +1950,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-03",
+        "day": "Sat",
+        "dayOfMonth": 3,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-26",
+        "date": "2026-09-27",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-26",
+        "date": "2026-09-27",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Tue 29, 09:00–12:00"
+        "etr": "Wed 30, 09:00–12:00"
       }
     ],
     "reliability": {
