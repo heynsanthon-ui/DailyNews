@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-27T04:01:33.888Z",
-  "edition": "Morning Edition — Sun, 27 Sept",
+  "generatedAt": "2026-09-27T07:02:08.131Z",
+  "edition": "Updated 09:02 SAST — Sun, 27 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Chess Olympiad - Live!",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-27T07:45:00.000Z"
+        },
         {
           "title": "Samarkand R10 (open): Uzbekistan enter final round with one-point lead over India",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-10",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-26T10:50:00.000Z"
-        },
-        {
-          "title": "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-9",
-          "summary": "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2½–1½ in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-26T03:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "German, Russian foreign ministers hold rare talks amid rising tensions",
-          "link": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
-          "summary": "Russia's Lavrov dismisses Wadephul's call to abandon 'dangerous path of escalation' with Europe.",
+          "title": "Northern Ireland court allows Orange Order march through Catholic area",
+          "link": "https://www.aljazeera.com/news/2026/9/27/northern-ireland-court-allows-orange-order-march-through-catholic-area?traffic_source=rss",
+          "summary": "Crowd gathers on Garvaghy Road early on Sunday morning to protest against the ruling allowing the march.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T03:36:19.000Z"
+          "publishedAt": "2026-09-27T06:53:31.000Z"
         },
         {
-          "title": "Bangkok declared disaster zone after heavy rains submerge roads",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
-          "summary": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T03:33:13.000Z"
+          "title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+          "summary": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-27T06:52:49.000Z"
         },
         {
-          "title": "Thousands protest in Madrid against Spain’s housing crisis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
-          "summary": "Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.",
+          "title": "At least 17 killed in South Africa shooting, police hunt for eight suspects",
+          "link": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
+          "summary": "Emergency medical services declared all 17 victims dead ⁠at the ​scene in Wedela ​township southwest of ​Johannesburg.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T03:17:52.000Z"
+          "publishedAt": "2026-09-27T05:48:47.000Z"
         },
         {
-          "title": "Powerful storm batters US Northeast disrupting power and travel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
-          "summary": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.",
+          "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+          "summary": "Pope Leo XIV drew around 800,000 people to central Paris for an open-air Mass at Place de la Concorde",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T02:19:34.000Z"
+          "publishedAt": "2026-09-27T05:09:01.000Z"
         },
         {
-          "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
-          "summary": "The UN General Assembly wraps up with mixed diplomatic outcomes.",
+          "title": "Ethiopia’s army promises restraint amid fears of new civil war",
+          "link": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
+          "summary": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T01:59:17.000Z"
+          "publishedAt": "2026-09-27T04:59:50.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "‘Krappie will ignite the field in Perth’",
+          "link": "https://www.sarugbymag.co.za/krappie-will-ignite-field-perth/",
+          "summary": "The Springbok bench poses a threat to the Wallabies on Sunday at Optus Stadium, but not in the usual Bomb Squad sense, according to Kiwi journalist Paul Cully. The post ‘Krappie will ignite the field in Perth’ appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2620498-e1790487514666.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T05:41:21.000Z"
+        },
+        {
+          "title": "Harry warns Boks: Les lives for rugby",
+          "link": "https://www.sarugbymag.co.za/harry-warns-boks-les-lives-rugby/",
+          "summary": "Former Springbok coach Harry Viljoen reckons South Africa cannot afford to underestimate Les Kiss' Wallabies when the two sides meet in Perth on Sunday. The post Harry warns Boks: Les lives for rugby appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2291888509-e1790484123893.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T04:59:12.000Z"
+        },
+        {
+          "title": "Ackers hails Bosch debut",
+          "link": "https://www.sarugbymag.co.za/ackers-hails-bosch-debut/",
+          "summary": "Curwin Bosch made an immediate impression on Johan Ackermann as the flyhalf helped the Bulls launch their URC campaign with a 47-13 demolition of Zebre in Parma on Saturday. The post Ackers hails Bosch debut appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/CurwinBoschagainstZebreinParma-e1790488666492.png",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T04:04:02.000Z"
+        },
+        {
+          "title": "Cash: Harsh words sparked response",
+          "link": "https://www.sarugbymag.co.za/cash-harsh-words-sparked-response/",
+          "summary": "Coach Ivan van Rooyen says the Lions needed a half-time wake-up call before edging a youthful Leinster in their URC opener at Ellis Park. The post Cash: Harsh words sparked response appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2296656568-e1790489438106.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T04:03:34.000Z"
+        },
+        {
           "title": "Pollard: Sh*t happens",
           "link": "https://www.sarugbymag.co.za/pollard-sht-happens/",
           "summary": "Handré Pollard has opened up on the freak training ground injury that ruled him out of the second Rugby's Greatest Rivalry Test against the All Blacks. The post Pollard: Sh*t happens appeared first on SA Rugby magazine.",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Handre-Pollard-4-September-2026-Lefty-Shivambu-Gallo-Images-e1790247622744.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-27T04:00:40.000Z"
-        },
-        {
-          "title": "Stormers flex title-winning depth",
-          "link": "https://www.sarugbymag.co.za/stormers-flex-title-winning-depth/",
-          "summary": "The Stormers showed in Galway that they have the squad depth to challenge for the URC title, writes @mark_keohane The post Stormers flex title-winning depth appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/StormerscelebratetryinGalway.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T03:55:40.000Z"
-        },
-        {
-          "title": "Rampant Bulls complete Italian job",
-          "link": "https://www.sarugbymag.co.za/rampant-bulls-complete-italian-job-parma/",
-          "summary": "The Bulls got their URC campaign underway in the best possible way by thrashing Zebre in a ruthless display in Parma on Saturday night. The post Rampant Bulls complete Italian job appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/IMG-20260926-WA0049-e1790446467952.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T18:21:17.000Z"
-        },
-        {
-          "title": "JP happy to see all the hands up",
-          "link": "https://www.sarugbymag.co.za/jp-happy-see-hands/",
-          "summary": "Coach JP Pietersen was chuffed with the Sharks’ big win at Kings Park on Saturday, notably praising Luan Giliomee and Janco Purchase for taking their opportunities. The post JP happy to see all the hands up appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625419-e1790444704569.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T17:47:40.000Z"
-        },
-        {
-          "title": "Sharks overpower Ospreys",
-          "link": "https://www.sarugbymag.co.za/sharks-overpower-ospreys/",
-          "summary": "Luan Giliomee scored a brace while Vusi Moyo kicked 14 points as the Sharks opened their URC season with a five-try win against the Ospreys in Durban on Saturday. The post Sharks overpower Ospreys appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625186-e1790437757231.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-26T16:00:01.000Z"
         }
       ]
     },
@@ -1897,10 +1897,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-27T04:01:33.950Z",
+    "generatedAt": "2026-09-27T07:02:08.177Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 58m"
+      "label": "🟡 Planned Maintenance In 6h 58m"
     },
     "forecast": [
       {
