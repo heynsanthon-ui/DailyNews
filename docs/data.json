@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T13:01:13.316Z",
-  "edition": "Updated 15:01 SAST — Sun, 27 Sept",
+  "generatedAt": "2026-09-27T16:01:34.164Z",
+  "edition": "Updated 18:01 SAST — Sun, 27 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-          "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-          "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f6/live/f8a40890-ba6c-11f1-a109-c7409015a263.jpg",
+          "title": "Venezuela releases dozens of political prisoners as election calls grow",
+          "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+          "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856d/live/3b0c2900-ba87-11f1-befc-25c189e9eebf.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-27T12:36:57.000Z"
+          "publishedAt": "2026-09-27T15:56:25.000Z"
         },
         {
-          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-          "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-27T12:34:26.000Z"
-        },
-        {
-          "title": "Political rallies fill Brazil’s streets a week before elections",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
-          "summary": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
+          "title": "Finding Desert Angels: Searching for the missing at the US-Mexico border",
+          "link": "https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss",
+          "summary": "An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T12:34:13.000Z"
+          "publishedAt": "2026-09-27T15:30:00.000Z"
         },
         {
-          "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-          "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
-          "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
+          "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
+          "link": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss",
+          "summary": "Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T12:02:50.000Z"
+          "publishedAt": "2026-09-27T15:29:19.000Z"
         },
         {
-          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-          "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a459/live/8d44b4c0-ba56-11f1-9a84-01517feb24bf.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-27T11:38:03.000Z"
+          "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+          "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
+          "summary": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-27T14:36:44.000Z"
+        },
+        {
+          "title": "True Crime Reports: The Dosa King’s Deadly Obsession",
+          "link": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss",
+          "summary": "The Dosa King built an empire. After a woman rejects him, her husband is found dead – and the pursuit of justice begins.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-27T14:09:23.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Wallabies v Springboks: Five takeaways as ‘simply magnificent’ star shines in Socceroo-style victory",
-          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-five-takeaways-as-simply-magnificent-star-shines-in-socceroo-style-victory",
-          "summary": "Following a 42-38 victory for Australia over South Africa in Perth, here's our five takeaways from a Test match that will take some beating this year.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27135629/Wallabies-scrum-half-Ryan-Lonergan-against-Springboks-Alamy-120x120.jpg",
+          "title": "Rassie Erasmus identifies where Springboks lost the game against Wallabies and reveals why it’s a ‘valuable experience’",
+          "link": "https://www.planetrugby.com/news/rassie-erasmus-identifies-where-springboks-lost-the-game-against-wallabies",
+          "summary": "Springboks coach Rassie Erasmus and captain Andre Esterhuizen accepted full blame for their disappointing 42-38 defeat against the Wallabies at the Optus Stadium in Perth on Sunday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27151829/Andre-Esterhuizen-and-Rassie-Erasmus-photo-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-27T12:59:52.000Z"
+          "publishedAt": "2026-09-27T14:28:18.000Z"
         },
         {
-          "title": "André the Giant: Lack of discipline cost us",
-          "link": "https://www.sarugbymag.co.za/andre-giant-lack-discipline-cost-us/",
-          "summary": "Captain André Esterhuizen admits that poor discipline and costly errors left the Springboks with too much to do in their dramatic 42-38 defeat to the Wallabies in Perth on Sunday. The post André the Giant: Lack of…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626144-e1790511248118.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T12:46:15.000Z"
-        },
-        {
-          "title": "Boks’ ranking lead reduced",
-          "link": "https://www.sarugbymag.co.za/boks-ranking-lead-reduced/",
-          "summary": "The Springboks’ lead over the All Blacks in the World Rugby rankings has been cut after Sunday’s 42-38 loss to the Wallabies in Perth. The post Boks’ ranking lead reduced appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Wilson-try-dejected-Boks-27-September-2026-Janelle-St-Pierre-Getty-Images-e1790512491209.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T12:36:09.000Z"
-        },
-        {
-          "title": "Springboks player ratings: Rookie forward ‘the shining light’ as world champions suffer shock defeat to Wallabies",
-          "link": "https://www.planetrugby.com/news/springboks-player-ratings-rookie-forward-the-shining-light-as-world-champions-suffer-shock-defeat-to-wallabies",
-          "summary": "How South Africa's's players rated in their defeat against Australia at the Optus Stadium in Perth on Sunday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27130026/Canan-Moodie-and-Paul-de-Villiers-image-120x120.jpg",
+          "title": "World Rugby rankings: Wallabies usurp Six Nations side and what Springboks defeat means for All Blacks",
+          "link": "https://www.planetrugby.com/news/world-rugby-rankings-wallabies-usurp-six-nations-side-and-what-springboks-defeat-means-for-all-blacks",
+          "summary": "The Wallabies claimed a 42-38 win over the Springboks at the Optus Stadium in Perth on Sunday and the result comes with an added positive.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27145343/Wallabies-lock-Jeremy-Williams-against-Springboks-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-27T12:32:26.000Z"
+          "publishedAt": "2026-09-27T14:10:23.000Z"
         },
         {
-          "title": "Kiss of death as Wallabies tear up Bok blueprint",
-          "link": "https://www.sarugbymag.co.za/kiss-death-wallabies-tear-bok-blueprint/",
-          "summary": "The Springboks’ cloak of invincibility was torn to shreds in Perth on Sunday as the Wallabies put a world of hurt on the world’s No 1 team, writes @ClintonV The post Kiss of death as Wallabies tear up Bok blueprint…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Max-Jorgensen-27-September-2026-James-Worsfold-Getty-Images-e1790511568332.jpg",
+          "title": "Rassie: It’s sh*t to lose",
+          "link": "https://www.sarugbymag.co.za/rassie-sht-lose/",
+          "summary": "Rassie Erasmus says the Springboks only had themselves to blame for Sunday's 42-38 defeat to the Wallabies in Perth. The post Rassie: It’s sh*t to lose appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626176-e1790517592842.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T12:20:35.000Z"
+          "publishedAt": "2026-09-27T13:58:08.000Z"
+        },
+        {
+          "title": "Jasper: Bok defeat maybe necessary",
+          "link": "https://www.sarugbymag.co.za/jasper-bok-defeat-maybe-necessary/",
+          "summary": "Jasper Wiese says while the Springboks’ 42-38 loss to the Wallabies in Perth hurts, they learned valuable lessons from it. The post Jasper: Bok defeat maybe necessary appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Eben-Etzebeth-Springboks-dejected-27-September-2026-James-Worsfold-Getty-Images-e1790516598829.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T13:55:06.000Z"
+        },
+        {
+          "title": "Wilson ‘proud’ of Wallabies performance",
+          "link": "https://www.sarugbymag.co.za/proud-wilson-credits-unified-wallabies-performance/",
+          "summary": "Wallabies captain Harry Wilson hailed his team for snuffing out a late Springbok comeback at Optus Stadium in Perth on Sunday. The post Wilson ‘proud’ of Wallabies performance appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626175-e1790515776765.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-27T13:33:12.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-27T13:01:13.365Z",
+    "generatedAt": "2026-09-27T16:01:34.238Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 59m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
