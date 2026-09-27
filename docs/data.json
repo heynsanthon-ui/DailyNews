@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-27T10:01:27.752Z",
-  "edition": "Updated 12:01 SAST — Sun, 27 Sept",
+  "generatedAt": "2026-09-27T13:01:13.316Z",
+  "edition": "Updated 15:01 SAST — Sun, 27 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
+          "link": "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
+          "summary": "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024–2026 cycle. Honours went to players, teams, tournaments,…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-27T15:00:00.000Z"
+        },
+        {
+          "title": "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold",
+          "link": "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
+          "summary": "Uzbekistan has won its second Olympiad gold, this time on home soil in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-27T12:19:00.000Z"
+        },
         {
           "title": "Chess Olympiad - Live!",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-26T16:42:00.000Z"
-        },
-        {
-          "title": "Timur Turlov elected President of FIDE",
-          "link": "https://en.chessbase.com/post/timur-turlov-elected-president-of-fide",
-          "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-26T15:05:00.000Z"
-        },
-        {
-          "title": "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85",
-          "link": "https://www.chess.com/news/view/turlov-elected-new-fide-president-beats-rosenstein-in-2nd-round",
-          "summary": "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand,…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-26T10:50:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Two mass shootings in South Africa leave 27 dead",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
+          "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+          "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f6/live/f8a40890-ba6c-11f1-a109-c7409015a263.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-27T10:00:36.000Z"
+          "publishedAt": "2026-09-27T12:36:57.000Z"
         },
         {
-          "title": "Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold",
-          "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
-          "summary": "The top squash seeds successfully defended their Asian Games titles and became the first players to qualify for LA 2028.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T09:19:37.000Z"
+          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+          "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-27T12:34:26.000Z"
         },
         {
-          "title": "UK police evacuate homes near airbase used by US",
-          "link": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
-          "summary": "Police say they have arrested several men on suspicion of explosives-related offences.",
+          "title": "Political rallies fill Brazil’s streets a week before elections",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+          "summary": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T08:59:38.000Z"
+          "publishedAt": "2026-09-27T12:34:13.000Z"
         },
         {
-          "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
-          "summary": "Massive Attack singer arrested over pro-Palestine protest in UK",
+          "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
+          "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
+          "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T08:49:47.000Z"
+          "publishedAt": "2026-09-27T12:02:50.000Z"
         },
         {
-          "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
-          "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-          "summary": "Iran is looking for alternatives to export its oil as the US blockades its southern ports.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T08:49:32.000Z"
+          "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+          "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a459/live/8d44b4c0-ba56-11f1-9a84-01517feb24bf.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-27T11:38:03.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "LIVE: Wallabies vs Springboks",
-          "link": "https://www.sarugbymag.co.za/live-wallabies-vs-springboks-5/",
-          "summary": "Follow the live action as the Wallabies clash with the Springboks in Perth. The post LIVE: Wallabies vs Springboks appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Wallabies-vs-Springboks-LIVE.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T09:20:25.000Z"
-        },
-        {
-          "title": "Wallabies v Springboks, LIVE BLOG: Follow our coverage of the Perth Test",
-          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-live-blog-follow-our-coverage-of-the-perth-test",
-          "summary": "Australia take on South Africa in Perth today in a one-off international clash. We are live blogging the game so scroll down to follow the action.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27104206/Springboks-fans-ahead-of-Wallabies-clash-Alamy-120x120.jpg",
+          "title": "Wallabies v Springboks: Five takeaways as ‘simply magnificent’ star shines in Socceroo-style victory",
+          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-five-takeaways-as-simply-magnificent-star-shines-in-socceroo-style-victory",
+          "summary": "Following a 42-38 victory for Australia over South Africa in Perth, here's our five takeaways from a Test match that will take some beating this year.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27135629/Wallabies-scrum-half-Ryan-Lonergan-against-Springboks-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-27T08:42:51.000Z"
+          "publishedAt": "2026-09-27T12:59:52.000Z"
         },
         {
-          "title": "‘Krappie will ignite the field in Perth’",
-          "link": "https://www.sarugbymag.co.za/krappie-will-ignite-field-perth/",
-          "summary": "The Springbok bench poses a threat to the Wallabies on Sunday at Optus Stadium, but not in the usual Bomb Squad sense, according to Kiwi journalist Paul Cully. The post ‘Krappie will ignite the field in Perth’ appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/MorneVDBSFM-e1790496668597.jpg",
+          "title": "André the Giant: Lack of discipline cost us",
+          "link": "https://www.sarugbymag.co.za/andre-giant-lack-discipline-cost-us/",
+          "summary": "Captain André Esterhuizen admits that poor discipline and costly errors left the Springboks with too much to do in their dramatic 42-38 defeat to the Wallabies in Perth on Sunday. The post André the Giant: Lack of…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626144-e1790511248118.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T05:41:21.000Z"
+          "publishedAt": "2026-09-27T12:46:15.000Z"
         },
         {
-          "title": "Harry warns Boks: Les lives for rugby",
-          "link": "https://www.sarugbymag.co.za/harry-warns-boks-les-lives-rugby/",
-          "summary": "Former Springbok coach Harry Viljoen reckons South Africa cannot afford to underestimate Les Kiss' Wallabies when the two sides meet in Perth on Sunday. The post Harry warns Boks: Les lives for rugby appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2291888509-e1790484123893.jpg",
+          "title": "Boks’ ranking lead reduced",
+          "link": "https://www.sarugbymag.co.za/boks-ranking-lead-reduced/",
+          "summary": "The Springboks’ lead over the All Blacks in the World Rugby rankings has been cut after Sunday’s 42-38 loss to the Wallabies in Perth. The post Boks’ ranking lead reduced appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Wilson-try-dejected-Boks-27-September-2026-Janelle-St-Pierre-Getty-Images-e1790512491209.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T04:59:12.000Z"
+          "publishedAt": "2026-09-27T12:36:09.000Z"
         },
         {
-          "title": "Ackers hails Bosch debut",
-          "link": "https://www.sarugbymag.co.za/ackers-hails-bosch-debut/",
-          "summary": "Curwin Bosch made an immediate impression on Johan Ackermann as the flyhalf helped the Bulls launch their URC campaign with a 47-13 demolition of Zebre in Parma on Saturday. The post Ackers hails Bosch debut appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/CurwinBoschagainstZebreinParma-e1790488666492.png",
+          "title": "Springboks player ratings: Rookie forward ‘the shining light’ as world champions suffer shock defeat to Wallabies",
+          "link": "https://www.planetrugby.com/news/springboks-player-ratings-rookie-forward-the-shining-light-as-world-champions-suffer-shock-defeat-to-wallabies",
+          "summary": "How South Africa's's players rated in their defeat against Australia at the Optus Stadium in Perth on Sunday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27130026/Canan-Moodie-and-Paul-de-Villiers-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-27T12:32:26.000Z"
+        },
+        {
+          "title": "Kiss of death as Wallabies tear up Bok blueprint",
+          "link": "https://www.sarugbymag.co.za/kiss-death-wallabies-tear-bok-blueprint/",
+          "summary": "The Springboks’ cloak of invincibility was torn to shreds in Perth on Sunday as the Wallabies put a world of hurt on the world’s No 1 team, writes @ClintonV The post Kiss of death as Wallabies tear up Bok blueprint…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Max-Jorgensen-27-September-2026-James-Worsfold-Getty-Images-e1790511568332.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T04:04:02.000Z"
+          "publishedAt": "2026-09-27T12:20:35.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Miller, Bavuma centuries propel South Africa to 365",
+          "link": "https://www.cricinfo.com/ci/content/story/1555929.html?ex_cid=OTC-RSS",
+          "summary": "Ellis suffered a side injury and bowled just four overs, leaving Australia's attack depleted",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423124.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-27T12:30:22.000Z"
+        },
+        {
+          "title": "CSA reports loss as broadcast challenges loom",
+          "link": "https://www.cricinfo.com/ci/content/story/1555911.html?ex_cid=OTC-RSS",
+          "summary": "The board is also predicting another loss in the 2026-27 summer despite hosting the Australia and England men's teams",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/336100/336147.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-27T11:46:32.000Z"
+        },
         {
           "title": "South Africa make four changes, Australia opt to bowl without Cummins",
           "link": "https://www.cricinfo.com/ci/content/story/1555880.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422968.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-26T07:34:58.000Z"
-        },
-        {
-          "title": "Former Namibia captain Yasmeen Khan included in South Africa's red-ball training camp",
-          "link": "https://www.cricinfo.com/ci/content/story/1555719.html?ex_cid=OTC-RSS",
-          "summary": "Preparation for Tests against India and Australia later this season gets underway",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423000/423024.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-25T16:17:52.000Z"
-        },
-        {
-          "title": "Maharaj stars as Australia collapse to spin after Breetzke hundred",
-          "link": "https://www.cricinfo.com/ci/content/story/1555570.html?ex_cid=OTC-RSS",
-          "summary": "Marco Jansen followed a powerful 75 off 59 balls with one of the great catches to inspire the home side",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422961.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-24T16:30:58.000Z"
         }
       ]
     }
@@ -193,8 +193,8 @@
       "label": "Open",
       "seedRank": 77,
       "seedRatingAvg": 2323,
-      "currentRank": 66,
-      "matchPoints": "12",
+      "currentRank": null,
+      "matchPoints": null,
       "roster": [
         {
           "board": 1,
@@ -202,10 +202,10 @@
           "title": "IM",
           "rating": 2386,
           "games": 5,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 2425,
-          "ratingChange": 10
+          "points": 0,
+          "avgOpponentRating": 10,
+          "performanceRating": 2387,
+          "ratingChange": 1.2
         },
         {
           "board": 2,
@@ -213,10 +213,10 @@
           "title": "IM",
           "rating": 2316,
           "games": 5,
-          "points": null,
-          "avgOpponentRating": 8,
-          "performanceRating": 2392,
-          "ratingChange": 19
+          "points": 0,
+          "avgOpponentRating": 9,
+          "performanceRating": 2350,
+          "ratingChange": 11.8
         },
         {
           "board": 3,
@@ -224,21 +224,21 @@
           "title": "FM",
           "rating": 2354,
           "games": 4,
-          "points": null,
-          "avgOpponentRating": 8,
-          "performanceRating": 2333,
-          "ratingChange": -1.8
+          "points": 0,
+          "avgOpponentRating": 9,
+          "performanceRating": 2299,
+          "ratingChange": -10
         },
         {
           "board": 4,
           "name": "Mnyasta, Charlton",
           "title": null,
           "rating": 2236,
-          "games": 5,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 2318,
-          "ratingChange": 23
+          "games": 6,
+          "points": 1,
+          "avgOpponentRating": 10,
+          "performanceRating": 2363,
+          "ratingChange": 37.2
         },
         {
           "board": 5,
@@ -258,8 +258,8 @@
       "label": "Women",
       "seedRank": 86,
       "seedRatingAvg": 1895,
-      "currentRank": 76,
-      "matchPoints": "11",
+      "currentRank": null,
+      "matchPoints": null,
       "roster": [
         {
           "board": 1,
@@ -268,9 +268,9 @@
           "rating": 1997,
           "games": 5,
           "points": null,
-          "avgOpponentRating": 10,
-          "performanceRating": 1999,
-          "ratingChange": 3.4
+          "avgOpponentRating": 11,
+          "performanceRating": 2006,
+          "ratingChange": 5.6
         },
         {
           "board": 2,
@@ -278,10 +278,10 @@
           "title": "WIM",
           "rating": 1817,
           "games": 4,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 1791,
-          "ratingChange": -7.2
+          "points": 0,
+          "avgOpponentRating": 10,
+          "performanceRating": 1781,
+          "ratingChange": -11.8
         },
         {
           "board": 3,
@@ -289,10 +289,10 @@
           "title": "WCM",
           "rating": 1864,
           "games": 5,
-          "points": null,
-          "avgOpponentRating": 10,
-          "performanceRating": 1833,
-          "ratingChange": -6.4
+          "points": 0,
+          "avgOpponentRating": 11,
+          "performanceRating": 1811,
+          "ratingChange": -12.8
         },
         {
           "board": 4,
@@ -311,10 +311,10 @@
           "title": null,
           "rating": 1880,
           "games": 6,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 1978,
-          "ratingChange": 25.4
+          "points": 0,
+          "avgOpponentRating": 10,
+          "performanceRating": 1936,
+          "ratingChange": 17.8
         }
       ]
     }
@@ -329,8 +329,8 @@
           "date": "2026/09/27",
           "opponent": "North Macedonia (MKD)",
           "opponentFed": "MKD",
-          "saScore": "0",
-          "opponentScore": "0",
+          "saScore": "1",
+          "opponentScore": "3",
           "boards": [
             {
               "board": 1,
@@ -340,8 +340,8 @@
               "opponent": "Risteski, Emil",
               "opponentTitle": "IM",
               "opponentRating": 2426,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 2,
@@ -351,8 +351,8 @@
               "opponent": "Zlatkov, Anton",
               "opponentTitle": "FM",
               "opponentRating": 2422,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 3,
@@ -362,8 +362,8 @@
               "opponent": "Pancevski, Filip",
               "opponentTitle": "IM",
               "opponentRating": 2422,
-              "result": null,
-              "opponentResult": null
+              "result": "0",
+              "opponentResult": "1"
             },
             {
               "board": 4,
@@ -373,8 +373,8 @@
               "opponent": "Nikolovski, Nikola",
               "opponentTitle": "IM",
               "opponentRating": 2393,
-              "result": null,
-              "opponentResult": null
+              "result": "1",
+              "opponentResult": "0"
             }
           ]
         },
@@ -926,10 +926,10 @@
           "title": "IM",
           "rating": 2386,
           "games": 5,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 2425,
-          "ratingChange": 10
+          "points": 0,
+          "avgOpponentRating": 10,
+          "performanceRating": 2387,
+          "ratingChange": 1.2
         },
         {
           "board": 2,
@@ -937,10 +937,10 @@
           "title": "IM",
           "rating": 2316,
           "games": 5,
-          "points": null,
-          "avgOpponentRating": 8,
-          "performanceRating": 2392,
-          "ratingChange": 19
+          "points": 0,
+          "avgOpponentRating": 9,
+          "performanceRating": 2350,
+          "ratingChange": 11.8
         },
         {
           "board": 3,
@@ -948,21 +948,21 @@
           "title": "FM",
           "rating": 2354,
           "games": 4,
-          "points": null,
-          "avgOpponentRating": 8,
-          "performanceRating": 2333,
-          "ratingChange": -1.8
+          "points": 0,
+          "avgOpponentRating": 9,
+          "performanceRating": 2299,
+          "ratingChange": -10
         },
         {
           "board": 4,
           "name": "Mnyasta, Charlton",
           "title": null,
           "rating": 2236,
-          "games": 5,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 2318,
-          "ratingChange": 23
+          "games": 6,
+          "points": 1,
+          "avgOpponentRating": 10,
+          "performanceRating": 2363,
+          "ratingChange": 37.2
         },
         {
           "board": 5,
@@ -1584,9 +1584,9 @@
           "rating": 1997,
           "games": 5,
           "points": null,
-          "avgOpponentRating": 10,
-          "performanceRating": 1999,
-          "ratingChange": 3.4
+          "avgOpponentRating": 11,
+          "performanceRating": 2006,
+          "ratingChange": 5.6
         },
         {
           "board": 2,
@@ -1594,10 +1594,10 @@
           "title": "WIM",
           "rating": 1817,
           "games": 4,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 1791,
-          "ratingChange": -7.2
+          "points": 0,
+          "avgOpponentRating": 10,
+          "performanceRating": 1781,
+          "ratingChange": -11.8
         },
         {
           "board": 3,
@@ -1605,10 +1605,10 @@
           "title": "WCM",
           "rating": 1864,
           "games": 5,
-          "points": null,
-          "avgOpponentRating": 10,
-          "performanceRating": 1833,
-          "ratingChange": -6.4
+          "points": 0,
+          "avgOpponentRating": 11,
+          "performanceRating": 1811,
+          "ratingChange": -12.8
         },
         {
           "board": 4,
@@ -1627,10 +1627,10 @@
           "title": null,
           "rating": 1880,
           "games": 6,
-          "points": null,
-          "avgOpponentRating": 9,
-          "performanceRating": 1978,
-          "ratingChange": 25.4
+          "points": 0,
+          "avgOpponentRating": 10,
+          "performanceRating": 1936,
+          "ratingChange": 17.8
         }
       ]
     }
@@ -1639,268 +1639,26 @@
     {
       "id": "open",
       "label": "Open",
-      "asOfRound": 10,
-      "top10": [
-        {
-          "rank": 1,
-          "fed": "UZB",
-          "team": "Uzbekistan",
-          "games": 10,
-          "wins": 9,
-          "draws": 0,
-          "losses": 1,
-          "matchPoints": "18",
-          "seedRank": 3
-        },
-        {
-          "rank": 2,
-          "fed": "IND",
-          "team": "India",
-          "games": 10,
-          "wins": 8,
-          "draws": 1,
-          "losses": 1,
-          "matchPoints": "17",
-          "seedRank": 2
-        },
-        {
-          "rank": 3,
-          "fed": "GER",
-          "team": "Germany",
-          "games": 10,
-          "wins": 8,
-          "draws": 0,
-          "losses": 2,
-          "matchPoints": "16",
-          "seedRank": 5
-        },
-        {
-          "rank": 4,
-          "fed": "UKR",
-          "team": "Ukraine",
-          "games": 10,
-          "wins": 8,
-          "draws": 0,
-          "losses": 2,
-          "matchPoints": "16",
-          "seedRank": 12
-        },
-        {
-          "rank": 5,
-          "fed": "HUN",
-          "team": "Hungary",
-          "games": 10,
-          "wins": 7,
-          "draws": 2,
-          "losses": 1,
-          "matchPoints": "16",
-          "seedRank": 8
-        },
-        {
-          "rank": 6,
-          "fed": "USA",
-          "team": "United States of America",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 1
-        },
-        {
-          "rank": 7,
-          "fed": "AZE",
-          "team": "Azerbaijan",
-          "games": 10,
-          "wins": 6,
-          "draws": 3,
-          "losses": 1,
-          "matchPoints": "15",
-          "seedRank": 7
-        },
-        {
-          "rank": 8,
-          "fed": "TUR",
-          "team": "Turkiye",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 14
-        },
-        {
-          "rank": 9,
-          "fed": "CRO",
-          "team": "Croatia",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 17
-        },
-        {
-          "rank": 10,
-          "fed": "UZB",
-          "team": "Uzbekistan 2",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 3
-        }
-      ],
-      "sa": {
-        "rank": 66,
-        "fed": "RSA",
-        "team": "South Africa",
-        "games": 10,
-        "wins": 5,
-        "draws": 2,
-        "losses": 3,
-        "matchPoints": "12",
-        "seedRank": 77
-      }
+      "asOfRound": null,
+      "top10": [],
+      "sa": null
     },
     {
       "id": "women",
       "label": "Women",
-      "asOfRound": 10,
-      "top10": [
-        {
-          "rank": 1,
-          "fed": "CHN",
-          "team": "China",
-          "games": 10,
-          "wins": 8,
-          "draws": 2,
-          "losses": 0,
-          "matchPoints": "18",
-          "seedRank": 4
-        },
-        {
-          "rank": 2,
-          "fed": "KAZ",
-          "team": "Kazakhstan",
-          "games": 10,
-          "wins": 7,
-          "draws": 3,
-          "losses": 0,
-          "matchPoints": "17",
-          "seedRank": 3
-        },
-        {
-          "rank": 3,
-          "fed": "IND",
-          "team": "India",
-          "games": 10,
-          "wins": 7,
-          "draws": 2,
-          "losses": 1,
-          "matchPoints": "16",
-          "seedRank": 1
-        },
-        {
-          "rank": 4,
-          "fed": "POL",
-          "team": "Poland",
-          "games": 10,
-          "wins": 8,
-          "draws": 0,
-          "losses": 2,
-          "matchPoints": "16",
-          "seedRank": 9
-        },
-        {
-          "rank": 5,
-          "fed": "VIE",
-          "team": "Vietnam",
-          "games": 10,
-          "wins": 8,
-          "draws": 0,
-          "losses": 2,
-          "matchPoints": "16",
-          "seedRank": 21
-        },
-        {
-          "rank": 6,
-          "fed": "USA",
-          "team": "United States of America",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 5
-        },
-        {
-          "rank": 7,
-          "fed": "UZB",
-          "team": "Uzbekistan",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 13
-        },
-        {
-          "rank": 8,
-          "fed": "GEO",
-          "team": "Georgia",
-          "games": 10,
-          "wins": 6,
-          "draws": 3,
-          "losses": 1,
-          "matchPoints": "15",
-          "seedRank": 2
-        },
-        {
-          "rank": 9,
-          "fed": "ARM",
-          "team": "Armenia",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 16
-        },
-        {
-          "rank": 10,
-          "fed": "ROU",
-          "team": "Romania",
-          "games": 10,
-          "wins": 7,
-          "draws": 1,
-          "losses": 2,
-          "matchPoints": "15",
-          "seedRank": 23
-        }
-      ],
-      "sa": {
-        "rank": 76,
-        "fed": "RSA",
-        "team": "South Africa",
-        "games": 10,
-        "wins": 5,
-        "draws": 1,
-        "losses": 4,
-        "matchPoints": "11",
-        "seedRank": 86
-      }
+      "asOfRound": null,
+      "top10": [],
+      "sa": null
     }
   ],
   "outage": {
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-27T10:01:27.820Z",
+    "generatedAt": "2026-09-27T13:01:13.365Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 59m"
+      "label": "🟡 Planned Maintenance In 59m"
     },
     "forecast": [
       {
