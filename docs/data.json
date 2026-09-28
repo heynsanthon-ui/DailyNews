@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-27T19:01:16.610Z",
-  "edition": "Updated 21:01 SAST — Sun, 27 Sept",
+  "generatedAt": "2026-09-28T04:02:34.002Z",
+  "edition": "Morning Edition — Mon, 28 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Uzbekistan triumph on home soil, collect second Olympiad gold",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-11",
+          "summary": "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2½–1½ in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-27T22:50:00.000Z"
+        },
         {
           "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
           "link": "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
@@ -17,7 +25,7 @@
         {
           "title": "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold",
           "link": "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
-          "summary": "Uzbekistan has won its second Olympiad gold, this time on home soil in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5…",
+          "summary": "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5…",
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-27T12:19:00.000Z"
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-26T21:50:00.000Z"
-        },
-        {
-          "title": "Uzbekistan Still Leads India Before Final Round; Chinese Women Lead Kazakhstan",
-          "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
-          "summary": "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-26T16:42:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
-          "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
-          "summary": "South Korea's presidential office criticises Ukraine for denying POW nondisclosure agreement.",
+          "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
+          "link": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+          "summary": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T18:30:53.000Z"
+          "publishedAt": "2026-09-28T02:57:28.000Z"
         },
         {
-          "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-          "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+          "title": "Venezuelans rally for opposition leader’s return and presidential elections",
+          "link": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
+          "summary": "Nobel laureate Maria Corina Machado has been living in exile, with plans to return to Venezuela spoiled multiple times.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T17:46:04.000Z"
+          "publishedAt": "2026-09-28T02:36:00.000Z"
         },
         {
-          "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-          "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
-          "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+          "title": "Palestine Action protesters arrested outside UK Labour Party conference",
+          "link": "https://www.aljazeera.com/news/2026/9/28/palestine-action-protesters-arrested-outside-uk-labour-party-conference?traffic_source=rss",
+          "summary": "Demonstrators protest against UK government's proscription of Palestine Action as a 'terrorist' organisation.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T17:42:45.000Z"
+          "publishedAt": "2026-09-28T02:23:30.000Z"
         },
         {
-          "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-          "summary": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+          "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
+          "summary": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T17:29:50.000Z"
+          "publishedAt": "2026-09-28T01:39:02.000Z"
         },
         {
-          "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-          "link": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-          "summary": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
+          "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-foreign-secretary-confronted-by-activists-over-palestine-action-ban?traffic_source=rss",
+          "summary": "UK Foreign Secretary Ed Miliband was confronted by activists at a restaurant over the proscription of Palestine Action.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-27T17:07:33.000Z"
+          "publishedAt": "2026-09-28T01:37:27.000Z"
         }
       ]
     },
@@ -98,6 +98,14 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Wallabies v Springboks: Winners and losers as tech issues turn ‘outright blockbuster’ Test into a ‘farce’ while Les Kiss’ ‘perfect record’ continues",
+          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-winners-and-losers-as-tech-issues-turn-outright-blockbuster-test-into-a-farce-while-les-kiss-perfect-record-continues",
+          "summary": "Planet Rugby's take on the key winners and losers from the Wallabies' win over the Springboks in Perth on Sunday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27150657/Wallabies-v-Springboks-winners-and-losers-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-27T19:10:21.000Z"
+        },
         {
           "title": "Rassie Erasmus identifies where Springboks lost the game against Wallabies and reveals why it’s a ‘valuable experience’",
           "link": "https://www.planetrugby.com/news/rassie-erasmus-identifies-where-springboks-lost-the-game-against-wallabies",
@@ -129,14 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Ryan-Lonergan-Jasper-Wiese-27-September-2026-Antony-Dickson-Gallo-Images-e1790531620268.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-27T13:55:06.000Z"
-        },
-        {
-          "title": "Kiss praises Wallabies’ zen in Bok thriller",
-          "link": "https://www.sarugbymag.co.za/kiss-praises-wallabies-zen-bok-thriller/",
-          "summary": "Les Kiss hailed the Wallabies' composure after surviving a dramatic late Springbok fightback to claim a 42-38 victory in Perth on Sunday. The post Kiss praises Wallabies’ zen in Bok thriller appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626146-e1790531116285.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-27T13:50:28.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-27T19:01:16.681Z",
+    "generatedAt": "2026-09-28T04:02:34.082Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 57m"
     },
     "forecast": [
-      {
-        "date": "2026-09-27",
-        "day": "Sun",
-        "dayOfMonth": 27,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-28",
         "day": "Mon",
         "dayOfMonth": 28,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-29",
@@ -1689,17 +1681,17 @@
         "date": "2026-09-30",
         "day": "Wed",
         "dayOfMonth": 30,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-10-01",
         "day": "Thu",
         "dayOfMonth": 1,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-02",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-04",
+        "day": "Sun",
+        "dayOfMonth": 4,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-27",
+        "date": "2026-09-28",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Wed 30, 09:00–12:00"
+        "etr": "Thu 1, 09:00–12:00"
       }
     ],
     "reliability": {
