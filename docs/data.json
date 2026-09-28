@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-28T07:04:56.591Z",
-  "edition": "Updated 09:04 SAST — Mon, 28 Sept",
+  "generatedAt": "2026-09-28T10:03:23.741Z",
+  "edition": "Updated 12:03 SAST — Mon, 28 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
+          "summary": "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3–1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-28T09:00:00.000Z"
+        },
         {
           "title": "Uzbekistan triumph on home soil, collect second Olympiad gold",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-11",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-27T07:45:00.000Z"
-        },
-        {
-          "title": "Samarkand R10 (open): Uzbekistan enter final round with one-point lead over India",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-10",
-          "summary": "Uzbekistan will enter the final round of the Chess Olympiad with a one-point lead after beating Armenia 3½–½ in round ten. India remain their closest challengers following a clear victory over Uzbekistan 2, while…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-26T21:50:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Two mass shootings in South Africa leave 28 dead",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-          "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-28T06:46:03.000Z"
-        },
-        {
-          "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
-          "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
-          "summary": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
+          "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+          "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
+          "summary": "Brent crude rises more than 3 percent to top $107 a barrel as Washington dismisses Tehran's proposal to end war.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T06:24:33.000Z"
+          "publishedAt": "2026-09-28T09:17:29.000Z"
         },
         {
-          "title": "Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?",
-          "link": "https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss",
-          "summary": "The country's early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.",
+          "title": "Azeez Al-Shaair honours slain Palestinian sisters despite NFL sanctions",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss",
+          "summary": "The Houston Texans linebacker wore eye black with the names of slain sisters Lana, 12, and Bana, eight.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T06:23:02.000Z"
+          "publishedAt": "2026-09-28T09:12:45.000Z"
         },
         {
-          "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
-          "link": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Taylor Swift, Madonna, and LISA were among the big winners at the MTV Video Music Awards (VMAs) on Sunday evening in downtown Los Angeles.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/822a/live/5cfc7bf0-bb04-11f1-bd21-bdf910f2cec6.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-28T06:22:52.000Z"
-        },
-        {
-          "title": "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
-          "link": "https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss",
-          "summary": "Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.",
+          "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
+          "link": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
+          "summary": "Israel has shut occupied West Bank crossings for a week, further restricting Palestinian movement and holy site access.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T05:40:06.000Z"
+          "publishedAt": "2026-09-28T08:50:37.000Z"
+        },
+        {
+          "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
+          "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
+          "summary": "Five men were arrested on suspicion of the 'preparation of a terrorist act' near RAF Fairford, a base used by the US.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-28T08:44:16.000Z"
+        },
+        {
+          "title": "Iran’s children return to school under the shadow of war",
+          "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
+          "summary": "Iranian children have missed schooling due to the US war.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-28T08:25:49.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Injury cloud over Wallabies’ two-try hero",
-          "link": "https://www.sarugbymag.co.za/injury-cloud-wallabies-two-try-hero/",
-          "summary": "Wallabies coach Les Kiss may be forced to select a new-look midfield for the first Bledisloe Cup clash against the All Blacks at Eden Park on 10 October. The post Injury cloud over Wallabies’ two-try hero appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2445203-1-e1790577594395.jpg",
+          "title": "Mallett: De Villiers Bok Mr Reliable",
+          "link": "https://www.sarugbymag.co.za/mallett-de-villiers-bok-mr-reliable/",
+          "summary": "Nick Mallett has singled out Paul de Villiers as the shining light in the Springboks' defeat to the Wallabies in Perth. The post Mallett: De Villiers Bok Mr Reliable appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626209-e1790589366824.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T06:41:29.000Z"
+          "publishedAt": "2026-09-28T09:58:32.000Z"
         },
         {
-          "title": "‘Bok A team was on the bench’",
-          "link": "https://www.sarugbymag.co.za/bok-team-bench/",
-          "summary": "Nick Mallett argues that Rassie Erasmus wouldn’t have risked overhauling the Springbok starting XV for Sunday’s defeat in Perth had it been a more important game. The post ‘Bok A team was on the bench’ appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626221-e1790568288700.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T04:00:57.000Z"
-        },
-        {
-          "title": "Paulie D your Bok MVP",
-          "link": "https://www.sarugbymag.co.za/paulie-d-bok-mvp-2/",
-          "summary": "You voted Paul de Villiers as your Bok MVP after the world champions’ 42-38 defeat to the Wallabies in Perth. The post Paulie D your Bok MVP appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Paul-de-Villiers-27-September-2026-Antony-Dickson-Gallo-Images-e1790577209380.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T03:55:37.000Z"
-        },
-        {
-          "title": "Wallabies v Springboks: Winners and losers as tech issues turn ‘outright blockbuster’ Test into a ‘farce’ while Les Kiss’ ‘perfect record’ continues",
-          "link": "https://www.planetrugby.com/news/wallabies-v-springboks-winners-and-losers-as-tech-issues-turn-outright-blockbuster-test-into-a-farce-while-les-kiss-perfect-record-continues",
-          "summary": "Planet Rugby's take on the key winners and losers from the Wallabies' win over the Springboks in Perth on Sunday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27150657/Wallabies-v-Springboks-winners-and-losers-120x120.jpg",
+          "title": "Ex-Springboks boss hits out at ‘ridiculous’ officiating communications farce during Wallabies victory",
+          "link": "https://www.planetrugby.com/news/ex-springboks-boss-hits-out-at-ridiculous-officiating-communications-farce-during-wallabies-victory",
+          "summary": "Nick Mallett has slammed the communication breakdown during the clash between Australia and South Africa.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28101803/Referee-Andrea-Piardi-on-the-phone-to-the-TMO-during-the-international-rugby-test-match-between-the-Wallabies-and-Springboks-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-27T19:10:21.000Z"
+          "publishedAt": "2026-09-28T09:22:21.000Z"
         },
         {
-          "title": "Rassie Erasmus identifies where Springboks lost the game against Wallabies and reveals why it’s a ‘valuable experience’",
-          "link": "https://www.planetrugby.com/news/rassie-erasmus-identifies-where-springboks-lost-the-game-against-wallabies",
-          "summary": "Springboks coach Rassie Erasmus and captain Andre Esterhuizen accepted full blame for their disappointing 42-38 defeat against the Wallabies at the Optus Stadium in Perth on Sunday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/27151829/Andre-Esterhuizen-and-Rassie-Erasmus-photo-120x120.jpg",
+          "title": "State of the URC: Unbeaten SA teams go again",
+          "link": "https://www.sarugbymag.co.za/state-urc-unbeaten-sa-teams-go/",
+          "summary": "The Stormers and Bulls charge ahead abroad as the Lions and Sharks hold down the fort after all four opened their URC campaigns with wins, three of them with bonus points. The post State of the URC: Unbeaten SA teams go…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/MarcellCoetzee.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-28T08:50:41.000Z"
+        },
+        {
+          "title": "Saffas Abroad: Hall, Tedder fire for Perpignan",
+          "link": "https://www.sarugbymag.co.za/saffas-abroad-hall-tedder-fire-for-perpignan/",
+          "summary": "Scrumhalf James Hall and fullback Tristan Tedder starred as Perpignan beat Bordeaux Bègles in a busy weekend for South Africans abroad. The post Saffas Abroad: Hall, Tedder fire for Perpignan appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/James-Hall-27-Sep-2026-@usapofficiel-Instagram-e1790583191935.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-28T08:24:16.000Z"
+        },
+        {
+          "title": "Wallabies’ centre crisis for All Blacks showdown as Les Kiss issues verdict on Joseph Sua’ali’i trial",
+          "link": "https://www.planetrugby.com/news/wallabies-centre-cited-as-les-kiss-issues-verdict-on-joseph-suaalii-trial",
+          "summary": "Les Kiss could be without both of his starting centres that faced the Springboks when Australia tackle the All Blacks in the Bledisloe Cup.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28074930/Joseph-Aukuso-Suaalii-and-an-inset-of-Hunter-Paisamis-tackle-on-Sacha-Feinberg-Mnogmezulu-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-27T14:28:18.000Z"
+          "publishedAt": "2026-09-28T07:06:27.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Rabada in South Africa's preliminary squad for Australia Tests",
+          "link": "https://www.cricinfo.com/ci/content/story/1556030.html?ex_cid=OTC-RSS",
+          "summary": "Kagiso Rabada's fitness will be assessed in an intra-squad match before the series",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/401900/401962.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-28T09:45:20.000Z"
+        },
         {
           "title": "Miller, Bavuma, spinners seal South Africa's series win",
           "link": "https://www.cricinfo.com/ci/content/story/1555929.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/423000/423032.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-26T08:37:39.000Z"
-        },
-        {
-          "title": "South Africa look to secure the early honours over Australia",
-          "link": "https://www.cricinfo.com/ci/content/story/1555750.html?ex_cid=OTC-RSS",
-          "summary": "There will be interest in whether Aiden Markram and Pat Cummins return for their respective teams in Johannesburg",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422968.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-26T07:34:58.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-28T07:04:56.660Z",
+    "generatedAt": "2026-09-28T10:03:23.811Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 55m"
+      "label": "🟡 Planned Maintenance In 3h 57m"
     },
     "forecast": [
       {
