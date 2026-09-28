@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-28T13:03:44.293Z",
-  "edition": "Updated 15:03 SAST — Mon, 28 Sept",
+  "generatedAt": "2026-09-28T16:03:30.735Z",
+  "edition": "Updated 18:03 SAST — Mon, 28 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "XTX London Chess Classic returns",
+          "link": "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
+          "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026.",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-28T18:00:00.000Z"
+        },
+        {
+          "title": "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field",
+          "link": "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
+          "summary": "GMs Levon Aronian, Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest,…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-28T14:08:56.000Z"
+        },
         {
           "title": "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium",
           "link": "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-27T15:00:00.000Z"
-        },
-        {
-          "title": "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold",
-          "link": "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
-          "summary": "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-27T12:19:00.000Z"
-        },
-        {
-          "title": "Chess Olympiad - Live!",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-          "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-27T07:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Plan for controversial Sydney data centre scrapped after push-back",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
-          "summary": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a81/live/9c696a80-bb2e-11f1-a9b8-670e5d9d8eee.png",
+          "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+          "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+          "summary": "Tehran condemns 'unfounded and malicious speculation'; British FM vows to 'act against the proxies of Iran'.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-28T15:29:48.000Z"
+        },
+        {
+          "title": "SpaceX’s showpiece Starship rocket reaches orbit for first time",
+          "link": "https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss",
+          "summary": "Founder Elon Musk's rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-28T15:25:38.000Z"
+        },
+        {
+          "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4afe/live/251cfde0-bb54-11f1-bc1f-3f186ca4140c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-28T12:47:09.000Z"
+          "publishedAt": "2026-09-28T14:57:31.000Z"
         },
         {
-          "title": "Police clash with protesters over mosque demolitions in India",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/police-clash-with-protesters-over-mosque-demolitions-in-india?traffic_source=rss",
-          "summary": "Police clash with protesters over mosque demolitions in India",
+          "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
+          "link": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
+          "summary": "Israeli national security minister declares 'we are the owners of the place in Al-Aqsa' amid heavily guarded incursion.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T12:40:36.000Z"
+          "publishedAt": "2026-09-28T14:03:55.000Z"
         },
         {
-          "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
-          "link": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
-          "summary": "Seoul says Kyiv agreed to a nondisclosure agreement over the prisoners but broke it.",
+          "title": "Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss",
+          "summary": "Athletes transported to the wrong venues, three matches in 18 hours and an accommodation crisis add to organisers' woes.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T12:09:23.000Z"
-        },
-        {
-          "title": "Child among three killed off French coast in Channel crossing attempt",
-          "link": "https://www.aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt?traffic_source=rss",
-          "summary": "France's maritime police ‌‌said ​they received a distress ​call from an inflatable dinghy carrying 105 people.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T12:08:11.000Z"
-        },
-        {
-          "title": "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss",
-          "summary": "Climate activist Vanessa Nakate says she is determined to raise awareness of how global warming is affecting Africa.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T12:00:36.000Z"
+          "publishedAt": "2026-09-28T14:03:47.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Stormers lose Bok for Edinburgh battle",
-          "link": "https://www.sarugbymag.co.za/stormers-lose-bok-edinburgh-battle/",
-          "summary": "The Stormers have sent two key players home ahead of Friday night’s URC round-two clash in Scotland. The post Stormers lose Bok for Edinburgh battle appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2511225-e1790598218145.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T12:35:20.000Z"
-        },
-        {
-          "title": "Ackers replaces prime beef with Junior Bok",
-          "link": "https://www.sarugbymag.co.za/ackers-replaces-prime-beef-junior-bok/",
-          "summary": "The Bulls have called for a reinforcement after losing tighthead prop Mornay Smith for Saturday’s URC clash with Munster in Limerick. The post Ackers replaces prime beef with Junior Bok appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/05/Mornay-Smith-10-January-2026-Anton-Geyser-Gallo-Images-e1778764591934.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T12:06:33.000Z"
-        },
-        {
-          "title": "Frans deploys Cheetahs hybrid",
-          "link": "https://www.sarugbymag.co.za/frans-deploys-cheetahs-hybrid/",
-          "summary": "Flank Daniel Maartens will start in the Cheetahs midfield against Spain’s Iberians in Tbilisi on Tuesday. The post Frans deploys Cheetahs hybrid appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Daniel-Maartens-19-July-2026-Johan-Pretorius-Gallo-Images-e1790600039118.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T12:00:37.000Z"
-        },
-        {
-          "title": "Who’s hot and who’s not: ‘Statement’ Wallaby win, ‘unmistakable difference’ Springboks can’t ignore and ‘unwanted’ Irish clean sweep",
-          "link": "https://www.planetrugby.com/news/whos-hot-and-whos-not-statement-wallaby-win-unmistakable-difference-springboks-cant-ignore-and-unwanted-irish-clean-sweep",
-          "summary": "It’s time for our Monday wrap of who has their name in lights and who is making the headlines for all the wrong reasons after the weekend.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28121755/Whos-Hot-and-Whos-Not-42-1-120x120.jpg",
+          "title": "The reason why people won’t ‘get out the swords’ for Rassie Erasmus, but ‘one’ Springboks tactic stumped Victor Matfield",
+          "link": "https://www.planetrugby.com/news/the-reason-why-people-wont-get-out-the-swords-for-rassie-erasmus-but-one-springboks-tactic-stumped-victor-matfield",
+          "summary": "Legendary Springboks lock Victor Matfield has explained why Sunday’s shock loss to the Wallabies won’t have South African fans sharpening their swords for Rassie Erasmus.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28162532/Inset-Top-Right-2026-09-28T162503.225-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-28T11:52:25.000Z"
+          "publishedAt": "2026-09-28T15:39:02.000Z"
         },
         {
-          "title": "Ex-Boks not panicking after Perth tryout",
-          "link": "https://www.sarugbymag.co.za/ex-boks-not-panicking-perth-tryout/",
-          "summary": "Steven Kitshoff and Oupa Mohojé agree Bok boss Rassie Erasmus won’t be too stressed by Sunday’s loss, as most of those who played needed to “catch up” to the regulars. The post Ex-Boks not panicking after Perth tryout…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/2297363169-e1790588809993.jpg",
+          "title": "Dayimani playing it fast and loose",
+          "link": "https://www.sarugbymag.co.za/dayimani-playing-fast-loose/",
+          "summary": "A stint in France has helped Hacjivah Dayimani strengthen the tighter aspects of his game, and he remains an exciting option across the back row and out wide for the Stormers. The post Dayimani playing it fast and loose…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2597842-e1790604735705.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-28T10:08:36.000Z"
+          "publishedAt": "2026-09-28T15:17:40.000Z"
+        },
+        {
+          "title": "Hansen, Mallett slam ‘Please call me’ scenes",
+          "link": "https://www.sarugbymag.co.za/hansen-mallett-slam-please-call-scenes/",
+          "summary": "Steve Hansen and Nick Mallett have criticised the communication failure that forced referee Andrea Piardi to use a cellphone to speak with the TMO in Perth. The post Hansen, Mallett slam ‘Please call me’ scenes appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Referees-Andrea-Piardi-TMO-27-September-2026-Paul-Kane-Getty-Images-e1790512870606.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-28T14:31:47.000Z"
+        },
+        {
+          "title": "Ex-Springboks boss questions Rassie Erasmus’ selection: ‘He looks like a lock playing flank’",
+          "link": "https://www.planetrugby.com/news/ex-springboks-boss-questions-rassie-erasmus-selection",
+          "summary": "Nick Mallett has questioned one of Rassie Erasmus' selections against Australia.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28142619/Springboks-head-coach-Rassie-Erasmus-and-an-inset-of-Elrigh-Louw-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-28T13:39:46.000Z"
+        },
+        {
+          "title": "Rito excited but coy on Siya’s role",
+          "link": "https://www.sarugbymag.co.za/rito-excited-coy-siyas-role/",
+          "summary": "Stormers forwards coach Rito Hlungwani says Siya Kolisi’s experience means he can fit in wherever required, yet stopped short on if the Bok star faces Edinburgh this week. The post Rito excited but coy on Siya’s role…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SiyaKolisiRuhanNelinGalway-e1790601684635.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-28T13:26:04.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-28T13:03:44.369Z",
+    "generatedAt": "2026-09-28T16:03:30.805Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 56m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
