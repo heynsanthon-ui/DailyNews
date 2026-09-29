@@ -1,15 +1,31 @@
 {
-  "generatedAt": "2026-09-28T19:03:38.796Z",
-  "edition": "Updated 21:03 SAST — Mon, 28 Sept",
+  "generatedAt": "2026-09-29T04:02:08.017Z",
+  "edition": "Morning Edition — Tue, 29 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
+          "title": "The dark side of the online world: Hanna Sayce's story",
+          "link": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
+          "summary": "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-29T05:05:00.000Z"
+        },
+        {
+          "title": "Nakamura Completes Bullet Brawl Hat Trick",
+          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
+          "summary": "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points,…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-28T20:28:00.000Z"
+        },
+        {
           "title": "XTX London Chess Classic returns",
           "link": "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
-          "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026.",
+          "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the…",
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-28T18:00:00.000Z"
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-28T09:00:00.000Z"
-        },
-        {
-          "title": "Uzbekistan triumph on home soil, collect second Olympiad gold",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-11",
-          "summary": "Uzbekistan secured their second Chess Olympiad gold by beating Ukraine 2½–1½ in the final round in Samarkand. India took silver after drawing Hungary, while Germany claimed bronze and their first team medal since 2000…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-27T22:50:00.000Z"
-        },
-        {
-          "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
-          "link": "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
-          "summary": "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024–2026 cycle. Honours went to players, teams, tournaments,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-27T15:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
-          "link": "https://www.aljazeera.com/sports/2026/9/28/spain-croatia-uefa-nations-league-yamal-modric-teams-form?traffic_source=rss",
-          "summary": "World champions Spain host Croatia in matchday two of the UEFA Nations League, with Yamal facing Modric.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T18:18:32.000Z"
-        },
-        {
-          "title": "Trump made the right decision to reject Iran’s offer",
-          "link": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
-          "summary": "The US president has denied Tehran the opportunity to use the US midterm elections as a pressure point.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T18:16:26.000Z"
-        },
-        {
-          "title": "Stand-up comic set for release after being convicted of insulting Erdoğan",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-          "summary": "Turkish comedian Deniz Göktaş has been sentenced to almost 19 months, but is set to be released due to time served.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f7f/live/8efc6ea0-bb4d-11f1-a071-65d2e11c8f4a.jpg",
+          "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+          "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+          "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d54/live/ced3b090-bb9f-11f1-a430-4d16ee157c41.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-28T18:11:58.000Z"
+          "publishedAt": "2026-09-29T03:50:40.000Z"
         },
         {
-          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-          "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75df/live/cf54f150-bb59-11f1-b3b3-91d0b491a464.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-28T18:11:07.000Z"
-        },
-        {
-          "title": "Somali army clashes with local forces for control of Baidoa",
-          "link": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
-          "summary": "The latest outbreak of fighting in the South West State city stranded civilians unable to flee or reach hospitals.",
+          "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+          "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
+          "summary": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-28T17:58:11.000Z"
+          "publishedAt": "2026-09-29T03:38:16.000Z"
+        },
+        {
+          "title": "Fighter jets escort Pope Leo on final day of his France tour",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+          "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-29T03:00:01.000Z"
+        },
+        {
+          "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
+          "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+          "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a871/live/408a3ce0-bb82-11f1-861e-959cb7a461ff.png",
+          "source": "BBC News",
+          "publishedAt": "2026-09-29T02:36:46.000Z"
+        },
+        {
+          "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+          "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+          "summary": "Tehran awaits reply on Hormuz plan as a US official says there will be no deal unless nuclear issues are addressed.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-29T02:36:25.000Z"
         }
       ]
     },
@@ -145,6 +145,14 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Ellis and Davies out of the South Africa tour with injury",
+          "link": "https://www.cricinfo.com/ci/content/story/1556070.html?ex_cid=OTC-RSS",
+          "summary": "No replacements named for the final ODI while Doggett, O'Neill and Kellaway have departed the Australia A tour of India to return home for Shield cricket",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423117.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-29T00:11:34.000Z"
+        },
+        {
           "title": "Rabada in South Africa's preliminary squad for Australia Tests",
           "link": "https://www.cricinfo.com/ci/content/story/1556030.html?ex_cid=OTC-RSS",
           "summary": "Kagiso Rabada's fitness will be assessed in an intra-squad match before the series",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/409800/409866.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-27T07:56:53.000Z"
-        },
-        {
-          "title": "Inglis in doubt for South Africa Tests after fractured finger rules him out of ODIs",
-          "link": "https://www.cricinfo.com/ci/content/story/1555761.html?ex_cid=OTC-RSS",
-          "summary": "In his absence, Alex Carey will return to wicketkeeping role for the last two ODIs",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423000/423032.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-26T08:37:39.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-28T19:03:38.866Z",
+    "generatedAt": "2026-09-29T04:02:08.093Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 58m"
     },
     "forecast": [
-      {
-        "date": "2026-09-28",
-        "day": "Mon",
-        "dayOfMonth": 28,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-29",
         "day": "Tue",
         "dayOfMonth": 29,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-09-30",
@@ -1689,17 +1681,17 @@
         "date": "2026-10-01",
         "day": "Thu",
         "dayOfMonth": 1,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-10-02",
         "day": "Fri",
         "dayOfMonth": 2,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-03",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-05",
+        "day": "Mon",
+        "dayOfMonth": 5,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-28",
+        "date": "2026-09-29",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-28",
+        "date": "2026-09-29",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Thu 1, 09:00–12:00"
+        "etr": "Fri 2, 09:00–12:00"
       }
     ],
     "reliability": {
