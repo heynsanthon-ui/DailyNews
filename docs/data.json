@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-09-29T07:04:37.718Z",
-  "edition": "Updated 09:04 SAST — Tue, 29 Sept",
+  "generatedAt": "2026-09-29T10:04:15.788Z",
+  "edition": "Updated 12:04 SAST — Tue, 29 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
+          "link": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
+          "summary": "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-29T11:25:31.000Z"
+        },
+        {
+          "title": "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\"",
+          "link": "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
+          "summary": "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-29T10:00:00.000Z"
+        },
+        {
+          "title": "Vincent Keymer: Relaxed, light-hearted and funny",
+          "link": "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
+          "summary": "Anyone playing for medals at a Chess Olympiad takes chess seriously. In Samarkand, Vincent Keymer won bronze with the German team, Germany’s first team medal since silver in Istanbul in 2000. But after the final round,…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-29T09:37:38.000Z"
+        },
         {
           "title": "The dark side of the online world: Hanna Sayce's story",
           "link": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-28T20:28:00.000Z"
-        },
-        {
-          "title": "XTX London Chess Classic returns",
-          "link": "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
-          "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-28T18:00:00.000Z"
-        },
-        {
-          "title": "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field",
-          "link": "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
-          "summary": "GMs Levon Aronian, Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest,…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-28T14:08:56.000Z"
-        },
-        {
-          "title": "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium",
-          "link": "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
-          "summary": "In the final round of the Women's Chess Olympiad, China, led by top board Zhu Jiner, defeated Vietnam 3–1 to secure first place outright with 20 match points. Their rivals did not fare as well. Kazakhstan drew with…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-28T09:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Australia raises interest rates to 15-year high",
-          "link": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
-          "summary": "Reserve Bank of Australia lifts benchmark rate to 4.6 percent amid stubborn inflation.",
+          "title": "Malaysia begins sending back Rohingya refugees despite safety warnings",
+          "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss",
+          "summary": "About 1,500 refugees are to be sent back in the first phase, despite criticism from rights groups.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T06:29:01.000Z"
+          "publishedAt": "2026-09-29T09:27:06.000Z"
         },
         {
-          "title": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
-          "link": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
-          "summary": "Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.",
+          "title": "Argentina’s Milei threatens legal action over Falklands oil project",
+          "link": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
+          "summary": "Argentina gives UK two weeks to cease operations or face maritime court action.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T06:18:42.000Z"
+          "publishedAt": "2026-09-29T09:17:22.000Z"
         },
         {
-          "title": "Watch: Bangkok locals create floating market during floods",
-          "link": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
-          "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/93362e00-bbcc-11f1-bd21-bdf910f2cec6.jpg",
+          "title": "OpenAI scraps rollout of new model over safety concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+          "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-29T06:15:25.000Z"
+          "publishedAt": "2026-09-29T09:14:13.000Z"
         },
         {
-          "title": "Watch: Luxury units uncovered inside an Indonesian prison",
-          "link": "https://www.bbc.co.uk/news/videos/c6vgy293vvp3o?at_medium=RSS&at_campaign=rss",
-          "summary": "A surprise inspection at the prison revealed apartment-like units appearing to house inmates, equipped with televisions, a gym and fridges stocked with alcohol.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6df/live/19c6a500-bbcb-11f1-a430-4d16ee157c41.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-29T06:04:36.000Z"
-        },
-        {
-          "title": "Public transport drivers strike in Manila over soaring fuel prices",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
-          "summary": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
+          "title": "US’s Marco Rubio says UK airbase incident involved ‘foreign actor’",
+          "link": "https://www.aljazeera.com/news/2026/9/29/uss-marco-rubio-says-uk-airbase-incident-involved-foreign-actor?traffic_source=rss",
+          "summary": "Washington's top diplomat calls the suspected plot 'a very serious situation' after five were arrested over the weekend.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T05:21:50.000Z"
+          "publishedAt": "2026-09-29T09:12:37.000Z"
+        },
+        {
+          "title": "Evicted Spanish pensioner can move back home, lawyer says",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+          "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6a/live/e5e03d10-bb97-11f1-8663-cd23eb071822.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-29T08:53:00.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "All Blacks hit by Bledisloe blow",
-          "link": "https://www.sarugbymag.co.za/blacks-hit-bledisloe-blow/",
-          "summary": "A key All Blacks back has been ruled out of the Bledisloe Cup series against the Wallabies, while two heavyweight forwards return to the squad. The post All Blacks hit by Bledisloe blow appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/All-Blacks-anthem-29-August-2026-Grant-Pitcher-Gallo-Images-e1790663704200.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T06:38:11.000Z"
-        },
-        {
-          "title": "Nick Mallett: Two areas where the Springboks were ‘poor’ which Rassie Erasmus can normally bank on",
-          "link": "https://www.planetrugby.com/news/nick-malletts-verdict-on-springboks-defeat-where-australia-were-unusually-better",
-          "summary": "Nick Mallett pinpoints two Springboks' strengths that the Wallabies managed to nullify.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28115422/Joseph-Aukuso-Suaalii-and-an-inset-of-ex-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "title": "Springboks legend feels ‘definite little gap’ exists between Rassie Erasmus’ ‘very experienced team’ and ‘new kids coming through’",
+          "link": "https://www.planetrugby.com/news/springboks-legend-feels-definite-little-gap-exists-between-rassie-erasmus-very-experienced-team-and-new-kids-coming-through",
+          "summary": "Legendary Springboks lock Victor Matfield has admitted that last Sunday’s loss to the Wallabies highlighted that a gap in player quality exists in Rassie Erasmus’ squad.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29100610/Inset-bottom-right-2026-09-29T100545.784-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-29T06:13:10.000Z"
+          "publishedAt": "2026-09-29T09:20:12.000Z"
         },
         {
-          "title": "Edinburgh to fight Stormers fire with fire",
-          "link": "https://www.sarugbymag.co.za/edinburgh-to-fight-stormers-fire-with-fire/",
-          "summary": "The Stormers face a revamped Edinburgh attack that ripped Ulster apart, with the hosts also set to welcome back a South African star for Friday night's clash at Hive Stadium. The post Edinburgh to fight Stormers fire…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Edinburgh-Ulster-R1-2026-e1790657498456.jpg",
+          "title": "Paulie D: We’re not done going all in",
+          "link": "https://www.sarugbymag.co.za/paulie-d-not-done-going/",
+          "summary": "Flanker Paul de Villiers says the Springboks have already set their sights on bouncing back to winning ways in the Nations Championship. The post Paulie D: We’re not done going all in appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626840-e1790672451885.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T04:57:04.000Z"
+          "publishedAt": "2026-09-29T09:14:29.000Z"
         },
         {
-          "title": "‘Our forwards go through the front door’",
-          "link": "https://www.sarugbymag.co.za/forwards-go-front-door/",
-          "summary": "If the Stormers pack can suck in Edinburgh's defence on Friday night, the opportunity is there for the Capetonians' backline to strike from out wide. The post ‘Our forwards go through the front door’ appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/VernonMatongovConnacht-e1790631798394.jpg",
+          "title": "Boks to tackle Wallabies in 100th Test",
+          "link": "https://www.sarugbymag.co.za/boks-tackle-wallabies-100th-test/",
+          "summary": "The Springboks will host Australia twice next year in a historic meeting between the Wallabies and Rassie Erasmus' world champions. The post Boks to tackle Wallabies in 100th Test appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626742-e1790670752902.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T04:30:20.000Z"
+          "publishedAt": "2026-09-29T08:43:01.000Z"
         },
         {
-          "title": "Bankrupt legend sells RWC medal",
-          "link": "https://www.sarugbymag.co.za/bankrupt-legend-sells-rwc-medal/",
-          "summary": "Former England loose forward Lawrence Dallaglio has been forced to part with his 2003 World Cup winner’s medal and other memorabilia. The post Bankrupt legend sells RWC medal appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Lawrence-Dallaglio-2003-RWC-final-media-David-Davies-PA-Images-via-Getty-Images-e1790664842652.jpg",
+          "title": "POLL: How many Bok wins up north?",
+          "link": "https://www.sarugbymag.co.za/poll-how-many-bok-wins-up-north/",
+          "summary": "The Springboks face Italy, France and Ireland during the northern leg of the Nations Championship. How many of those Tests will they win? The post POLL: How many Bok wins up north? appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/11/2245730455-e1762641228263.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T03:55:07.000Z"
+          "publishedAt": "2026-09-29T08:39:43.000Z"
+        },
+        {
+          "title": "Ex-England stars: Rassie’s gone ‘crazy’",
+          "link": "https://www.sarugbymag.co.za/ex-england-stars-rassies-gone-crazy/",
+          "summary": "Mike Tindall and Jonny May reckon Rassie Erasmus deliberately creates problems for the Springboks, using setbacks to expose weaknesses and build depth for the future. The post Ex-England stars: Rassie’s gone ‘crazy’…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/JasperWieseRassieErasmusAndre-Esterhuizen-e1790667801304.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-29T08:07:43.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Eyes on weather as Australia look to avoid clean sweep against South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1556103.html?ex_cid=OTC-RSS",
+          "summary": "Australia have been troubled by left-arm spinn and this will be their last ODI in conditions they are likely to face in 2027 World Cup",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423151.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-29T09:58:58.000Z"
+        },
         {
           "title": "Ellis and Davies out of the South Africa tour with injury",
           "link": "https://www.cricinfo.com/ci/content/story/1556070.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/336100/336147.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-27T11:46:32.000Z"
-        },
-        {
-          "title": "South Africa make four changes, Australia opt to bowl without Cummins",
-          "link": "https://www.cricinfo.com/ci/content/story/1555880.html?ex_cid=OTC-RSS",
-          "summary": "Rickelton out for personal reasons, Markram returns, Jansen twins play together for the first time in an international, Starc rested while Cummins remains unavailable",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/409800/409866.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-27T07:56:53.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-29T07:04:37.790Z",
+    "generatedAt": "2026-09-29T10:04:15.846Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 55m"
+      "label": "🟡 Planned Maintenance In 3h 56m"
     },
     "forecast": [
       {
