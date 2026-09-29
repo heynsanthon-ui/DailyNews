@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-29T10:04:15.788Z",
-  "edition": "Updated 12:04 SAST — Tue, 29 Sept",
+  "generatedAt": "2026-09-29T13:05:37.660Z",
+  "edition": "Updated 15:05 SAST — Tue, 29 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "New Feature: Add Your Chess.com Stats To LinkedIn",
+          "link": "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
+          "summary": "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&rsquo;re a chess player. Every rating point you&rsquo;ve earned, every puzzle you&rsquo;ve solved, and every game…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-29T13:00:00.000Z"
+        },
         {
           "title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
           "link": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-29T05:05:00.000Z"
-        },
-        {
-          "title": "Nakamura Completes Bullet Brawl Hat Trick",
-          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
-          "summary": "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points,…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-28T20:28:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Malaysia begins sending back Rohingya refugees despite safety warnings",
-          "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss",
-          "summary": "About 1,500 refugees are to be sent back in the first phase, despite criticism from rights groups.",
+          "title": "Turkiye arrests president, six members of football refereeing body in probe",
+          "link": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
+          "summary": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T09:27:06.000Z"
+          "publishedAt": "2026-09-29T12:37:18.000Z"
         },
         {
-          "title": "Argentina’s Milei threatens legal action over Falklands oil project",
-          "link": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss",
-          "summary": "Argentina gives UK two weeks to cease operations or face maritime court action.",
+          "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+          "link": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
+          "summary": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T09:17:22.000Z"
+          "publishedAt": "2026-09-29T12:32:10.000Z"
         },
         {
-          "title": "OpenAI scraps rollout of new model over safety concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-          "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg",
+          "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+          "summary": "The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-29T09:14:13.000Z"
+          "publishedAt": "2026-09-29T12:14:50.000Z"
         },
         {
-          "title": "US’s Marco Rubio says UK airbase incident involved ‘foreign actor’",
-          "link": "https://www.aljazeera.com/news/2026/9/29/uss-marco-rubio-says-uk-airbase-incident-involved-foreign-actor?traffic_source=rss",
-          "summary": "Washington's top diplomat calls the suspected plot 'a very serious situation' after five were arrested over the weekend.",
+          "title": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss",
+          "summary": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T09:12:37.000Z"
+          "publishedAt": "2026-09-29T12:08:40.000Z"
         },
         {
-          "title": "Evicted Spanish pensioner can move back home, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
-          "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6a/live/e5e03d10-bb97-11f1-8663-cd23eb071822.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-29T08:53:00.000Z"
+          "title": "Journalist ascends to throne in Uganda kingdom after succession dispute",
+          "link": "https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss",
+          "summary": "Edward Rukidi Kijanangoma succeeds King Oyo Nyimba Kabamba Iguru Rukidi IV, who died last month.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-29T12:07:31.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Springboks legend feels ‘definite little gap’ exists between Rassie Erasmus’ ‘very experienced team’ and ‘new kids coming through’",
-          "link": "https://www.planetrugby.com/news/springboks-legend-feels-definite-little-gap-exists-between-rassie-erasmus-very-experienced-team-and-new-kids-coming-through",
-          "summary": "Legendary Springboks lock Victor Matfield has admitted that last Sunday’s loss to the Wallabies highlighted that a gap in player quality exists in Rassie Erasmus’ squad.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29100610/Inset-bottom-right-2026-09-29T100545.784-1-120x120.jpg",
+          "title": "French back ‘elitist’ Champions Cup",
+          "link": "https://www.sarugbymag.co.za/french-back-elitist-champions-cup/",
+          "summary": "French league president Yann Roubert supports reducing the Investec Champions Cup from 24 teams to 16 and says South Africa’s future will need to be discussed. The post French back ‘elitist’ Champions Cup appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/05/Maxime-Lucu-Bordeaux-23-May-2026-David-Rogers-Getty-Images-e1779558785463.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-29T12:51:27.000Z"
+        },
+        {
+          "title": "John Smit calls on World Rugby to adopt his ref comms ‘plan B’ idea and compares ‘most outstanding player for Australia’ to Springboks great",
+          "link": "https://www.planetrugby.com/news/john-smit-calls-on-world-rugby-to-adopt-his-ref-comms-plan-b-idea-and-compares-most-outstanding-player-for-australia-to-springboks-great",
+          "summary": "Springboks legend John Smit has called on World Rugby to adopt his plan B to deal with future breakdowns in communication between a referee and his TMO.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29133350/Inset-bottom-right-2026-09-29T133331.507-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-29T09:20:12.000Z"
+          "publishedAt": "2026-09-29T12:44:03.000Z"
         },
         {
-          "title": "Paulie D: We’re not done going all in",
-          "link": "https://www.sarugbymag.co.za/paulie-d-not-done-going/",
-          "summary": "Flanker Paul de Villiers says the Springboks have already set their sights on bouncing back to winning ways in the Nations Championship. The post Paulie D: We’re not done going all in appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626840-e1790672451885.jpg",
+          "title": "SA stars dominate URC XV",
+          "link": "https://www.sarugbymag.co.za/sa-stars-dominate-urc-xv-2/",
+          "summary": "Nine South Africans have been named in the Fantasy URC Team of the Week for round one of the 2026-27 campaign. The post SA stars dominate URC XV appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/PauldeWet-e1790685127351.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T09:14:29.000Z"
+          "publishedAt": "2026-09-29T12:33:54.000Z"
         },
         {
-          "title": "Boks to tackle Wallabies in 100th Test",
-          "link": "https://www.sarugbymag.co.za/boks-tackle-wallabies-100th-test/",
-          "summary": "The Springboks will host Australia twice next year in a historic meeting between the Wallabies and Rassie Erasmus' world champions. The post Boks to tackle Wallabies in 100th Test appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626742-e1790670752902.jpg",
+          "title": "Bok defence is ‘high risk, high reward’",
+          "link": "https://www.sarugbymag.co.za/bok-defence-high-risk-high-reward/",
+          "summary": "Gary Gold and Kevin Foote agree the Springboks’ current defensive approach will inevitably concede tries, but argue its pressure and work rate make it worthwhile. The post Bok defence is ‘high risk, high reward’…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626736-e1790681026805.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T08:43:01.000Z"
+          "publishedAt": "2026-09-29T11:50:05.000Z"
         },
         {
-          "title": "POLL: How many Bok wins up north?",
-          "link": "https://www.sarugbymag.co.za/poll-how-many-bok-wins-up-north/",
-          "summary": "The Springboks face Italy, France and Ireland during the northern leg of the Nations Championship. How many of those Tests will they win? The post POLL: How many Bok wins up north? appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/11/2245730455-e1762641228263.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T08:39:43.000Z"
-        },
-        {
-          "title": "Ex-England stars: Rassie’s gone ‘crazy’",
-          "link": "https://www.sarugbymag.co.za/ex-england-stars-rassies-gone-crazy/",
-          "summary": "Mike Tindall and Jonny May reckon Rassie Erasmus deliberately creates problems for the Springboks, using setbacks to expose weaknesses and build depth for the future. The post Ex-England stars: Rassie’s gone ‘crazy’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/JasperWieseRassieErasmusAndre-Esterhuizen-e1790667801304.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T08:07:43.000Z"
+          "title": "Top 10 hybrids in rugby: The man nicknamed after a horror film sets the template while Springboks’ ‘blunt instrument’ changes the game",
+          "link": "https://www.planetrugby.com/news/top-10-hybrids-in-rugby-union",
+          "summary": "In the 2020 Six Nations, Eddie Jones moved Tom Curry to number eight and Jonathan Joseph to the wing, and was told for his trouble that he had lost the plot.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29110026/Kwagga-Smith-and-Andre-ESTERHUIZEN-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-09-29T10:06:37.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-29T10:04:15.846Z",
+    "generatedAt": "2026-09-29T13:05:37.739Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 56m"
+      "label": "🟡 Planned Maintenance In 54m"
     },
     "forecast": [
       {
