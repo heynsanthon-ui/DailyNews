@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-29T13:05:37.660Z",
-  "edition": "Updated 15:05 SAST — Tue, 29 Sept",
+  "generatedAt": "2026-09-29T16:03:59.920Z",
+  "edition": "Updated 18:03 SAST — Tue, 29 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board",
+          "link": "https://www.chess.com/news/view/announcing-chessup-lite",
+          "summary": "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-29T16:00:00.000Z"
+        },
         {
           "title": "New Feature: Add Your Chess.com Stats To LinkedIn",
           "link": "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-29T09:37:38.000Z"
-        },
-        {
-          "title": "The dark side of the online world: Hanna Sayce's story",
-          "link": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
-          "summary": "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-29T05:05:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Turkiye arrests president, six members of football refereeing body in probe",
-          "link": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
-          "summary": "Arrests were made over interference with refereeing procedures, among other accusations, Turkish justice minister says.",
+          "title": "‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino",
+          "link": "https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss",
+          "summary": "UEFA slams Infantino over his aborted plan to sell off stakes in FIFA competitions to private investors.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T12:37:18.000Z"
+          "publishedAt": "2026-09-29T15:49:50.000Z"
         },
         {
-          "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
-          "link": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss",
-          "summary": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
+          "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
+          "link": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
+          "summary": "Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T12:32:10.000Z"
+          "publishedAt": "2026-09-29T15:47:37.000Z"
         },
         {
-          "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
+          "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+          "summary": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8204/live/eda3ede0-bc13-11f1-a524-3125ac41b7f5.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-29T15:40:10.000Z"
+        },
+        {
+          "title": "Ireland undecided on approach for next game against Israel, coach says",
+          "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
+          "summary": "Ireland played the first Nations League game despite unease among some players over Israel's genocidal war in Gaza.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-29T15:33:42.000Z"
+        },
+        {
+          "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
           "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-          "summary": "The measures include a proposed ban on evictions until 2030 and the automatic renewal of tenant contracts.",
+          "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-29T12:14:50.000Z"
-        },
-        {
-          "title": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss",
-          "summary": "Malaysia sends Rohingya back to Myanmar despite safety warnings",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T12:08:40.000Z"
-        },
-        {
-          "title": "Journalist ascends to throne in Uganda kingdom after succession dispute",
-          "link": "https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss",
-          "summary": "Edward Rukidi Kijanangoma succeeds King Oyo Nyimba Kabamba Iguru Rukidi IV, who died last month.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T12:07:31.000Z"
+          "publishedAt": "2026-09-29T15:26:23.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "French back ‘elitist’ Champions Cup",
-          "link": "https://www.sarugbymag.co.za/french-back-elitist-champions-cup/",
-          "summary": "French league president Yann Roubert supports reducing the Investec Champions Cup from 24 teams to 16 and says South Africa’s future will need to be discussed. The post French back ‘elitist’ Champions Cup appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/05/Maxime-Lucu-Bordeaux-23-May-2026-David-Rogers-Getty-Images-e1779558785463.jpg",
+          "title": "Phepsi thirsty for more",
+          "link": "https://www.sarugbymag.co.za/phepsi-thirsty-for-more/",
+          "summary": "Phepsi Buthelezi says it was rewarding for the Sharks to kick off the 2026-27 season with a win, but Saturday’s clash against Leinster is a real chance to “match fire with fire”. The post Phepsi thirsty for more…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625674-e1790693692811.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T12:51:27.000Z"
+          "publishedAt": "2026-09-29T15:44:08.000Z"
         },
         {
-          "title": "John Smit calls on World Rugby to adopt his ref comms ‘plan B’ idea and compares ‘most outstanding player for Australia’ to Springboks great",
-          "link": "https://www.planetrugby.com/news/john-smit-calls-on-world-rugby-to-adopt-his-ref-comms-plan-b-idea-and-compares-most-outstanding-player-for-australia-to-springboks-great",
-          "summary": "Springboks legend John Smit has called on World Rugby to adopt his plan B to deal with future breakdowns in communication between a referee and his TMO.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29133350/Inset-bottom-right-2026-09-29T133331.507-1-120x120.jpg",
+          "title": "Springboks rookie makes bold prediction on response after ‘valuable outing’ against Wallabies",
+          "link": "https://www.planetrugby.com/news/springboks-rookie-makes-bold-prediction-on-response-after-valuable-outing-against-wallabies",
+          "summary": "Rookie Springboks flanker Paul de Villiers revealed that the world champions' recent defeat against the Wallabies would be used as inspiration to come back fighting when the Nations Championship resumes in November.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29150622/Paul-de-Villiers-and-Rassie-Erasmus-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-29T12:44:03.000Z"
+          "publishedAt": "2026-09-29T14:38:00.000Z"
         },
         {
-          "title": "SA stars dominate URC XV",
-          "link": "https://www.sarugbymag.co.za/sa-stars-dominate-urc-xv-2/",
-          "summary": "Nine South Africans have been named in the Fantasy URC Team of the Week for round one of the 2026-27 campaign. The post SA stars dominate URC XV appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/PauldeWet-e1790685127351.jpg",
+          "title": "‘It’s not Joey vs Jacques, godfather of defence’",
+          "link": "https://www.sarugbymag.co.za/not-joey-vs-jacques-godfather-defence/",
+          "summary": "Sharks defence coach Joey Mongalo views Saturday’s URC clash against defending champions Leinster as a great opportunity to pit themselves against the best. The post ‘It’s not Joey vs Jacques, godfather of defence’…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626780-e1790689241387.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T12:33:54.000Z"
+          "publishedAt": "2026-09-29T14:29:40.000Z"
         },
         {
-          "title": "Bok defence is ‘high risk, high reward’",
-          "link": "https://www.sarugbymag.co.za/bok-defence-high-risk-high-reward/",
-          "summary": "Gary Gold and Kevin Foote agree the Springboks’ current defensive approach will inevitably concede tries, but argue its pressure and work rate make it worthwhile. The post Bok defence is ‘high risk, high reward’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626736-e1790681026805.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T11:50:05.000Z"
-        },
-        {
-          "title": "Top 10 hybrids in rugby: The man nicknamed after a horror film sets the template while Springboks’ ‘blunt instrument’ changes the game",
-          "link": "https://www.planetrugby.com/news/top-10-hybrids-in-rugby-union",
-          "summary": "In the 2020 Six Nations, Eddie Jones moved Tom Curry to number eight and Jonathan Joseph to the wing, and was told for his trouble that he had lost the plot.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29110026/Kwagga-Smith-and-Andre-ESTERHUIZEN-120x120.jpg",
+          "title": "‘Grateful’ Sharks issue ‘exceptional talent’ tribute as Junior Springbok star gets ready to say Kings Park farewell",
+          "link": "https://www.planetrugby.com/news/grateful-sharks-issue-exceptional-talent-tribute-as-junior-springbok-star-gets-ready-to-say-kings-park-farewell",
+          "summary": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29145511/Inset-Top-Right-2026-09-29T145437.499-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-29T10:06:37.000Z"
+          "publishedAt": "2026-09-29T14:04:32.000Z"
+        },
+        {
+          "title": "Venter becomes Saracens ‘wine consultant’",
+          "link": "https://www.sarugbymag.co.za/venter-becomes-saracens-wine-consultant/",
+          "summary": "Former Springbok centre Brendan Venter has been given a new job title at Saracens following a dispute over the English club’s media obligations. The post Venter becomes Saracens ‘wine consultant’ appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Brendan-Venter-27-September-2026-David-Rogers-Getty-Images-e1790690277784.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-29T14:00:49.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "Australia have been troubled by left-arm spinn and this will be their last ODI in conditions they are likely to face in 2027 World Cup",
           "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423151.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-29T09:58:58.000Z"
+          "publishedAt": "2026-09-29T15:31:48.000Z"
         },
         {
           "title": "Ellis and Davies out of the South Africa tour with injury",
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-29T13:05:37.739Z",
+    "generatedAt": "2026-09-29T16:03:59.995Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 54m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
