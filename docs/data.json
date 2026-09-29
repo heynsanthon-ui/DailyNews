@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-09-29T16:03:59.920Z",
-  "edition": "Updated 18:03 SAST — Tue, 29 Sept",
+  "generatedAt": "2026-09-29T19:03:22.606Z",
+  "edition": "Updated 21:03 SAST — Tue, 29 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions",
+          "link": "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
+          "summary": "Uzbekistan's victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-29T17:39:00.000Z"
+        },
+        {
+          "title": "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins",
+          "link": "https://www.chess.com/news/view/2026-ccl-fall-week-one-update",
+          "summary": "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division's opening round. Texas Tech defeated three-time league champions…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-29T17:34:00.000Z"
+        },
         {
           "title": "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board",
           "link": "https://www.chess.com/news/view/announcing-chessup-lite",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-29T11:25:31.000Z"
-        },
-        {
-          "title": "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\"",
-          "link": "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
-          "summary": "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-29T10:00:00.000Z"
-        },
-        {
-          "title": "Vincent Keymer: Relaxed, light-hearted and funny",
-          "link": "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
-          "summary": "Anyone playing for medals at a Chess Olympiad takes chess seriously. In Samarkand, Vincent Keymer won bronze with the German team, Germany’s first team medal since silver in Istanbul in 2000. But after the final round,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-29T09:37:38.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino",
-          "link": "https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss",
-          "summary": "UEFA slams Infantino over his aborted plan to sell off stakes in FIFA competitions to private investors.",
+          "title": "Trump unveils new site to simplify access to government services",
+          "link": "https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss",
+          "summary": "America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T15:49:50.000Z"
+          "publishedAt": "2026-09-29T18:21:33.000Z"
         },
         {
-          "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-          "link": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-          "summary": "Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.",
+          "title": "‘Truly historic’: Morocco’s king appoints first woman prime minister",
+          "link": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
+          "summary": "Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T15:47:37.000Z"
+          "publishedAt": "2026-09-29T18:10:37.000Z"
         },
         {
-          "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-          "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-          "summary": "The suspect, 24, was arrested before the alleged cyber attack took place.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8204/live/eda3ede0-bc13-11f1-a524-3125ac41b7f5.jpg",
+          "title": "Knife-wielding schoolboy kills teacher, injures two in Slovakia",
+          "link": "https://www.aljazeera.com/news/2026/9/29/slovakia-teacher-killed-in-stabbing-by-student?traffic_source=rss",
+          "summary": "Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-29T18:03:19.000Z"
+        },
+        {
+          "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
+          "link": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
+          "summary": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-29T17:51:11.000Z"
+        },
+        {
+          "title": "New York Times executive fatally shot by elderly in-laws, police say",
+          "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+          "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png",
           "source": "BBC News",
-          "publishedAt": "2026-09-29T15:40:10.000Z"
-        },
-        {
-          "title": "Ireland undecided on approach for next game against Israel, coach says",
-          "link": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
-          "summary": "Ireland played the first Nations League game despite unease among some players over Israel's genocidal war in Gaza.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T15:33:42.000Z"
-        },
-        {
-          "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-          "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-29T15:26:23.000Z"
+          "publishedAt": "2026-09-29T17:48:08.000Z"
         }
       ]
     },
@@ -98,6 +98,14 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Bok hooker to lock horns with Bulls",
+          "link": "https://www.sarugbymag.co.za/bok-hooker-set-start-bulls/",
+          "summary": "Marnus van der Merwe is lined up to start for Munster in his second URC match for the club in Saturday’s visit to Thomond Park from the Bulls. The post Bok hooker to lock horns with Bulls appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/MarnusvanderMerweMunster-e1790700554531.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-29T16:56:05.000Z"
+        },
         {
           "title": "Phepsi thirsty for more",
           "link": "https://www.sarugbymag.co.za/phepsi-thirsty-for-more/",
@@ -123,20 +131,12 @@
           "publishedAt": "2026-09-29T14:29:40.000Z"
         },
         {
-          "title": "‘Grateful’ Sharks issue ‘exceptional talent’ tribute as Junior Springbok star gets ready to say Kings Park farewell",
-          "link": "https://www.planetrugby.com/news/grateful-sharks-issue-exceptional-talent-tribute-as-junior-springbok-star-gets-ready-to-say-kings-park-farewell",
-          "summary": "Luan Giliomee has been dubbed an “exceptional talent” as he approaches a crossroads in his young career.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29145511/Inset-Top-Right-2026-09-29T145437.499-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-29T14:04:32.000Z"
-        },
-        {
-          "title": "Venter becomes Saracens ‘wine consultant’",
-          "link": "https://www.sarugbymag.co.za/venter-becomes-saracens-wine-consultant/",
-          "summary": "Former Springbok centre Brendan Venter has been given a new job title at Saracens following a dispute over the English club’s media obligations. The post Venter becomes Saracens ‘wine consultant’ appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Brendan-Venter-27-September-2026-David-Rogers-Getty-Images-e1790690277784.jpg",
+          "title": "Black Lion pip Pumas",
+          "link": "https://www.sarugbymag.co.za/black-lion-pip-pumas/",
+          "summary": "Georgia’s Black Lion scored a converted try at the death to beat the Pumas in Tbilisi on Thursday. The post Black Lion pip Pumas appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Black-Lion-Pumas-29-Sep-2026-e1790700112658.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T14:00:49.000Z"
+          "publishedAt": "2026-09-29T14:25:37.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Maharaj and Lyon resume their bromance, ten years after first meeting",
+          "link": "https://www.cricinfo.com/ci/content/story/1556148.html?ex_cid=OTC-RSS",
+          "summary": "SA spinner talks about watching and learning from his Australian counterpart, whose brain he tries to pick \"as much as possible\"",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413517.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-29T16:38:49.000Z"
+        },
         {
           "title": "Eyes on weather as Australia look to avoid clean sweep against South Africa",
           "link": "https://www.cricinfo.com/ci/content/story/1556103.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423124.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-27T17:35:48.000Z"
-        },
-        {
-          "title": "CSA reports loss as broadcast challenges loom",
-          "link": "https://www.cricinfo.com/ci/content/story/1555911.html?ex_cid=OTC-RSS",
-          "summary": "The board is also predicting another loss in the 2026-27 summer despite hosting the Australia and England men's teams",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/336100/336147.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-27T11:46:32.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-29T16:03:59.995Z",
+    "generatedAt": "2026-09-29T19:03:22.664Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
