@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-29T19:03:22.606Z",
-  "edition": "Updated 21:03 SAST — Tue, 29 Sept",
+  "generatedAt": "2026-09-30T04:02:22.791Z",
+  "edition": "Morning Edition — Wed, 30 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "WSTC 2026 European Stage begins in Tsaghkadzor",
+          "link": "https://en.chessbase.com/post/wstc-2026-european-stage-start",
+          "summary": "The European Continental Stage of the FIDE ISCF World Schools Team Championship has begun in Tsaghkadzor, Armenia, with 27 school teams from 25 countries competing for places in the December Grand Final. After two…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-29T23:50:00.000Z"
+        },
         {
           "title": "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions",
           "link": "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-29T13:00:00.000Z"
-        },
-        {
-          "title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
-          "link": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
-          "summary": "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-29T11:25:31.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Trump unveils new site to simplify access to government services",
-          "link": "https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss",
-          "summary": "America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T18:21:33.000Z"
-        },
-        {
-          "title": "‘Truly historic’: Morocco’s king appoints first woman prime minister",
-          "link": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
-          "summary": "Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T18:10:37.000Z"
-        },
-        {
-          "title": "Knife-wielding schoolboy kills teacher, injures two in Slovakia",
-          "link": "https://www.aljazeera.com/news/2026/9/29/slovakia-teacher-killed-in-stabbing-by-student?traffic_source=rss",
-          "summary": "Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T18:03:19.000Z"
-        },
-        {
-          "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-          "link": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
-          "summary": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-29T17:51:11.000Z"
-        },
-        {
-          "title": "New York Times executive fatally shot by elderly in-laws, police say",
-          "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-          "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png",
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+          "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4b/live/0696f460-bc5e-11f1-9ff8-6d8977b444a0.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-29T17:48:08.000Z"
+          "publishedAt": "2026-09-30T04:01:52.000Z"
+        },
+        {
+          "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+          "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-30T03:38:09.000Z"
+        },
+        {
+          "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+          "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+          "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/61d8c9c0-bc7c-11f1-a430-4d16ee157c41.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-30T03:21:28.000Z"
+        },
+        {
+          "title": "Trump backs AI self-regulation at tech summit but is it enough?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss",
+          "summary": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T03:00:59.000Z"
+        },
+        {
+          "title": "Somali pirates killed five crew members on hijacked tanker, officials say",
+          "link": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss",
+          "summary": "The deaths appear to be the first at the hands of Somali pirates in more than a decade.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T02:39:06.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-29T19:03:22.664Z",
+    "generatedAt": "2026-09-30T04:02:22.864Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 58m"
     },
     "forecast": [
-      {
-        "date": "2026-09-29",
-        "day": "Tue",
-        "dayOfMonth": 29,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-09-30",
         "day": "Wed",
         "dayOfMonth": 30,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-10-01",
@@ -1689,17 +1681,17 @@
         "date": "2026-10-02",
         "day": "Fri",
         "dayOfMonth": 2,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-10-03",
         "day": "Sat",
         "dayOfMonth": 3,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-04",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-06",
+        "day": "Tue",
+        "dayOfMonth": 6,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-29",
+        "date": "2026-09-30",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-03",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Fri 2, 09:00–12:00"
+        "etr": "Sat 3, 09:00–12:00"
       }
     ],
     "reliability": {
