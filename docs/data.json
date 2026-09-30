@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T16:04:37.791Z",
-  "edition": "Updated 18:04 SAST — Wed, 30 Sept",
+  "generatedAt": "2026-09-30T19:04:57.190Z",
+  "edition": "Updated 21:04 SAST — Wed, 30 Sept",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-          "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/e4a1ffd0-bbdb-11f1-bd21-bdf910f2cec6.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-30T15:29:11.000Z"
-        },
-        {
-          "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-          "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-          "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
+          "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
+          "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
+          "summary": "For a third election in a row, a Bolsonaro family member is the leading right-wing contender for Brazil's presidency.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T15:27:26.000Z"
+          "publishedAt": "2026-09-30T18:48:32.000Z"
         },
         {
-          "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
-          "link": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
-          "summary": "Wazwan, a multicourse mutton feast, reflects Kashmiri cultural roots with recipes dating back to the 14th century.",
+          "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
+          "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
+          "summary": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and is now a doubt for the game against Denmark.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T15:22:52.000Z"
+          "publishedAt": "2026-09-30T18:39:04.000Z"
         },
         {
-          "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
-          "link": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
-          "summary": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.",
+          "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
+          "summary": "Bangladesh’s health authorities report that at least 233 people have died from dengue fever.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T15:06:37.000Z"
+          "publishedAt": "2026-09-30T18:12:27.000Z"
         },
         {
-          "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-          "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
-          "summary": "Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.",
+          "title": "Strong indications’ Iran linked to suspected UK airbase plot",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+          "summary": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T14:54:34.000Z"
+          "publishedAt": "2026-09-30T18:09:51.000Z"
+        },
+        {
+          "title": "Trump set to announce $200bn in energy investments from South Korea",
+          "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+          "summary": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T18:01:14.000Z"
         }
       ]
     },
@@ -145,6 +145,14 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Carey, Marsh hit fifties as Australia post 322",
+          "link": "https://www.cricinfo.com/ci/content/story/1556645.html?ex_cid=OTC-RSS",
+          "summary": "Bosch takes four as South Africa limit the damage at the death",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423200/423260.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-30T16:43:05.000Z"
+        },
+        {
           "title": "Markram-led South Africa make five changes and opt to bowl",
           "link": "https://www.cricinfo.com/ci/content/story/1556605.html?ex_cid=OTC-RSS",
           "summary": "Having already won the series, South Africa rested their key players, including Temba Bavuma, with an eye on the Test series",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423151.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-29T15:31:48.000Z"
-        },
-        {
-          "title": "Ellis and Davies out of the South Africa tour with injury",
-          "link": "https://www.cricinfo.com/ci/content/story/1556070.html?ex_cid=OTC-RSS",
-          "summary": "No replacements named for the final ODI while Doggett, O'Neill and Kellaway have departed the Australia A tour of India to return home for Shield cricket",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423117.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-29T00:11:34.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-30T16:04:37.860Z",
+    "generatedAt": "2026-09-30T19:04:57.262Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
