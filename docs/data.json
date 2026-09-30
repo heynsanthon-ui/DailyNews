@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-30T04:02:22.791Z",
-  "edition": "Morning Edition — Wed, 30 Sept",
+  "generatedAt": "2026-09-30T07:04:57.421Z",
+  "edition": "Updated 09:04 SAST — Wed, 30 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Wesley Sews Up First Titled Tuesday Of 2026",
+          "link": "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
+          "summary": "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-30T06:03:34.000Z"
+        },
         {
           "title": "WSTC 2026 European Stage begins in Tsaghkadzor",
           "link": "https://en.chessbase.com/post/wstc-2026-european-stage-start",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-29T16:00:00.000Z"
-        },
-        {
-          "title": "New Feature: Add Your Chess.com Stats To LinkedIn",
-          "link": "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
-          "summary": "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&rsquo;re a chess player. Every rating point you&rsquo;ve earned, every puzzle you&rsquo;ve solved, and every game…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-29T13:00:00.000Z"
         }
       ]
     },
@@ -53,12 +53,28 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-          "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc4b/live/0696f460-bc5e-11f1-9ff8-6d8977b444a0.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-30T04:01:52.000Z"
+          "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
+          "link": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss",
+          "summary": "US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T06:48:09.000Z"
+        },
+        {
+          "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
+          "link": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
+          "summary": "AI giant launches 'dots' to rival Meta's Muse and Google's Gemini Spark.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T06:29:57.000Z"
+        },
+        {
+          "title": "India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage",
+          "link": "https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss",
+          "summary": "Fearing outright demolition, Muslims volunteer to take down parts of the city's Shahi Mosque themselves.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T06:25:39.000Z"
         },
         {
           "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
@@ -66,31 +82,15 @@
           "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-30T03:38:09.000Z"
+          "publishedAt": "2026-09-30T05:24:52.000Z"
         },
         {
-          "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-          "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-          "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/61d8c9c0-bc7c-11f1-a430-4d16ee157c41.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-09-30T03:21:28.000Z"
-        },
-        {
-          "title": "Trump backs AI self-regulation at tech summit but is it enough?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss",
-          "summary": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development.",
+          "title": "Hegseth to cut number of US general and admiral positions by 20%",
+          "link": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
+          "summary": "Pentagon official says the plan will be announced in the defence secretary's 'State of the Force' address in Virginia.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T03:00:59.000Z"
-        },
-        {
-          "title": "Somali pirates killed five crew members on hijacked tanker, officials say",
-          "link": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss",
-          "summary": "The deaths appear to be the first at the hands of Somali pirates in more than a decade.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T02:39:06.000Z"
+          "publishedAt": "2026-09-30T05:05:35.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Bok hooker to lock horns with Bulls",
-          "link": "https://www.sarugbymag.co.za/bok-hooker-set-start-bulls/",
-          "summary": "Marnus van der Merwe is lined up to start for Munster in his second URC match for the club in Saturday’s visit to Thomond Park from the Bulls. The post Bok hooker to lock horns with Bulls appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/MarnusvanderMerweMunster-e1790700554531.jpg",
+          "title": "POLL: Is Giliomee making right move?",
+          "link": "https://www.sarugbymag.co.za/poll-is-giliomee-making-right-move/",
+          "summary": "Sharks star Luan Giliomee is set to join the Bulls. Is he making the right career move? The post POLL: Is Giliomee making right move? appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Luan-Giliomee-Man-of-Match-26-September-2026-Steve-Haag-Gallo-Images-e1790751392384.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T16:56:05.000Z"
+          "publishedAt": "2026-09-30T06:58:29.000Z"
         },
         {
-          "title": "Phepsi thirsty for more",
-          "link": "https://www.sarugbymag.co.za/phepsi-thirsty-for-more/",
-          "summary": "Phepsi Buthelezi says it was rewarding for the Sharks to kick off the 2026-27 season with a win, but Saturday’s clash against Leinster is a real chance to “match fire with fire”. The post Phepsi thirsty for more…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625674-e1790693692811.jpg",
+          "title": "‘Leinster need plan for Luan’",
+          "link": "https://www.sarugbymag.co.za/leinster-need-plan-for-luan/",
+          "summary": "Irish Times sports writer John O’Sullivan has warned Leinster of the threat posed by Bulls-bound Sharks fullback Luan Giliomee at Kings Park on Saturday. The post ‘Leinster need plan for Luan’ appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Luan-Giliomee-26-September-2026-Gerhard-Duraan-Gallo-Images-e1790750136869.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T15:44:08.000Z"
+          "publishedAt": "2026-09-30T06:40:16.000Z"
         },
         {
-          "title": "Springboks rookie makes bold prediction on response after ‘valuable outing’ against Wallabies",
-          "link": "https://www.planetrugby.com/news/springboks-rookie-makes-bold-prediction-on-response-after-valuable-outing-against-wallabies",
-          "summary": "Rookie Springboks flanker Paul de Villiers revealed that the world champions' recent defeat against the Wallabies would be used as inspiration to come back fighting when the Nations Championship resumes in November.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/29150622/Paul-de-Villiers-and-Rassie-Erasmus-image-120x120.jpg",
+          "title": "Rennie won’t rotate like Rassie",
+          "link": "https://www.sarugbymag.co.za/rennie-wont-rotate-like-rassie/",
+          "summary": "Coach Dave Rennie says the All Blacks will give the Wallabies “the respect they deserve” in their two-match Bledisloe Cup series. The post Rennie won’t rotate like Rassie appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Dave-Rennie-29-August-2026-Anton-Geyser-Gallo-Images-e1788439464210.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T05:51:04.000Z"
+        },
+        {
+          "title": "‘No one is equal to Ox Nche’ – Nick Mallett’s verdict on Rassie Erasmus’ selections and Springboks depth",
+          "link": "https://www.planetrugby.com/news/nick-malletts-verdict-on-springboks-depth-after-wallabies-defeat",
+          "summary": "Nick Mallett says that the Springboks have players who are irreplaceable.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28140438/Springboks-front-rowers-Malcolm-Marx-and-Ox-Nche-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-09-29T14:38:00.000Z"
+          "publishedAt": "2026-09-30T05:39:40.000Z"
         },
         {
-          "title": "‘It’s not Joey vs Jacques, godfather of defence’",
-          "link": "https://www.sarugbymag.co.za/not-joey-vs-jacques-godfather-defence/",
-          "summary": "Sharks defence coach Joey Mongalo views Saturday’s URC clash against defending champions Leinster as a great opportunity to pit themselves against the best. The post ‘It’s not Joey vs Jacques, godfather of defence’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626780-e1790689241387.jpg",
+          "title": "Griquas storm to huge Lusitanos win",
+          "link": "https://www.sarugbymag.co.za/griquas-storm-huge-lusitanos-win/",
+          "summary": "Griquas produced another statement performance in Tbilisi on Tuesday, powering past Portugal's Lusitanos to remain unbeaten in the Toyota Challenge. The post Griquas storm to huge Lusitanos win appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/FB_IMG_17907396379951-e1790741213210.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T14:29:40.000Z"
-        },
-        {
-          "title": "Black Lion pip Pumas",
-          "link": "https://www.sarugbymag.co.za/black-lion-pip-pumas/",
-          "summary": "Georgia’s Black Lion scored a converted try at the death to beat the Pumas in Tbilisi on Thursday. The post Black Lion pip Pumas appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Black-Lion-Pumas-29-Sep-2026-e1790700112658.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T14:25:37.000Z"
+          "publishedAt": "2026-09-29T20:09:43.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-30T04:02:22.864Z",
+    "generatedAt": "2026-09-30T07:04:57.490Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 58m"
+      "label": "🟡 Planned Maintenance In 6h 55m"
     },
     "forecast": [
       {
