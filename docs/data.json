@@ -1,18 +1,34 @@
 {
-  "generatedAt": "2026-09-30T13:06:52.402Z",
-  "edition": "Updated 15:06 SAST — Wed, 30 Sept",
+  "generatedAt": "2026-09-30T16:04:37.791Z",
+  "edition": "Updated 18:04 SAST — Wed, 30 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
+          "title": "Turlov: Chess is massively undervalued",
+          "link": "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
+          "summary": "He has been elected FIDE President. Shortly before the ballot decided it in Samarkand, American Chess Magazine conducted an interview with Timur Turlov, discussing his upbringing and background, the ecosystem of his…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-30T17:00:00.000Z"
+        },
+        {
+          "title": "Bodhana Sivanandan, 11, Becomes Youngest-Ever WGM, Scores Second IM Norm",
+          "link": "https://www.chess.com/news/view/bodhana-sivanandan-11-becomes-youngest-ever-wgm-scores-second-im-norm",
+          "summary": "British chess sensation FM Bodhana Sivanandan has made history again. The 11-year-old completed the requirements for the Woman Grandmaster title at the 46th Women's Chess Olympiad in Samarkand, Uzbekistan, becoming the…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-30T14:21:00.000Z"
+        },
+        {
           "title": "Judit Polgar Scores 3.5-1.5 In Simultaneous Display At Global Chess Festival",
           "link": "https://www.chess.com/news/view/judit-polgar-global-chess-festival-2026",
           "summary": "The 12th edition of GM Judit Polgar's traditional annual Global Chess Festival was staged on September 26 in the Hungarian National Gallery, Budapest. Judit took on five different communities in a simultaneous display,…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-09-30T12:47:37.000Z"
+          "publishedAt": "2026-09-30T12:47:00.000Z"
         },
         {
           "title": "Behind the scenes in Samarkand: Inside the Expo",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-30T06:03:34.000Z"
-        },
-        {
-          "title": "WSTC 2026 European Stage begins in Tsaghkadzor",
-          "link": "https://en.chessbase.com/post/wstc-2026-european-stage-start",
-          "summary": "The European Continental Stage of the FIDE ISCF World Schools Team Championship has begun in Tsaghkadzor, Armenia, with 27 school teams from 25 countries competing for places in the December Grand Final. After two…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-09-29T23:50:00.000Z"
-        },
-        {
-          "title": "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions",
-          "link": "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
-          "summary": "Uzbekistan's victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-29T17:39:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-          "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
-          "summary": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T12:49:04.000Z"
-        },
-        {
-          "title": "Settlers closing in on Ramallah",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
-          "summary": "Israeli settlers are encroaching ever closer to Ramallah, the de facto capital of the occupied West Bank.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T12:43:27.000Z"
-        },
-        {
-          "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-          "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
+          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+          "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+          "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/e4a1ffd0-bbdb-11f1-bd21-bdf910f2cec6.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-30T12:42:34.000Z"
+          "publishedAt": "2026-09-30T15:29:11.000Z"
         },
         {
-          "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
-          "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
-          "summary": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
+          "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+          "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+          "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T12:40:08.000Z"
+          "publishedAt": "2026-09-30T15:27:26.000Z"
         },
         {
-          "title": "Rainwater washes away highway in Nigeria",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
-          "summary": "Heavy rain over three days caused severe flooding along the Agbarho-Ughelli highway in Delta State, southern Nigeria.",
+          "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
+          "link": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
+          "summary": "Wazwan, a multicourse mutton feast, reflects Kashmiri cultural roots with recipes dating back to the 14th century.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T12:39:08.000Z"
+          "publishedAt": "2026-09-30T15:22:52.000Z"
+        },
+        {
+          "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
+          "link": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
+          "summary": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T15:06:37.000Z"
+        },
+        {
+          "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
+          "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
+          "summary": "Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T14:54:34.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "‘Stop Aussie, Kiwi refereeing virus’",
+          "link": "https://www.sarugbymag.co.za/stop-aussie-kiwi-refereeing-virus/",
+          "summary": "Former Irish referee Owen Doyle has criticised the contrasting approaches to officiating in the northern and southern hemispheres. The post ‘Stop Aussie, Kiwi refereeing virus’ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Angus-Gardner-29-August-2026-Grant-Pitcher-Gallo-Images-e1788021035882.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T14:12:08.000Z"
+        },
+        {
+          "title": "Exeter explain Bok’s absence",
+          "link": "https://www.sarugbymag.co.za/exeter-explain-boks-absence/",
+          "summary": "Springbok hooker Joseph Dweba is still waiting for his first appearance of the season after missing the Exeter Chiefs’ opening two matches. The post Exeter explain Bok’s absence appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/01/Joseph-Dweba-28-Dec-2025-David-Rogers-Getty-Images-e1767603514719.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T13:42:43.000Z"
+        },
         {
           "title": "Key Lion stays with the Pride",
           "link": "https://www.sarugbymag.co.za/key-lion-stays-with-the-pride/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Wilson-Andrea-Piardi-27-September-2026-Paul-Kane-Getty-Images-e1790765594732.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-30T11:00:14.000Z"
-        },
-        {
-          "title": "Everitt demands more from Edinburgh",
-          "link": "https://www.sarugbymag.co.za/everitt-demands-edinburgh/",
-          "summary": "Edinburgh coach Sean Everitt has challenged his side to find consistency when they host the Stormers at Hive Stadium on Friday night. The post Everitt demands more from Edinburgh appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/FB_IMG_1790764437578-e1790764718789.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-30T10:40:24.000Z"
-        },
-        {
-          "title": "Stormers sign Robertson Express",
-          "link": "https://www.sarugbymag.co.za/stormers-sign-robertson-express/",
-          "summary": "Winger Lleyton Davids has been rewarded for a standout pre-season performance for the Stormers with his first professional contract. The post Stormers sign Robertson Express appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2619548-e1789137009890.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-30T10:14:02.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "Having already won the series, South Africa rested their key players, including Temba Bavuma, with an eye on the Test series",
           "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422968.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-30T13:02:10.000Z"
+          "publishedAt": "2026-09-30T13:04:02.000Z"
         },
         {
           "title": "Kohli closes in on Gill at the top of men's ODI batters' rankings",
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-30T13:06:52.472Z",
+    "generatedAt": "2026-09-30T16:04:37.860Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 53m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
