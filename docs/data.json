@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-30T07:04:57.421Z",
-  "edition": "Updated 09:04 SAST — Wed, 30 Sept",
+  "generatedAt": "2026-09-30T10:03:39.402Z",
+  "edition": "Updated 12:03 SAST — Wed, 30 Sept",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Behind the scenes in Samarkand: Inside the Expo",
+          "link": "https://en.chessbase.com/post/chess-olympiad-2026-inside-the-expo",
+          "summary": "Arne Kähler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace,…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-09-30T10:00:00.000Z"
+        },
         {
           "title": "Wesley Sews Up First Titled Tuesday Of 2026",
           "link": "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-09-29T17:34:00.000Z"
-        },
-        {
-          "title": "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board",
-          "link": "https://www.chess.com/news/view/announcing-chessup-lite",
-          "summary": "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-29T16:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
-          "link": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss",
-          "summary": "US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T06:48:09.000Z"
-        },
-        {
-          "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
-          "link": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
-          "summary": "AI giant launches 'dots' to rival Meta's Muse and Google's Gemini Spark.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T06:29:57.000Z"
-        },
-        {
-          "title": "India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage",
-          "link": "https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss",
-          "summary": "Fearing outright demolition, Muslims volunteer to take down parts of the city's Shahi Mosque themselves.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T06:25:39.000Z"
-        },
-        {
-          "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-          "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1795/live/6e65f480-bc7f-11f1-8f6a-cb544b8fa0f7.jpg",
+          "title": "Israel-bound flight diverted after fight between pilots",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+          "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e314/live/6923d020-bca0-11f1-bd53-81692d9847e1.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-09-30T05:24:52.000Z"
+          "publishedAt": "2026-09-30T09:54:19.000Z"
         },
         {
-          "title": "Hegseth to cut number of US general and admiral positions by 20%",
-          "link": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
-          "summary": "Pentagon official says the plan will be announced in the defence secretary's 'State of the Force' address in Virginia.",
+          "title": "‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation",
+          "link": "https://www.aljazeera.com/news/2026/9/30/i-wanted-to-live-a-ukrainian-orphans-journey-through-russian-occupation?traffic_source=rss",
+          "summary": "Denys Kostev says he was forcibly transferred in 2022 and coerced into pro-Russian campaigns before finally escaping.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T05:05:35.000Z"
+          "publishedAt": "2026-09-30T09:54:07.000Z"
+        },
+        {
+          "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
+          "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+          "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ff/live/eb5c7d60-bcac-11f1-a3e9-bbda6f9b9e25.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-09-30T09:49:53.000Z"
+        },
+        {
+          "title": "Photos: A journalist is crowned king in Uganda",
+          "link": "https://www.aljazeera.com/gallery/2026/9/30/photos-a-journalist-is-crowned-king-in-uganda?traffic_source=rss",
+          "summary": "The death of King Oyo Nyimba in August triggered widespread grief and a succession dispute in Uganda’s Tooro Kingdom.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T09:39:00.000Z"
+        },
+        {
+          "title": "UK‘s PM Burnham sets out plans to reshape public services",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/uks-pm-burnham-sets-out-plans-to-reshape-public-services?traffic_source=rss",
+          "summary": "UK's PM Andy Burnham is promising a major improvement to public services including social care, housing and energy.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-09-30T08:48:59.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Watch: ‘World Rugby will investigate Boks’",
+          "link": "https://www.sarugbymag.co.za/watch-world-rugby-will-investigate-boks/",
+          "summary": "Former Wallabies Michael Hooper and Morgan Turinui discuss the \"farcical\" HIA incident involving Bok lock Eben Etzebeth in Perth. The post Watch: ‘World Rugby will investigate Boks’ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Eben-Etzenbeth-HIA.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T08:33:45.000Z"
+        },
+        {
+          "title": "Watch: Metronomic Moyo on song",
+          "link": "https://www.sarugbymag.co.za/watch-metronomic-moyo-song/",
+          "summary": "The Sharks will again be counting on the boot of young flyhalf Vusi Moyo to keep the scoreboard ticking in their URC clash against defending champions Leinster this weekend. The post Watch: Metronomic Moyo on song…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2625077-e1790758074461.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T08:30:33.000Z"
+        },
+        {
+          "title": "Cited centre in Wallabies’ Bledisloe squad",
+          "link": "https://www.sarugbymag.co.za/cited-centre-wallabies-bledisloe-squad/",
+          "summary": "Wallabies coach Les Kiss has penciled a player currently fighting suspension into his squad for the two Bledisloe Cup Tests against the All Blacks. The post Cited centre in Wallabies’ Bledisloe squad appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626805-e1790756409186.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T08:23:57.000Z"
+        },
+        {
+          "title": "Boks’ three-peat campaign one year away",
+          "link": "https://www.sarugbymag.co.za/boks-three-peat-campaign-one-year-away/",
+          "summary": "The Springboks' bid to make World Cup history is now just a little over a year away. The post Boks’ three-peat campaign one year away appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Springboks-anthem-Baltimore-Michael-Franken-Photography-e1789985140684.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-09-30T07:46:22.000Z"
+        },
+        {
           "title": "POLL: Is Giliomee making right move?",
           "link": "https://www.sarugbymag.co.za/poll-is-giliomee-making-right-move/",
           "summary": "Sharks star Luan Giliomee is set to join the Bulls. Is he making the right career move? The post POLL: Is Giliomee making right move? appeared first on SA Rugby magazine.",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Luan-Giliomee-Man-of-Match-26-September-2026-Steve-Haag-Gallo-Images-e1790751392384.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-09-30T06:58:29.000Z"
-        },
-        {
-          "title": "‘Leinster need plan for Luan’",
-          "link": "https://www.sarugbymag.co.za/leinster-need-plan-for-luan/",
-          "summary": "Irish Times sports writer John O’Sullivan has warned Leinster of the threat posed by Bulls-bound Sharks fullback Luan Giliomee at Kings Park on Saturday. The post ‘Leinster need plan for Luan’ appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Luan-Giliomee-26-September-2026-Gerhard-Duraan-Gallo-Images-e1790750136869.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-30T06:40:16.000Z"
-        },
-        {
-          "title": "Rennie won’t rotate like Rassie",
-          "link": "https://www.sarugbymag.co.za/rennie-wont-rotate-like-rassie/",
-          "summary": "Coach Dave Rennie says the All Blacks will give the Wallabies “the respect they deserve” in their two-match Bledisloe Cup series. The post Rennie won’t rotate like Rassie appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Dave-Rennie-29-August-2026-Anton-Geyser-Gallo-Images-e1788439464210.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-30T05:51:04.000Z"
-        },
-        {
-          "title": "‘No one is equal to Ox Nche’ – Nick Mallett’s verdict on Rassie Erasmus’ selections and Springboks depth",
-          "link": "https://www.planetrugby.com/news/nick-malletts-verdict-on-springboks-depth-after-wallabies-defeat",
-          "summary": "Nick Mallett says that the Springboks have players who are irreplaceable.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/28140438/Springboks-front-rowers-Malcolm-Marx-and-Ox-Nche-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-09-30T05:39:40.000Z"
-        },
-        {
-          "title": "Griquas storm to huge Lusitanos win",
-          "link": "https://www.sarugbymag.co.za/griquas-storm-huge-lusitanos-win/",
-          "summary": "Griquas produced another statement performance in Tbilisi on Tuesday, powering past Portugal's Lusitanos to remain unbeaten in the Toyota Challenge. The post Griquas storm to huge Lusitanos win appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/FB_IMG_17907396379951-e1790741213210.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-09-29T20:09:43.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Kohli closes in on Gill at the top of men's ODI batters' rankings",
+          "link": "https://www.cricinfo.com/ci/content/story/1556565.html?ex_cid=OTC-RSS",
+          "summary": "There were plenty of movement among bowlers too, with Keshav Maharaj now ranked third, Kuldeep Yadav fifth and Josh Hazlewood tenth",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423143.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-09-30T09:31:16.000Z"
+        },
         {
           "title": "Maharaj and Lyon resume their bromance, ten years after first meeting",
           "link": "https://www.cricinfo.com/ci/content/story/1556148.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/401900/401962.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-28T09:45:20.000Z"
-        },
-        {
-          "title": "Miller, Bavuma, spinners seal South Africa's series win",
-          "link": "https://www.cricinfo.com/ci/content/story/1555929.html?ex_cid=OTC-RSS",
-          "summary": "Ellis suffered a side injury and bowled just four overs, leaving Australia's attack depleted",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423124.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-27T17:35:48.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-30T07:04:57.490Z",
+    "generatedAt": "2026-09-30T10:03:39.472Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 55m"
+      "label": "🟡 Planned Maintenance In 3h 56m"
     },
     "forecast": [
       {
