@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-01T16:03:03.563Z",
-  "edition": "Updated 18:03 SAST — Thu, 01 Oct",
+  "generatedAt": "2026-10-01T19:02:44.193Z",
+  "edition": "Updated 21:02 SAST — Thu, 01 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Afghan Olympiad participants arrested after returning home",
+          "link": "https://en.chessbase.com/post/afghan-olympiad-participants-arrested",
+          "summary": "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-01T21:00:00.000Z"
+        },
+        {
+          "title": "Behind the scenes in Samarkand: The Olympiad comes to a close",
+          "link": "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
+          "summary": "Arne Kähler shares impressions from the final moments in Samarkand: the start of the crucial matches Uzbekistan–Ukraine and India–Hungary in the last round, a blitz game against seven-year-old Uzbek talent…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-01T19:00:00.000Z"
+        },
         {
           "title": "FIDE Ratings - October 2026",
           "link": "https://en.chessbase.com/post/fide-ratings-october-2026",
@@ -20,7 +36,7 @@
           "summary": "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-10-01T15:56:56.000Z"
+          "publishedAt": "2026-10-01T15:56:00.000Z"
         },
         {
           "title": "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-10-01T15:40:00.000Z"
-        },
-        {
-          "title": "Greatest Olympiad Underdogs - The Underdog",
-          "link": "https://en.chessbase.com/post/greatest-olympiad-underdogs-the-underdog",
-          "summary": "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women’s and Open sections, chosen not only for the rating differences but also for the instructive chess behind them.…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-01T09:26:25.000Z"
-        },
-        {
-          "title": "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown",
-          "link": "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
-          "summary": "9z Globant, a team with 962 participants, took first place in the first Chess Club Showdown on Wednesday, September 30. The event featured nine esports teams, ranging in size from 151 to 1142 members. Everyone played a…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-01T08:37:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+          "title": "Canada to fast track oil pipeline meant to diversify economy away from US",
+          "link": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
+          "summary": "Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-01T18:56:06.000Z"
+        },
+        {
+          "title": "Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+          "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-01T18:51:56.000Z"
+        },
+        {
+          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
           "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
           "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-01T15:38:13.000Z"
+          "publishedAt": "2026-10-01T18:48:46.000Z"
         },
         {
-          "title": "LIVE: Denmark vs Portugal – UEFA Nations League",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss",
-          "summary": "Follow our build-up, predictions, team news, Ronaldo latest, line-ups, score and live text commentary stream.",
+          "title": "Fires break out at French schools as students protest nationwide",
+          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc55/live/287dd260-bd94-11f1-9a76-4118bb2c2e43.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-01T18:22:29.000Z"
+        },
+        {
+          "title": "School protests spread as fires, blockades deepen unrest in France",
+          "link": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
+          "summary": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-01T15:32:17.000Z"
-        },
-        {
-          "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-          "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-          "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59cc/live/2b8e6ec0-bd89-11f1-a64c-550be9e3c66b.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-01T15:05:36.000Z"
-        },
-        {
-          "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-          "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-          "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/861f/live/112640e0-bda1-11f1-babe-4199b0e7ccea.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-01T15:04:32.000Z"
-        },
-        {
-          "title": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
-          "link": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
-          "summary": "Probe finds spyware, hidden microphones and infected phones used to surveil journalists, activists, rights defenders.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-01T15:04:21.000Z"
+          "publishedAt": "2026-10-01T18:18:18.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "‘Disappointed’ All Blacks are ‘better’ than the results as Dave Rennie wants New Zealand to ‘rectify’ their season after Springboks losses",
+          "link": "https://www.planetrugby.com/news/dave-rennie-disappointed-all-blacks-are-better-than-the-results",
+          "summary": "Head coach Dave Rennie believes that the All Blacks are better than their results against the Springboks suggest.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/01091502/All-Blacks-head-coach-Dave-Rennie-and-an-inset-of-Springboks-captain-Siya-Kolisi-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-01T18:56:41.000Z"
+        },
+        {
+          "title": "Keo & Zels: Why the great Dallaglio lauds golden Boks",
+          "link": "https://www.sarugbymag.co.za/keo-zels-great-dallaglio-lauds-golden-boks/",
+          "summary": "2003 World Cup-winning England No 8 Lawrence Dallaglio talks up the Boks, while the boys trumpet the Investec Champions Cup and this week's URC matchups. The post Keo & Zels: Why the great Dallaglio lauds golden Boks…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-3.22.57-PM.jpeg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-01T18:06:01.000Z"
+        },
+        {
+          "title": "JP: Returning Boks keen to get stuck in",
+          "link": "https://www.sarugbymag.co.za/jp-returning-boks-keen-get-stuck/",
+          "summary": "Sharks coach JP Pietersen says his returning Springboks jumped at the chance to feature against defending champions Leinster at Kings Park on Saturday. The post JP: Returning Boks keen to get stuck in appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2627476-e1790874916996.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-01T17:15:57.000Z"
+        },
+        {
+          "title": "Why Gaza misses his shot at Edinburgh",
+          "link": "https://www.sarugbymag.co.za/gaza-misses-shot-edinburgh/",
+          "summary": "Fans should see the Stormers’ Bok stars back in action when the team returns home after an URC opening-round result that showed boss John Dobson what is possible. The post Why Gaza misses his shot at Edinburgh appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2573081-e1790872615580.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-01T16:56:50.000Z"
+        },
+        {
           "title": "Dobbo: Siya a beast with big presence",
           "link": "https://www.sarugbymag.co.za/dobbo-siya-beast-big-presence/",
-          "summary": "John Dobson and Ruhan Nel hailed the impact that Siya Kolisi has already had on the Stormers, but “the rugby contribution” is what the team needs in Edinburgh on Friday night. The post Dobbo: Siya a beast with big…",
+          "summary": "John Dobson and Ruhan Nel hailed the impact that Siya Kolisi has already had on the Stormers, but his \"rugby contribution” is what the team needs in Edinburgh on Friday night. The post Dobbo: Siya a beast with big…",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SiyaKolisiStormers.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-01T15:24:40.000Z"
-        },
-        {
-          "title": "Sharks get Boks boost for Leinster showdown with Eben Etzebeth benched and Andre Esterhuizen captain",
-          "link": "https://www.planetrugby.com/news/sharks-get-boks-boost-for-leinster-showdown-etzebeth-benched-esterhuizen-captain",
-          "summary": "JP Pietersen has welcomed several Springboks back from international duty for the clash with Leinster.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/01155735/Sharks-stars-Andre-Esterhuizen-and-Thomas-du-Toit-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-01T15:07:02.000Z"
-        },
-        {
-          "title": "Bulls await ‘Angry Warthog’ return",
-          "link": "https://www.sarugbymag.co.za/bulls-await-angry-warthog-return/",
-          "summary": "Johan Ackermann has revealed when injured hooker Akker van der Merwe, and several Springbok reinforcements, could return to action for the Bulls. The post Bulls await ‘Angry Warthog’ return appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/01/Akker-van-der-Merwe-10-January-2026-Sydney-Seshibedi-Gallo-Images-e1768216843674.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-01T14:54:10.000Z"
-        },
-        {
-          "title": "Siya Kolisi to make second Stormers debut as John Dobson shifts his pack to make room for the Springboks captain",
-          "link": "https://www.planetrugby.com/news/siya-kolisi-to-make-second-stormers-debut-as-john-dobson-shifts-his-pack-to-make-room-for-the-springboks-captain",
-          "summary": "Siya Kolisi will make his second Stormers debut on Friday night against Edinburgh.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/01154102/Siya-Kolisi-and-Seabelo-Senatla-with-an-inset-of-Stormers-boss-John-Dobson-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-01T14:46:05.000Z"
-        },
-        {
-          "title": "Ackers backs Jacobs ‘power’ in midfield",
-          "link": "https://www.sarugbymag.co.za/ackers-backs-jacobs-power-in-midfield/",
-          "summary": "Bulls coach Johan Ackermann says he’s excited to see what Stravino Jacobs can do with more ball in hand against Munster in Limerick on Saturday. The post Ackers backs Jacobs ‘power’ in midfield appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Stravino-Jacobs-19-June-2026-Ramsey-Cardy-Getty-Images-e1790863688133.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-01T14:15:34.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Wanderers to host 2027 men's ODI World Cup final as well as India vs Pakistan",
+          "link": "https://www.cricinfo.com/ci/content/story/1556110.html?ex_cid=OTC-RSS",
+          "summary": "Newlands in Cape Town will host the opening game of the main round on October 7 with the tournament running through to November 21",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/371700/371729.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-10-01T18:23:46.000Z"
+        },
         {
           "title": "Maddinson, Harper added to Australia's Test squad in South Africa",
           "link": "https://www.cricinfo.com/ci/content/story/1556765.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/422900/422968.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-09-30T13:04:02.000Z"
-        },
-        {
-          "title": "Kohli closes in on Gill at the top of men's ODI batters' rankings",
-          "link": "https://www.cricinfo.com/ci/content/story/1556565.html?ex_cid=OTC-RSS",
-          "summary": "There were plenty of movement among bowlers too, with Keshav Maharaj now ranked third, Kuldeep Yadav fifth and Josh Hazlewood tenth",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423100/423143.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-30T10:15:22.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-01T16:03:03.637Z",
+    "generatedAt": "2026-10-01T19:02:44.246Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
