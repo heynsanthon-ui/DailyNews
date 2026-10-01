@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-09-30T19:04:57.190Z",
-  "edition": "Updated 21:04 SAST — Wed, 30 Sept",
+  "generatedAt": "2026-10-01T04:03:25.285Z",
+  "edition": "Morning Edition — Thu, 01 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Garry Kasparov Reportedly Warned Of Alleged Russian Assassination Plot In U.S.",
+          "link": "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
+          "summary": "The 13th World Chess Champion Garry Kasparov was warned by U.S. authorities this summer that he was the target of a plot to kill him and was placed under special protection, according to Spanish newspaper El Mundo,…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-09-30T19:16:09.000Z"
+        },
         {
           "title": "Turlov: Chess is massively undervalued",
           "link": "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-09-30T10:00:00.000Z"
-        },
-        {
-          "title": "Wesley Sews Up First Titled Tuesday Of 2026",
-          "link": "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
-          "summary": "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-09-30T06:03:34.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
-          "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
-          "summary": "For a third election in a row, a Bolsonaro family member is the leading right-wing contender for Brazil's presidency.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T18:48:32.000Z"
+          "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "summary": "One of her attorneys told the BBC that Pike, 50, was in hospital after two syringes of pentobarbital had been administered.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-01T04:01:32.000Z"
         },
         {
-          "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
-          "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
-          "summary": "Ronaldo did not play in Portugal’s 2-1 win over Norway ‌on Sunday and is now a doubt for the game against Denmark.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T18:39:04.000Z"
+          "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+          "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+          "summary": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258f/live/29e3fb10-bd31-11f1-8289-739a6d6f14cc.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-01T03:52:20.000Z"
         },
         {
-          "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
-          "summary": "Bangladesh’s health authorities report that at least 233 people have died from dengue fever.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T18:12:27.000Z"
+          "title": "Too early to say who was behind Dubai-Tel Aviv flight attack, Israeli PM says",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+          "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02c7/live/9c055220-bd4a-11f1-bc2e-018d645d8d21.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-01T03:43:06.000Z"
         },
         {
-          "title": "Strong indications’ Iran linked to suspected UK airbase plot",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-          "summary": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
+          "title": "AFCON 2027: East Africa races to get tournament-ready",
+          "link": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
+          "summary": "Kenya, Uganda and Tanzania have less than nine months to prepare for AFCON 2027.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T18:09:51.000Z"
+          "publishedAt": "2026-10-01T03:04:24.000Z"
         },
         {
-          "title": "Trump set to announce $200bn in energy investments from South Korea",
-          "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-          "summary": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races.",
+          "title": "US Supreme Court clears way for Christa Pike’s execution in Tennessee",
+          "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
+          "summary": "Top court's decision overturns last-minute stay that had stalled Tennessee's first execution of a woman in 200 years.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-09-30T18:01:14.000Z"
+          "publishedAt": "2026-10-01T02:35:59.000Z"
         }
       ]
     },
@@ -145,12 +145,12 @@
       "title": "Proteas",
       "articles": [
         {
-          "title": "Carey, Marsh hit fifties as Australia post 322",
+          "title": "Carey, Marsh, Zampa star as Australia win rain-affected finale",
           "link": "https://www.cricinfo.com/ci/content/story/1556645.html?ex_cid=OTC-RSS",
-          "summary": "Bosch takes four as South Africa limit the damage at the death",
+          "summary": "Bosch takes four but South Africa's bid for a 3-0 clean sweep comes unstuck at Potschefstroom",
           "image": "http://p.imgci.com/db/PICTURES/CMS/423200/423260.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-09-30T16:43:05.000Z"
+          "publishedAt": "2026-09-30T19:58:32.000Z"
         },
         {
           "title": "Markram-led South Africa make five changes and opt to bowl",
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-09-30T19:04:57.262Z",
+    "generatedAt": "2026-10-01T04:03:25.355Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 57m"
     },
     "forecast": [
-      {
-        "date": "2026-09-30",
-        "day": "Wed",
-        "dayOfMonth": 30,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-10-01",
         "day": "Thu",
         "dayOfMonth": 1,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-10-02",
@@ -1689,17 +1681,17 @@
         "date": "2026-10-03",
         "day": "Sat",
         "dayOfMonth": 3,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-10-04",
         "day": "Sun",
         "dayOfMonth": 4,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-05",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-07",
+        "day": "Wed",
+        "dayOfMonth": 7,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-04",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sat 3, 09:00–12:00"
+        "etr": "Sun 4, 09:00–12:00"
       }
     ],
     "reliability": {
@@ -1743,32 +1743,32 @@
       "avgOutageDurationHours": 4.3,
       "monthly": [
         {
-          "month": "Apr",
+          "month": "May",
           "unplannedHours": 5,
           "scheduledHours": 3
         },
         {
-          "month": "May",
+          "month": "Jun",
           "unplannedHours": 2,
           "scheduledHours": 4
         },
         {
-          "month": "Jun",
+          "month": "Jul",
           "unplannedHours": 8,
           "scheduledHours": 2
         },
         {
-          "month": "Jul",
+          "month": "Aug",
           "unplannedHours": 3,
           "scheduledHours": 5
         },
         {
-          "month": "Aug",
+          "month": "Sep",
           "unplannedHours": 6,
           "scheduledHours": 3
         },
         {
-          "month": "Sep",
+          "month": "Oct",
           "unplannedHours": 4,
           "scheduledHours": 4
         }
