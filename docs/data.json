@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T04:02:46.844Z",
-  "edition": "Morning Edition — Fri, 02 Oct",
+  "generatedAt": "2026-10-02T07:04:54.395Z",
+  "edition": "Updated 09:04 SAST — Fri, 02 Oct",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
-          "summary": "Massive US military deployment to the Middle East includes 50,000 troops, F-35s and Marines to pressure Tehran.",
+          "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-02T06:59:30.000Z"
+        },
+        {
+          "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
+          "link": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss",
+          "summary": "Judge Leibowitz's decision underscores state jurisdiction over voter qualifications.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T03:14:47.000Z"
+          "publishedAt": "2026-10-02T06:26:48.000Z"
         },
         {
-          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-          "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-02T03:09:13.000Z"
-        },
-        {
-          "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
-          "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
-          "summary": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
+          "title": "Greece pushes EU to suspend asylum during mass migration surges",
+          "link": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss",
+          "summary": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T02:54:13.000Z"
+          "publishedAt": "2026-10-02T06:16:14.000Z"
         },
         {
-          "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-          "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-          "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b91/live/ebf458a0-be01-11f1-abb3-a7ef3daa1887.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-02T02:49:44.000Z"
+          "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+          "link": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss",
+          "summary": "Brazilian president and opposition candidate snub the final debate ahead of the presidential election.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-02T06:09:57.000Z"
         },
         {
-          "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-          "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-          "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f59/live/796e6d30-be05-11f1-abb3-a7ef3daa1887.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-02T02:29:41.000Z"
+          "title": "Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal",
+          "link": "https://www.aljazeera.com/sports/2026/10/2/asian-games-aichi-nagoya-2026-boxing-taiwan-lin-yu-ting-gold?traffic_source=rss",
+          "summary": "Lin bags her second Asian Games gold medal, three years on from her success in Hangzhou in the 57kg class.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-02T06:03:19.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "‘Disappointed’ All Blacks are ‘better’ than the results as Dave Rennie wants New Zealand to ‘rectify’ their season after Springboks losses",
-          "link": "https://www.planetrugby.com/news/dave-rennie-disappointed-all-blacks-are-better-than-the-results",
-          "summary": "Head coach Dave Rennie believes that the All Blacks are better than their results against the Springboks suggest.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/01091502/All-Blacks-head-coach-Dave-Rennie-and-an-inset-of-Springboks-captain-Siya-Kolisi-1-120x120.jpg",
+          "title": "Building the future: ‘Data is the new oil’",
+          "link": "https://www.sarugbymag.co.za/building-the-future-data-is-the-new-oil/",
+          "summary": "SA Rugby general manager of participation and development Ian Schwartz chats to SA Rugby magazine about talent identification, transformation and growing the game. The post Building the future: ‘Data is the new oil’…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Ian-Schwartz-SA-Rugby-magazine-e1790921810921.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-02T06:23:44.000Z"
+        },
+        {
+          "title": "Ardie: Blues move ‘something beautiful’",
+          "link": "https://www.sarugbymag.co.za/ardie-blues-move-something-beautiful/",
+          "summary": "All Blacks captain Ardie Savea says joining the Blues will allow him to \"stay fresh\" ahead of the 2027 World Cup. The post Ardie: Blues move ‘something beautiful’ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/05/Ardie-Savea-17-May-2025-Hannah-Peters-Getty-Images-e1747729395973.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-02T05:59:16.000Z"
+        },
+        {
+          "title": "Springboks won’t ‘go away’ from defence structures despite high scores as Junior Boks boss identifies the major benefit",
+          "link": "https://www.planetrugby.com/news/springboks-wont-go-away-from-defence-structures-despite-high-scores",
+          "summary": "Two top coaches explain why the Springboks' defence isn't a problem.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/01110803/Max-Jorgensen-of-the-Wallabies-runs-into-score-against-the-Springboks-and-inset-of-Junior-Boks-coach-Kevin-Foote-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-10-01T18:56:41.000Z"
+          "publishedAt": "2026-10-02T05:55:28.000Z"
         },
         {
-          "title": "Keo & Zels: Why the great Dallaglio lauds golden Boks",
-          "link": "https://www.sarugbymag.co.za/keo-zels-great-dallaglio-lauds-golden-boks/",
-          "summary": "2003 World Cup-winning England No 8 Lawrence Dallaglio talks up the Boks, while the boys trumpet the Investec Champions Cup and this week's URC matchups. The post Keo & Zels: Why the great Dallaglio lauds golden Boks…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-01-at-3.22.57-PM.jpeg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-01T18:06:01.000Z"
+          "title": "Dave Rennie: ‘Springboks are beatable but you’ve got to be at your best’",
+          "link": "https://www.planetrugby.com/news/dave-rennie-springboks-are-beatable-but-youve-got-to-be-at-your-best",
+          "summary": "Dave Rennie says that teams need to be at their best to beat the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/01094250/Springboks-forward-Jasper-Wiese-is-tackled-by-two-All-Blacks-players-and-an-inset-of-head-coach-Dave-Rennie-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-02T05:35:16.000Z"
         },
         {
-          "title": "JP: Returning Boks keen to get stuck in",
-          "link": "https://www.sarugbymag.co.za/jp-returning-boks-keen-get-stuck/",
-          "summary": "Sharks coach JP Pietersen says his returning Springboks jumped at the chance to feature against defending champions Leinster at Kings Park on Saturday. The post JP: Returning Boks keen to get stuck in appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2627476-e1790874916996.jpg",
+          "title": "Bulls line up familiar face for Currie Cup",
+          "link": "https://www.sarugbymag.co.za/bulls-line-familiar-face-currie-cup/",
+          "summary": "One of South Africa's most experienced coaches is set to begin another stint with the Bulls. The post Bulls line up familiar face for Currie Cup appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Bulls-Currie-Cup-huddle-2026.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-01T17:15:57.000Z"
-        },
-        {
-          "title": "Why Gaza misses his shot at Edinburgh",
-          "link": "https://www.sarugbymag.co.za/gaza-misses-shot-edinburgh/",
-          "summary": "Fans should see the Stormers’ Bok stars back in action when the team returns home after an URC opening-round result that showed boss John Dobson what is possible. The post Why Gaza misses his shot at Edinburgh appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2573081-e1790872615580.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-01T16:56:50.000Z"
-        },
-        {
-          "title": "Dobbo: Siya a beast with big presence",
-          "link": "https://www.sarugbymag.co.za/dobbo-siya-beast-big-presence/",
-          "summary": "John Dobson and Ruhan Nel hail the impact that Siya Kolisi has already had on the Stormers, but his \"rugby contribution” is what the team needs in Edinburgh on Friday night. The post Dobbo: Siya a beast with big…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SiyaKolisiStormers.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-01T15:24:40.000Z"
+          "publishedAt": "2026-10-02T05:09:30.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-02T04:02:46.916Z",
+    "generatedAt": "2026-10-02T07:04:54.448Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 57m"
+      "label": "🟡 Planned Maintenance In 6h 55m"
     },
     "forecast": [
       {
