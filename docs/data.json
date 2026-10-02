@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-02T10:01:52.351Z",
-  "edition": "Updated 12:01 SAST — Fri, 02 Oct",
+  "generatedAt": "2026-10-02T13:05:08.236Z",
+  "edition": "Updated 15:05 SAST — Fri, 02 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Jon Speelman at 70: A leading figure of English chess",
+          "link": "https://en.chessbase.com/post/jon-speelman-70th-birthday",
+          "summary": "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-02T14:00:00.000Z"
+        },
         {
           "title": "Is Russia plotting to kill Kasparov?",
           "link": "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-10-01T21:00:00.000Z"
-        },
-        {
-          "title": "Behind the scenes in Samarkand: The Olympiad comes to a close",
-          "link": "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
-          "summary": "Arne Kähler shares impressions from the final moments in Samarkand: the start of the crucial matches Uzbekistan–Ukraine and India–Hungary in the last round, a blitz game against seven-year-old Uzbek talent…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-01T19:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "NBA closes sole Africa training academy in blow to young players",
-          "link": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
-          "summary": "NBA says its focus is on new global academy opening in Abu Dhabi as Africa, Mexico and Australia hit by closures.",
+          "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
+          "link": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
+          "summary": "As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T09:26:14.000Z"
+          "publishedAt": "2026-10-02T12:37:20.000Z"
         },
         {
-          "title": "Arab party leader forced to withdraw from Israeli elections",
-          "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
-          "summary": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+          "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+          "link": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
+          "summary": "Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T09:25:23.000Z"
+          "publishedAt": "2026-10-02T12:27:52.000Z"
         },
         {
-          "title": "Manchester City to launch appeal as financial breach fallout grows",
-          "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
-          "summary": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
+          "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+          "link": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
+          "summary": "Fines replace jail terms for first-time 'false news' offences under a decree rights groups say is still repressive.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T09:24:48.000Z"
+          "publishedAt": "2026-10-02T12:03:20.000Z"
         },
         {
-          "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
-          "summary": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T09:24:39.000Z"
-        },
-        {
-          "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-          "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-          "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg",
+          "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+          "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+          "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/861f/live/112640e0-bda1-11f1-babe-4199b0e7ccea.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-02T09:08:06.000Z"
+          "publishedAt": "2026-10-02T11:52:04.000Z"
+        },
+        {
+          "title": "What’s behind France’s school protests?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss",
+          "summary": "Many French schools are still closed as protests over learning conditions continue across the country.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-02T11:42:52.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "‘Brownie has Boks playing smarter’",
-          "link": "https://www.sarugbymag.co.za/brownie-boks-playing-smarter/",
-          "summary": "The Springboks’ aerial and attacking game has proved dangerous for New Zealand, former All Blacks star Ben Smith argues, and the Kiwis must adapt to it quickly. The post ‘Brownie has Boks playing smarter’ appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/2295508712-e1790931783304.jpg",
+          "title": "Superbru: Stormers edge Edinburgh, Sharks sink Leinster",
+          "link": "https://www.sarugbymag.co.za/superbru-stormers-edge-edinburgh-sharks-sink-leinster/",
+          "summary": "The Stormers make it two wins from two on tour, while the Sharks beat Leinster in Durban, according to the SA Rugby magazine team. The post Superbru: Stormers edge Edinburgh, Sharks sink Leinster appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/StormerscelebratetryinGalway.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T09:04:55.000Z"
+          "publishedAt": "2026-10-02T12:38:42.000Z"
         },
         {
-          "title": "Vusi focused on taking charge, not Leinster",
-          "link": "https://www.sarugbymag.co.za/vusi-focused-taking-charge-not-leinster/",
-          "summary": "Vusi Moyo says the Sharks are ready to tackle the defending URC champions on Saturday, as the young playmaker embraces a test that will gauge how far he has come. The post Vusi focused on taking charge, not Leinster…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2626775-e1790925084114.jpg",
+          "title": "URC champs copy Rassie",
+          "link": "https://www.sarugbymag.co.za/urc-champs-copy-rassie/",
+          "summary": "Leinster boss Leo Cullen has taken a page out of Rassie Erasmus’ playbook by hybridising a veteran member of the team ahead of Saturday’s match against the Sharks. The post URC champs copy Rassie appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Leinstertraining-e1790944966987.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T07:36:46.000Z"
+          "publishedAt": "2026-10-02T12:31:48.000Z"
         },
         {
-          "title": "Ben Smith: Springboks ‘manipulated’ the All Blacks in a part of the game that has become a lot harder than when I was playing",
-          "link": "https://www.planetrugby.com/news/ben-smith-credits-tony-brown-for-the-springboks-ability-to-manipulate-the-all-blacks",
-          "summary": "Legendary All Blacks full-back Ben Smith has hailed the tactical impact of Tony Brown during Rugby's Greatest Rivalry Series.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02082350/An-aerial-contest-between-the-Springboks-and-All-Blacks-with-an-inset-of-Ben-Smith-1-120x120.jpg",
+          "title": "Ex-Wallabies star’s ‘we needed that’ verdict on Springboks win that proved ‘rugby is still rising’ in Australia ahead of 2027 World Cup",
+          "link": "https://www.planetrugby.com/news/ex-wallabies-stars-we-needed-that-verdict-on-springboks-win-that-proved-rugby-is-still-rising-in-australia-ahead-of-2027-world-cup",
+          "summary": "Digby Ioane has revealed how the Wallabies' recent triumph against the Springboks has boosted rugby union in Australia.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02122008/Wallabies-and-Digby-Ioane-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-10-02T07:36:41.000Z"
+          "publishedAt": "2026-10-02T11:32:44.000Z"
         },
         {
-          "title": "Building the future: ‘Data is the new oil’",
-          "link": "https://www.sarugbymag.co.za/building-the-future-data-is-the-new-oil/",
-          "summary": "SA Rugby general manager of participation and development Ian Schwartz chats to SA Rugby magazine about talent identification, transformation and growing the game. The post Building the future: ‘Data is the new oil’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Ian-Schwartz-SA-Rugby-magazine-e1790921810921.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T06:23:44.000Z"
+          "title": "Siya Kolisi’s Springboks ‘sacrifice’ and why Stormers youngsters ‘respect’ the ‘humble’ superstar more",
+          "link": "https://www.planetrugby.com/news/springboks-siya-kolisis-sacrifice-and-why-stormers-youngsters-respect-him",
+          "summary": "After realising he wouldn't be involved in the Springboks' Test match against the Wallabies at the end of September, Siya Kolisi made a huge commitment to his new Stormers teammates.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02121542/Siya-Kolisi-and-Hlungwani-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-02T11:27:55.000Z"
         },
         {
-          "title": "Latsha back to lead Bok Women",
-          "link": "https://www.sarugbymag.co.za/latsha-back-to-lead-bok-women/",
-          "summary": "Babalwa Latsha returns as captain in one of three changes to the Springbok Women starting XV for Sunday’s Test against Spain Women in Seville. The post Latsha back to lead Bok Women appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Babalwa-Latsha-18-September-2026-Ryan-Hiscott-Getty-Images-e1790931195337.jpg",
+          "title": "Frans flips the Cheetahs script for finale",
+          "link": "https://www.sarugbymag.co.za/frans-flips-cheetahs-script-finale/",
+          "summary": "Head coach Frans Steyn has rejigged his starting XV for the Cheetahs' last outing of the Toyota Challenge against Georgia's Black Lion in Tbilisi on Sunday. The post Frans flips the Cheetahs script for finale appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2453704-e1790939375839.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T06:20:48.000Z"
+          "publishedAt": "2026-10-02T11:17:18.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "The 10-team tournament will be played in the window after the SA20 and before the IPL in 2027",
           "image": "http://p.imgci.com/db/PICTURES/CMS/401000/401097.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-02T09:53:18.000Z"
+          "publishedAt": "2026-10-02T09:59:58.000Z"
         },
         {
           "title": "'I pride myself on problem-solving' - Webster prepares for tough South Africa initiation",
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-02T10:01:52.422Z",
+    "generatedAt": "2026-10-02T13:05:08.281Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 58m"
+      "label": "🟡 Planned Maintenance In 55m"
     },
     "forecast": [
       {
