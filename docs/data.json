@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-01T19:02:44.193Z",
-  "edition": "Updated 21:02 SAST — Thu, 01 Oct",
+  "generatedAt": "2026-10-02T04:02:46.844Z",
+  "edition": "Morning Edition — Fri, 02 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Knight to October 8: Saint Louis to host America's chess elite",
+          "link": "https://en.chessbase.com/post/us-championships-2026-announcement",
+          "summary": "The 2026 U.S. and U.S. Women’s Chess Championships will take place at the Saint Louis Chess Club from 8 to 23 October, with 12-player fields and more than $400,000 in total prize money. Fabiano Caruana (pictured) will…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-02T02:00:00.000Z"
+        },
         {
           "title": "Afghan Olympiad participants arrested after returning home",
           "link": "https://en.chessbase.com/post/afghan-olympiad-participants-arrested",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-10-01T15:56:00.000Z"
-        },
-        {
-          "title": "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report",
-          "link": "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
-          "summary": "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-01T15:40:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Canada to fast track oil pipeline meant to diversify economy away from US",
-          "link": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
-          "summary": "Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.",
+          "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
+          "summary": "Massive US military deployment to the Middle East includes 50,000 troops, F-35s and Marines to pressure Tehran.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-01T18:56:06.000Z"
+          "publishedAt": "2026-10-02T03:14:47.000Z"
         },
         {
-          "title": "Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-          "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
+          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+          "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/4b4dfad0-be0d-11f1-92ea-016450691ea1.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-01T18:51:56.000Z"
+          "publishedAt": "2026-10-02T03:09:13.000Z"
         },
         {
-          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-01T18:48:46.000Z"
-        },
-        {
-          "title": "Fires break out at French schools as students protest nationwide",
-          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc55/live/287dd260-bd94-11f1-9a76-4118bb2c2e43.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-01T18:22:29.000Z"
-        },
-        {
-          "title": "School protests spread as fires, blockades deepen unrest in France",
-          "link": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
-          "summary": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
+          "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
+          "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
+          "summary": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-01T18:18:18.000Z"
+          "publishedAt": "2026-10-02T02:54:13.000Z"
+        },
+        {
+          "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+          "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+          "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b91/live/ebf458a0-be01-11f1-abb3-a7ef3daa1887.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-02T02:49:44.000Z"
+        },
+        {
+          "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+          "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+          "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f59/live/796e6d30-be05-11f1-abb3-a7ef3daa1887.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-02T02:29:41.000Z"
         }
       ]
     },
@@ -133,7 +133,7 @@
         {
           "title": "Dobbo: Siya a beast with big presence",
           "link": "https://www.sarugbymag.co.za/dobbo-siya-beast-big-presence/",
-          "summary": "John Dobson and Ruhan Nel hailed the impact that Siya Kolisi has already had on the Stormers, but his \"rugby contribution” is what the team needs in Edinburgh on Friday night. The post Dobbo: Siya a beast with big…",
+          "summary": "John Dobson and Ruhan Nel hail the impact that Siya Kolisi has already had on the Stormers, but his \"rugby contribution” is what the team needs in Edinburgh on Friday night. The post Dobbo: Siya a beast with big…",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/SiyaKolisiStormers.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-01T15:24:40.000Z"
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-01T19:02:44.246Z",
+    "generatedAt": "2026-10-02T04:02:46.916Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 57m"
     },
     "forecast": [
-      {
-        "date": "2026-10-01",
-        "day": "Thu",
-        "dayOfMonth": 1,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-10-02",
         "day": "Fri",
         "dayOfMonth": 2,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-10-03",
@@ -1689,17 +1681,17 @@
         "date": "2026-10-04",
         "day": "Sun",
         "dayOfMonth": 4,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-10-05",
         "day": "Mon",
         "dayOfMonth": 5,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-06",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-08",
+        "day": "Thu",
+        "dayOfMonth": 8,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-10-05",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sun 4, 09:00–12:00"
+        "etr": "Mon 5, 09:00–12:00"
       }
     ],
     "reliability": {
