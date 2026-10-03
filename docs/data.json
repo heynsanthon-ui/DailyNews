@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-10-02T19:03:42.333Z",
-  "edition": "Updated 21:03 SAST — Fri, 02 Oct",
+  "generatedAt": "2026-10-03T04:07:45.547Z",
+  "edition": "Morning Edition — Sat, 03 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Upcoming tournaments and events",
+          "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
+          "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them – focused…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-03T02:00:00.000Z"
+        },
+        {
+          "title": "Hy Nguyen, Maghsoodloo, Grischuk Take 3 0 Thursday Titles",
+          "link": "https://www.chess.com/news/view/hy-nguyen-maghsoodloo-grischuk-3-0-thursday-10-1-2026",
+          "summary": "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren't quite enough to win, as he took second on tiebreaks behind IM Quoc…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-10-03T01:51:34.000Z"
+        },
+        {
+          "title": "Bluebaum Takes First Freestyle Friday Of New Season",
+          "link": "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
+          "summary": "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-10-03T01:23:25.000Z"
+        },
         {
           "title": "Freestyle Friday Returns With World Championship Spots On The Line",
           "link": "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-10-02T14:00:00.000Z"
-        },
-        {
-          "title": "Is Russia plotting to kill Kasparov?",
-          "link": "https://en.chessbase.com/post/is-russia-plotting-to-kill-kasparov",
-          "summary": "Russia is hardly known for treating people in general, and political opponents in particular, with restraint. Lithuanian and US security services have now uncovered an alleged network of Russian operatives and saboteurs…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-02T11:54:31.000Z"
-        },
-        {
-          "title": "Nepo has dragon problems - The Monthly Dragon",
-          "link": "https://en.chessbase.com/post/woodward-s-unusual-classical-dragon-the-monthly-dragon-2",
-          "summary": "Chris Ward looks at two very different Dragon games, one from club level and one from the very top of the chess world. The first example shows how ambitious attacking ideas can lead to rich tactical positions, even when…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-02T10:00:00.000Z"
-        },
-        {
-          "title": "Knight to October 8: Saint Louis to host America's chess elite",
-          "link": "https://en.chessbase.com/post/us-championships-2026-announcement",
-          "summary": "The 2026 U.S. and U.S. Women’s Chess Championships will take place at the Saint Louis Chess Club from 8 to 23 October, with 12-player fields and more than $400,000 in total prize money. Fabiano Caruana (pictured) will…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-02T02:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-          "link": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-          "summary": "Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army's goal of cutting the RSF’s supply lines.",
+          "title": "India vs Pakistan live: Asian Games cricket final",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+          "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T18:51:54.000Z"
+          "publishedAt": "2026-10-03T03:30:31.000Z"
         },
         {
-          "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-          "link": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-          "summary": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
+          "title": "Dominican Republic bans Haiti from its stadiums after football fans clash",
+          "link": "https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss",
+          "summary": "Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T18:18:42.000Z"
+          "publishedAt": "2026-10-03T02:42:26.000Z"
         },
         {
-          "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-          "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-          "summary": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
+          "title": "Israeli air attack on Gaza City apartment kills at least five",
+          "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+          "summary": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T18:11:37.000Z"
+          "publishedAt": "2026-10-03T02:25:23.000Z"
         },
         {
-          "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-          "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
+          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+          "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-02T17:44:08.000Z"
+          "publishedAt": "2026-10-03T02:23:07.000Z"
         },
         {
-          "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-          "link": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
-          "summary": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
+          "title": "Schools ablaze as student protests spread across France",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+          "summary": "Students have set fire to schools and clashed with police as protests spread across France",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-02T17:43:30.000Z"
+          "publishedAt": "2026-10-03T01:46:10.000Z"
         }
       ]
     },
@@ -99,12 +99,36 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "LIVE: Edinburgh vs Stormers",
-          "link": "https://www.sarugbymag.co.za/live-edinburgh-vs-stormers-2/",
-          "summary": "Follow the live action as Edinburgh clash with the Stormers in round two of the 2026-27 #URC season. The post LIVE: Edinburgh vs Stormers appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Edinburgh-vs-Stormers-LIVE.jpg",
+          "title": "Dobbo disappointed with lineout malfunction",
+          "link": "https://www.sarugbymag.co.za/dobbo-disappointed-lineout-malfunction/",
+          "summary": "John Dobson singled out the Stormers’ inaccuracy from the side of the pitch in Edinburgh on Friday, as the Capetonians look to bounce back to winning ways next week. The post Dobbo disappointed with lineout malfunction…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Hacjicah-Dayimani-e1790978847731.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T18:20:38.000Z"
+          "publishedAt": "2026-10-02T22:25:55.000Z"
+        },
+        {
+          "title": "Edinburgh v Stormers: Five takeaways as ‘friendly-fire’ results in the ‘biggest turning point’ with ex-champions primed for Springboks boost",
+          "link": "https://www.planetrugby.com/news/edinburgh-17-13-stormers-five-takeaways-from-the-urc-round-two-clash",
+          "summary": "Five takeaways as Edinburgh go two-from-two to start the new season after beating the Stormers 17-13.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02230155/Stormers-hooker-Andre-Hugo-Venter-and-an-inset-of-James-Grayson-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-02T22:03:11.000Z"
+        },
+        {
+          "title": "Edinburgh edge Stormers at the Hive",
+          "link": "https://www.sarugbymag.co.za/edinburgh-edge-stormers-hive/",
+          "summary": "Two second-half converted tries for hosts Edinburgh denied Siya Kolisi a memorable Stormers return in a narrow defeat on Friday night in round two of the URC. The post Edinburgh edge Stormers at the Hive appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/StefanUngerervEdinburgh-e1790970546348.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-02T20:40:19.000Z"
+        },
+        {
+          "title": "Franco fears ‘elitist’ Euro revamp",
+          "link": "https://www.sarugbymag.co.za/franco-fears-elitist-euro-revamp/",
+          "summary": "Glasgow Warriors coach Franco Smith has warned that reducing the number of Investec Champions Cup teams from 24 to 16 could widen the financial gap between URC and French clubs. The post Franco fears ‘elitist’ Euro…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/10/Franco-Smith-11-April-2025-Charles-McQuillan-Getty-Images-e1761224774581.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-02T19:41:50.000Z"
         },
         {
           "title": "Irish legend: Rassie hurt me",
@@ -113,30 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Rassie-Erasmus-Peter-O-Mahony-26-May-2017-Sam-Barnes-Sportsfile-via-Getty-Images-e1790953032371.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-02T15:31:30.000Z"
-        },
-        {
-          "title": "Munster veteran’s forthright view on South Africa’s addition to URC and his ‘money well spent’ hope for fans",
-          "link": "https://www.planetrugby.com/news/munster-veterans-forthright-view-on-south-africas-addition-to-urc-and-his-money-well-spent-hope-for-fans",
-          "summary": "One of the URC's most seasoned campaigners has described the South African opposition in the competition as \"a great addition\".",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02155249/Munster-fly-half-JJ-Hanrahan-on-South-Africas-addition-to-URC-Alamy-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-02T15:04:00.000Z"
-        },
-        {
-          "title": "Ospreys challenge a ‘clean slate’ for Lions",
-          "link": "https://www.sarugbymag.co.za/ospreys-challenge-clean-state-lions/",
-          "summary": "Defence coach Jaque Fourie says the Lions must be switched on for 80 minutes at Ellis Park on Saturday, following last week’s narrow win over the URC champions. The post Ospreys challenge a ‘clean slate’ for Lions…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2626908-e1790951393625.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T14:53:46.000Z"
-        },
-        {
-          "title": "Superbru: Stormers edge Edinburgh, Sharks sink Leinster",
-          "link": "https://www.sarugbymag.co.za/superbru-stormers-edge-edinburgh-sharks-sink-leinster/",
-          "summary": "The Stormers make it two wins from two on tour, while the Sharks beat Leinster in Durban, according to the SA Rugby magazine team. The post Superbru: Stormers edge Edinburgh, Sharks sink Leinster appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/StormerscelebratetryinGalway.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T12:38:42.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "Gayle previously held the record for his 175* in IPL 2013",
           "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419571.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-02T18:49:44.000Z"
+          "publishedAt": "2026-10-03T03:34:58.000Z"
         },
         {
           "title": "Keith Dudgeon joins Sussex on two-year deal",
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-02T19:03:42.408Z",
+    "generatedAt": "2026-10-03T04:07:45.616Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 9h 52m"
     },
     "forecast": [
-      {
-        "date": "2026-10-02",
-        "day": "Fri",
-        "dayOfMonth": 2,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-10-03",
         "day": "Sat",
         "dayOfMonth": 3,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-10-04",
@@ -1689,17 +1681,17 @@
         "date": "2026-10-05",
         "day": "Mon",
         "dayOfMonth": 5,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-10-06",
         "day": "Tue",
         "dayOfMonth": 6,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-10-07",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-10-09",
+        "day": "Fri",
+        "dayOfMonth": 9,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-10-02",
+        "date": "2026-10-03",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-03",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-06",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Mon 5, 09:00–12:00"
+        "etr": "Tue 6, 09:00–12:00"
       }
     ],
     "reliability": {
