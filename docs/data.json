@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T07:09:16.407Z",
-  "edition": "Updated 09:09 SAST — Sat, 03 Oct",
+  "generatedAt": "2026-10-03T10:01:36.033Z",
+  "edition": "Updated 12:01 SAST — Sat, 03 Oct",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
-          "summary": "US singer Zach Bryan wore a ‘Free Palestine’ shirt while performing at Gillette Stadium, owned by Robert Kraft.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T06:53:09.000Z"
-        },
-        {
-          "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
-          "link": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
-          "summary": "Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T06:51:09.000Z"
-        },
-        {
-          "title": "India vs Pakistan live: Asian Games cricket final",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-          "summary": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T06:37:31.000Z"
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-03T10:00:04.000Z"
         },
         {
           "title": "Russia strikes second major bridge in Kyiv, mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "summary": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+          "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-03T06:27:15.000Z"
+          "publishedAt": "2026-10-03T09:53:16.000Z"
         },
         {
-          "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
-          "link": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
-          "summary": "Probe ⁠under way to ​determine 'all the ⁠circumstances', including motive, UAE's prosecutor general says.",
+          "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+          "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+          "summary": "Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T06:16:47.000Z"
+          "publishedAt": "2026-10-03T09:27:38.000Z"
+        },
+        {
+          "title": "Who is the mystery co-pilot behind the Flydubai attack?",
+          "link": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss",
+          "summary": "Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-03T09:25:31.000Z"
+        },
+        {
+          "title": "Kim wins Asian Games gold to secure military exemption",
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+          "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ce/live/86c8b370-beee-11f1-8fc0-833897bb0a69.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-03T08:51:14.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Hansen calls for referee ‘transparency’",
+          "link": "https://www.sarugbymag.co.za/hansen-calls-referee-transparency/",
+          "summary": "Steve Hansen has urged World Rugby to improve communication around refereeing decisions and make officials more accessible to the rugby public. The post Hansen calls for referee ‘transparency’ appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Andrea-Piardi-referee-27-September-2026-Janelle-St-Pierre-Getty-Images-e1791017640201.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-03T08:56:39.000Z"
+        },
+        {
+          "title": "‘Let’s play rugby and let’s go and box afterwards’ – Os du Randt on the three differences between the amateur and professional game",
+          "link": "https://www.planetrugby.com/news/lets-play-rugby-and-lets-go-and-box-afterwards-os-du-randt-on-the-three-differences-between-the-amateur-and-professional-game",
+          "summary": "Former Springbok prop Os du Randt has named three ways rugby has changed since becoming professional in 1995.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02135416/Os-du-randt-and-john-smit-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-03T08:31:15.000Z"
+        },
         {
           "title": "Richie wary of Wallabies threat",
           "link": "https://www.sarugbymag.co.za/richie-wary-wallabies-threat/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Edinburgh-Stormers-2-October-2026-Mark-Scates-SNS-Group-via-Getty-Images-e1791002624706.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-03T04:54:05.000Z"
-        },
-        {
-          "title": "Dobbo disappointed with lineout malfunction",
-          "link": "https://www.sarugbymag.co.za/dobbo-disappointed-lineout-malfunction/",
-          "summary": "John Dobson singled out the Stormers’ inaccuracy from the side of the pitch in Edinburgh on Friday, as the Capetonians look to bounce back to winning ways next week. The post Dobbo disappointed with lineout malfunction…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Hacjicah-Dayimani-e1790978847731.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T22:25:55.000Z"
-        },
-        {
-          "title": "Edinburgh v Stormers: Five takeaways as ‘friendly-fire’ results in the ‘biggest turning point’ with ex-champions primed for Springboks boost",
-          "link": "https://www.planetrugby.com/news/edinburgh-17-13-stormers-five-takeaways-from-the-urc-round-two-clash",
-          "summary": "Five takeaways as Edinburgh go two-from-two to start the new season after beating the Stormers 17-13.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02230155/Stormers-hooker-Andre-Hugo-Venter-and-an-inset-of-James-Grayson-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-02T22:03:11.000Z"
         }
       ]
     },
@@ -145,12 +145,20 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "De Zorzi out of SA's series opener against Australia with hamstring niggle",
+          "link": "https://www.cricinfo.com/ci/content/story/1557026.html?ex_cid=OTC-RSS",
+          "summary": "Ackerman could debut for SA in Durban with de Zorzi unavailable",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/409700/409739.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-10-03T09:30:34.000Z"
+        },
+        {
           "title": "Pretorius 188* breaks Gayle's record for highest T20 score",
           "link": "https://www.cricinfo.com/ci/content/story/1556955.html?ex_cid=OTC-RSS",
           "summary": "Gayle previously held the record for his 175* in IPL 2013",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419571.jpg",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423300/423348.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-03T06:36:47.000Z"
+          "publishedAt": "2026-10-03T09:19:46.000Z"
         },
         {
           "title": "Keith Dudgeon joins Sussex on two-year deal",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/401000/401097.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-10-02T09:59:58.000Z"
-        },
-        {
-          "title": "'I pride myself on problem-solving' - Webster prepares for tough South Africa initiation",
-          "link": "https://www.cricinfo.com/ci/content/story/1556900.html?ex_cid=OTC-RSS",
-          "summary": "With Cameron Green a potentially doubtful starter at Kingsmead, Webster's adaptability may have to come to the fore",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/421300/421376.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-02T07:53:48.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-03T07:09:16.462Z",
+    "generatedAt": "2026-10-03T10:01:36.095Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 51m"
+      "label": "🟡 Planned Maintenance In 3h 58m"
     },
     "forecast": [
       {
