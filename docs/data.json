@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T04:07:45.547Z",
-  "edition": "Morning Edition — Sat, 03 Oct",
+  "generatedAt": "2026-10-03T07:09:16.407Z",
+  "edition": "Updated 09:09 SAST — Sat, 03 Oct",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
+          "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
+          "summary": "US singer Zach Bryan wore a ‘Free Palestine’ shirt while performing at Gillette Stadium, owned by Robert Kraft.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-03T06:53:09.000Z"
+        },
+        {
+          "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+          "link": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+          "summary": "Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-03T06:51:09.000Z"
+        },
+        {
           "title": "India vs Pakistan live: Asian Games cricket final",
           "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-          "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
+          "summary": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T03:30:31.000Z"
+          "publishedAt": "2026-10-03T06:37:31.000Z"
         },
         {
-          "title": "Dominican Republic bans Haiti from its stadiums after football fans clash",
-          "link": "https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss",
-          "summary": "Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T02:42:26.000Z"
-        },
-        {
-          "title": "Israeli air attack on Gaza City apartment kills at least five",
-          "link": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
-          "summary": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T02:25:23.000Z"
-        },
-        {
-          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-          "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg",
+          "title": "Russia strikes second major bridge in Kyiv, mayor says",
+          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+          "summary": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-03T02:23:07.000Z"
+          "publishedAt": "2026-10-03T06:27:15.000Z"
         },
         {
-          "title": "Schools ablaze as student protests spread across France",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
-          "summary": "Students have set fire to schools and clashed with police as protests spread across France",
+          "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
+          "link": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+          "summary": "Probe ⁠under way to ​determine 'all the ⁠circumstances', including motive, UAE's prosecutor general says.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T01:46:10.000Z"
+          "publishedAt": "2026-10-03T06:16:47.000Z"
         }
       ]
     },
@@ -98,6 +98,30 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Richie wary of Wallabies threat",
+          "link": "https://www.sarugbymag.co.za/richie-wary-wallabies-threat/",
+          "summary": "All Blacks flyhalf Richie Mo’unga expects the Wallabies to have \"grown an arm and a leg\" after their win against the Springboks. The post Richie wary of Wallabies threat appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Richie-Mounga-12-September-2026-Caean-Couto-Getty-Images-e1791006096133.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-03T05:43:22.000Z"
+        },
+        {
+          "title": "Griquas eye more silverware",
+          "link": "https://www.sarugbymag.co.za/griquas-eye-more-silverware/",
+          "summary": "Coach Pieter Bergh has made eight changes to the Griquas starting XV for their final Tbilisi Cup match against Spain’s Iberians on Sunday. The post Griquas eye more silverware appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Griquas-lineout-24-Sep-226-e1791004682210.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-03T05:19:23.000Z"
+        },
+        {
+          "title": "Everitt: Lineout got us over line",
+          "link": "https://www.sarugbymag.co.za/everitt-lineout-got-us-line/",
+          "summary": "Edinburgh coach Sean Everitt credited flank Liam McConnell for disrupting the Stormers lineout at Hive Stadium on Friday night. The post Everitt: Lineout got us over line appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Edinburgh-Stormers-2-October-2026-Mark-Scates-SNS-Group-via-Getty-Images-e1791002624706.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-03T04:54:05.000Z"
+        },
         {
           "title": "Dobbo disappointed with lineout malfunction",
           "link": "https://www.sarugbymag.co.za/dobbo-disappointed-lineout-malfunction/",
@@ -113,30 +137,6 @@
           "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/02230155/Stormers-hooker-Andre-Hugo-Venter-and-an-inset-of-James-Grayson-1-120x120.jpg",
           "source": "Planet Rugby",
           "publishedAt": "2026-10-02T22:03:11.000Z"
-        },
-        {
-          "title": "Edinburgh edge Stormers at the Hive",
-          "link": "https://www.sarugbymag.co.za/edinburgh-edge-stormers-hive/",
-          "summary": "Two second-half converted tries for hosts Edinburgh denied Siya Kolisi a memorable Stormers return in a narrow defeat on Friday night in round two of the URC. The post Edinburgh edge Stormers at the Hive appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/StefanUngerervEdinburgh-e1790970546348.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T20:40:19.000Z"
-        },
-        {
-          "title": "Franco fears ‘elitist’ Euro revamp",
-          "link": "https://www.sarugbymag.co.za/franco-fears-elitist-euro-revamp/",
-          "summary": "Glasgow Warriors coach Franco Smith has warned that reducing the number of Investec Champions Cup teams from 24 to 16 could widen the financial gap between URC and French clubs. The post Franco fears ‘elitist’ Euro…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/10/Franco-Smith-11-April-2025-Charles-McQuillan-Getty-Images-e1761224774581.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T19:41:50.000Z"
-        },
-        {
-          "title": "Irish legend: Rassie hurt me",
-          "link": "https://www.sarugbymag.co.za/irish-legend-rassie-hurt/",
-          "summary": "Former Ireland flank Peter O’Mahony has revealed why Rassie Erasmus’ departure from Munster hit him so hard. The post Irish legend: Rassie hurt me appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Rassie-Erasmus-Peter-O-Mahony-26-May-2017-Sam-Barnes-Sportsfile-via-Getty-Images-e1790953032371.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-02T15:31:30.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "Gayle previously held the record for his 175* in IPL 2013",
           "image": "http://p.imgci.com/db/PICTURES/CMS/419500/419571.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-03T03:34:58.000Z"
+          "publishedAt": "2026-10-03T06:36:47.000Z"
         },
         {
           "title": "Keith Dudgeon joins Sussex on two-year deal",
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-03T04:07:45.616Z",
+    "generatedAt": "2026-10-03T07:09:16.462Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 9h 52m"
+      "label": "🟡 Planned Maintenance In 6h 51m"
     },
     "forecast": [
       {
