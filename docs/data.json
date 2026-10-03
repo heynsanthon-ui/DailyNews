@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-10-03T10:01:36.033Z",
-  "edition": "Updated 12:01 SAST — Sat, 03 Oct",
+  "generatedAt": "2026-10-03T17:57:05.833Z",
+  "edition": "Updated 19:57 SAST — Sat, 03 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
+          "link": "https://en.chessbase.com/post/global-chess-festival-2026-report",
+          "summary": "The 12th Judit Polgar Global Chess Festival took place at the Hungarian National Gallery in Budapest, with critical thinking as the central theme of its 2026 edition. The programme combined chess with education,…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-03T17:00:00.000Z"
+        },
+        {
+          "title": "Awonder Liang Invincible At Seirawan Chess, The Complex Variant",
+          "link": "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
+          "summary": "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-10-03T15:21:01.000Z"
+        },
+        {
+          "title": "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
+          "link": "https://en.chessbase.com/post/wstc-2026-european-stage-final",
+          "summary": "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-03T14:15:00.000Z"
+        },
         {
           "title": "Upcoming tournaments and events",
           "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-10-03T01:51:34.000Z"
-        },
-        {
-          "title": "Bluebaum Takes First Freestyle Friday Of New Season",
-          "link": "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
-          "summary": "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-03T01:23:25.000Z"
-        },
-        {
-          "title": "Freestyle Friday Returns With World Championship Spots On The Line",
-          "link": "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
-          "summary": "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December's knockout finals, which…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-02T15:00:00.000Z"
-        },
-        {
-          "title": "Jon Speelman at 70: A leading figure of English chess",
-          "link": "https://en.chessbase.com/post/jon-speelman-70th-birthday",
-          "summary": "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-02T14:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-03T10:00:04.000Z"
+          "publishedAt": "2026-10-03T17:48:42.000Z"
         },
         {
-          "title": "Russia strikes second major bridge in Kyiv, mayor says",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-03T09:53:16.000Z"
-        },
-        {
-          "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-          "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
-          "summary": "Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.",
+          "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
+          "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
+          "summary": "The state's governor said Frank Strada would step down as an independent review examines what went wrong.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T09:27:38.000Z"
+          "publishedAt": "2026-10-03T17:31:54.000Z"
         },
         {
-          "title": "Who is the mystery co-pilot behind the Flydubai attack?",
-          "link": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss",
-          "summary": "Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.",
+          "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+          "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+          "summary": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-03T09:25:31.000Z"
+          "publishedAt": "2026-10-03T17:25:28.000Z"
         },
         {
-          "title": "Kim wins Asian Games gold to secure military exemption",
-          "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-          "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ce/live/86c8b370-beee-11f1-8fc0-833897bb0a69.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-03T08:51:14.000Z"
+          "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+          "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+          "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-03T16:25:03.000Z"
+        },
+        {
+          "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+          "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-03T16:17:23.000Z"
         }
       ]
     },
@@ -98,6 +98,22 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "LIVE: Sharks vs Leinster",
+          "link": "https://www.sarugbymag.co.za/live-sharks-vs-leinster-3/",
+          "summary": "Follow the live action as the Sharks clash with Leinster at Kings Park. #URC The post LIVE: Sharks vs Leinster appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Sharks-vs-Leinster-LIVE.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-03T16:10:16.000Z"
+        },
+        {
+          "title": "Six-try Lions sink Ospreys",
+          "link": "https://www.sarugbymag.co.za/six-try-lions-sink-ospreys/",
+          "summary": "The Lions ran riot in the second half of Saturday's URC match against the Ospreys at Ellis Park to claim a bonus-point win. The post Six-try Lions sink Ospreys appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2627977-e1791034445298.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-03T14:11:27.000Z"
+        },
         {
           "title": "Hansen calls for referee ‘transparency’",
           "link": "https://www.sarugbymag.co.za/hansen-calls-referee-transparency/",
@@ -121,22 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Richie-Mounga-12-September-2026-Caean-Couto-Getty-Images-e1791006096133.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-03T05:43:22.000Z"
-        },
-        {
-          "title": "Griquas eye more silverware",
-          "link": "https://www.sarugbymag.co.za/griquas-eye-more-silverware/",
-          "summary": "Coach Pieter Bergh has made eight changes to the Griquas starting XV for their final Tbilisi Cup match against Spain’s Iberians on Sunday. The post Griquas eye more silverware appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Griquas-lineout-24-Sep-226-e1791004682210.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-03T05:19:23.000Z"
-        },
-        {
-          "title": "Everitt: Lineout got us over line",
-          "link": "https://www.sarugbymag.co.za/everitt-lineout-got-us-line/",
-          "summary": "Edinburgh coach Sean Everitt credited flank Liam McConnell for disrupting the Stormers lineout at Hive Stadium on Friday night. The post Everitt: Lineout got us over line appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Edinburgh-Stormers-2-October-2026-Mark-Scates-SNS-Group-via-Getty-Images-e1791002624706.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-03T04:54:05.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Brand goes big as Australia flip through Test plans",
+          "link": "https://www.cricinfo.com/ci/content/story/1557077.html?ex_cid=OTC-RSS",
+          "summary": "None of the five frontline pacers bowled over ten overs, Green did not feature, and Renshaw's recovery saw positive signs",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/375900/375999.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-10-03T17:08:32.000Z"
+        },
+        {
+          "title": "Puducherry to Potch: Harper's rapid rise to Australia's Test squad",
+          "link": "https://www.cricinfo.com/ci/content/story/1557051.html?ex_cid=OTC-RSS",
+          "summary": "The Victoria wicketkeeper arrived in South Africa late Friday after being called up as a replacement for Josh Inglis",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414858.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-10-03T12:19:34.000Z"
+        },
         {
           "title": "De Zorzi out of SA's series opener against Australia with hamstring niggle",
           "link": "https://www.cricinfo.com/ci/content/story/1557026.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/422000/422093.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-10-02T16:52:01.000Z"
-        },
-        {
-          "title": "Malibongwe Maketa named Bangladesh men's assistant coach",
-          "link": "https://www.cricinfo.com/ci/content/story/1556941.html?ex_cid=OTC-RSS",
-          "summary": "Cricinfo has learned that Maketa has been hired with BCB's focus on the two South Africa tours in the next 12 months",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/348600/348639.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-02T14:56:33.000Z"
-        },
-        {
-          "title": "South Africa, Namibia to co-host World Cup Qualifiers from February 26 to March 21",
-          "link": "https://www.cricinfo.com/ci/content/story/1556911.html?ex_cid=OTC-RSS",
-          "summary": "The 10-team tournament will be played in the window after the SA20 and before the IPL in 2027",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/401000/401097.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-02T09:59:58.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-03T10:01:36.095Z",
+    "generatedAt": "2026-10-03T17:57:05.908Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 58m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
