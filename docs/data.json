@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-04T14:59:38.613Z",
-  "edition": "Updated 16:59 SAST — Sun, 04 Oct",
+  "generatedAt": "2026-10-04T20:48:37.789Z",
+  "edition": "Updated 22:48 SAST — Sun, 04 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Jon Speelman: Miniatures in Samarkand",
+          "link": "https://en.chessbase.com/post/speelman-agony-244",
+          "summary": "Jon Speelman looks back at the Samarkand Olympiad through a selection of short decisive games from the open section. From nearly 9,000 games played across the event, he filters out miniatures of 25 moves or fewer…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-04T22:10:00.000Z"
+        },
+        {
+          "title": "From the Olympiad to the Mediterranean: Titled stars head to the Sahel Chess Festival",
+          "link": "https://en.chessbase.com/post/sahel-chess-festival-2026-preview-2",
+          "summary": "The Sahel Chess Festival returns to Monastir from 24 October to 1 November, with around 300 players expected to compete at the Hotel El Habib on Tunisia’s Mediterranean coast. The field already includes GMs Titas…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-04T19:00:00.000Z"
+        },
         {
           "title": "Evren Ucok and the case for chess in developing young minds",
           "link": "https://en.chessbase.com/post/evren-ucok-syoung-minds",
@@ -28,23 +44,7 @@
           "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-10-04T04:30:45.000Z"
-        },
-        {
-          "title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
-          "link": "https://en.chessbase.com/post/global-chess-festival-2026-report",
-          "summary": "The 12th Judit Polgar Global Chess Festival took place at the Hungarian National Gallery in Budapest, with critical thinking as the central theme of its 2026 edition. The programme combined chess with education,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-03T17:00:00.000Z"
-        },
-        {
-          "title": "Awonder Liang Invincible At Seirawan Chess, The Complex Variant",
-          "link": "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
-          "summary": "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-03T15:21:01.000Z"
+          "publishedAt": "2026-10-04T04:30:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-          "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-          "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-04T14:36:57.000Z"
-        },
-        {
-          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-          "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-04T14:25:32.000Z"
-        },
-        {
-          "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-          "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-04T14:24:56.000Z"
-        },
-        {
-          "title": "Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?",
-          "link": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
-          "summary": "Bosnian Serb leader's controversial comments ahead of Bosnia and Herzegovina's high-stakes elections.",
+          "title": "Debris found near Nantucket believed to be from missing medical plane",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+          "summary": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T14:21:20.000Z"
+          "publishedAt": "2026-10-04T20:21:09.000Z"
         },
         {
-          "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
-          "link": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
-          "summary": "Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.",
+          "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+          "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
+          "source": "BBC News",
+          "publishedAt": "2026-10-04T20:14:49.000Z"
+        },
+        {
+          "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+          "summary": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T13:42:16.000Z"
+          "publishedAt": "2026-10-04T20:00:05.000Z"
+        },
+        {
+          "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+          "summary": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-04T19:53:55.000Z"
+        },
+        {
+          "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+          "summary": "Balkan nation seeks EU membership, but divisions threaten that goal.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-04T19:46:34.000Z"
         }
       ]
     },
@@ -98,6 +98,14 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "All Blacks ‘committed’ to tactics as Dave Rennie backs high-ball despite failures against the Springboks",
+          "link": "https://www.planetrugby.com/news/dave-rennie-all-blacks-committed-to-high-ball-tactics",
+          "summary": "Dave Rennie says that the All Blacks won't ditch their aerial game tactics.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/04112640/Jordie-Barrett-competes-for-possession-with-Springboks-winger-Cheslin-Kolbe-and-an-inset-of-All-Blacks-boss-Dave-Rennie-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-04T18:29:51.000Z"
+        },
         {
           "title": "Rennie relentless about ‘sideways’ Boks",
           "link": "https://www.sarugbymag.co.za/rennie-relentless-sideways-boks/",
@@ -129,14 +137,6 @@
           "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/04081835/Jake-White-and-an-inset-of-Warren-Gatland-1-120x120.jpg",
           "source": "Planet Rugby",
           "publishedAt": "2026-10-04T07:19:21.000Z"
-        },
-        {
-          "title": "Jake set for Test rugby return",
-          "link": "https://www.sarugbymag.co.za/jake-set-for-test-rugby-return/",
-          "summary": "2007 World Cup-winning Springbok coach Jake White is in contention to coach a team at next year’s global showpiece in Australia. The post Jake set for Test rugby return appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2024/10/2157034513-e1750737351138.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-04T05:07:14.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Labuschagne scores century in low-intensity Potchefstroom warm-up",
+          "link": "https://www.cricinfo.com/ci/content/story/1557128.html?ex_cid=OTC-RSS",
+          "summary": "He appears certain to retain his spot at No. 3 for the opening Test against South Africa in Durban next week",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/420700/420784.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-10-04T15:10:10.000Z"
+        },
         {
           "title": "Nortje: 'I'll be very excited if I can put my Test cap on again'",
           "link": "https://www.cricinfo.com/ci/content/story/1557119.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/409700/409739.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-10-03T09:30:34.000Z"
-        },
-        {
-          "title": "Pretorius 188* breaks Gayle's record for highest T20 score",
-          "link": "https://www.cricinfo.com/ci/content/story/1556955.html?ex_cid=OTC-RSS",
-          "summary": "Gayle previously held the record for his 175* in IPL 2013",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/423300/423348.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-03T09:19:46.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-04T14:59:38.685Z",
+    "generatedAt": "2026-10-04T20:48:37.842Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
