@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-04T02:23:58.976Z",
+  "generatedAt": "2026-10-04T05:35:20.842Z",
   "edition": "Morning Edition — Sun, 04 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
+          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
+          "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-10-04T04:30:45.000Z"
+        },
         {
           "title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
           "link": "https://en.chessbase.com/post/global-chess-festival-2026-report",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-10-03T02:00:00.000Z"
-        },
-        {
-          "title": "Hy Nguyen, Maghsoodloo, Grischuk Take 3 0 Thursday Titles",
-          "link": "https://www.chess.com/news/view/hy-nguyen-maghsoodloo-grischuk-3-0-thursday-10-1-2026",
-          "summary": "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren't quite enough to win, as he took second on tiebreaks behind IM Quoc…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-03T01:51:34.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-          "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
+          "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+          "summary": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-04T05:00:40.000Z"
+        },
+        {
+          "title": "Bosnia general election 2026 explained in maps and charts",
+          "link": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
+          "summary": "Bosnians head to the polls on October 4. Here’s a quick guide to the voting process, candidates and what's at stake.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-04T04:58:50.000Z"
+        },
+        {
+          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-04T02:04:11.000Z"
+          "publishedAt": "2026-10-04T04:57:20.000Z"
         },
         {
-          "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
-          "link": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
-          "summary": "Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T01:55:46.000Z"
+          "title": "Rare tornado whips through small Australian town",
+          "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+          "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd5/live/6547a0c0-bfa8-11f1-bc2e-018d645d8d21.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-04T04:15:36.000Z"
         },
         {
-          "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
-          "summary": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
+          "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+          "link": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
+          "summary": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T01:41:28.000Z"
-        },
-        {
-          "title": "Cornell president vows transparency amid outrage over fraternity rape case",
-          "link": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss",
-          "summary": "Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T01:15:58.000Z"
-        },
-        {
-          "title": "Serbian populist leader Vucic launches campaign for prime minister",
-          "link": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
-          "summary": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T00:26:22.000Z"
+          "publishedAt": "2026-10-04T04:10:17.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Rookie 10 tortures Bulls",
-          "link": "https://www.sarugbymag.co.za/rookie-10-tortures-bulls/",
-          "summary": "Twenty-year-old flyhalf Charlie O’Shea scored two tries and created another as Munster beat the Bulls in Limerick on Saturday night. The post Rookie 10 tortures Bulls appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Charlie-OShea-3-Oct-2026-Brendan-Moran-Sportsfile-via-Getty-Images-e1791059301683.jpg",
+          "title": "Jake set for Test rugby return",
+          "link": "https://www.sarugbymag.co.za/jake-set-for-test-rugby-return/",
+          "summary": "2007 World Cup-winning Springbok coach Jake White is in contention to coach a team at next year’s global showpiece in Australia. The post Jake set for Test rugby return appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2024/10/2157034513-e1750737351138.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-03T20:30:26.000Z"
+          "publishedAt": "2026-10-04T05:07:14.000Z"
         },
         {
-          "title": "Sharks v Leinster: Five takeaways as Springboks stars ‘at the forefront’ of hosts’ onslaught in memorable win over champions",
-          "link": "https://www.planetrugby.com/news/sharks-v-leinster-five-takeaways-as-springboks-stars-at-the-forefront-of-hosts-onslaught-in-memorable-win-over-champions",
-          "summary": "Our five takeaways from the Sharks' 26-20 victory over Leinster in their United Rugby Championship clash in Durban on Saturday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/03205943/Sam-Prendergast-and-Edwill-van-der-Merwe-image-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-03T20:12:56.000Z"
-        },
-        {
-          "title": "Glasgow v Ulster: Five takeaways as second-half ‘card thriller’ ends with ‘Springbok hopeful’ securing a draw",
-          "link": "https://www.planetrugby.com/news/glasgow-v-ulster-five-takeaways-as-second-half-card-thriller-ends-with-springbok-hopeful-securing-a-draw",
-          "summary": "Following a rollicking 33-33 draw in Saturday evening’s URC fixture at Scotstoun, Planet Rugby selects five takeaways from the round two action featuring Glasgow and Ulster.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/03210542/Inset-Top-Right-2026-10-03T210527.758-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-03T20:09:45.000Z"
-        },
-        {
-          "title": "Stuttering JP proud of ‘unreal scenes’",
-          "link": "https://www.sarugbymag.co.za/stuttering-jp-proud-unreal-scenes/",
-          "summary": "JP Pietersen enjoyed watching the Sharks beat the defending URC champions at Kings Park on Saturday, but the coach is aware another “beast” awaits in Cape Town next week. The post Stuttering JP proud of ‘unreal scenes’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2628218-e1791056359285.jpg",
+          "title": "Bulls borrow Currie Cup champ",
+          "link": "https://www.sarugbymag.co.za/bulls-borrow-currie-cup-champ/",
+          "summary": "Bulls head coach Johan Ackermann has reportedly acquired the services of a standout Griquas back on loan. The post Bulls borrow Currie Cup champ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2620230-e1791089453391.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-03T20:09:39.000Z"
+          "publishedAt": "2026-10-04T04:58:44.000Z"
         },
         {
-          "title": "Boks power Sharks to victory",
-          "link": "https://www.sarugbymag.co.za/boks-power-sharks-victory/",
-          "summary": "Skipper André Esterhuizen dotted down as a Bok-laden Sharks side saw off Leinster in Durban on Saturday to stay unbeaten through two rounds of the URC. The post Boks power Sharks to victory appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2628222-e1791058879531.jpg",
+          "title": "Stormers look to sign Sharks lock",
+          "link": "https://www.sarugbymag.co.za/stormers-look-sign-sharks-lock/",
+          "summary": "Stormers boss John Dobson is making a play for a towering member of the Sharks pack to bolster his second-row stocks. The post Stormers look to sign Sharks lock appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2628297-e1791088700751.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-03T18:20:43.000Z"
+          "publishedAt": "2026-10-04T04:40:02.000Z"
+        },
+        {
+          "title": "Ackers plots Giliomee introduction",
+          "link": "https://www.sarugbymag.co.za/ackers-plots-giliomee-introduction/",
+          "summary": "Coach Johan Ackermann has explained when 19-year-old utility back Luan Giliomee could make his Bulls debut. The post Ackers plots Giliomee introduction appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Luan-Giliomee-3-October-2026-Steve-Haag-Gallo-Images-e1791087513124.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-04T04:21:22.000Z"
+        },
+        {
+          "title": "Watson: TMO has no place in rugby",
+          "link": "https://www.sarugbymag.co.za/watson-tmo-no-place-rugby/",
+          "summary": "Former referee André Watson has given a scathing indictment on the \"annoying\" use of television match assistance, saying it undermines the on-field officials. The post Watson: TMO has no place in rugby appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Wilson-Andrea-Piardi-27-September-2026-Paul-Kane-Getty-Images-e1790765594732.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-04T04:14:06.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-04T02:23:59.045Z",
+    "generatedAt": "2026-10-04T05:35:20.915Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 11h 36m"
+      "label": "🟡 Planned Maintenance In 8h 25m"
     },
     "forecast": [
       {
