@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-04T05:35:20.842Z",
-  "edition": "Morning Edition — Sun, 04 Oct",
+  "generatedAt": "2026-10-04T14:59:38.613Z",
+  "edition": "Updated 16:59 SAST — Sun, 04 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Evren Ucok and the case for chess in developing young minds",
+          "link": "https://en.chessbase.com/post/evren-ucok-syoung-minds",
+          "summary": "Chess philanthropist Evren Ucok has committed over $5 million in just three years to transform the global chess ecosystem. Moving beyond traditional sponsorships, his visionary investment provides holistic support for…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-04T14:50:00.000Z"
+        },
+        {
+          "title": "Main decisions of the FIDE General Assembly 2026",
+          "link": "https://en.chessbase.com/post/decisions-fide-general-assembly-2026",
+          "summary": "The FIDE General Assembly in Samarkand elected Timur Turlov as President and Viswanathan Anand as Deputy President, alongside a new group of vice-presidents and senior officials. Delegates also approved plans for a…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-04T14:00:00.000Z"
+        },
         {
           "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
           "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-10-03T15:21:01.000Z"
-        },
-        {
-          "title": "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
-          "link": "https://en.chessbase.com/post/wstc-2026-european-stage-final",
-          "summary": "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-03T14:15:00.000Z"
-        },
-        {
-          "title": "Upcoming tournaments and events",
-          "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
-          "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them – focused…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-10-03T02:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-          "summary": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T05:00:40.000Z"
-        },
-        {
-          "title": "Bosnia general election 2026 explained in maps and charts",
-          "link": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
-          "summary": "Bosnians head to the polls on October 4. Here’s a quick guide to the voting process, candidates and what's at stake.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T04:58:50.000Z"
-        },
-        {
-          "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
+          "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+          "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+          "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-04T04:57:20.000Z"
+          "publishedAt": "2026-10-04T14:36:57.000Z"
         },
         {
-          "title": "Rare tornado whips through small Australian town",
-          "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
-          "summary": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd5/live/6547a0c0-bfa8-11f1-bc2e-018d645d8d21.jpg",
+          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+          "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-04T04:15:36.000Z"
+          "publishedAt": "2026-10-04T14:25:32.000Z"
         },
         {
-          "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-          "link": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-          "summary": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections.",
+          "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-04T14:24:56.000Z"
+        },
+        {
+          "title": "Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?",
+          "link": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
+          "summary": "Bosnian Serb leader's controversial comments ahead of Bosnia and Herzegovina's high-stakes elections.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-04T04:10:17.000Z"
+          "publishedAt": "2026-10-04T14:21:20.000Z"
+        },
+        {
+          "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
+          "link": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
+          "summary": "Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-04T13:42:16.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Rennie relentless about ‘sideways’ Boks",
+          "link": "https://www.sarugbymag.co.za/rennie-relentless-sideways-boks/",
+          "summary": "All Blacks boss Dave Rennie is appealing to World Rugby’s decision-makers to simplify scrum laws and address the set-piece tactics of the Springboks. The post Rennie relentless about ‘sideways’ Boks appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/TL_2609038-e1787548098537.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-04T13:53:40.000Z"
+        },
+        {
+          "title": "Bok Women clean up in Seville",
+          "link": "https://www.sarugbymag.co.za/bok-women-clean-seville/",
+          "summary": "The Springbok Women capped off their WXV Global Series tour of Europe on Sunday with a clean-sheet victory against Spain. The post Bok Women clean up in Seville appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/SAWomeninSeville.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-04T12:50:20.000Z"
+        },
+        {
+          "title": "All Blacks challenge World Rugby to ‘simplify’ the scrum as Dave Rennie calls for laws to be ‘deleted’",
+          "link": "https://www.planetrugby.com/news/dave-rennie-wants-world-rugby-to-delete-rules-to-simplify-the-scrums",
+          "summary": "Dave Rennie has hit out at the Springboks scrum yet again and has called on World Rugby to get rid of laws to simplify the set-piece.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/04092845/Scrum-between-the-Springboks-and-All-Blacks-an-inset-of-Dave-Rennie-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-04T08:33:09.000Z"
+        },
+        {
+          "title": "Ex-Springboks boss emerges as the ‘favourite’ to land Fiji job ahead of 2027 Rugby World Cup",
+          "link": "https://www.planetrugby.com/news/ex-springboks-boss-jake-white-set-for-test-rugby-return",
+          "summary": "The 2007 Rugby World Cup-winning coach is reportedly in the running to take over as Fiji's head coach.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/04081835/Jake-White-and-an-inset-of-Warren-Gatland-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-04T07:19:21.000Z"
+        },
+        {
           "title": "Jake set for Test rugby return",
           "link": "https://www.sarugbymag.co.za/jake-set-for-test-rugby-return/",
           "summary": "2007 World Cup-winning Springbok coach Jake White is in contention to coach a team at next year’s global showpiece in Australia. The post Jake set for Test rugby return appeared first on SA Rugby magazine.",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2024/10/2157034513-e1750737351138.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-04T05:07:14.000Z"
-        },
-        {
-          "title": "Bulls borrow Currie Cup champ",
-          "link": "https://www.sarugbymag.co.za/bulls-borrow-currie-cup-champ/",
-          "summary": "Bulls head coach Johan Ackermann has reportedly acquired the services of a standout Griquas back on loan. The post Bulls borrow Currie Cup champ appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2620230-e1791089453391.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-04T04:58:44.000Z"
-        },
-        {
-          "title": "Stormers look to sign Sharks lock",
-          "link": "https://www.sarugbymag.co.za/stormers-look-sign-sharks-lock/",
-          "summary": "Stormers boss John Dobson is making a play for a towering member of the Sharks pack to bolster his second-row stocks. The post Stormers look to sign Sharks lock appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2628297-e1791088700751.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-04T04:40:02.000Z"
-        },
-        {
-          "title": "Ackers plots Giliomee introduction",
-          "link": "https://www.sarugbymag.co.za/ackers-plots-giliomee-introduction/",
-          "summary": "Coach Johan Ackermann has explained when 19-year-old utility back Luan Giliomee could make his Bulls debut. The post Ackers plots Giliomee introduction appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Luan-Giliomee-3-October-2026-Steve-Haag-Gallo-Images-e1791087513124.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-04T04:21:22.000Z"
-        },
-        {
-          "title": "Watson: TMO has no place in rugby",
-          "link": "https://www.sarugbymag.co.za/watson-tmo-no-place-rugby/",
-          "summary": "Former referee André Watson has given a scathing indictment on the \"annoying\" use of television match assistance, saying it undermines the on-field officials. The post Watson: TMO has no place in rugby appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/Harry-Wilson-Andrea-Piardi-27-September-2026-Paul-Kane-Getty-Images-e1790765594732.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-04T04:14:06.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Nortje: 'I'll be very excited if I can put my Test cap on again'",
+          "link": "https://www.cricinfo.com/ci/content/story/1557119.html?ex_cid=OTC-RSS",
+          "summary": "Having played his last Test in 2023, he's eyeing a spot in SA's side for upcoming three-Test series against Australia at home",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/355400/355414.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-10-04T13:44:52.000Z"
+        },
         {
           "title": "Brand goes big as Australia flip through Test plans",
           "link": "https://www.cricinfo.com/ci/content/story/1557077.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/423300/423348.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-10-03T09:19:46.000Z"
-        },
-        {
-          "title": "Keith Dudgeon joins Sussex on two-year deal",
-          "link": "https://www.cricinfo.com/ci/content/story/1556943.html?ex_cid=OTC-RSS",
-          "summary": "South African seamer signs after previous county experience with Kent",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/422000/422093.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-10-02T16:52:01.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-04T05:35:20.915Z",
+    "generatedAt": "2026-10-04T14:59:38.685Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 8h 25m"
+      "level": "active",
+      "label": "🔴 Planned Maintenance In Progress"
     },
     "forecast": [
       {
