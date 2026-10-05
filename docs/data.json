@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T07:09:25.106Z",
-  "edition": "Updated 09:09 SAST — Mon, 05 Oct",
+  "generatedAt": "2026-10-05T10:05:15.321Z",
+  "edition": "Updated 12:05 SAST — Mon, 05 Oct",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-          "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-05T06:17:13.000Z"
-        },
-        {
-          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "title": "Trump chooses top spy boss to run new AI taskforce",
           "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+          "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-05T06:15:29.000Z"
+          "publishedAt": "2026-10-05T10:03:38.000Z"
         },
         {
-          "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
-          "link": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
-          "summary": "Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.",
+          "title": "Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis",
+          "link": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
+          "summary": "Yemeni forces claim to seize key positions near waterway as Pakistani, Saudi and Turkish officials to meet.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-05T05:56:13.000Z"
+          "publishedAt": "2026-10-05T09:40:37.000Z"
         },
         {
-          "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
-          "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-          "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaa/live/091199c0-c06e-11f1-9135-d3a6369912e1.jpg",
+          "title": "Yemen war escalates: What’s the latest, as government forces claim gains?",
+          "link": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
+          "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemen's government says it has taken key district",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-05T09:38:26.000Z"
+        },
+        {
+          "title": "US air force removes all bombers from British military base RAF Fairford",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+          "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-05T05:28:46.000Z"
+          "publishedAt": "2026-10-05T09:20:45.000Z"
         },
         {
-          "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-          "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-          "summary": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-10-05T05:20:57.000Z"
+          "title": "How Spain's housing crisis has resulted in an early general election",
+          "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+          "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a64/live/2e5b2970-c0a1-11f1-babe-4199b0e7ccea.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-10-05T09:03:30.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Don’t ban the TMO",
-          "link": "https://www.sarugbymag.co.za/dont-ban-tmo/",
-          "summary": "Rugby still needs the TMO, but in a reduced role that puts the man with the whistle back in charge, writes SIMON BORCHARDT. The post Don’t ban the TMO appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Referee-TMO-27-September-2026-James-Worsfold-Getty-Images-e1791182229869.jpg",
+          "title": "Stormers set for Bok bonanza",
+          "link": "https://www.sarugbymag.co.za/stormers-set-bok-bonanza/",
+          "summary": "Defence coach Norman Laker has confirmed that the Stormers will have an almost full compliment of Springboks available for Saturday's derby against the Sharks at Cape Town Stadium. The post Stormers set for Bok bonanza…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/04/DamianWillemseSachaFeinbergMngomezulu.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T07:00:20.000Z"
+          "publishedAt": "2026-10-05T09:59:03.000Z"
         },
         {
-          "title": "All Blacks dealt Love blow",
-          "link": "https://www.sarugbymag.co.za/blacks-dealt-love-blow/",
-          "summary": "The All Blacks have suffered a major setback with Ruben Love ruled out for the remainder of the year after suffering an ankle ligament injury. The post All Blacks dealt Love blow appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Ruben-Love-22-August-2026-Siphiwe-Sibeko-Reuters-e1787636450793.jpg",
+          "title": "Saffas Abroad: Leyds, Du Preez deliver",
+          "link": "https://www.sarugbymag.co.za/saffas-abroad-leyds-du-preez-deliver/",
+          "summary": "La Rochelle wing Dillyn Leyds and Bath No 8 Dan du Preez scored tries in winning efforts in another busy weekend for South Africans abroad. The post Saffas Abroad: Leyds, Du Preez deliver appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Dillyn-Leyds-4-Oct-2026-staderochelais-Instagram-e1791191111554.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T06:05:06.000Z"
+          "publishedAt": "2026-10-05T09:26:04.000Z"
         },
         {
-          "title": "Barrett: Boks exposed key weaknesses",
-          "link": "https://www.sarugbymag.co.za/barrett-boks-exposed-key-weaknesses/",
-          "summary": "Lock Scott Barrett says the All Blacks have taken valuable lessons from the four gruelling Tests against the Springboks and will be fully alert for the Wallabies in the Bledisloe Cup. The post Barrett: Boks exposed key…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2024/08/1242483495-e1724751497601.jpg",
+          "title": "Boks ‘sucked a lot of juice’ out All Blacks",
+          "link": "https://www.sarugbymag.co.za/boks-sucked-lot-juice-blacks/",
+          "summary": "Scrum coach Jason Ryan admits lingering set-piece concerns from the Rugby’s Greatest Rivalry series are front of mind for New Zealand going into the Bledisloe Cup. The post Boks ‘sucked a lot of juice’ out All Blacks…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Springboks-All-Blacks-scrum-22-August-2026-Sydney-Seshibedi-Gallo-Images-e1787430290890.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T05:36:46.000Z"
+          "publishedAt": "2026-10-05T08:38:35.000Z"
         },
         {
-          "title": "State of the URC: Wounded locals await Sharks, Lions",
-          "link": "https://www.sarugbymag.co.za/state-urc-wounded-locals-await-sharks-lions/",
-          "summary": "The Stormers and Bulls return home eyeing the scalps of their unbeaten rivals as the four South African clubs gear up for the first derby round in the 2026-27 URC this week. The post State of the URC: Wounded locals…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2510744-e1791133984107.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T03:55:29.000Z"
+          "title": "All Blacks coach takes massive learnings from ‘best in the world’ Springboks and laughs off ‘walking around’ scrum suggestion",
+          "link": "https://www.planetrugby.com/news/all-blacks-coach-takes-massive-learnings-from-best-in-the-world-springboks",
+          "summary": "Jason Ryan has taken plenty of learnings from the All Blacks' successive defeats to the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/05090126/Scrum-between-New-Zealand-and-South-Africa-with-an-inset-of-All-Blacks-assistant-Jason-Ryan-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-05T08:31:15.000Z"
         },
         {
-          "title": "Four-try Mahoney leads Griquas to glory",
-          "link": "https://www.sarugbymag.co.za/four-try-mahoney-leads-griquas-glory/",
-          "summary": "Fullback Connor Mahoney scored four tries as Griquas romped to victory to lift the Tbilisi Cup in Georgia on Sunday. The post Four-try Mahoney leads Griquas to glory appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/FB_IMG_1791175772004-e1791176040273.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T03:50:43.000Z"
+          "title": "All Blacks coach wants a statement performance after coming off second-best to Springboks in the physical battle",
+          "link": "https://www.planetrugby.com/news/all-blacks-coach-wants-a-statement-performance-after-coming-off-second-best-to-springboks-in-the-physical-battle",
+          "summary": "Jason Ryan wants the All Blacks forward pack to produce a statement performance against Australia.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/05081613/Springboks-forward-Jasper-Wiese-is-tackled-by-two-All-Blacks-players-and-an-inset-of-Jason-Ryan-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-05T07:33:51.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-05T07:09:25.178Z",
+    "generatedAt": "2026-10-05T10:05:15.396Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 6h 51m"
+      "label": "🟡 Planned Maintenance In 3h 55m"
     },
     "forecast": [
       {
