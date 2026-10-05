@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-10-05T10:05:15.321Z",
-  "edition": "Updated 12:05 SAST — Mon, 05 Oct",
+  "generatedAt": "2026-10-05T13:07:42.086Z",
+  "edition": "Updated 15:07 SAST — Mon, 05 Oct",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Six-way tie in the lead after two rounds in Fagernes",
+          "link": "https://en.chessbase.com/post/fagernes-autumn-2026-r2",
+          "summary": "The Fagernes International Autumn Tournament is under way in Norway, with six players sharing the lead in the GM Swiss after two rounds. Tiger Hillarp Persson, Aksel Bu Kvaloy, Christian Gloeckler (pictured, left),…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-10-05T12:00:00.000Z"
+        },
         {
           "title": "Jon Speelman: Miniatures in Samarkand",
           "link": "https://en.chessbase.com/post/speelman-agony-244",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-10-04T14:00:00.000Z"
-        },
-        {
-          "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
-          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
-          "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-10-04T04:30:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Trump chooses top spy boss to run new AI taskforce",
-          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-          "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+          "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+          "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+          "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59da/live/17cd2cb0-c0b2-11f1-b026-53d1506ee826.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-05T10:03:38.000Z"
+          "publishedAt": "2026-10-05T12:48:01.000Z"
         },
         {
-          "title": "Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis",
-          "link": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
-          "summary": "Yemeni forces claim to seize key positions near waterway as Pakistani, Saudi and Turkish officials to meet.",
+          "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
+          "link": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+          "summary": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil's next president.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-05T09:40:37.000Z"
+          "publishedAt": "2026-10-05T12:34:30.000Z"
         },
         {
-          "title": "Yemen war escalates: What’s the latest, as government forces claim gains?",
-          "link": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
-          "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemen's government says it has taken key district",
+          "title": "Lionel Messi to join Argentina for farewell match against Benin",
+          "link": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss",
+          "summary": "The friendly marks a symbolic passing of the torch for a player whose international legacy includes a World Cup title.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-10-05T09:38:26.000Z"
+          "publishedAt": "2026-10-05T12:30:46.000Z"
         },
         {
-          "title": "US air force removes all bombers from British military base RAF Fairford",
-          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-          "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03f/live/de45ba80-c07e-11f1-babe-4199b0e7ccea.jpg",
+          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+          "summary": "The prefect of Pas-de-Calais says the teenager's life is \"not in danger\" after the \"very serious\" incident on Monday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca95/live/91853390-c0b7-11f1-9475-67b7bb314be1.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-10-05T09:20:45.000Z"
+          "publishedAt": "2026-10-05T12:29:45.000Z"
         },
         {
-          "title": "How Spain's housing crisis has resulted in an early general election",
-          "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-          "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a64/live/2e5b2970-c0a1-11f1-babe-4199b0e7ccea.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-10-05T09:03:30.000Z"
+          "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
+          "link": "https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss",
+          "summary": "Ukrainians are turning to weeds for sustenance in a town where bodies are reportedly eaten by feral dogs.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-10-05T12:26:40.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Watch: Boks take Sharks coast to coast",
+          "link": "https://www.sarugbymag.co.za/watch-boks-take-sharks-coast-coast/",
+          "summary": "Eben Etzebeth’s break up field and offload, after the slick stepping and handling from Edwill van der Merwe, helped set up André Esterhuizen’s try in round two of the URC. The post Watch: Boks take Sharks coast to coast…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2628233-e1791202551169.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-05T12:16:23.000Z"
+        },
+        {
+          "title": "Fourie: We can’t point fingers just at Vernon",
+          "link": "https://www.sarugbymag.co.za/fourie-cant-point-fingers-just-vernon/",
+          "summary": "The Stormers are assessing their lineout system rather than blame hooker Vernon Paulo alone for the issues in last week’s defeat in Edinburgh. The post Fourie: We can’t point fingers just at Vernon appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2524700-e1791199014215.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-05T11:48:43.000Z"
+        },
+        {
+          "title": "Sir Graham Henry: Big All Blacks ‘issue’ exposed by Springboks as standards ‘reflected’ by Super Rugby ‘reality’",
+          "link": "https://www.planetrugby.com/news/sir-graham-henry-big-all-blacks-issue-exposed-by-springboks-as-standards-reflected-by-super-rugby-reality",
+          "summary": "The All Blacks legend has placed the blame on Super Rugby after the Springboks dominated some key areas.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/05120152/Springboks-v-All-Blacks-high-ball-and-Graham-Henry-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-10-05T11:13:17.000Z"
+        },
+        {
+          "title": "Brannas fired up to fill a gap in black",
+          "link": "https://www.sarugbymag.co.za/brannas-fired-fill-gap-black/",
+          "summary": "Deon Fourie is excited to play the Stormers’ first home match of the season in the iconic black kit, the 40-year-old saying he's recharged and ready to tackle the Sharks. The post Brannas fired up to fill a gap in black…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Deon-Fourie-ruck-7-August-2026-Cole-Cruickshank-Gallo-Images-e1786364309923.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-10-05T10:38:22.000Z"
+        },
+        {
           "title": "Stormers set for Bok bonanza",
           "link": "https://www.sarugbymag.co.za/stormers-set-bok-bonanza/",
-          "summary": "Defence coach Norman Laker has confirmed that the Stormers will have an almost full compliment of Springboks available for Saturday's derby against the Sharks at Cape Town Stadium. The post Stormers set for Bok bonanza…",
+          "summary": "Defence coach Norman Laker has confirmed that the Stormers will have an almost full compliment of Springboks available for Saturday's clash against the Sharks at Cape Town Stadium. The post Stormers set for Bok bonanza…",
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/04/DamianWillemseSachaFeinbergMngomezulu.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-10-05T09:59:03.000Z"
-        },
-        {
-          "title": "Saffas Abroad: Leyds, Du Preez deliver",
-          "link": "https://www.sarugbymag.co.za/saffas-abroad-leyds-du-preez-deliver/",
-          "summary": "La Rochelle wing Dillyn Leyds and Bath No 8 Dan du Preez scored tries in winning efforts in another busy weekend for South Africans abroad. The post Saffas Abroad: Leyds, Du Preez deliver appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Dillyn-Leyds-4-Oct-2026-staderochelais-Instagram-e1791191111554.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T09:26:04.000Z"
-        },
-        {
-          "title": "Boks ‘sucked a lot of juice’ out All Blacks",
-          "link": "https://www.sarugbymag.co.za/boks-sucked-lot-juice-blacks/",
-          "summary": "Scrum coach Jason Ryan admits lingering set-piece concerns from the Rugby’s Greatest Rivalry series are front of mind for New Zealand going into the Bledisloe Cup. The post Boks ‘sucked a lot of juice’ out All Blacks…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Springboks-All-Blacks-scrum-22-August-2026-Sydney-Seshibedi-Gallo-Images-e1787430290890.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-10-05T08:38:35.000Z"
-        },
-        {
-          "title": "All Blacks coach takes massive learnings from ‘best in the world’ Springboks and laughs off ‘walking around’ scrum suggestion",
-          "link": "https://www.planetrugby.com/news/all-blacks-coach-takes-massive-learnings-from-best-in-the-world-springboks",
-          "summary": "Jason Ryan has taken plenty of learnings from the All Blacks' successive defeats to the Springboks.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/05090126/Scrum-between-New-Zealand-and-South-Africa-with-an-inset-of-All-Blacks-assistant-Jason-Ryan-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-05T08:31:15.000Z"
-        },
-        {
-          "title": "All Blacks coach wants a statement performance after coming off second-best to Springboks in the physical battle",
-          "link": "https://www.planetrugby.com/news/all-blacks-coach-wants-a-statement-performance-after-coming-off-second-best-to-springboks-in-the-physical-battle",
-          "summary": "Jason Ryan wants the All Blacks forward pack to produce a statement performance against Australia.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/10/05081613/Springboks-forward-Jasper-Wiese-is-tackled-by-two-All-Blacks-players-and-an-inset-of-Jason-Ryan-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-10-05T07:33:51.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-10-05T10:05:15.396Z",
+    "generatedAt": "2026-10-05T13:07:42.129Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 55m"
+      "label": "🟡 Planned Maintenance In 52m"
     },
     "forecast": [
       {
