@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-04T13:08:00.625Z",
-  "edition": "Updated 15:08 SAST — Wed, 04 Nov",
+  "generatedAt": "2026-11-04T20:06:33.862Z",
+  "edition": "Updated 22:06 SAST — Wed, 04 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Eugenio Torre: Asia's first grandmaster turns 75",
+          "link": "https://en.chessbase.com/post/eugenio-torre-75-years-birthday",
+          "summary": "In 1974, Eugenio Torre became the first Asian chess player to earn the grandmaster title. At his peak, the Filipino was among the world's elite and capable of beating any of the leading players. Torre also holds the…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-04T16:40:00.000Z"
+        },
+        {
+          "title": "Play In The Second Special Edition Of Gambit Cup On November 9",
+          "link": "https://www.chess.com/news/view/announcing-gambit-cup-november-2026",
+          "summary": "The Gambit Cup, Gambit's non-gambling daily poker tournament, returns for another special edition with a live broadcast on November 9. The event starts at 12 p.m. ET / 18:00 CET / 10:30 p.m. IST and is open to all…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-04T16:00:00.000Z"
+        },
+        {
+          "title": "Lazavik Continues Climb With KazChess Masters Win; Smirnov Grabs 2nd GM Norm",
+          "link": "https://www.chess.com/news/view/lazavik-wins-kazchess-masters-smirnov-gm-norm",
+          "summary": "GM Denis Lazavik is approaching 2650 after winning the 2026 KazChess Masters with an unbeaten 6.5/9, half a point ahead of the only other unbeaten player, GM Daniil Dubov. It was also a memorable tournament for…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-04T13:28:00.000Z"
+        },
         {
           "title": "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed",
           "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-04T08:12:32.000Z"
-        },
-        {
-          "title": "KazChess Masters: Lazavik takes title, Smirnov earns GM norm",
-          "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9-2",
-          "summary": "Denis Lazavik won the KazChess Masters in Almaty with 6½/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-03T23:15:00.000Z"
-        },
-        {
-          "title": "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London",
-          "link": "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
-          "summary": "After 10 years of nail-biting chess, star rivalries, and dramatic matches, we're excited to announce Speed Chess Championship XI (SCC)! The event starts in November and features a $250,000 prize fund, along with up to…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-03T20:45:00.000Z"
-        },
-        {
-          "title": "Gawain Maroroa Jones wins English Championship 2026",
-          "link": "https://en.chessbase.com/post/english-championship-2026-main-tournament",
-          "summary": "The open tournament at this year’s English Championships was dominated by the two top seeds. Gawain Maroroa Jones won convincingly, finishing unbeaten with 7½ points out of 9. In round five, he drew with Michael Adams,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-03T09:25:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Sharp objects found in Halloween sweets in three European nations",
-          "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-          "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b20/live/14aead80-d83e-11f1-9a87-07a62b4549a2.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-04T12:34:33.000Z"
-        },
-        {
-          "title": "America is heading for two years of constitutional brinkmanship",
-          "link": "https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship?traffic_source=rss",
-          "summary": "An unlikely mix of political bargains and constitutional confrontation will define the next two years.",
+          "title": "Democratic progressive wing notches win in California Central Valley",
+          "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+          "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T12:22:55.000Z"
+          "publishedAt": "2026-11-04T19:50:37.000Z"
         },
         {
-          "title": "Iran's chief negotiator says Americans voted 'no to war'",
-          "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-          "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-04T12:21:21.000Z"
-        },
-        {
-          "title": "Musk makes light of defeats after record spend on Republican candidates",
-          "link": "https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss",
-          "summary": "Tesla and SpaceX founder Elon Musk is the world's richest man and the largest individual donor in the US midterms.",
+          "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
+          "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+          "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T12:09:42.000Z"
+          "publishedAt": "2026-11-04T19:30:41.000Z"
         },
         {
-          "title": "Everything you need to know from the US midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-          "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e914/live/bd858720-d83f-11f1-b441-2b33b063138f.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-04T12:01:07.000Z"
+          "title": "WHO approves trials for two new Ebola vaccines",
+          "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+          "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-04T19:22:09.000Z"
+        },
+        {
+          "title": "US midterms 2026: What key races remain undecided?",
+          "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
+          "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-04T19:18:47.000Z"
+        },
+        {
+          "title": "How US midterm results could reshape Trump’s foreign policy",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
+          "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-04T19:15:50.000Z"
         }
       ]
     },
@@ -98,6 +98,30 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "All Blacks scrum to benefit from ‘real power’ after star prop wasn’t at ‘full fitness’ during Springboks series",
+          "link": "https://www.planetrugby.com/news/all-blacks-scrum-to-benefit-from-real-power-after-star-prop-wasnt-at-full-fitness-during-springboks-series",
+          "summary": "Jason Ryan believes that the All Blacks' scrum will fare better during the November leg of the Nations Championship.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/04104739/All-Blacks-prop-Tyrel-Lomax-and-an-inset-of-scrum-coach-Jason-Ryan-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-04T17:01:00.000Z"
+        },
+        {
+          "title": "Gaza feels different with a cup on the line",
+          "link": "https://www.sarugbymag.co.za/focused-gaza-got-different-feeling/",
+          "summary": "Damian Willemse is excited by the prospect of playing for silverware on an end-of-year tour for the first time, but warns the Springboks can't look past the threat of Italy. The post Gaza feels different with a cup on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2246833955-e1793798267401.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-04T14:21:25.000Z"
+        },
+        {
+          "title": "Jasper: Boks won’t underestimate Italy",
+          "link": "https://www.sarugbymag.co.za/jasper-boks-wont-underestimate-italy/",
+          "summary": "Jasper Wiese says the Springboks will guard against complacency going into Saturday's Nations Championship Test against Italy in Turin. The post Jasper: Boks won’t underestimate Italy appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/07/TL_2422339-e1752645594527.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-04T13:55:18.000Z"
+        },
         {
           "title": "Teich hails ‘reliable’ Hatton",
           "link": "https://www.sarugbymag.co.za/teich-hails-reliable-hatton/",
@@ -107,36 +131,12 @@
           "publishedAt": "2026-11-04T12:55:52.000Z"
         },
         {
-          "title": "Ex-Springboks prop: Specialising will benefit Rassie Erasmus’ hybrid star",
-          "link": "https://www.planetrugby.com/news/ex-springboks-prop-specialising-will-benefit-rassie-erasmus-hybrid-star",
-          "summary": "Ex-Springboks front-rower Robbi Kempson believes that Jan-Hendrik Wessels will benefit from focusing on one position.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/04122755/Springboks-forward-Jan-Hendrik-Wessels-and-an-inset-of-ex-prop-Robbi-Kempson-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-04T12:40:07.000Z"
-        },
-        {
-          "title": "Fully-loaded Los Pumas pick lippy flyhalf",
-          "link": "https://www.sarugbymag.co.za/fully-loaded-los-pumas-pick-lippy-flyhalf/",
-          "summary": "Tomás Albornoz returns to the Argentina side following his suspension, joining a lineup with an average of 50 Test caps for Friday’s Nations Championship clash against Ireland. The post Fully-loaded Los Pumas pick lippy…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2286668337-e1793795651935.jpg",
+          "title": "Ireland welcome back star quartet",
+          "link": "https://www.sarugbymag.co.za/ireland-welcome-back-star-quartet/",
+          "summary": "Andy Farrell may have lost some key players but has been able to select a few more after injury absences for Ireland's Nations Championship Test with Argentina on Friday. The post Ireland welcome back star quartet…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/2286603220-e1793806983918.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-04T12:35:22.000Z"
-        },
-        {
-          "title": "Two Springboks games that ‘don’t mirror’ each other as Jerry Flannery unpacks where South Africa’s defence ‘broken down’",
-          "link": "https://www.planetrugby.com/news/two-springboks-games-that-dont-mirror-each-other-as-jerry-flannery-unpacks-where-south-africas-defence-broken-down",
-          "summary": "Jerry Flannery is wary of the threats that an injury-hit Italian side poses to his Springboks defence.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/04092951/Len-Ikitau-of-the-Wallabies-scores-against-the-Springboks-and-an-inset-of-Jerry-Flannery-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-04T09:42:13.000Z"
-        },
-        {
-          "title": "Ex-Irish ref: Something nasty in Wessels case",
-          "link": "https://www.sarugbymag.co.za/ex-irish-ref-something-nasty-wessels-case/",
-          "summary": "Former head of Irish referees Owen Doyle insists the testicle-grabbing incidents involving Jan-Hendrik Wessels and Tadhg Furlong were different. The post Ex-Irish ref: Something nasty in Wessels case appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Jan-Hendrik-Wessels-Tadhg-Furlong-e1793781290162.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-04T08:39:20.000Z"
+          "publishedAt": "2026-11-04T12:40:21.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-04T13:08:00.668Z",
+    "generatedAt": "2026-11-04T20:06:33.934Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 52m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
