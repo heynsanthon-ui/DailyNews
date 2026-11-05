@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-11-05T11:40:38.399Z",
-  "edition": "Updated 13:40 SAST — Thu, 05 Nov",
+  "generatedAt": "2026-11-05T20:21:38.997Z",
+  "edition": "Updated 22:21 SAST — Thu, 05 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Suleymenov on Gukesh, Sindarov and the psychological side of chess",
+          "link": "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
+          "summary": "Chennai has given GM Alisher Suleymenov a title and a reason to return. After winning the 1st Chola Chess International GM Round Robin earlier this year, the Kazakh grandmaster is back for the 1st Chola Chess GM 2026.…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-05T16:34:00.000Z"
+        },
         {
           "title": "Bavarian Championship: 15-year-old Hussain Besou joins the leaders",
           "link": "https://en.chessbase.com/post/tegernsee-open-2026-r5",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-04T16:00:00.000Z"
-        },
-        {
-          "title": "Lazavik Continues Climb With KazChess Masters Win; Smirnov Grabs 2nd GM Norm",
-          "link": "https://www.chess.com/news/view/lazavik-wins-kazchess-masters-smirnov-gm-norm",
-          "summary": "GM Denis Lazavik is approaching 2650 after winning the 2026 KazChess Masters with an unbeaten 6.5/9, half a point ahead of the only other unbeaten player, GM Daniil Dubov. It was also a memorable tournament for…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-04T13:28:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
-          "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
-          "summary": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-05T11:32:40.000Z"
-        },
-        {
-          "title": "Ronaldo retires from Portugal duty",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
+          "title": "California governor commutes death sentences for all 548 people on death row",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "summary": "California has historically had the largest population of death row inmates in the US.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-05T11:17:03.000Z"
+          "publishedAt": "2026-11-05T20:12:03.000Z"
         },
         {
-          "title": "Visualising how the US midterms turned the map blue",
-          "link": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
-          "summary": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
+          "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+          "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+          "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-05T11:09:58.000Z"
+          "publishedAt": "2026-11-05T20:07:04.000Z"
         },
         {
-          "title": "Cristiano Ronaldo announces retirement from international football",
-          "link": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
-          "summary": "The 41-year-old Portuguese legend says he will 'hand back the number 7 shirt' in social media post.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-05T10:57:26.000Z"
+          "title": "Who could be behind hoax bomb threats to European air travel?",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+          "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-05T19:58:40.000Z"
         },
         {
-          "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
-          "link": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
-          "summary": "Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.",
+          "title": "Top US civil rights official resigns",
+          "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+          "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-05T10:34:42.000Z"
+          "publishedAt": "2026-11-05T19:48:00.000Z"
+        },
+        {
+          "title": "Eight killed in series of shootings in western Turkey",
+          "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+          "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a9/live/afaf1b30-d947-11f1-93e1-3b657b665bcf.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-05T19:32:54.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Hatton: We haven’t won anything yet",
-          "link": "https://www.sarugbymag.co.za/hatton-havent-won-anything-yet/",
-          "summary": "No 8 Nick Hatton is confident that complacency won't set in at the Sharks after an unbeaten European tour across two competitions. The post Hatton: We haven’t won anything yet appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2625378-e1792146598582.jpg",
+          "title": "Rennie: It will be refereed strongly",
+          "link": "https://www.sarugbymag.co.za/rennie-will-refereed-strongly/",
+          "summary": "All Blacks coach Dave Rennie has revealed what was discussed at a World Rugby meeting in London ahead of the European leg of the Nations Championship. The post Rennie: It will be refereed strongly appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dave-Rennie-27-October-2026-Phil-Walter-Getty-Images-e1793901843509.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-05T10:23:03.000Z"
+          "publishedAt": "2026-11-05T18:06:21.000Z"
         },
         {
-          "title": "France pick ‘survivors’ before Boks arrive",
-          "link": "https://www.sarugbymag.co.za/france-pick-survivors-boks-arrive/",
-          "summary": "Coach Fabien Galthié has named a side blended with youth and experience for injury-hit France's clash with Fiji in Lyon on Saturday. The post France pick ‘survivors’ before Boks arrive appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/02/Dupont-Ntamack-e1738816486853.jpg",
+          "title": "Jake calls up ex-England international",
+          "link": "https://www.sarugbymag.co.za/jake-calls-up-ex-england-international/",
+          "summary": "Fiji coach Jake White has selected a former England forward for Saturday's Nations Championship clash against France in Lyon. The post Jake calls up ex-England international appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Jake-White-Fiji-24-October-2026-Toru-Hanai-Getty-Images-e1792858423123.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-05T10:10:56.000Z"
+          "publishedAt": "2026-11-05T17:41:59.000Z"
         },
         {
-          "title": "Another new midfield combo for Wales",
-          "link": "https://www.sarugbymag.co.za/another-new-midfield-combo-for-wales/",
-          "summary": "Wales coach Steve Tandy has tweaked his backline for Saturday's Nations Championship Test against Japan in Cardiff. The post Another new midfield combo for Wales appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Eddie-James-Wales-14-July-2026-Steve-Haag-Gallo-Images-e1793875300995.jpg",
+          "title": "Keo & Zels: Please Rassie, bring Jacques home",
+          "link": "https://www.sarugbymag.co.za/keo-zels-rassie-bring-jacques-home/",
+          "summary": "The boys rave about Manie Libbok and Malcolm Marx coming home, and now they want Jacques Nienaber back in SA. The post Keo & Zels: Please Rassie, bring Jacques home appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/maxresdefault-1.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-05T10:05:27.000Z"
+          "publishedAt": "2026-11-05T17:05:50.000Z"
         },
         {
-          "title": "Malcolm Marx ready for ‘exciting new chapter’ as two-time World Cup-winning Springbok’s next move is confirmed",
-          "link": "https://www.planetrugby.com/news/malcolm-marx-ready-for-exciting-new-chapter-as-two-time-world-cup-winning-springboks-next-move-is-confirmed",
-          "summary": "The Bulls have confirmed the signing of Malcolm Marx, who will join them on a long-term contract with effect from July 2027.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/05092450/Johan-Ackermann-and-Malcolm-Marx-image-120x120.jpg",
+          "title": "Springboks: Ruan Nortje gives blunt verdict on Salmaan Moerat’s selection for Italy Test",
+          "link": "https://www.planetrugby.com/news/springboks-ruan-nortje-gives-blunt-verdict-on-salmaan-moerats-selection-for-italy-test",
+          "summary": "Ruan Nortje has given his verdict on packing down alongside Salmaan Moerat in the Springboks' second-row against Italy in Turin on Saturday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/05160044/Ruan-Nortje-and-Salmaan-Moerat-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-05T09:36:01.000Z"
+          "publishedAt": "2026-11-05T16:11:11.000Z"
         },
         {
-          "title": "Libbok return has Sharks buzzing",
-          "link": "https://www.sarugbymag.co.za/libbok-return-sharks-buzzing/",
-          "summary": "Sharks No 8 Nick Hatton says he can't wait to play alongside Manie Libbok next season. The post Libbok return has Sharks buzzing appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2618615-e1790006810307.jpg",
+          "title": "Duhan dropped for All Blacks clash",
+          "link": "https://www.sarugbymag.co.za/duhan-dropped-blacks-clash/",
+          "summary": "Kyle Steyn will start for Scotland against the All Blacks at Murrayfield on Saturday, but there's no room for fellow South African wing Duhan van der Merwe. The post Duhan dropped for All Blacks clash appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Duhan-van-der-Merwe-Kyle-Steyn-2024-Scott-Taetsch-Getty-Images.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-05T09:26:57.000Z"
+          "publishedAt": "2026-11-05T14:28:37.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-05T11:40:38.466Z",
+    "generatedAt": "2026-11-05T20:21:39.070Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 19m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
