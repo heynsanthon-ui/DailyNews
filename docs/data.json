@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-04T20:06:33.862Z",
-  "edition": "Updated 22:06 SAST — Wed, 04 Nov",
+  "generatedAt": "2026-11-05T11:40:38.399Z",
+  "edition": "Updated 13:40 SAST — Thu, 05 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Bavarian Championship: 15-year-old Hussain Besou joins the leaders",
+          "link": "https://en.chessbase.com/post/tegernsee-open-2026-r5",
+          "summary": "Six players share the lead with 4½ points after five rounds of the Bavarian Chess Championship in Gmund am Tegernsee. The leading group includes three Indian grandmasters and 15-year-old German IM Hussain Besou, who…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-05T07:10:00.000Z"
+        },
+        {
+          "title": "Chinese Rapid Championship: Ding Liren and Wang Hao exit in quarterfinals",
+          "link": "https://en.chessbase.com/post/chinese-rapid-championship-2026-quarterfinals",
+          "summary": "Ding Liren and Wang Hao were both eliminated in the quarterfinals of the Chinese Rapid Championship, as three of the four rating favourites failed to reach the last four. Ding lost to Xiao Tong in a blitz tiebreaker,…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-05T01:15:00.000Z"
+        },
         {
           "title": "Eugenio Torre: Asia's first grandmaster turns 75",
           "link": "https://en.chessbase.com/post/eugenio-torre-75-years-birthday",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-04T13:28:00.000Z"
-        },
-        {
-          "title": "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed",
-          "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
-          "summary": "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-04T09:31:15.000Z"
-        },
-        {
-          "title": "GothamChess to host new Total Chess highlights show in Budapest",
-          "link": "https://en.chessbase.com/post/gothamchess-to-host-new-total-chess-highlights-show-in-budapest",
-          "summary": "From November 10 to 20, Budapest will host the first Total Chess tournament, bringing together 24 top players, including Magnus Carlsen. The new format combines Fast Classic, Rapid and Blitz chess to test players across…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-04T08:12:32.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Democratic progressive wing notches win in California Central Valley",
-          "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-          "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
+          "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+          "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+          "summary": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T19:50:37.000Z"
+          "publishedAt": "2026-11-05T11:32:40.000Z"
         },
         {
-          "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-          "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-          "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T19:30:41.000Z"
+          "title": "Ronaldo retires from Portugal duty",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+          "summary": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee2/live/8500a0e0-d909-11f1-b72c-d16cdc75f35f.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-05T11:17:03.000Z"
         },
         {
-          "title": "WHO approves trials for two new Ebola vaccines",
-          "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-          "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
+          "title": "Visualising how the US midterms turned the map blue",
+          "link": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
+          "summary": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T19:22:09.000Z"
+          "publishedAt": "2026-11-05T11:09:58.000Z"
         },
         {
-          "title": "US midterms 2026: What key races remain undecided?",
-          "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
-          "summary": "Key races in Alaska, Mississippi, Kansas and California remain uncounted.",
+          "title": "Cristiano Ronaldo announces retirement from international football",
+          "link": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
+          "summary": "The 41-year-old Portuguese legend says he will 'hand back the number 7 shirt' in social media post.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T19:18:47.000Z"
+          "publishedAt": "2026-11-05T10:57:26.000Z"
         },
         {
-          "title": "How US midterm results could reshape Trump’s foreign policy",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
-          "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy.",
+          "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
+          "link": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+          "summary": "Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-04T19:15:50.000Z"
+          "publishedAt": "2026-11-05T10:34:42.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "All Blacks scrum to benefit from ‘real power’ after star prop wasn’t at ‘full fitness’ during Springboks series",
-          "link": "https://www.planetrugby.com/news/all-blacks-scrum-to-benefit-from-real-power-after-star-prop-wasnt-at-full-fitness-during-springboks-series",
-          "summary": "Jason Ryan believes that the All Blacks' scrum will fare better during the November leg of the Nations Championship.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/04104739/All-Blacks-prop-Tyrel-Lomax-and-an-inset-of-scrum-coach-Jason-Ryan-1-120x120.jpg",
+          "title": "Hatton: We haven’t won anything yet",
+          "link": "https://www.sarugbymag.co.za/hatton-havent-won-anything-yet/",
+          "summary": "No 8 Nick Hatton is confident that complacency won't set in at the Sharks after an unbeaten European tour across two competitions. The post Hatton: We haven’t won anything yet appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/TL_2625378-e1792146598582.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-05T10:23:03.000Z"
+        },
+        {
+          "title": "France pick ‘survivors’ before Boks arrive",
+          "link": "https://www.sarugbymag.co.za/france-pick-survivors-boks-arrive/",
+          "summary": "Coach Fabien Galthié has named a side blended with youth and experience for injury-hit France's clash with Fiji in Lyon on Saturday. The post France pick ‘survivors’ before Boks arrive appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/02/Dupont-Ntamack-e1738816486853.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-05T10:10:56.000Z"
+        },
+        {
+          "title": "Another new midfield combo for Wales",
+          "link": "https://www.sarugbymag.co.za/another-new-midfield-combo-for-wales/",
+          "summary": "Wales coach Steve Tandy has tweaked his backline for Saturday's Nations Championship Test against Japan in Cardiff. The post Another new midfield combo for Wales appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Eddie-James-Wales-14-July-2026-Steve-Haag-Gallo-Images-e1793875300995.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-05T10:05:27.000Z"
+        },
+        {
+          "title": "Malcolm Marx ready for ‘exciting new chapter’ as two-time World Cup-winning Springbok’s next move is confirmed",
+          "link": "https://www.planetrugby.com/news/malcolm-marx-ready-for-exciting-new-chapter-as-two-time-world-cup-winning-springboks-next-move-is-confirmed",
+          "summary": "The Bulls have confirmed the signing of Malcolm Marx, who will join them on a long-term contract with effect from July 2027.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/05092450/Johan-Ackermann-and-Malcolm-Marx-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-04T17:01:00.000Z"
+          "publishedAt": "2026-11-05T09:36:01.000Z"
         },
         {
-          "title": "Gaza feels different with a cup on the line",
-          "link": "https://www.sarugbymag.co.za/focused-gaza-got-different-feeling/",
-          "summary": "Damian Willemse is excited by the prospect of playing for silverware on an end-of-year tour for the first time, but warns the Springboks can't look past the threat of Italy. The post Gaza feels different with a cup on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2246833955-e1793798267401.jpg",
+          "title": "Libbok return has Sharks buzzing",
+          "link": "https://www.sarugbymag.co.za/libbok-return-sharks-buzzing/",
+          "summary": "Sharks No 8 Nick Hatton says he can't wait to play alongside Manie Libbok next season. The post Libbok return has Sharks buzzing appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2618615-e1790006810307.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-04T14:21:25.000Z"
-        },
-        {
-          "title": "Jasper: Boks won’t underestimate Italy",
-          "link": "https://www.sarugbymag.co.za/jasper-boks-wont-underestimate-italy/",
-          "summary": "Jasper Wiese says the Springboks will guard against complacency going into Saturday's Nations Championship Test against Italy in Turin. The post Jasper: Boks won’t underestimate Italy appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/07/TL_2422339-e1752645594527.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-04T13:55:18.000Z"
-        },
-        {
-          "title": "Teich hails ‘reliable’ Hatton",
-          "link": "https://www.sarugbymag.co.za/teich-hails-reliable-hatton/",
-          "summary": "Former Sharks and Springbok captain Gary Teichmann has praised Nick Hatton's consistency and leadership during the Durban-based club's strong start to the season. The post Teich hails ‘reliable’ Hatton appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Nick-Hatton-Sharks-26-September-2026-Steve-Haag-Gallo-Images-e1793796617390.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-04T12:55:52.000Z"
-        },
-        {
-          "title": "Ireland welcome back star quartet",
-          "link": "https://www.sarugbymag.co.za/ireland-welcome-back-star-quartet/",
-          "summary": "Andy Farrell may have lost some key players but has been able to select a few more after injury absences for Ireland's Nations Championship Test with Argentina on Friday. The post Ireland welcome back star quartet…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/2286603220-e1793806983918.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-04T12:40:21.000Z"
+          "publishedAt": "2026-11-05T09:26:57.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-04T20:06:33.934Z",
+    "generatedAt": "2026-11-05T11:40:38.466Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 2h 19m"
     },
     "forecast": [
-      {
-        "date": "2026-11-04",
-        "day": "Wed",
-        "dayOfMonth": 4,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-05",
         "day": "Thu",
         "dayOfMonth": 5,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-06",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-07",
         "day": "Sat",
         "dayOfMonth": 7,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-08",
         "day": "Sun",
         "dayOfMonth": 8,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-09",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-11",
+        "day": "Wed",
+        "dayOfMonth": 11,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-07",
+        "date": "2026-11-08",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sat 7, 09:00–12:00"
+        "etr": "Sun 8, 09:00–12:00"
       }
     ],
     "reliability": {
