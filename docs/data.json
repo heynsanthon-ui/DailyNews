@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-06T11:38:57.566Z",
-  "edition": "Updated 13:38 SAST — Fri, 06 Nov",
+  "generatedAt": "2026-11-06T19:44:14.933Z",
+  "edition": "Updated 21:44 SAST — Fri, 06 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title",
+          "link": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
+          "summary": "GM Magnus Carlsen will have the chance to make it three titles in three appearances as chess was confirmed for the 2027 Esports World Cup (EWC) today. The event returns to Riyadh, Saudi Arabia, next summer, with…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-06T15:07:46.000Z"
+        },
+        {
+          "title": "Who will become the FIDE World Combined Champion?",
+          "link": "https://en.chessbase.com/post/total-chess-world-ch-2026-combined-champion",
+          "summary": "The Total Chess World Championship series is a new tournament format combining three different time controls: fast classic, rapid and blitz. The winner of the series will be crowned the FIDE World Combined Champion.…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-06T15:00:00.000Z"
+        },
         {
           "title": "Loek van Wely: 10 Chess Principles That Actually Matter",
           "link": "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-06T06:50:00.000Z"
-        },
-        {
-          "title": "Peter Leko and Peter Svidler to commentate on the Gukesh v. Sindarov Geneva match",
-          "link": "https://en.chessbase.com/post/world-championship-2026-commentators",
-          "summary": "Peter Leko and Peter Svidler will provide the official commentary for the 2026 FIDE World Championship match between Gukesh Dommaraju and Javokhir Sindarov in Geneva. Leko brings first-hand experience of playing for the…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-05T23:30:00.000Z"
-        },
-        {
-          "title": "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs",
-          "link": "https://www.chess.com/news/view/ccl-week-6-2026",
-          "summary": "Saint Louis University (SLU) and the University of Texas, Dallas (UTD) are locked in a tight race for first place in the Collegiate Chess League as teams approach the end of the regular season and push for playoff…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-05T20:49:55.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-          "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bed/live/8fde0dd0-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-06T11:36:14.000Z"
+          "publishedAt": "2026-11-06T19:37:10.000Z"
         },
         {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-          "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-06T11:21:20.000Z"
-        },
-        {
-          "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-          "link": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
-          "summary": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
+          "title": "Why is Britain refusing to pay slavery reparations?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
+          "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T11:09:04.000Z"
+          "publishedAt": "2026-11-06T19:34:33.000Z"
         },
         {
-          "title": "Macao sentences pro-democracy ex-politician to 12.5 years in jail",
-          "link": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
-          "summary": "Court accuses Au Kam-san of spreading false information and subversion in an attempt to disrupt Macao’s 2024 elections.",
+          "title": "Could Trump’s veto stop the Democratic majority?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
+          "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T11:08:02.000Z"
+          "publishedAt": "2026-11-06T19:18:33.000Z"
         },
         {
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-          "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/ff7af2d0-d9bd-11f1-a00c-673f8daaffd9.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-06T09:57:04.000Z"
+          "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+          "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+          "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-06T19:16:07.000Z"
+        },
+        {
+          "title": "Trump says making adviser Stephen Miller White House chief of staff",
+          "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+          "summary": "This is a breaking news story.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-06T19:08:31.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Italy v South Africa prediction: Springboks win ‘inevitable’ as injury-stricken Azzurri fail to contain Bomb Squad ‘explosion’",
-          "link": "https://www.planetrugby.com/news/italy-v-south-africa-prediction-springboks-win-inevitable-as-injury-stricken-azzurri-fail-to-contain-bomb-squad-explosion",
-          "summary": "Italy and South Africa collide for the fourth time in two years as the two proud nations square off at the Juventus Stadium.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/06101032/Springboks-forward-Jasper-Wiese-and-Italys-Lorenzo-Cannone-1-120x120.jpg",
+          "title": "Springboks duo hailed by injured Italy star: ‘They’re probably the best centre partnership in the world’",
+          "link": "https://www.planetrugby.com/news/springboks-duo-damian-de-allende-and-jesse-kriel-hailed-by-italy-centre-nacho-brex",
+          "summary": "Italy will be without key centre pairing Nacho Brex and Tommaso Menoncello against the Springboks in Turin on Saturday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/06162739/Tommaso-Menoncello-and-Nacho-Brex-for-Italy-and-Springboks-duo-Damian-de-Allende-and-Jesse-Kriel-inset-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-06T10:39:48.000Z"
+          "publishedAt": "2026-11-06T16:38:24.000Z"
         },
         {
-          "title": "Boks’ No 1 ranking at risk",
-          "link": "https://www.sarugbymag.co.za/boks-no-1-ranking-at-risk/",
-          "summary": "The Springboks will put top spot in the World Rugby rankings on the line against Italy in Turin on Saturday, while France risk an eight-year low in Lyon. The post Boks’ No 1 ranking at risk appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Springboks-team-Italy-2026.jpg",
+          "title": "Kolisi happy to have Pietie back home",
+          "link": "https://www.sarugbymag.co.za/kolisi-happy-pietie-back-home/",
+          "summary": "Springbok and Stormers star Siya Kolisi expects that local derbies in the URC will be “on fire” next season as a result of the influx of South African players from Japan. The post Kolisi happy to have Pietie back home…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2614176-e1793976651279.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T09:58:14.000Z"
+          "publishedAt": "2026-11-06T14:55:50.000Z"
         },
         {
-          "title": "Jean: Inconsistency killing rugby",
-          "link": "https://www.sarugbymag.co.za/jean-inconsistency-killing-rugby/",
-          "summary": "Schalk Burger and Jean de Villiers have questioned how anyone is expected to make sense of the differing interpretations and punishment of foul play in the game. The post Jean: Inconsistency killing rugby appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2184014415-e1793960039871.jpg",
+          "title": "Stokke: Don’t give Italy room to move",
+          "link": "https://www.sarugbymag.co.za/stokke-dont-give-italy-room-move/",
+          "summary": "Springbok assistant coach Mzwandile Stick says a depleted Italy side remain dangerous and the world champions will only worry about the bigger picture once they've won in Turin. The post Stokke: Don’t give Italy room to…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Monty-Ioane-15-November-2025-Timothy-Rogers-Getty-Images-e1793971913533.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T09:35:40.000Z"
+          "publishedAt": "2026-11-06T13:48:08.000Z"
         },
         {
-          "title": "POLL: Pick Du Toit’s new SA team!",
-          "link": "https://www.sarugbymag.co.za/poll-pick-psdts-new-sa-team/",
-          "summary": "Having been released from his Japanese club contract, which SA URC team should Pieter-Steph du Toit sign for? The post POLL: Pick Du Toit’s new SA team! appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Pieter-Steph-du-Toit-22-August-2026-Sydney-Seshibedi-Gallo-Images-e1787652845730.jpg",
+          "title": "Siya not stressing about All Blacks",
+          "link": "https://www.sarugbymag.co.za/siya-not-stressing-blacks/",
+          "summary": "Siya Kolisi says the Springboks must focus on beating Italy on Saturday, rather than thinking about how points differential could affect the Nations Championship title race. The post Siya not stressing about All Blacks…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2645594-e1793969949353.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T07:56:07.000Z"
+          "publishedAt": "2026-11-06T13:46:50.000Z"
         },
         {
-          "title": "PSDT joins Japan exodus",
-          "link": "https://www.sarugbymag.co.za/psdt-joins-japan-exodus/",
-          "summary": "Pieter-Steph du Toit has become the latest South African to part ways with his Japanese club after the Springbok star confirmed he will be returning home to continue his career. The post PSDT joins Japan exodus appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2459765-e1793949463946.jpg",
+          "title": "Boks’ hearts, minds with Hyron’s family",
+          "link": "https://www.sarugbymag.co.za/boks-hearts-minds-hyrons-family/",
+          "summary": "Siya Kolisi remembers former teammate Hyron Andrews as an amazing human being who brought energy and positivity to any team he represented. The post Boks’ hearts, minds with Hyron’s family appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_1752629-e1793981372352.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T07:35:42.000Z"
+          "publishedAt": "2026-11-06T13:45:10.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Somerset confirm Migael Pretorius return for 2027",
+          "link": "https://www.cricinfo.com/ci/content/story/1561669.html?ex_cid=OTC-RSS",
+          "summary": "South African allrounder signs for fourth consecutive summer at Taunton",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/421500/421570.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-06T13:10:07.000Z"
+        },
         {
           "title": "Cummins: 'I think we're a really good side'",
           "link": "https://www.cricinfo.com/ci/content/story/1560873.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/401500/401569.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-02T10:52:46.000Z"
-        },
-        {
-          "title": "Tony de Zorzi returns to South Africa squad for Bangladesh Tests",
-          "link": "https://www.cricinfo.com/ci/content/story/1561132.html?ex_cid=OTC-RSS",
-          "summary": "South Africa also picked Zubayr Hamza and Anrich Nortje after he recovered from a groin injury",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/409700/409739.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-02T10:36:24.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-06T11:38:57.638Z",
+    "generatedAt": "2026-11-06T19:44:14.974Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 21m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
