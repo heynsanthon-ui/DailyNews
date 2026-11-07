@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-06T19:44:14.933Z",
-  "edition": "Updated 21:44 SAST — Fri, 06 Nov",
+  "generatedAt": "2026-11-07T10:44:23.962Z",
+  "edition": "Updated 12:44 SAST — Sat, 07 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski",
+          "link": "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
+          "summary": "For a long time, the Petroff Defence had a reputation for being a purely drawish opening – reliable but dry. Those days are over, however. In a ChessBase video course, Grandmaster Fabien Libiszewski demonstrates how…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-07T07:00:00.000Z"
+        },
+        {
+          "title": "Yakubboev Continues Freestyle Friday Championship Push",
+          "link": "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
+          "summary": "GM Nodirbek Yakubboev won in a tense final round of Freestyle Friday on November 6 to lock up victory ahead of second-place GM Ian Nepomniachtchi. Both players improved their position in the standings for the Freestyle…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-06T22:12:27.000Z"
+        },
+        {
+          "title": "Nakamura, Maghsoodloo, Movahed Take 3 0 Thursday Titles",
+          "link": "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
+          "summary": "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-06T20:39:30.000Z"
+        },
         {
           "title": "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title",
           "link": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-06T15:00:00.000Z"
-        },
-        {
-          "title": "Loek van Wely: 10 Chess Principles That Actually Matter",
-          "link": "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
-          "summary": "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-06T10:00:00.000Z"
-        },
-        {
-          "title": "Bavarian Championship: Gopal emerges as sole leader",
-          "link": "https://en.chessbase.com/post/tegernsee-open-2026-r6",
-          "summary": "Indian grandmaster G.N. Gopal has taken the sole lead at the Bavarian Chess Championship in Gmund am Tegernsee, reaching 5½/6 points after defeating 15-year-old German IM Hussain Besou on Thursday. Twelve players follow…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-06T08:50:00.000Z"
-        },
-        {
-          "title": "World Senior Championships underway in Serbia: Cramling, Georgiev and Gaprindashvili among participants",
-          "link": "https://en.chessbase.com/post/world-senior-championship-2026-r3",
-          "summary": "The 2026 FIDE World Senior Chess Championships are taking place in Vrnjačka Banja, Serbia, from 3 to 14 November. A total of 385 players from 65 federations are competing for four world titles, divided into the open and…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-06T06:50:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-06T19:37:10.000Z"
-        },
-        {
-          "title": "Why is Britain refusing to pay slavery reparations?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
-          "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
+          "title": "Pakistani astronaut to join China’s next space station mission",
+          "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+          "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T19:34:33.000Z"
+          "publishedAt": "2026-11-07T10:17:53.000Z"
         },
         {
-          "title": "Could Trump’s veto stop the Democratic majority?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
-          "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
+          "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+          "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+          "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T19:18:33.000Z"
+          "publishedAt": "2026-11-07T09:48:11.000Z"
         },
         {
-          "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-          "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-          "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+          "title": "China’s e-bikes boom as fuel prices rise",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
+          "summary": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T19:16:07.000Z"
+          "publishedAt": "2026-11-07T09:30:07.000Z"
         },
         {
-          "title": "Trump says making adviser Stephen Miller White House chief of staff",
-          "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-          "summary": "This is a breaking news story.",
+          "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
+          "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
+          "summary": "The first Muslim senator's new committee will let him raise money for other candidates.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-06T19:08:31.000Z"
+          "publishedAt": "2026-11-07T09:18:53.000Z"
+        },
+        {
+          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+          "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+          "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T08:45:36.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Springboks duo hailed by injured Italy star: ‘They’re probably the best centre partnership in the world’",
-          "link": "https://www.planetrugby.com/news/springboks-duo-damian-de-allende-and-jesse-kriel-hailed-by-italy-centre-nacho-brex",
-          "summary": "Italy will be without key centre pairing Nacho Brex and Tommaso Menoncello against the Springboks in Turin on Saturday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/06162739/Tommaso-Menoncello-and-Nacho-Brex-for-Italy-and-Springboks-duo-Damian-de-Allende-and-Jesse-Kriel-inset-Alamy-120x120.jpg",
+          "title": "Big Vic tells Sacha: Less flash, more control",
+          "link": "https://www.sarugbymag.co.za/big-vic-tells-sacha-less-flash-control/",
+          "summary": "Victor Matfield wants Sacha Feinberg-Mngomezulu to show he can be more than just a provider of magic moments when the Springboks face Italy in Turin on Saturday. The post Big Vic tells Sacha: Less flash, more control…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/09/Sacha-Feinberg-Mngomezulu-6-Sep-2025-Craig-ButlandMB-MediaGetty-Images-e1757586155764.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-07T09:46:00.000Z"
+        },
+        {
+          "title": "Stick: Boks want to go all out",
+          "link": "https://www.sarugbymag.co.za/stick-boks-want-go/",
+          "summary": "Assistant coach Mzwandile Stick says the Springboks are determined to win of their remaining Tests this year. The post Stick: Boks want to go all out appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/07/Kurt-Lee-Arendese-e1751779339466.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-07T07:29:35.000Z"
+        },
+        {
+          "title": "Victor Matfield: Where Sacha Feinberg-Mngomezulu ‘needs’ to step up after his ‘issues’ this year",
+          "link": "https://www.planetrugby.com/news/victor-matfield-where-sacha-feinberg-mngomezulu-needs-to-step-up-after-his-issues-this-year",
+          "summary": "The Springboks star has struggled for form in 2026.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/07132339/Sacha-Feinberg-Mngomezulu-and-Victor-Matfield-2026-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-06T16:38:24.000Z"
+          "publishedAt": "2026-11-07T07:24:56.000Z"
         },
         {
-          "title": "Kolisi happy to have Pietie back home",
-          "link": "https://www.sarugbymag.co.za/kolisi-happy-pietie-back-home/",
-          "summary": "Springbok and Stormers star Siya Kolisi expects that local derbies in the URC will be “on fire” next season as a result of the influx of South African players from Japan. The post Kolisi happy to have Pietie back home…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2614176-e1793976651279.jpg",
+          "title": "Boks warned: Ireland can be ‘more ruthless’",
+          "link": "https://www.sarugbymag.co.za/boks-warned-ireland-can-be-more-ruthless/",
+          "summary": "Coach Andy Farrell says Ireland still have work to do despite their 42-12 thrashing of Argentina in Dublin on Friday night. The post Boks warned: Ireland can be ‘more ruthless’ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303880353-e1794028668521.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T14:55:50.000Z"
+          "publishedAt": "2026-11-07T05:18:05.000Z"
         },
         {
-          "title": "Stokke: Don’t give Italy room to move",
-          "link": "https://www.sarugbymag.co.za/stokke-dont-give-italy-room-move/",
-          "summary": "Springbok assistant coach Mzwandile Stick says a depleted Italy side remain dangerous and the world champions will only worry about the bigger picture once they've won in Turin. The post Stokke: Don’t give Italy room to…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Monty-Ioane-15-November-2025-Timothy-Rogers-Getty-Images-e1793971913533.jpg",
+          "title": "Keenan hat-trick inspires Ireland rout",
+          "link": "https://www.sarugbymag.co.za/keenan-hat-trick-inspires-ireland-rout/",
+          "summary": "Fullback Hugo Keenan scored three tries as Ireland hammered Argentina in Friday night's Nations Championship Test at the Aviva Stadium. The post Keenan hat-trick inspires Ireland rout appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Hugo-Keenan-6-November-2026-David-Rogers-Getty-Images-e1794025629473.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T13:48:08.000Z"
-        },
-        {
-          "title": "Siya not stressing about All Blacks",
-          "link": "https://www.sarugbymag.co.za/siya-not-stressing-blacks/",
-          "summary": "Siya Kolisi says the Springboks must focus on beating Italy on Saturday, rather than thinking about how points differential could affect the Nations Championship title race. The post Siya not stressing about All Blacks…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2645594-e1793969949353.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T13:46:50.000Z"
-        },
-        {
-          "title": "Boks’ hearts, minds with Hyron’s family",
-          "link": "https://www.sarugbymag.co.za/boks-hearts-minds-hyrons-family/",
-          "summary": "Siya Kolisi remembers former teammate Hyron Andrews as an amazing human being who brought energy and positivity to any team he represented. The post Boks’ hearts, minds with Hyron’s family appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_1752629-e1793981372352.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-06T13:45:10.000Z"
+          "publishedAt": "2026-11-07T04:33:06.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "'Don't think everyone would have known' - Lehmann denies Khawaja's claim",
+          "link": "https://www.cricinfo.com/ci/content/story/1561759.html?ex_cid=OTC-RSS",
+          "summary": "\"That's part and parcel of selling books, I suppose,\" Darren Lehmann, Australia head coach on that 2018 tour of South Africa, says about the timing of Usman Khawaja's revelation",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/271200/271229.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-07T08:40:44.000Z"
+        },
         {
           "title": "Somerset confirm Migael Pretorius return for 2027",
           "link": "https://www.cricinfo.com/ci/content/story/1561669.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/326900/326979.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-03T11:14:16.000Z"
-        },
-        {
-          "title": "Verreynne, Prince handed official reprimands and one demerit point each",
-          "link": "https://www.cricinfo.com/ci/content/story/1561133.html?ex_cid=OTC-RSS",
-          "summary": "They breached Level 1 of the ICC Code of Conduct in Cape Town for showing dissent after Marques Ackerman's dismissal in the second innings",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/401500/401569.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-02T10:52:46.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-06T19:44:14.974Z",
+    "generatedAt": "2026-11-07T10:44:24.033Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 3h 16m"
     },
     "forecast": [
-      {
-        "date": "2026-11-06",
-        "day": "Fri",
-        "dayOfMonth": 6,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-07",
         "day": "Sat",
         "dayOfMonth": 7,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-08",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-09",
         "day": "Mon",
         "dayOfMonth": 9,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-10",
         "day": "Tue",
         "dayOfMonth": 10,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-11",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-13",
+        "day": "Fri",
+        "dayOfMonth": 13,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-06",
+        "date": "2026-11-07",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-06",
+        "date": "2026-11-07",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Mon 9, 09:00–12:00"
+        "etr": "Tue 10, 09:00–12:00"
       }
     ],
     "reliability": {
