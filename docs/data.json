@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-07T17:53:19.898Z",
-  "edition": "Updated 19:53 SAST — Sat, 07 Nov",
+  "generatedAt": "2026-11-07T22:23:50.613Z",
+  "edition": "Morning Edition — Sun, 08 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer",
+          "link": "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
+          "summary": "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-07T20:25:00.000Z"
+        },
+        {
+          "title": "The young king faces his toughest challenge",
+          "link": "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier",
+          "summary": "Gukesh Dommaraju will defend his world title against Javokhir Sindarov in Geneva after a remarkable rise that made him the youngest undisputed champion in history. Since his 2024 triumph, however, the Indian grandmaster…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-07T19:20:00.000Z"
+        },
         {
           "title": "Bavarian Championship: Sasikiran joins Gopal in the lead",
           "link": "https://en.chessbase.com/post/tegernsee-open-2026-r7",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-07T07:00:00.000Z"
-        },
-        {
-          "title": "Yakubboev Continues Freestyle Friday Championship Push",
-          "link": "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
-          "summary": "GM Nodirbek Yakubboev won in a tense final round of Freestyle Friday on November 6 to lock up victory ahead of second-place GM Ian Nepomniachtchi. Both players improved their position in the standings for the Freestyle…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-06T22:12:27.000Z"
-        },
-        {
-          "title": "Nakamura, Maghsoodloo, Movahed Take 3 0 Thursday Titles",
-          "link": "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
-          "summary": "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-06T20:39:30.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-          "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
+          "title": "Police clash with protesters as anti-government rallies sweep France",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+          "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T17:16:50.000Z"
+          "publishedAt": "2026-11-07T21:24:10.000Z"
         },
         {
-          "title": "Jerusalem Daily: Heavy rains flood Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-          "summary": "Jerusalem Daily: Heavy rains flood Gaza",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T17:11:29.000Z"
-        },
-        {
-          "title": "Valencia vs Real Madrid LIVE: La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-          "summary": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T17:00:12.000Z"
-        },
-        {
-          "title": "Italian foreign minister says hackers leaked his personal data",
-          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-          "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
+          "title": "What we know so far after Krakow gun attack",
+          "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+          "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-07T16:50:06.000Z"
+          "publishedAt": "2026-11-07T21:13:24.000Z"
         },
         {
-          "title": "Israel builds 90km network of military roads across southern Lebanon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-          "summary": "Israel is building roads and military outposts across southern Lebanon.",
+          "title": "Mélenchon promises action against Israeli annexation if elected President",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+          "summary": "Mélenchon promises action against Israeli annexation if elected President",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T16:30:33.000Z"
+          "publishedAt": "2026-11-07T20:53:47.000Z"
+        },
+        {
+          "title": "Who is behind Europe’s suspected hybrid attacks?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+          "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T20:48:58.000Z"
+        },
+        {
+          "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+          "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-07T20:44:34.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "All Blacks outclass Scotland",
-          "link": "https://www.sarugbymag.co.za/blacks-outclass-scotland/",
-          "summary": "Fullback Beauden Barrett scored two tries in the All Blacks' comfortable bonus-point Nations Championship win against Scotland at Murrayfield on Saturday. The post All Blacks outclass Scotland appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Beauden-Barrett-7-November-2026-David-Rogers-Getty-Images-e1794066501205.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T16:01:13.000Z"
-        },
-        {
-          "title": "Rassie: Boks weren’t perfect",
-          "link": "https://www.sarugbymag.co.za/rassie-boks-werent-perfect/",
-          "summary": "Rassie Erasmus was pleased with the Springboks' 66-7 win against Italy but says they must raise their game against France and Ireland. The post Rassie: Boks weren’t perfect appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ethan-Hooker-Paul-de-Villiers-7-November-2026-Valerio-Pennicino-Getty-Images-e1794065087860.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T15:28:33.000Z"
-        },
-        {
-          "title": "Italy v South Africa: Winners and losers as ‘rising star’ shines for Springboks while Azzurri playmaker ‘fails miserably’ in defeat",
-          "link": "https://www.planetrugby.com/news/italy-v-south-africa-winners-and-losers-as-rising-star-shines-for-springboks-while-azzurri-playmaker-fails-miserably-in-defeat",
-          "summary": "Our winners and losers from the Springboks' 66-7 victory over Italy in their Nations Championship clash at the Allianz Stadium in Turin.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07143942/Paolo-Garbisi-and-Morne-van-den-Berg-image-120x120.jpg",
+          "title": "World Rugby rankings: How Saturday’s Nations Championship and Nations Cup action affects the standings",
+          "link": "https://www.planetrugby.com/news/world-rugby-rankings-how-saturdays-nations-championship-and-nations-cup-action-affects-the-standings",
+          "summary": "The Springboks retained their place at the top of the World Rugby rankings after their 66-7 victory over Italy in Turin on Saturday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07214503/Springboks-centre-Jesse-Kriel-and-Wallace-Sititi-for-All-Blacks-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-07T15:11:30.000Z"
+          "publishedAt": "2026-11-07T22:06:06.000Z"
         },
         {
-          "title": "Erasmus gives update on Moerat",
-          "link": "https://www.sarugbymag.co.za/erasmus-gives-update-moerat/",
-          "summary": "Head coach Rassie Erasmus provided news on Salmaan Moerat after the Springbok lock was a late withdrawal ahead of Saturday’s demolition job of Italy in Turin. The post Erasmus gives update on Moerat appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2422287-e1794062289818.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T14:25:46.000Z"
+          "title": "Opinion: Average All Blacks blunder on and why someone other than the Springboks will expose them",
+          "link": "https://www.planetrugby.com/news/opinion-average-all-blacks-blunder-on-and-why-someone-other-than-the-springboks-will-expose-them",
+          "summary": "This is still an average All Blacks side and someone other than the Springboks will expose them eventually, writes Hamish Bidwell.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07204203/All-Blacks-after-Ethan-de-Groot-try-and-head-coach-Dave-Rennie-inset-Alamy-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-07T20:43:39.000Z"
         },
         {
-          "title": "Krappie: We forced our game onto Italy",
-          "link": "https://www.sarugbymag.co.za/krappie-we-forced-our-game-onto-italy/",
-          "summary": "Scrumhalf Morné van den Berg says the Springboks played to their strengths in Saturday's 66-7 rout of Italy in Turin. The post Krappie: We forced our game onto Italy appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/GettyImages-2303963155-e1794065826863.jpg",
+          "title": "Rassie Erasmus: ‘Springboks have to play much better against France and Ireland’",
+          "link": "https://www.planetrugby.com/news/rassie-erasmus-springboks-have-to-play-much-better-against-france-and-ireland",
+          "summary": "Rassie Erasmus has called for improvements despite claiming a satisfying victory over Italy.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07193025/Springboks-head-coach-Rassie-Erasmus-and-an-inset-of-Ethan-Hooker-celebrating-a-try-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-07T20:02:10.000Z"
+        },
+        {
+          "title": "Rassie Erasmus explains Salmaan Moerat’s late withdrawal and issues Springboks injury update: ‘Hopefully it’s not too serious’",
+          "link": "https://www.planetrugby.com/news/rassie-erasmus-explains-salmaan-moerats-late-withdrawal-and-issues-springboks-injury-update-hopefully-its-not-too-serious",
+          "summary": "Rassie Erasmus has issued a squad update following the Springboks win over Italy.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07183808/Springboks-lock-Salmaan-Moerat-and-an-inset-of-Sacha-Feinberg-Mngomezulu-and-Morne-van-den-Berg-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-07T19:15:35.000Z"
+        },
+        {
+          "title": "Rees-Lightning sparks Wales to victory",
+          "link": "https://www.sarugbymag.co.za/rees-lightning-sparks-wales-victory/",
+          "summary": "Wales edged Japan in a tense Nations Championship clash in Cardiff on Saturday. The post Rees-Lightning sparks Wales to victory appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303994097-e1794076500596.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T14:20:20.000Z"
+          "publishedAt": "2026-11-07T18:36:18.000Z"
         }
       ]
     },
@@ -1655,7 +1655,7 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-07T17:53:19.954Z",
+    "generatedAt": "2026-11-07T22:23:50.685Z",
     "status": {
       "level": "operational",
       "label": "🟢 Grid Operational"
