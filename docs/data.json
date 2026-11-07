@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-07T10:44:23.962Z",
-  "edition": "Updated 12:44 SAST — Sat, 07 Nov",
+  "generatedAt": "2026-11-07T17:53:19.898Z",
+  "edition": "Updated 19:53 SAST — Sat, 07 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Bavarian Championship: Sasikiran joins Gopal in the lead",
+          "link": "https://en.chessbase.com/post/tegernsee-open-2026-r7",
+          "summary": "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal)…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-07T15:00:00.000Z"
+        },
+        {
+          "title": "Janak Awatramani Wins His 2nd Crazyhouse Championship",
+          "link": "https://www.chess.com/news/view/2026-crazyhouse-chess-championship-awatramani",
+          "summary": "NM Janak Awatramani beat GM Guillermo Vazquez 3-0 in the Grand Final to win the 2026 Crazyhouse Championship, following up on his victory in 2024. Crazyhouse, as commentator GM Yasser Seirawan mentioned, is often called…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-07T13:13:00.000Z"
+        },
         {
           "title": "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski",
           "link": "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-06T20:39:30.000Z"
-        },
-        {
-          "title": "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title",
-          "link": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
-          "summary": "GM Magnus Carlsen will have the chance to make it three titles in three appearances as chess was confirmed for the 2027 Esports World Cup (EWC) today. The event returns to Riyadh, Saudi Arabia, next summer, with…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-06T15:07:46.000Z"
-        },
-        {
-          "title": "Who will become the FIDE World Combined Champion?",
-          "link": "https://en.chessbase.com/post/total-chess-world-ch-2026-combined-champion",
-          "summary": "The Total Chess World Championship series is a new tournament format combining three different time controls: fast classic, rapid and blitz. The winner of the series will be crowned the FIDE World Combined Champion.…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-06T15:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Pakistani astronaut to join China’s next space station mission",
-          "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
-          "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
+          "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+          "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T10:17:53.000Z"
+          "publishedAt": "2026-11-07T17:16:50.000Z"
         },
         {
-          "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-          "link": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
-          "summary": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
+          "title": "Jerusalem Daily: Heavy rains flood Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+          "summary": "Jerusalem Daily: Heavy rains flood Gaza",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T09:48:11.000Z"
+          "publishedAt": "2026-11-07T17:11:29.000Z"
         },
         {
-          "title": "China’s e-bikes boom as fuel prices rise",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
-          "summary": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
+          "title": "Valencia vs Real Madrid LIVE: La Liga",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+          "summary": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T09:30:07.000Z"
+          "publishedAt": "2026-11-07T17:00:12.000Z"
         },
         {
-          "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
-          "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
-          "summary": "The first Muslim senator's new committee will let him raise money for other candidates.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T09:18:53.000Z"
+          "title": "Italian foreign minister says hackers leaked his personal data",
+          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-07T16:50:06.000Z"
         },
         {
-          "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-          "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-          "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+          "title": "Israel builds 90km network of military roads across southern Lebanon",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+          "summary": "Israel is building roads and military outposts across southern Lebanon.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-07T08:45:36.000Z"
+          "publishedAt": "2026-11-07T16:30:33.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Big Vic tells Sacha: Less flash, more control",
-          "link": "https://www.sarugbymag.co.za/big-vic-tells-sacha-less-flash-control/",
-          "summary": "Victor Matfield wants Sacha Feinberg-Mngomezulu to show he can be more than just a provider of magic moments when the Springboks face Italy in Turin on Saturday. The post Big Vic tells Sacha: Less flash, more control…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/09/Sacha-Feinberg-Mngomezulu-6-Sep-2025-Craig-ButlandMB-MediaGetty-Images-e1757586155764.jpg",
+          "title": "All Blacks outclass Scotland",
+          "link": "https://www.sarugbymag.co.za/blacks-outclass-scotland/",
+          "summary": "Fullback Beauden Barrett scored two tries in the All Blacks' comfortable bonus-point Nations Championship win against Scotland at Murrayfield on Saturday. The post All Blacks outclass Scotland appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Beauden-Barrett-7-November-2026-David-Rogers-Getty-Images-e1794066501205.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T09:46:00.000Z"
+          "publishedAt": "2026-11-07T16:01:13.000Z"
         },
         {
-          "title": "Stick: Boks want to go all out",
-          "link": "https://www.sarugbymag.co.za/stick-boks-want-go/",
-          "summary": "Assistant coach Mzwandile Stick says the Springboks are determined to win of their remaining Tests this year. The post Stick: Boks want to go all out appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2025/07/Kurt-Lee-Arendese-e1751779339466.jpg",
+          "title": "Rassie: Boks weren’t perfect",
+          "link": "https://www.sarugbymag.co.za/rassie-boks-werent-perfect/",
+          "summary": "Rassie Erasmus was pleased with the Springboks' 66-7 win against Italy but says they must raise their game against France and Ireland. The post Rassie: Boks weren’t perfect appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ethan-Hooker-Paul-de-Villiers-7-November-2026-Valerio-Pennicino-Getty-Images-e1794065087860.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T07:29:35.000Z"
+          "publishedAt": "2026-11-07T15:28:33.000Z"
         },
         {
-          "title": "Victor Matfield: Where Sacha Feinberg-Mngomezulu ‘needs’ to step up after his ‘issues’ this year",
-          "link": "https://www.planetrugby.com/news/victor-matfield-where-sacha-feinberg-mngomezulu-needs-to-step-up-after-his-issues-this-year",
-          "summary": "The Springboks star has struggled for form in 2026.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/09/07132339/Sacha-Feinberg-Mngomezulu-and-Victor-Matfield-2026-1-120x120.jpg",
+          "title": "Italy v South Africa: Winners and losers as ‘rising star’ shines for Springboks while Azzurri playmaker ‘fails miserably’ in defeat",
+          "link": "https://www.planetrugby.com/news/italy-v-south-africa-winners-and-losers-as-rising-star-shines-for-springboks-while-azzurri-playmaker-fails-miserably-in-defeat",
+          "summary": "Our winners and losers from the Springboks' 66-7 victory over Italy in their Nations Championship clash at the Allianz Stadium in Turin.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/07143942/Paolo-Garbisi-and-Morne-van-den-Berg-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-07T07:24:56.000Z"
+          "publishedAt": "2026-11-07T15:11:30.000Z"
         },
         {
-          "title": "Boks warned: Ireland can be ‘more ruthless’",
-          "link": "https://www.sarugbymag.co.za/boks-warned-ireland-can-be-more-ruthless/",
-          "summary": "Coach Andy Farrell says Ireland still have work to do despite their 42-12 thrashing of Argentina in Dublin on Friday night. The post Boks warned: Ireland can be ‘more ruthless’ appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303880353-e1794028668521.jpg",
+          "title": "Erasmus gives update on Moerat",
+          "link": "https://www.sarugbymag.co.za/erasmus-gives-update-moerat/",
+          "summary": "Head coach Rassie Erasmus provided news on Salmaan Moerat after the Springbok lock was a late withdrawal ahead of Saturday’s demolition job of Italy in Turin. The post Erasmus gives update on Moerat appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2422287-e1794062289818.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T05:18:05.000Z"
+          "publishedAt": "2026-11-07T14:25:46.000Z"
         },
         {
-          "title": "Keenan hat-trick inspires Ireland rout",
-          "link": "https://www.sarugbymag.co.za/keenan-hat-trick-inspires-ireland-rout/",
-          "summary": "Fullback Hugo Keenan scored three tries as Ireland hammered Argentina in Friday night's Nations Championship Test at the Aviva Stadium. The post Keenan hat-trick inspires Ireland rout appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Hugo-Keenan-6-November-2026-David-Rogers-Getty-Images-e1794025629473.jpg",
+          "title": "Krappie: We forced our game onto Italy",
+          "link": "https://www.sarugbymag.co.za/krappie-we-forced-our-game-onto-italy/",
+          "summary": "Scrumhalf Morné van den Berg says the Springboks played to their strengths in Saturday's 66-7 rout of Italy in Turin. The post Krappie: We forced our game onto Italy appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/GettyImages-2303963155-e1794065826863.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-07T04:33:06.000Z"
+          "publishedAt": "2026-11-07T14:20:20.000Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
           "summary": "\"That's part and parcel of selling books, I suppose,\" Darren Lehmann, Australia head coach on that 2018 tour of South Africa, says about the timing of Usman Khawaja's revelation",
           "image": "http://p.imgci.com/db/PICTURES/CMS/271200/271229.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-07T08:40:44.000Z"
+          "publishedAt": "2026-11-07T12:19:32.000Z"
         },
         {
           "title": "Somerset confirm Migael Pretorius return for 2027",
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-07T10:44:24.033Z",
+    "generatedAt": "2026-11-07T17:53:19.954Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 3h 16m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
