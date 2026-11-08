@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T18:07:43.472Z",
-  "edition": "Updated 20:07 SAST — Sun, 08 Nov",
+  "generatedAt": "2026-11-08T22:33:46.266Z",
+  "edition": "Morning Edition — Mon, 09 Nov",
   "sections": [
     {
       "id": "chess",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-          "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+          "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-08T17:59:03.000Z"
+          "publishedAt": "2026-11-08T22:05:12.000Z"
         },
         {
-          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-          "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-08T17:35:13.000Z"
-        },
-        {
-          "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-          "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+          "title": "Deadly sand cliff collapses on displaced families in Gaza",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+          "summary": "Deadly sand cliff collapses on displaced families in Gaza",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T17:11:52.000Z"
+          "publishedAt": "2026-11-08T21:05:07.000Z"
         },
         {
-          "title": "Photos: Diwali celebrations light up India and its global diaspora",
-          "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-          "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+          "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+          "summary": "‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T17:03:14.000Z"
+          "publishedAt": "2026-11-08T21:01:33.000Z"
         },
         {
-          "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-          "summary": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
+          "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+          "summary": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T17:00:00.000Z"
+          "publishedAt": "2026-11-08T20:51:22.000Z"
+        },
+        {
+          "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+          "summary": "Pope Leo XIV delivers homily to thousands in Uruguay",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-08T20:29:47.000Z"
         }
       ]
     },
@@ -1655,7 +1655,7 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-08T18:07:43.524Z",
+    "generatedAt": "2026-11-08T22:33:46.333Z",
     "status": {
       "level": "operational",
       "label": "🟢 Grid Operational"
