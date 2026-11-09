@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-11-08T22:33:46.266Z",
-  "edition": "Morning Edition — Mon, 09 Nov",
+  "generatedAt": "2026-11-09T12:14:42.756Z",
+  "edition": "Updated 14:14 SAST — Mon, 09 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Bavarian Championship: Four players finish tied for first, Sasikiran claims title on tiebreaks",
+          "link": "https://en.chessbase.com/post/tegernsee-open-2026-r9",
+          "summary": "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7½/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-09T08:30:00.000Z"
+        },
         {
           "title": "Bodhana Sivanandan joins strong field in Salamanca",
           "link": "https://en.chessbase.com/post/salamanca-festival-2026-preview",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-07T23:00:00.000Z"
-        },
-        {
-          "title": "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer",
-          "link": "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
-          "summary": "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-07T20:25:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
+          "title": "Krakow shooting suspect has died in hospital, police say",
+          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b8a/live/d53f0da0-dc36-11f1-93e1-3b657b665bcf.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-08T22:05:12.000Z"
+          "publishedAt": "2026-11-09T11:56:25.000Z"
         },
         {
-          "title": "Deadly sand cliff collapses on displaced families in Gaza",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
-          "summary": "Deadly sand cliff collapses on displaced families in Gaza",
+          "title": "Paraguay former president’s mansion raided in ongoing investigation",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+          "summary": "A hidden vault was found in Paraguay's former president's mansion amid ongoing banking scandal investigation.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T21:05:07.000Z"
+          "publishedAt": "2026-11-09T11:19:45.000Z"
         },
         {
-          "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
-          "summary": "‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T21:01:33.000Z"
+          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+          "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png",
+          "source": "BBC News",
+          "publishedAt": "2026-11-09T10:59:26.000Z"
         },
         {
-          "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-          "summary": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
+          "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+          "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+          "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T20:51:22.000Z"
+          "publishedAt": "2026-11-09T10:50:49.000Z"
         },
         {
-          "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
-          "summary": "Pope Leo XIV delivers homily to thousands in Uruguay",
+          "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+          "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+          "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-08T20:29:47.000Z"
+          "publishedAt": "2026-11-09T10:49:02.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Pollock on the double as Poms pummel Oz",
-          "link": "https://www.sarugbymag.co.za/pollock-double-poms-pummel-oz/",
-          "summary": "Henry Pollock came off the bench to score a brace in England’s seven-try hammering of the Wallabies at Twickenham on Sunday. The post Pollock on the double as Poms pummel Oz appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2304140227-e1794157125635.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-08T17:13:26.000Z"
-        },
-        {
-          "title": "The ‘unique’ reason Springboks stars are taking massive pay cuts to return from Japan",
-          "link": "https://www.planetrugby.com/news/the-unique-reason-springboks-stars-are-taking-massive-pay-cuts-to-return-from-japan",
-          "summary": "Why Springboks stars are sacrificing a much bigger wage to return from Japan.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/08155310/Pieter-Steph-du-Toit-and-Malcolm-Marx-1-120x120.jpg",
+          "title": "Springboks team: Rassie Erasmus resists Eben Etzebeth temptation as he keeps changes to a minimum for ‘intense’ Test against France",
+          "link": "https://www.planetrugby.com/news/springboks-team-rassie-erasmus-resists-eben-etzebeth-temptation-as-he-keeps-changes-to-a-minimum-for-intense-test-against-france",
+          "summary": "Springboks head coach Rassie Erasmus has kept changes to a minimum by making just one alteration to his starting line-up for their Nations Championship Test against France in Paris on Friday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/09120130/Eben-Etzebeth-and-Rassie-Erasmus-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-08T16:21:50.000Z"
+          "publishedAt": "2026-11-09T12:07:51.000Z"
         },
         {
-          "title": "Bok champ replaces crocked rookie",
-          "link": "https://www.sarugbymag.co.za/bok-champ-replaces-crocked-rookie/",
-          "summary": "The Springboks have called up a double World Cup winner for the remainder of the Nations Championship, with flyhalf Yaqeen Ahmed sent home. The post Bok champ replaces crocked rookie appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2238538198-e1794152487237.jpg",
+          "title": "Why Rassie didn’t rush back Eben",
+          "link": "https://www.sarugbymag.co.za/rassie-didnt-rush-back-eben/",
+          "summary": "Springbok coach Rassie Erasmus has explained why veteran lock Eben Etzebeth wasn't selected for Friday night's Nations Championship Test against France in Paris. The post Why Rassie didn’t rush back Eben appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/01/Eben-Etzebeth-Franco-Mostert-16-August-2025-Sydney-Seshibedi-Gallo-Images-e1769862400778.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-08T15:55:01.000Z"
+          "publishedAt": "2026-11-09T11:43:10.000Z"
         },
         {
-          "title": "Mallett: French revenge burns deep",
-          "link": "https://www.sarugbymag.co.za/mallett-french-revenge-burns-deep/",
-          "summary": "Nick Mallett reckons France's lingering resentment over their 1995 and 2023 World Cup disappointments against the Springboks will fuel the fire ahead of Friday's clash in Paris. The post Mallett: French revenge burns…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2245790484-e1794145986497.jpg",
+          "title": "Boks load up front row for France",
+          "link": "https://www.sarugbymag.co.za/boks-load-up-front-row-for-france/",
+          "summary": "Coach Rassie Erasmus has made two changes to the Springbok match 23 for Friday night's Nations Championship clash against France in Paris. The post Boks load up front row for France appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626221-e1790568288700.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-08T14:29:03.000Z"
+          "publishedAt": "2026-11-09T11:19:20.000Z"
         },
         {
-          "title": "France suffer fly-half crisis ahead of Springboks showdown as injuries mount for Fabien Galthié",
-          "link": "https://www.planetrugby.com/news/france-suffer-fly-half-crisis-ahead-of-springboks-showdown-as-injuries-mount-for-fabien-galthie",
-          "summary": "France have named a changed 42-man squad to take on the Springboks.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/08134637/France-squad-Springboks-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-08T14:07:36.000Z"
+          "title": "Boland boss: Bok deal a work in progress",
+          "link": "https://www.sarugbymag.co.za/boland-boss-bok-deal-work-progress/",
+          "summary": "Hawies Fourie says there is much to sort out before Pieter-Steph du Toit and Damian de Allende’s potential move to the Boland Cavaliers “becomes a reality”. The post Boland boss: Bok deal a work in progress appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/1749111216-e1794208058897.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-09T07:32:44.000Z"
+        },
+        {
+          "title": "Mallett: Bok front row must ‘destroy’ France",
+          "link": "https://www.sarugbymag.co.za/mallett-bok-front-row-must-destroy-france/",
+          "summary": "Nick Mallett wants Rassie Erasmus to select a pack of forwards that will pummel France into submission in Paris on Friday night. The post Mallett: Bok front row must ‘destroy’ France appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Springboks-Italy-scrum-Alessandro-Fusco-7-November-2026-Simone-Arveda-Getty-Images-e1794203369873.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-09T05:53:44.000Z"
         }
       ]
     },
@@ -145,44 +145,44 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Rodrigues back from injury, Shreyanka dropped from T20Is for South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1562012.html?ex_cid=OTC-RSS",
+          "summary": "Rodrigues returned to action recently in the domestic T20s where she scored a century for Mumbai",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416194.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-09T12:09:52.000Z"
+        },
+        {
+          "title": "Patterson-White wins maiden Test call in England squad for South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1562006.html?ex_cid=OTC-RSS",
+          "summary": "Nottinghamshire allrounder included ahead of Shoaib Bashir and Rehan Ahmed",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-09T12:09:13.000Z"
+        },
+        {
+          "title": "Bangladesh call up uncapped batter Mahfijul Islam for Tests in South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1561950.html?ex_cid=OTC-RSS",
+          "summary": "Mohammad Naim and Khaled Ahmed have been brought into the squad for the two-Test series in South Africa in place of Soumya Sarkar and Nayeem Hasan",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425000/425007.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-09T06:36:14.000Z"
+        },
+        {
+          "title": "Smith sees specialist in New York, in line for Sheffield Shield return",
+          "link": "https://www.cricinfo.com/ci/content/story/1561926.html?ex_cid=OTC-RSS",
+          "summary": "Steven Smith has had further investigation of the neck problem which ruled him out of the final Test in South Africa",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/424000/424097.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-09T04:00:25.000Z"
+        },
+        {
           "title": "'Don't think everyone would have known' - Lehmann denies Khawaja's claim",
           "link": "https://www.cricinfo.com/ci/content/story/1561759.html?ex_cid=OTC-RSS",
           "summary": "\"That's part and parcel of selling books, I suppose,\" Darren Lehmann, Australia head coach on that 2018 tour of South Africa, says about the timing of Usman Khawaja's revelation",
           "image": "http://p.imgci.com/db/PICTURES/CMS/271200/271229.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-07T12:19:32.000Z"
-        },
-        {
-          "title": "Somerset confirm Migael Pretorius return for 2027",
-          "link": "https://www.cricinfo.com/ci/content/story/1561669.html?ex_cid=OTC-RSS",
-          "summary": "South African allrounder signs for fourth consecutive summer at Taunton",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/421500/421570.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-06T13:10:07.000Z"
-        },
-        {
-          "title": "Cummins: 'I think we're a really good side'",
-          "link": "https://www.cricinfo.com/ci/content/story/1560873.html?ex_cid=OTC-RSS",
-          "summary": "Skipper says he's relatively happy with how Australia is going despite 2-1 series loss to SA and losing four of their last seven Tests",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/424600/424626.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-06T08:27:32.000Z"
-        },
-        {
-          "title": "Starc displaces Jansen to reclaim top spot in ICC rankings for Test bowlers",
-          "link": "https://www.cricinfo.com/ci/content/story/1561383.html?ex_cid=OTC-RSS",
-          "summary": "South Africa offspinner Simon Harmer claimed ten wickets in Cape Town and went up to seventh among bowlers",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/424500/424573.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-04T09:37:43.000Z"
-        },
-        {
-          "title": "Harmer calls on 'genius' Carl Crowe to boost English spin prowess",
-          "link": "https://www.cricinfo.com/ci/content/story/1561282.html?ex_cid=OTC-RSS",
-          "summary": "South Africa and Essex spinner believes Jack Leach remains England's best bet for Test role",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/326900/326979.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-03T11:14:16.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-08T22:33:46.333Z",
+    "generatedAt": "2026-11-09T12:14:42.822Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 1h 45m"
     },
     "forecast": [
-      {
-        "date": "2026-11-08",
-        "day": "Sun",
-        "dayOfMonth": 8,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-09",
         "day": "Mon",
         "dayOfMonth": 9,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-10",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-11",
         "day": "Wed",
         "dayOfMonth": 11,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-12",
         "day": "Thu",
         "dayOfMonth": 12,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-13",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-15",
+        "day": "Sun",
+        "dayOfMonth": 15,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-08",
+        "date": "2026-11-09",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Wed 11, 09:00–12:00"
+        "etr": "Thu 12, 09:00–12:00"
       }
     ],
     "reliability": {
