@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-09T12:14:42.756Z",
-  "edition": "Updated 14:14 SAST — Mon, 09 Nov",
+  "generatedAt": "2026-11-09T22:45:28.131Z",
+  "edition": "Morning Edition — Tue, 10 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Pranesh wins Chola Chess Open as young talents make their mark",
+          "link": "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
+          "summary": "Pranesh M won the inaugural Chola Chess Open in Chennai, scoring 7/9 points after finishing with two consecutive victories. The Indian grandmaster ended half a point ahead of five players, including runner-up S. L.…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-09T19:30:00.000Z"
+        },
+        {
+          "title": "3 In 4 Women Surveyed Report Discrimination Or Harassment In Chess",
+          "link": "https://www.chess.com/news/view/fide-women-in-chess-survey-discrimination-harassment",
+          "summary": "In a new FIDE survey, three in four women and girls who responded had experienced discrimination or harassment in chess settings, while 44% said they had considered leaving the game. Women and girls account for roughly…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-09T12:56:00.000Z"
+        },
         {
           "title": "Bavarian Championship: Four players finish tied for first, Sasikiran claims title on tiebreaks",
           "link": "https://en.chessbase.com/post/tegernsee-open-2026-r9",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-08T13:40:00.000Z"
-        },
-        {
-          "title": "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes 2nd",
-          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-7-2026",
-          "summary": "GM Hikaru Nakamura wasted little time reclaiming his place at the top of the Bullet Brawl standings, capturing his 73rd title after finishing ahead of GM Ediz Gurel and GM Parham Maghsoodloo in Saturday's 225-player…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-08T10:41:00.000Z"
-        },
-        {
-          "title": "100-0 Denied: Bullet Grandpa Beats Dubov In Game 28",
-          "link": "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
-          "summary": "Arizona businessman and amateur chess player Josh Smith (@BulletGrandpa) won a single game against super-GM Daniil Dubov in the final match of the 100-0 Project Season 1 to prevent a super-adoption. The question was…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-07T23:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-          "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b8a/live/d53f0da0-dc36-11f1-93e1-3b657b665bcf.jpg",
+          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+          "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-09T11:56:25.000Z"
+          "publishedAt": "2026-11-09T22:34:14.000Z"
         },
         {
-          "title": "Paraguay former president’s mansion raided in ongoing investigation",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
-          "summary": "A hidden vault was found in Paraguay's former president's mansion amid ongoing banking scandal investigation.",
+          "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+          "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+          "summary": "The US president met with Qatar's prime minister to discuss mediation with Iran.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T11:19:45.000Z"
+          "publishedAt": "2026-11-09T22:31:19.000Z"
         },
         {
-          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-          "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-          "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png",
-          "source": "BBC News",
-          "publishedAt": "2026-11-09T10:59:26.000Z"
-        },
-        {
-          "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-          "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-          "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
+          "title": "Pope meets with clergy abuse survivors in Argentina",
+          "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+          "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T10:50:49.000Z"
+          "publishedAt": "2026-11-09T22:14:37.000Z"
         },
         {
-          "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-          "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-          "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
+          "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+          "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+          "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T10:49:02.000Z"
+          "publishedAt": "2026-11-09T22:13:29.000Z"
+        },
+        {
+          "title": "Saudi Arabia reports new attack on key East-West pipeline",
+          "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+          "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-09T22:10:52.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Springboks team: Rassie Erasmus resists Eben Etzebeth temptation as he keeps changes to a minimum for ‘intense’ Test against France",
-          "link": "https://www.planetrugby.com/news/springboks-team-rassie-erasmus-resists-eben-etzebeth-temptation-as-he-keeps-changes-to-a-minimum-for-intense-test-against-france",
-          "summary": "Springboks head coach Rassie Erasmus has kept changes to a minimum by making just one alteration to his starting line-up for their Nations Championship Test against France in Paris on Friday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/09120130/Eben-Etzebeth-and-Rassie-Erasmus-image-120x120.jpg",
+          "title": "Ex-Springboks boss: ‘The All Blacks have learned from us’",
+          "link": "https://www.planetrugby.com/news/ex-springboks-boss-the-all-blacks-have-learned-from-us",
+          "summary": "Nick Mallett saw a distinct change in the All Blacks' game plan when put under pressure by Scotland.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/09133812/Scotland-v-All-Blacks-and-Rassie-Erasmus-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-09T12:07:51.000Z"
+          "publishedAt": "2026-11-09T20:27:26.000Z"
         },
         {
-          "title": "Why Rassie didn’t rush back Eben",
-          "link": "https://www.sarugbymag.co.za/rassie-didnt-rush-back-eben/",
-          "summary": "Springbok coach Rassie Erasmus has explained why veteran lock Eben Etzebeth wasn't selected for Friday night's Nations Championship Test against France in Paris. The post Why Rassie didn’t rush back Eben appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/01/Eben-Etzebeth-Franco-Mostert-16-August-2025-Sydney-Seshibedi-Gallo-Images-e1769862400778.jpg",
+          "title": "Keo & Zels: Rassie’s World Cup plan finally revealed",
+          "link": "https://www.sarugbymag.co.za/keo-zels-rassies-world-cup-plan-finally-revealed/",
+          "summary": "There can no longer be any doubt as to who Rassie is backing to play in next year's World Cup playoffs. The post Keo & Zels: Rassie’s World Cup plan finally revealed appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-5.41.50-PM.jpeg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T11:43:10.000Z"
+          "publishedAt": "2026-11-09T18:44:56.000Z"
         },
         {
-          "title": "Boks load up front row for France",
-          "link": "https://www.sarugbymag.co.za/boks-load-up-front-row-for-france/",
-          "summary": "Coach Rassie Erasmus has made two changes to the Springbok match 23 for Friday night's Nations Championship clash against France in Paris. The post Boks load up front row for France appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626221-e1790568288700.jpg",
+          "title": "Watch: Rassie fired up for French ‘cauldron’",
+          "link": "https://www.sarugbymag.co.za/watch-rassie-fired-french-cauldron/",
+          "summary": "Rassie Erasmus is relishing Friday night’s Nations Championship Test at the Stade de France, where the world champion Boks have beaten France five straight times since 2013. The post Watch: Rassie fired up for French…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2246399538-e1794245878622.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T11:19:20.000Z"
+          "publishedAt": "2026-11-09T17:38:48.000Z"
         },
         {
-          "title": "Boland boss: Bok deal a work in progress",
-          "link": "https://www.sarugbymag.co.za/boland-boss-bok-deal-work-progress/",
-          "summary": "Hawies Fourie says there is much to sort out before Pieter-Steph du Toit and Damian de Allende’s potential move to the Boland Cavaliers “becomes a reality”. The post Boland boss: Bok deal a work in progress appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/1749111216-e1794208058897.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T07:32:44.000Z"
+          "title": "Springboks team v France: Winners and losers as Wilco Louw’s strength ‘gives him the edge’ while World Cup winner’s versatility works against him",
+          "link": "https://www.planetrugby.com/news/springboks-team-v-france-winners-and-losers-as-wilco-louws-strength-gives-him-the-edge-while-world-cup-winners-versatility-works-against-him",
+          "summary": "The winners and losers from Springboks head coach Rassie Erasmus' matchday squad for Friday's Nations Championship Test against France in Paris.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/09161837/Wilco-Louw-and-Grant-Williams-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-09T16:29:57.000Z"
         },
         {
-          "title": "Mallett: Bok front row must ‘destroy’ France",
-          "link": "https://www.sarugbymag.co.za/mallett-bok-front-row-must-destroy-france/",
-          "summary": "Nick Mallett wants Rassie Erasmus to select a pack of forwards that will pummel France into submission in Paris on Friday night. The post Mallett: Bok front row must ‘destroy’ France appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Springboks-Italy-scrum-Alessandro-Fusco-7-November-2026-Simone-Arveda-Getty-Images-e1794203369873.jpg",
+          "title": "Ireland lose loosie, star in race to face Boks",
+          "link": "https://www.sarugbymag.co.za/ireland-lose-loosie-star-race-face-boks/",
+          "summary": "Ireland coach Andy Farrell will be sweating over the availability of hooker Dan Sheehan for next week's clash against the Springboks, with another key forward already ruled out. The post Ireland lose loosie, star in…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303878385-e1794239146478.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T05:53:44.000Z"
+          "publishedAt": "2026-11-09T15:47:08.000Z"
         }
       ]
     },
@@ -145,20 +145,28 @@
       "title": "Proteas",
       "articles": [
         {
-          "title": "Rodrigues back from injury, Shreyanka dropped from T20Is for South Africa",
-          "link": "https://www.cricinfo.com/ci/content/story/1562012.html?ex_cid=OTC-RSS",
-          "summary": "Rodrigues returned to action recently in the domestic T20s where she scored a century for Mumbai",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416194.jpg",
+          "title": "Dale Benkenstein appointed Bangladesh's batting specialist ahead of SA tour",
+          "link": "https://www.cricinfo.com/ci/content/story/1562055.html?ex_cid=OTC-RSS",
+          "summary": "Bangladesh are scheduled to tour South Africa in November and December 2026 to play two Tests, three ODIs and three T20Is",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/401200/401245.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-09T12:09:52.000Z"
+          "publishedAt": "2026-11-09T17:46:49.000Z"
         },
         {
-          "title": "Patterson-White wins maiden Test call in England squad for South Africa",
+          "title": "Patterson-White wins maiden England call in Test squad for South Africa",
           "link": "https://www.cricinfo.com/ci/content/story/1562006.html?ex_cid=OTC-RSS",
           "summary": "Nottinghamshire allrounder included ahead of Shoaib Bashir and Rehan Ahmed",
           "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-09T12:09:13.000Z"
+          "publishedAt": "2026-11-09T14:16:09.000Z"
+        },
+        {
+          "title": "Rodrigues, Amanjot back from injuries; Renuka picked only for T20Is for South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1562012.html?ex_cid=OTC-RSS",
+          "summary": "Rodrigues returned to action recently in the domestic T20s where she scored a century for Mumbai",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416194.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-09T13:42:25.000Z"
         },
         {
           "title": "Bangladesh call up uncapped batter Mahfijul Islam for Tests in South Africa",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/424000/424097.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-09T04:00:25.000Z"
-        },
-        {
-          "title": "'Don't think everyone would have known' - Lehmann denies Khawaja's claim",
-          "link": "https://www.cricinfo.com/ci/content/story/1561759.html?ex_cid=OTC-RSS",
-          "summary": "\"That's part and parcel of selling books, I suppose,\" Darren Lehmann, Australia head coach on that 2018 tour of South Africa, says about the timing of Usman Khawaja's revelation",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/271200/271229.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-07T12:19:32.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-09T12:14:42.822Z",
+    "generatedAt": "2026-11-09T22:45:28.196Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 1h 45m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
