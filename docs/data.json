@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-11-10T11:53:36.000Z",
-  "edition": "Updated 13:53 SAST — Tue, 10 Nov",
+  "generatedAt": "2026-11-10T20:03:52.963Z",
+  "edition": "Updated 22:03 SAST — Tue, 10 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field",
+          "link": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
+          "summary": "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T19:40:58.000Z"
+        },
+        {
+          "title": "Hikaru Nakamura Renews With Chess.com",
+          "link": "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
+          "summary": "GM Hikaru Nakamura, one of the game's leading players and most influential content creators, has renewed with Chess.com, extending a longstanding partnership. From record-breaking blitz performances to introducing chess…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T16:02:08.000Z"
+        },
+        {
+          "title": "Gukesh-Sindarov Predictions: Kasparov, Nakamura, Carlsen & More",
+          "link": "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
+          "summary": "It's now just two weeks until the Salesforce FIDE World Championship 2026 sees GM Javokhir Sindarov take on World Champion Gukesh Dommaraju for the most important title in chess. On the eve of that showdown in Geneva,…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T15:46:00.000Z"
+        },
+        {
+          "title": "ChessBase for Mac",
+          "link": "https://en.chessbase.com/post/chessbase-for-mac",
+          "summary": "Our database program – used by everyone, from the World Champion to lowly club players – is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-10T12:58:26.000Z"
+        },
         {
           "title": "Total Chess – totally complicated",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
@@ -13,38 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-10T08:10:00.000Z"
-        },
-        {
-          "title": "Anuj Shrivatri Becomes India's 100th Grandmaster",
-          "link": "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
-          "summary": "Indian chess reached a milestone on Sunday as IM Anuj Shrivatri became the country's 100th grandmaster by winning the 7th ASEAN+ Open Chess Championship in the Philippines. The 22-year-old recovered from an…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-10T03:15:00.000Z"
-        },
-        {
-          "title": "Remembering Mikhail Tal",
-          "link": "https://en.chessbase.com/post/remembering-mikhail-tal",
-          "summary": "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960.…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-09T22:50:00.000Z"
-        },
-        {
-          "title": "Pranesh wins Chola Chess Open as young talents make their mark",
-          "link": "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
-          "summary": "Pranesh M won the inaugural Chola Chess Open in Chennai, scoring 7/9 points after finishing with two consecutive victories. The Indian grandmaster ended half a point ahead of five players, including runner-up S. L.…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-09T19:30:00.000Z"
-        },
-        {
-          "title": "3 In 4 Women Surveyed Report Discrimination Or Harassment In Chess",
-          "link": "https://www.chess.com/news/view/fide-women-in-chess-survey-discrimination-harassment",
-          "summary": "In a new FIDE survey, three in four women and girls who responded had experienced discrimination or harassment in chess settings, while 44% said they had considered leaving the game. Women and girls account for roughly…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-09T12:56:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-          "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/a358da40-dcfa-11f1-9ef0-4b5930e2f80e.jpg",
+          "title": "Rubio says no need for major combat operations against Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+          "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-10T19:34:13.000Z"
+        },
+        {
+          "title": "US Senate advances major bill boosting energy infrastructure",
+          "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
+          "summary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-10T19:09:12.000Z"
+        },
+        {
+          "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+          "summary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-10T18:58:05.000Z"
+        },
+        {
+          "title": "UK children’s author David Walliams accused of grooming minors",
+          "link": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
+          "summary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-10T18:42:14.000Z"
+        },
+        {
+          "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+          "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+          "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b27/live/31eee220-dd2a-11f1-ab46-9fae224bbf6f.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-10T11:25:46.000Z"
-        },
-        {
-          "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd6/live/72504f00-dcf5-11f1-93e1-3b657b665bcf.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-10T11:23:18.000Z"
-        },
-        {
-          "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
-          "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
-          "summary": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T11:17:36.000Z"
-        },
-        {
-          "title": "Who moves first in Iran-US diplomacy?",
-          "link": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
-          "summary": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T11:14:16.000Z"
-        },
-        {
-          "title": "Moroccan trio make African Player of Year shortlist as Salah absent",
-          "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
-          "summary": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T11:05:20.000Z"
+          "publishedAt": "2026-11-10T18:35:35.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Schalk sounds warning to Boks",
-          "link": "https://www.sarugbymag.co.za/schalk-sounds-warning-boks/",
-          "summary": "Schalk Burger reckons Rassie Erasmus’ Springboks would underestimate a potentially \"unstoppable\" French threat in Paris on Friday at their peril. The post Schalk sounds warning to Boks appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2304024108-e1794310296859.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-10T11:34:50.000Z"
-        },
-        {
-          "title": "Springboks are also ‘understrength’ as Rassie Erasmus predicts crucial France selection and issues ‘definitely not complacent’ warning",
-          "link": "https://www.planetrugby.com/news/springboks-are-also-understrength-as-rassie-erasmus-predicts-crucial-france-selection-and-issues-definitely-not-complacent-warning",
-          "summary": "Rassie Erasmus has predicted who will start at fly-half for France and warns that his team isn't taking Les Bleus' lightly.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10091334/Frances-Maxime-Lucu-and-Kalvin-Gourgues-with-an-inset-of-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "title": "Springboks great: The one-on-one battle ‘I’m licking my lips for’ and the ‘bit of a pattern developing’ that is worrying against France",
+          "link": "https://www.planetrugby.com/news/springboks-great-the-one-on-one-battle-im-licking-my-lips-for-and-the-bit-of-a-pattern-developing-that-is-worrying-against-france",
+          "summary": "Steven Kitshoff has singled out the individual duel he is most looking forward to when the Springboks take on France on Friday in round five of the Nations Championship.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10165618/Springboks-rugby-Morne-van-den-Beg-and-Steven-Kitshoff-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-10T09:28:02.000Z"
+          "publishedAt": "2026-11-10T17:03:40.000Z"
         },
         {
-          "title": "Saffa Les Bleu: French still upset with Boks",
-          "link": "https://www.sarugbymag.co.za/saffa-les-bleu-french-still-upset-boks/",
-          "summary": "Former France prop Daniel Kotze expects a fired-up host nation for Friday night’s Nations Championship Test against the Springboks in Paris. The post Saffa Les Bleu: French still upset with Boks appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-France-dejected-15-October-2023-Hannah-Peters-Getty-Images-e1794301298654.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-10T09:04:30.000Z"
-        },
-        {
-          "title": "‘Ban the ugly, boring rolling maul’",
-          "link": "https://www.sarugbymag.co.za/ban-ugly-boring-rolling-maul/",
-          "summary": "New Zealand Herald sports writer Paul Lewis has called for the rolling maul to be outlawed, arguing that it is ruining rugby as a spectacle. The post ‘Ban the ugly, boring rolling maul’ appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ewan-Ashman-maul-try-7-November-2026-Stu-Forster-Getty-Images-e1794299551144.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-10T08:51:09.000Z"
-        },
-        {
-          "title": "Rassie Erasmus’ honest admission on Jeremy Ward after France call-up: ‘He was never in contention’",
-          "link": "https://www.planetrugby.com/news/rassie-erasmus-honest-admission-on-jeremy-ward-after-france-call-up-he-was-never-in-contention",
-          "summary": "Rassie Erasmus says that the Springboks are pleased that Jeremy Ward is getting an opportunity with France.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10075437/South-African-centre-Jeremy-Ward-and-an-inset-of-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "title": "Springboks: Felix Jones expects lingering ‘revenge’ in Paris air as World Cup ‘scar’ addressed by Malcolm Marx",
+          "link": "https://www.planetrugby.com/news/springboks-felix-jones-expects-lingering-revenge-in-paris-air-as-world-cup-scar-addressed-by-malcolm-marx",
+          "summary": "Springboks assistant coach Felix Jones and hooker Malcolm Marx speak ahead of their Nations Championship clash with France.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10164215/Springboks-hooker-Malcolm-Marx-and-coach-Felix-Jones-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-10T07:58:16.000Z"
+          "publishedAt": "2026-11-10T17:00:20.000Z"
+        },
+        {
+          "title": "Marx sticks up for the maul",
+          "link": "https://www.sarugbymag.co.za/marx-sticks-maul/",
+          "summary": "As debate rages over the rolling maul’s place in the game, Springbok and world’s best player Malcolm Marx stresses that it is not just about him falling over the tryline. The post Marx sticks up for the maul appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303958371-e1794321714131.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-10T15:52:19.000Z"
+        },
+        {
+          "title": "Boks expect the unexpected",
+          "link": "https://www.sarugbymag.co.za/boks-expect-the-unexpected/",
+          "summary": "Springbok assistant coach Felix Jones believes France could bring a new \"tactical element\" to Friday night's Nations Championship encounter. The post Boks expect the unexpected appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Maxime-Lucu-18-July-2026-Buddhika-Weerasinghe-Getty-Images-e1794322624440.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-10T15:00:52.000Z"
+        },
+        {
+          "title": "Springboks legend: World Rugby risks expanding matchday squads with ‘massive disruption’ caused by faulty safety protocol",
+          "link": "https://www.planetrugby.com/news/springboks-legend-world-rugby-risks-expanding-matchday-squads-with-massive-disruption-caused-by-faulty-safety-protocol",
+          "summary": "Schalk Burger has doubled down on his prediction that World Rugby will expand the replacements bench on player safety grounds.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10134245/Springboks-fly-half-Sacha-Feinberg-Mngomezulu-and-an-inset-of-Schalk-Burger-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-10T13:53:15.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-10T11:53:36.062Z",
+    "generatedAt": "2026-11-10T20:03:53.004Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 6m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
