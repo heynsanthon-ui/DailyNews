@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-09T22:45:28.131Z",
-  "edition": "Morning Edition — Tue, 10 Nov",
+  "generatedAt": "2026-11-10T11:53:36.000Z",
+  "edition": "Updated 13:53 SAST — Tue, 10 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Total Chess – totally complicated",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
+          "summary": "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 – the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-10T08:10:00.000Z"
+        },
+        {
+          "title": "Anuj Shrivatri Becomes India's 100th Grandmaster",
+          "link": "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
+          "summary": "Indian chess reached a milestone on Sunday as IM Anuj Shrivatri became the country's 100th grandmaster by winning the 7th ASEAN+ Open Chess Championship in the Philippines. The 22-year-old recovered from an…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T03:15:00.000Z"
+        },
+        {
+          "title": "Remembering Mikhail Tal",
+          "link": "https://en.chessbase.com/post/remembering-mikhail-tal",
+          "summary": "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960.…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-09T22:50:00.000Z"
+        },
         {
           "title": "Pranesh wins Chola Chess Open as young talents make their mark",
           "link": "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-09T12:56:00.000Z"
-        },
-        {
-          "title": "Bavarian Championship: Four players finish tied for first, Sasikiran claims title on tiebreaks",
-          "link": "https://en.chessbase.com/post/tegernsee-open-2026-r9",
-          "summary": "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7½/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-09T08:30:00.000Z"
-        },
-        {
-          "title": "Bodhana Sivanandan joins strong field in Salamanca",
-          "link": "https://en.chessbase.com/post/salamanca-festival-2026-preview",
-          "summary": "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-08T17:30:00.000Z"
-        },
-        {
-          "title": "Yu Yangyi retains Chinese Rapid Championship title after Armageddon decider",
-          "link": "https://en.chessbase.com/post/chinese-rapid-championship-2026-final",
-          "summary": "Yu Yangyi successfully defended his Chinese Rapid Championship title in Shaoxing, defeating 18-year-old Xiao Tong in an Armageddon decider after six games had failed to separate the finalists. Xiao had previously…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-08T13:40:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-          "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
+          "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+          "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/a358da40-dcfa-11f1-9ef0-4b5930e2f80e.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-09T22:34:14.000Z"
+          "publishedAt": "2026-11-10T11:25:46.000Z"
         },
         {
-          "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-          "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-          "summary": "The US president met with Qatar's prime minister to discuss mediation with Iran.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T22:31:19.000Z"
+          "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd6/live/72504f00-dcf5-11f1-93e1-3b657b665bcf.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-10T11:23:18.000Z"
         },
         {
-          "title": "Pope meets with clergy abuse survivors in Argentina",
-          "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
-          "summary": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
+          "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+          "link": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
+          "summary": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T22:14:37.000Z"
+          "publishedAt": "2026-11-10T11:17:36.000Z"
         },
         {
-          "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-          "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
-          "summary": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
+          "title": "Who moves first in Iran-US diplomacy?",
+          "link": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
+          "summary": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T22:13:29.000Z"
+          "publishedAt": "2026-11-10T11:14:16.000Z"
         },
         {
-          "title": "Saudi Arabia reports new attack on key East-West pipeline",
-          "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-          "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+          "title": "Moroccan trio make African Player of Year shortlist as Salah absent",
+          "link": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
+          "summary": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-09T22:10:52.000Z"
+          "publishedAt": "2026-11-10T11:05:20.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Ex-Springboks boss: ‘The All Blacks have learned from us’",
-          "link": "https://www.planetrugby.com/news/ex-springboks-boss-the-all-blacks-have-learned-from-us",
-          "summary": "Nick Mallett saw a distinct change in the All Blacks' game plan when put under pressure by Scotland.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/09133812/Scotland-v-All-Blacks-and-Rassie-Erasmus-1-120x120.jpg",
+          "title": "Schalk sounds warning to Boks",
+          "link": "https://www.sarugbymag.co.za/schalk-sounds-warning-boks/",
+          "summary": "Schalk Burger reckons Rassie Erasmus’ Springboks would underestimate a potentially \"unstoppable\" French threat in Paris on Friday at their peril. The post Schalk sounds warning to Boks appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2304024108-e1794310296859.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-10T11:34:50.000Z"
+        },
+        {
+          "title": "Springboks are also ‘understrength’ as Rassie Erasmus predicts crucial France selection and issues ‘definitely not complacent’ warning",
+          "link": "https://www.planetrugby.com/news/springboks-are-also-understrength-as-rassie-erasmus-predicts-crucial-france-selection-and-issues-definitely-not-complacent-warning",
+          "summary": "Rassie Erasmus has predicted who will start at fly-half for France and warns that his team isn't taking Les Bleus' lightly.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10091334/Frances-Maxime-Lucu-and-Kalvin-Gourgues-with-an-inset-of-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-09T20:27:26.000Z"
+          "publishedAt": "2026-11-10T09:28:02.000Z"
         },
         {
-          "title": "Keo & Zels: Rassie’s World Cup plan finally revealed",
-          "link": "https://www.sarugbymag.co.za/keo-zels-rassies-world-cup-plan-finally-revealed/",
-          "summary": "There can no longer be any doubt as to who Rassie is backing to play in next year's World Cup playoffs. The post Keo & Zels: Rassie’s World Cup plan finally revealed appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-5.41.50-PM.jpeg",
+          "title": "Saffa Les Bleu: French still upset with Boks",
+          "link": "https://www.sarugbymag.co.za/saffa-les-bleu-french-still-upset-boks/",
+          "summary": "Former France prop Daniel Kotze expects a fired-up host nation for Friday night’s Nations Championship Test against the Springboks in Paris. The post Saffa Les Bleu: French still upset with Boks appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-France-dejected-15-October-2023-Hannah-Peters-Getty-Images-e1794301298654.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T18:44:56.000Z"
+          "publishedAt": "2026-11-10T09:04:30.000Z"
         },
         {
-          "title": "Watch: Rassie fired up for French ‘cauldron’",
-          "link": "https://www.sarugbymag.co.za/watch-rassie-fired-french-cauldron/",
-          "summary": "Rassie Erasmus is relishing Friday night’s Nations Championship Test at the Stade de France, where the world champion Boks have beaten France five straight times since 2013. The post Watch: Rassie fired up for French…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2246399538-e1794245878622.jpg",
+          "title": "‘Ban the ugly, boring rolling maul’",
+          "link": "https://www.sarugbymag.co.za/ban-ugly-boring-rolling-maul/",
+          "summary": "New Zealand Herald sports writer Paul Lewis has called for the rolling maul to be outlawed, arguing that it is ruining rugby as a spectacle. The post ‘Ban the ugly, boring rolling maul’ appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ewan-Ashman-maul-try-7-November-2026-Stu-Forster-Getty-Images-e1794299551144.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T17:38:48.000Z"
+          "publishedAt": "2026-11-10T08:51:09.000Z"
         },
         {
-          "title": "Springboks team v France: Winners and losers as Wilco Louw’s strength ‘gives him the edge’ while World Cup winner’s versatility works against him",
-          "link": "https://www.planetrugby.com/news/springboks-team-v-france-winners-and-losers-as-wilco-louws-strength-gives-him-the-edge-while-world-cup-winners-versatility-works-against-him",
-          "summary": "The winners and losers from Springboks head coach Rassie Erasmus' matchday squad for Friday's Nations Championship Test against France in Paris.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/09161837/Wilco-Louw-and-Grant-Williams-image-120x120.jpg",
+          "title": "Rassie Erasmus’ honest admission on Jeremy Ward after France call-up: ‘He was never in contention’",
+          "link": "https://www.planetrugby.com/news/rassie-erasmus-honest-admission-on-jeremy-ward-after-france-call-up-he-was-never-in-contention",
+          "summary": "Rassie Erasmus says that the Springboks are pleased that Jeremy Ward is getting an opportunity with France.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10075437/South-African-centre-Jeremy-Ward-and-an-inset-of-Springboks-head-coach-Rassie-Erasmus-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-09T16:29:57.000Z"
-        },
-        {
-          "title": "Ireland lose loosie, star in race to face Boks",
-          "link": "https://www.sarugbymag.co.za/ireland-lose-loosie-star-race-face-boks/",
-          "summary": "Ireland coach Andy Farrell will be sweating over the availability of hooker Dan Sheehan for next week's clash against the Springboks, with another key forward already ruled out. The post Ireland lose loosie, star in…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303878385-e1794239146478.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-09T15:47:08.000Z"
+          "publishedAt": "2026-11-10T07:58:16.000Z"
         }
       ]
     },
@@ -145,20 +145,28 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Patterson-White wins maiden England call in Test squad for South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1562006.html?ex_cid=OTC-RSS",
+          "summary": "Nottinghamshire allrounder included ahead of Shoaib Bashir and Rehan Ahmed",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-10T11:38:54.000Z"
+        },
+        {
+          "title": "'It was ridiculous' - Khawaja details Port Elizabeth sandpapering",
+          "link": "https://www.cricinfo.com/ci/content/story/1561991.html?ex_cid=OTC-RSS",
+          "summary": "Former Australia opener reveals how the team worked on the ball to trigger a South Africa collapse",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/409400/409402.png",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-10T00:53:42.000Z"
+        },
+        {
           "title": "Dale Benkenstein appointed Bangladesh's batting specialist ahead of SA tour",
           "link": "https://www.cricinfo.com/ci/content/story/1562055.html?ex_cid=OTC-RSS",
           "summary": "Bangladesh are scheduled to tour South Africa in November and December 2026 to play two Tests, three ODIs and three T20Is",
           "image": "http://p.imgci.com/db/PICTURES/CMS/401200/401245.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-09T17:46:49.000Z"
-        },
-        {
-          "title": "Patterson-White wins maiden England call in Test squad for South Africa",
-          "link": "https://www.cricinfo.com/ci/content/story/1562006.html?ex_cid=OTC-RSS",
-          "summary": "Nottinghamshire allrounder included ahead of Shoaib Bashir and Rehan Ahmed",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-09T14:16:09.000Z"
         },
         {
           "title": "Rodrigues, Amanjot back from injuries; Renuka picked only for T20Is for South Africa",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425000/425007.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-09T06:36:14.000Z"
-        },
-        {
-          "title": "Smith sees specialist in New York, in line for Sheffield Shield return",
-          "link": "https://www.cricinfo.com/ci/content/story/1561926.html?ex_cid=OTC-RSS",
-          "summary": "Steven Smith has had further investigation of the neck problem which ruled him out of the final Test in South Africa",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/424000/424097.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-09T04:00:25.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-09T22:45:28.196Z",
+    "generatedAt": "2026-11-10T11:53:36.062Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 2h 6m"
     },
     "forecast": [
-      {
-        "date": "2026-11-09",
-        "day": "Mon",
-        "dayOfMonth": 9,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-10",
         "day": "Tue",
         "dayOfMonth": 10,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-11",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-12",
         "day": "Thu",
         "dayOfMonth": 12,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-13",
         "day": "Fri",
         "dayOfMonth": 13,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-14",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-16",
+        "day": "Mon",
+        "dayOfMonth": 16,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Thu 12, 09:00–12:00"
+        "etr": "Fri 13, 09:00–12:00"
       }
     ],
     "reliability": {
