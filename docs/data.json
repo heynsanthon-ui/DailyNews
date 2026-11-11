@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-10T20:03:52.963Z",
-  "edition": "Updated 22:03 SAST — Tue, 10 Nov",
+  "generatedAt": "2026-11-11T11:30:01.309Z",
+  "edition": "Updated 13:30 SAST — Wed, 11 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
+          "title": "What happens with my databases? - ChessBase on Mac",
+          "link": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
+          "summary": "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-11T11:46:54.000Z"
+        },
+        {
+          "title": "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-1",
+          "summary": "GM Magnus Carlsen is off to a promising start in the Total Chess World Championship Tour Pilot 2026 after winning the Blitz Tiebreaker with 7/9. GM Maxime Vachier-Lagrave finished second (6.5 points) and GM Levon…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T20:22:00.000Z"
+        },
+        {
+          "title": "AAce_Cracker Stages Comeback In 2nd Gambit Cup",
+          "link": "https://www.chess.com/news/view/aace-cracker-wins-2026-gambit-cup-2",
+          "summary": "AAce_Cracker, a veteran who has played nearly 60,000 hands of poker on Gambit.com (where he was named Player of the Month in August and September), won the second special edition of the Gambit Cup, held on November 9.…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T20:15:00.000Z"
+        },
+        {
+          "title": "Movahed Stays Strong Ahead of Speed Chess Championship",
+          "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
+          "summary": "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-10T20:00:00.000Z"
+        },
+        {
           "title": "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field",
           "link": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
           "summary": "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-10T19:40:58.000Z"
-        },
-        {
-          "title": "Hikaru Nakamura Renews With Chess.com",
-          "link": "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
-          "summary": "GM Hikaru Nakamura, one of the game's leading players and most influential content creators, has renewed with Chess.com, extending a longstanding partnership. From record-breaking blitz performances to introducing chess…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-10T16:02:08.000Z"
-        },
-        {
-          "title": "Gukesh-Sindarov Predictions: Kasparov, Nakamura, Carlsen & More",
-          "link": "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
-          "summary": "It's now just two weeks until the Salesforce FIDE World Championship 2026 sees GM Javokhir Sindarov take on World Champion Gukesh Dommaraju for the most important title in chess. On the eve of that showdown in Geneva,…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-10T15:46:00.000Z"
-        },
-        {
-          "title": "ChessBase for Mac",
-          "link": "https://en.chessbase.com/post/chessbase-for-mac",
-          "summary": "Our database program – used by everyone, from the World Champion to lowly club players – is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-10T12:58:26.000Z"
-        },
-        {
-          "title": "Total Chess – totally complicated",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
-          "summary": "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 – the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-10T08:10:00.000Z"
+          "publishedAt": "2026-11-10T19:40:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Rubio says no need for major combat operations against Iran",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-          "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T19:34:13.000Z"
-        },
-        {
-          "title": "US Senate advances major bill boosting energy infrastructure",
-          "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-          "summary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T19:09:12.000Z"
-        },
-        {
-          "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-          "summary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T18:58:05.000Z"
-        },
-        {
-          "title": "UK children’s author David Walliams accused of grooming minors",
-          "link": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
-          "summary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-10T18:42:14.000Z"
-        },
-        {
-          "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-          "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b27/live/31eee220-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+          "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro?at_medium=RSS&at_campaign=rss",
+          "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/9b20f540-ddba-11f1-9582-1b529d725aaf.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-10T18:35:35.000Z"
+          "publishedAt": "2026-11-11T11:15:00.000Z"
+        },
+        {
+          "title": "Man City whistleblower Rui Pinto could help UK uncover more sporting crime",
+          "link": "https://www.aljazeera.com/sports/2026/11/11/man-city-whistleblower-rui-pinto-could-help-uk-uncover-more-sporting-crime?traffic_source=rss",
+          "summary": "Rui Pinto is 'in talks' with UK authorities to help uncover more crime in exchange for police protection, reports say.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T11:05:50.000Z"
+        },
+        {
+          "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
+          "summary": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza City.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T10:57:39.000Z"
+        },
+        {
+          "title": "Did Democrats save Pete Hegseth from impeachment?",
+          "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+          "summary": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T10:32:03.000Z"
+        },
+        {
+          "title": "AI boom or bubble?",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss",
+          "summary": "A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T10:31:24.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Springboks great: The one-on-one battle ‘I’m licking my lips for’ and the ‘bit of a pattern developing’ that is worrying against France",
-          "link": "https://www.planetrugby.com/news/springboks-great-the-one-on-one-battle-im-licking-my-lips-for-and-the-bit-of-a-pattern-developing-that-is-worrying-against-france",
-          "summary": "Steven Kitshoff has singled out the individual duel he is most looking forward to when the Springboks take on France on Friday in round five of the Nations Championship.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10165618/Springboks-rugby-Morne-van-den-Beg-and-Steven-Kitshoff-120x120.jpg",
+          "title": "France team: Antoine Dupont answers SOS over fly-half crisis as three changes made for Springboks showdown",
+          "link": "https://www.planetrugby.com/news/france-team-antoine-dupont-answers-sos-over-fly-half-crisis-as-three-changes-made-for-springboks-showdown",
+          "summary": "Head coach Fabien Galthie has named his France team to take on the Springboks in the Nations Championship.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/11111746/Antoine-Dupont-and-Maxime-Lucu-2026-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-10T17:03:40.000Z"
+          "publishedAt": "2026-11-11T11:26:28.000Z"
         },
         {
-          "title": "Springboks: Felix Jones expects lingering ‘revenge’ in Paris air as World Cup ‘scar’ addressed by Malcolm Marx",
-          "link": "https://www.planetrugby.com/news/springboks-felix-jones-expects-lingering-revenge-in-paris-air-as-world-cup-scar-addressed-by-malcolm-marx",
-          "summary": "Springboks assistant coach Felix Jones and hooker Malcolm Marx speak ahead of their Nations Championship clash with France.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10164215/Springboks-hooker-Malcolm-Marx-and-coach-Felix-Jones-Alamy-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-10T17:00:20.000Z"
-        },
-        {
-          "title": "Marx sticks up for the maul",
-          "link": "https://www.sarugbymag.co.za/marx-sticks-maul/",
-          "summary": "As debate rages over the rolling maul’s place in the game, Springbok and world’s best player Malcolm Marx stresses that it is not just about him falling over the tryline. The post Marx sticks up for the maul appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303958371-e1794321714131.jpg",
+          "title": "Big Trev: Dupont can do whatever he wants",
+          "link": "https://www.sarugbymag.co.za/big-trev-dupont-can-whatever-wants/",
+          "summary": "Trevor Nyakane believes the Springboks could struggle to contain France playmaker Antoine Dupont in Paris on Friday night. The post Big Trev: Dupont can do whatever he wants appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-7-Nov-2026-@antoinedupont9-Instagram-e1794394099838.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-10T15:52:19.000Z"
+          "publishedAt": "2026-11-11T10:50:46.000Z"
         },
         {
-          "title": "Boks expect the unexpected",
-          "link": "https://www.sarugbymag.co.za/boks-expect-the-unexpected/",
-          "summary": "Springbok assistant coach Felix Jones believes France could bring a new \"tactical element\" to Friday night's Nations Championship encounter. The post Boks expect the unexpected appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Maxime-Lucu-18-July-2026-Buddhika-Weerasinghe-Getty-Images-e1794322624440.jpg",
+          "title": "Les Bleus back Dupont at 10 for Bok battle",
+          "link": "https://www.sarugbymag.co.za/les-bleus-back-dupont-at-10-for-bok-battle/",
+          "summary": "Antoine Dupont will start at flyhalf for France against the Springboks in Paris on Friday night. The post Les Bleus back Dupont at 10 for Bok battle appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Antoine-Dupont-7-March-2026-Stu-Forster-Getty-Images-e1782650261795.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-10T15:00:52.000Z"
+          "publishedAt": "2026-11-11T10:10:24.000Z"
         },
         {
-          "title": "Springboks legend: World Rugby risks expanding matchday squads with ‘massive disruption’ caused by faulty safety protocol",
-          "link": "https://www.planetrugby.com/news/springboks-legend-world-rugby-risks-expanding-matchday-squads-with-massive-disruption-caused-by-faulty-safety-protocol",
-          "summary": "Schalk Burger has doubled down on his prediction that World Rugby will expand the replacements bench on player safety grounds.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/10134245/Springboks-fly-half-Sacha-Feinberg-Mngomezulu-and-an-inset-of-Schalk-Burger-1-120x120.jpg",
+          "title": "France don’t have an ‘inferiority complex’ but star man is ‘aware of the magnitude’ of Springboks grudge match",
+          "link": "https://www.planetrugby.com/news/france-dont-have-an-inferiority-complex-but-star-man-is-aware-of-the-magnitude-of-springboks-grudge-match",
+          "summary": "François Cros says Les Bleus must match South Africa physically before they can think about playing.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/11095212/France-flanker-Francois-Cros-and-an-inset-of-Springboks-prop-Wilco-Louw-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-10T13:53:15.000Z"
+          "publishedAt": "2026-11-11T10:03:01.000Z"
+        },
+        {
+          "title": "‘Marx the best who’s ever played’",
+          "link": "https://www.sarugbymag.co.za/marx-best-whos-ever-played/",
+          "summary": "Malcolm Marx has won high praise from former Scotland international Jim Hamilton. The post ‘Marx the best who’s ever played’ appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Malcolm-Marx-4-November-2026-Chris-Ricco-Gallo-Images-e1794386505439.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-11T08:43:55.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-10T20:03:53.004Z",
+    "generatedAt": "2026-11-11T11:30:01.379Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 2h 30m"
     },
     "forecast": [
-      {
-        "date": "2026-11-10",
-        "day": "Tue",
-        "dayOfMonth": 10,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-11",
         "day": "Wed",
         "dayOfMonth": 11,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-12",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-13",
         "day": "Fri",
         "dayOfMonth": 13,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-14",
         "day": "Sat",
         "dayOfMonth": 14,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-15",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-17",
+        "day": "Tue",
+        "dayOfMonth": 17,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Fri 13, 09:00–12:00"
+        "etr": "Sat 14, 09:00–12:00"
       }
     ],
     "reliability": {
