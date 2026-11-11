@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-11T11:30:01.309Z",
-  "edition": "Updated 13:30 SAST — Wed, 11 Nov",
+  "generatedAt": "2026-11-11T19:54:35.147Z",
+  "edition": "Updated 21:54 SAST — Wed, 11 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
+          "link": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
+          "summary": "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Total Chess live: The group stage begins – things get serious",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "Yesterday's Total Chess Tour pilot event featured blitz chess. Today, the serious competition begins: the group stage gets underway, with only the group winners advancing to the knockout final to compete for the…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-11T14:45:00.000Z"
+        },
         {
           "title": "What happens with my databases? - ChessBase on Mac",
           "link": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-10T20:15:00.000Z"
-        },
-        {
-          "title": "Movahed Stays Strong Ahead of Speed Chess Championship",
-          "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
-          "summary": "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-10T20:00:00.000Z"
-        },
-        {
-          "title": "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field",
-          "link": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
-          "summary": "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-10T19:40:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Eswatini gives illegal foreign businesses 12 months to leave",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro?at_medium=RSS&at_campaign=rss",
-          "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/9b20f540-ddba-11f1-9582-1b529d725aaf.jpg",
+          "title": "Which key races remain undecided one week after the US midterms?",
+          "link": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
+          "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T19:14:29.000Z"
+        },
+        {
+          "title": "More than one million people in Lebanon face acute food shortages, UN says",
+          "link": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
+          "summary": "UN warns hunger crisis affecting almost quarter of Lebanon's population could escalate without 'urgent action'.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T18:43:40.000Z"
+        },
+        {
+          "title": "Will Sheikh Hasina return to Bangladesh?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
+          "summary": "The former Bangladeshi PM says she is planning to go back, despite a death sentence.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-11T18:43:21.000Z"
+        },
+        {
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+          "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-11T11:15:00.000Z"
+          "publishedAt": "2026-11-11T18:38:45.000Z"
         },
         {
-          "title": "Man City whistleblower Rui Pinto could help UK uncover more sporting crime",
-          "link": "https://www.aljazeera.com/sports/2026/11/11/man-city-whistleblower-rui-pinto-could-help-uk-uncover-more-sporting-crime?traffic_source=rss",
-          "summary": "Rui Pinto is 'in talks' with UK authorities to help uncover more crime in exchange for police protection, reports say.",
+          "title": "Zohran Mamdani’s influence grows as Democrats eye 2028 strategies",
+          "link": "https://www.aljazeera.com/news/2026/11/11/zohran-mamdanis-influence-grows-as-democrats-eye-2028-strategies?traffic_source=rss",
+          "summary": "Progressive strategists explain how Mamdani's 2025 mayoral campaign offered a 'real model' for other progressives.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-11T11:05:50.000Z"
-        },
-        {
-          "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
-          "summary": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza City.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-11T10:57:39.000Z"
-        },
-        {
-          "title": "Did Democrats save Pete Hegseth from impeachment?",
-          "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
-          "summary": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-11T10:32:03.000Z"
-        },
-        {
-          "title": "AI boom or bubble?",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss",
-          "summary": "A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-11T10:31:24.000Z"
+          "publishedAt": "2026-11-11T18:37:54.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "France team: Antoine Dupont answers SOS over fly-half crisis as three changes made for Springboks showdown",
-          "link": "https://www.planetrugby.com/news/france-team-antoine-dupont-answers-sos-over-fly-half-crisis-as-three-changes-made-for-springboks-showdown",
-          "summary": "Head coach Fabien Galthie has named his France team to take on the Springboks in the Nations Championship.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/11111746/Antoine-Dupont-and-Maxime-Lucu-2026-1-120x120.jpg",
+          "title": "Blast from our past: ‘There is greatness all over Eben’",
+          "link": "https://www.sarugbymag.co.za/blast-from-our-past-there-is-greatness-all-over-eben/",
+          "summary": "In the December 2012 issue of SA Rugby magazine – now archived online – Heyneke Meyer tipped Eben Etzebeth for greatness and John Plumtree picked Pat Lambie's position. The post Blast from our past: ‘There is greatness…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Eben-Etzebeth-SA-Rugby-magazine-December-2012-e1794418949444.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-11T17:47:18.000Z"
+        },
+        {
+          "title": "Mallett: Dupont will pull his weight at 10",
+          "link": "https://www.sarugbymag.co.za/mallett-dupont-will-pull-weight-10/",
+          "summary": "Nick Mallett believes Antoine Dupont may be better suited to flyhalf than Maxime Lucu and that the two could interchange during Friday night's Test against the Springboks. The post Mallett: Dupont will pull his weight…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-15-October-2023-Warren-Little-Getty-Images-e1794417790956.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-11T17:25:15.000Z"
+        },
+        {
+          "title": "France team: Winners and losers as Grégory Alldritt returns to Fabien Galthié’s favour but exiled wing forced to wait after five year absence",
+          "link": "https://www.planetrugby.com/news/france-team-winners-and-losers-as-gregory-alldritt-returns-to-fabien-galthies-favour-but-exiled-wing-forced-to-wait-after-five-year-absence",
+          "summary": "France boss Fabien Galthié has named his side to face the Springboks on Friday 13th, as he looks to topple the world champions, despite leading an injury-ravaged side.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/11161139/teddy-thomas-and-aldritt-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-11T11:26:28.000Z"
+          "publishedAt": "2026-11-11T16:12:20.000Z"
         },
         {
-          "title": "Big Trev: Dupont can do whatever he wants",
-          "link": "https://www.sarugbymag.co.za/big-trev-dupont-can-whatever-wants/",
-          "summary": "Trevor Nyakane believes the Springboks could struggle to contain France playmaker Antoine Dupont in Paris on Friday night. The post Big Trev: Dupont can do whatever he wants appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-7-Nov-2026-@antoinedupont9-Instagram-e1794394099838.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-11T10:50:46.000Z"
-        },
-        {
-          "title": "Les Bleus back Dupont at 10 for Bok battle",
-          "link": "https://www.sarugbymag.co.za/les-bleus-back-dupont-at-10-for-bok-battle/",
-          "summary": "Antoine Dupont will start at flyhalf for France against the Springboks in Paris on Friday night. The post Les Bleus back Dupont at 10 for Bok battle appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Antoine-Dupont-7-March-2026-Stu-Forster-Getty-Images-e1782650261795.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-11T10:10:24.000Z"
-        },
-        {
-          "title": "France don’t have an ‘inferiority complex’ but star man is ‘aware of the magnitude’ of Springboks grudge match",
-          "link": "https://www.planetrugby.com/news/france-dont-have-an-inferiority-complex-but-star-man-is-aware-of-the-magnitude-of-springboks-grudge-match",
-          "summary": "François Cros says Les Bleus must match South Africa physically before they can think about playing.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/11095212/France-flanker-Francois-Cros-and-an-inset-of-Springboks-prop-Wilco-Louw-1-120x120.jpg",
+          "title": "Springboks legend: ‘How can Henry Pollock be a superstar when he doesn’t start?’",
+          "link": "https://www.planetrugby.com/news/springboks-legend-how-can-henry-pollock-be-a-superstar-when-he-doesnt-start",
+          "summary": "Victor Matfield remains unconvinced by England's Henry Pollock despite his impact off the bench against the Wallabies.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/11144239/Henry-Pollock-and-Victor-Matfield-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-11T10:03:01.000Z"
+          "publishedAt": "2026-11-11T15:00:51.000Z"
         },
         {
-          "title": "‘Marx the best who’s ever played’",
-          "link": "https://www.sarugbymag.co.za/marx-best-whos-ever-played/",
-          "summary": "Malcolm Marx has won high praise from former Scotland international Jim Hamilton. The post ‘Marx the best who’s ever played’ appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Malcolm-Marx-4-November-2026-Chris-Ricco-Gallo-Images-e1794386505439.jpg",
+          "title": "Barnes: All Blacks must fix maul defence",
+          "link": "https://www.sarugbymag.co.za/barnes-all-blacks-must-fix-maul-defence/",
+          "summary": "All Blacks assistant coach Neil Barnes doesn't believe the laws governing the rolling maul need to be adjusted again despite his team's struggles to defend against it. The post Barnes: All Blacks must fix maul defence…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ewan-Ashman-maul-try-7-November-2026-Stu-Forster-Getty-Images-e1794299551144.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-11T08:43:55.000Z"
+          "publishedAt": "2026-11-11T14:59:35.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Bethell out of Australia white-ball tour with knee injury 'setback'",
+          "link": "https://www.cricinfo.com/ci/content/story/1562238.html?ex_cid=OTC-RSS",
+          "summary": "Batter has not played since July and now faces race to be fit for South Africa Tests",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425100/425111.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-11T13:32:36.000Z"
+        },
+        {
+          "title": "Shreyanka in India A squads for England A series; Anushka, Mani named captains",
+          "link": "https://www.cricinfo.com/ci/content/story/1562247.html?ex_cid=OTC-RSS",
+          "summary": "Amanjot Kaur, who returned to India's T20I squad against South Africa following a long injury layoff, has also been picked for the T20s",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/422700/422772.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-11T13:15:17.000Z"
+        },
         {
           "title": "Patterson-White wins maiden England call in Test squad for South Africa",
           "link": "https://www.cricinfo.com/ci/content/story/1562006.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/401200/401245.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-09T17:46:49.000Z"
-        },
-        {
-          "title": "Rodrigues, Amanjot back from injuries; Renuka picked only for T20Is for South Africa",
-          "link": "https://www.cricinfo.com/ci/content/story/1562012.html?ex_cid=OTC-RSS",
-          "summary": "Rodrigues returned to action recently in the domestic T20s where she scored a century for Mumbai",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/416100/416194.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-09T13:42:25.000Z"
-        },
-        {
-          "title": "Bangladesh call up uncapped batter Mahfijul Islam for Tests in South Africa",
-          "link": "https://www.cricinfo.com/ci/content/story/1561950.html?ex_cid=OTC-RSS",
-          "summary": "Mohammad Naim and Khaled Ahmed have been brought into the squad for the two-Test series in South Africa in place of Soumya Sarkar and Nayeem Hasan",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425000/425007.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-09T06:36:14.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-11T11:30:01.379Z",
+    "generatedAt": "2026-11-11T19:54:35.218Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 30m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
