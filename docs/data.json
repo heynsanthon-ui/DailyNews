@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-12T11:56:32.454Z",
-  "edition": "Updated 13:56 SAST — Thu, 12 Nov",
+  "generatedAt": "2026-11-12T20:30:36.985Z",
+  "edition": "Updated 22:30 SAST — Thu, 12 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Tony Miles: 25 years since the sudden death of an English star",
+          "link": "https://en.chessbase.com/post/anthony-miles-25-years-death",
+          "summary": "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-12T21:30:00.000Z"
+        },
+        {
+          "title": "Win Prizes In The Fall 2026 CCL Predictions Challenge",
+          "link": "https://www.chess.com/news/view/win-prizes-in-the-fall-2026-ccl-predictions-challenge",
+          "summary": "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins! Will UT Dallas defend their championship title, or will SRM IST get their revenge and their…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-12T20:17:00.000Z"
+        },
+        {
+          "title": "Total Chess: Group stage - Live!",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-12T14:45:00.000Z"
+        },
         {
           "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-11T21:30:00.000Z"
-        },
-        {
-          "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
-          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
-          "summary": "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-11T21:24:00.000Z"
-        },
-        {
-          "title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
-          "link": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
-          "summary": "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "What happens with my databases? - ChessBase on Mac",
-          "link": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
-          "summary": "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-11T11:46:54.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "New York building collapse kills at least four people",
-          "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-          "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
+          "title": "Qatar Under-17 World Cup is on despite US pull out",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
+          "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-12T20:15:47.000Z"
+        },
+        {
+          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+          "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+          "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-12T20:12:21.000Z"
+        },
+        {
+          "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
+          "link": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
+          "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-12T20:10:31.000Z"
+        },
+        {
+          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+          "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-12T11:48:14.000Z"
+          "publishedAt": "2026-11-12T20:09:16.000Z"
         },
         {
-          "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-          "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
-          "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+          "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+          "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+          "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T11:43:19.000Z"
-        },
-        {
-          "title": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
-          "link": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
-          "summary": "Mississippi is home to a large Black American population but no Black person has held a Senate seat since the 1800s.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T11:31:16.000Z"
-        },
-        {
-          "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
-          "summary": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI's future at the Web Summit in Lisbon.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T10:53:23.000Z"
-        },
-        {
-          "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
-          "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
-          "summary": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T10:49:41.000Z"
+          "publishedAt": "2026-11-12T19:56:26.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Watch: Habana picks his Bok GOAT",
-          "link": "https://www.sarugbymag.co.za/watch-habana-picks-bok-goat/",
-          "summary": "Dan Biggar asks Bryan Habana: Who's the greatest Springbok of all time? The post Watch: Habana picks his Bok GOAT appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Bryan-Habana-Dan-Biggar-Rugby-Pod-e1794481541218.jpg",
+          "title": "It’s game time for Siya in French ‘theatre’",
+          "link": "https://www.sarugbymag.co.za/game-time-siya-french-theatre/",
+          "summary": "Siya Kolisi dismissed any suggestion that historical dominance over Les Bleus gives the Springboks a psychological edge for Friday night at the Stade de France. The post It’s game time for Siya in French ‘theatre’…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2245720158-e1794489917138.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T11:06:09.000Z"
+          "publishedAt": "2026-11-12T14:17:44.000Z"
         },
         {
-          "title": "Roux: Manie learned to forget about mistakes",
-          "link": "https://www.sarugbymag.co.za/roux-manie-learnt-forget-mistakes/",
-          "summary": "Flyhalf Manie Libbok has matured into one of the best players in the world, according to his former Junior Springbok coach Chean Roux. The post Roux: Manie learned to forget about mistakes appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303848417-e1794480742123.jpg",
+          "title": "Boks brace for Dupont, Lucu’s ‘licence’ to roam",
+          "link": "https://www.sarugbymag.co.za/boks-brace-dupont-lucus-licence-roam/",
+          "summary": "The Springboks expect France’s new halfback pairing of Maxime Lucu and Antoine Dupont to operate as interchangeable playmakers at the Stade de France on Friday night. The post Boks brace for Dupont, Lucu’s ‘licence’ to…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-passes-15-October-2023-Chris-Hyde-Getty-Images-e1794492651104.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T10:12:07.000Z"
+          "publishedAt": "2026-11-12T14:14:12.000Z"
         },
         {
-          "title": "Eddie: Brilliant Sacha can make new history",
-          "link": "https://www.sarugbymag.co.za/eddie-brilliant-sacha-can-make-new-history/",
-          "summary": "Eddie Jones believes Sacha Feinberg-Mngomezulu has what it takes to become a different kind of World Cup-winning flyhalf. The post Eddie: Brilliant Sacha can make new history appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-break-Italy-7-November-2026-Valerio-Pennicino-Getty-Images-e1794062109446.jpg",
+          "title": "Superbru: Boks feast in Paris, All Blacks overrun Wales",
+          "link": "https://www.sarugbymag.co.za/superbru-boks-feast-in-paris-all-blacks-overrun-wales/",
+          "summary": "The Springboks extend their dominance over France, while the All Blacks win big in Cardiff, according to the SA Rugby magazine team. The post Superbru: Boks feast in Paris, All Blacks overrun Wales appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-try-smiles-8-November-2025-David-Rogers-Getty-Images-e1794498433177.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T10:02:42.000Z"
+          "publishedAt": "2026-11-12T14:12:42.000Z"
         },
         {
-          "title": "Springboks legend highlights selection conundrum facing Rassie Erasmus ahead of 2027 Rugby World Cup",
-          "link": "https://www.planetrugby.com/news/springboks-legend-highlights-selection-conundrum-facing-rassie-erasmus-ahead-of-2027-rugby-world-cup",
-          "summary": "Mark Andrews has highlighted a selection conundrum which Springboks head coach Rassie Erasmus could face ahead of next year's Rugby World Cup in Australia.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/12094932/Mark-Andrews-Siya-Kolisi-and-Eben-Etzebeth-image-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-12T09:58:26.000Z"
+          "title": "Beauden captains All Blacks, Richie returns",
+          "link": "https://www.sarugbymag.co.za/beauden-captains-all-blacks-richie-returns/",
+          "summary": "Beauden Barrett will captain the All Blacks for the first time when they face Wales in Cardiff on Saturday, with Richie Mo'unga back at flyhalf. The post Beauden captains All Blacks, Richie returns appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Beauden-Barrett-7-November-2026-Stu-Forster-Getty-Images-e1794493842962.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-12T14:10:24.000Z"
         },
         {
-          "title": "Kitsie: World Rugby making us fat",
-          "link": "https://www.sarugbymag.co.za/kitsie-world-rugby-making-us-fat/",
-          "summary": "Hear from Springbok double world champions Steven Kitshoff and Trevor Nyakane as they share their amusing take on late-night match kick-offs. The post Kitsie: World Rugby making us fat appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2080065-e1794484057138.jpg",
+          "title": "Ireland switch things up before Bok duel",
+          "link": "https://www.sarugbymag.co.za/ireland-switch-things-bok-duel/",
+          "summary": "Scrumhalf Jamison Gibson-Park starts with Mack Hansen shifting to fullback against Fiji on Saturday, as Tadhg Beirne takes over the Ireland captaincy. The post Ireland switch things up before Bok duel appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/MackHansen-e1794495126737.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T09:50:02.000Z"
+          "publishedAt": "2026-11-12T14:02:24.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-12T11:56:32.524Z",
+    "generatedAt": "2026-11-12T20:30:37.027Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 3m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
