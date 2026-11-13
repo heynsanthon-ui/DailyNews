@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-13T11:39:19.013Z",
-  "edition": "Updated 13:39 SAST — Fri, 13 Nov",
+  "generatedAt": "2026-11-13T20:07:42.366Z",
+  "edition": "Updated 22:07 SAST — Fri, 13 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Andreikin Nearly Sweeps 3 0 Thursday Tournaments",
+          "link": "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
+          "summary": "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-13T19:48:56.000Z"
+        },
+        {
+          "title": "Total Chess: Group stage - Live!",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-13T14:45:00.000Z"
+        },
         {
           "title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-12T20:54:00.000Z"
-        },
-        {
-          "title": "Win Prizes In The Fall 2026 CCL Predictions Challenge",
-          "link": "https://www.chess.com/news/view/win-prizes-in-the-fall-2026-ccl-predictions-challenge",
-          "summary": "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins! Will UT Dallas defend their championship title, or will SRM IST get their revenge and their…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-12T20:17:00.000Z"
-        },
-        {
-          "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
-          "summary": "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-12T08:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Live: Microsoft struggles to restore services as outage hits global users",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
-          "summary": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T11:18:01.000Z"
-        },
-        {
-          "title": "El Salvador deploys armed robots to fight gangs in Haiti",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
-          "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T10:57:20.000Z"
-        },
-        {
-          "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
-          "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T10:54:25.000Z"
-        },
-        {
-          "title": "What we know about the global Microsoft outage",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-13T10:53:40.000Z"
+          "publishedAt": "2026-11-13T19:53:57.000Z"
         },
         {
-          "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
-          "link": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
-          "summary": "New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.",
+          "title": "Migrants risk deadly route to Spain’s Canary Islands",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+          "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T10:26:37.000Z"
+          "publishedAt": "2026-11-13T19:23:40.000Z"
+        },
+        {
+          "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+          "summary": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-13T19:23:05.000Z"
+        },
+        {
+          "title": "Democratic Senate leader Schumer set to face leadership challenge",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+          "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+          "source": "BBC News",
+          "publishedAt": "2026-11-13T19:03:10.000Z"
+        },
+        {
+          "title": "How will the US deal with Nvidia scandal?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+          "summary": "Tech giant CEO resigned and will testify before Congress.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-13T18:57:43.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "World Rugby rankings: Springboks risk losing top spot as Nations Championship could provide top 10 shake up",
-          "link": "https://www.planetrugby.com/news/world-rugby-rankings-springboks-risk-losing-top-spot-as-nations-championship-could-provide-top-10-shake-up",
-          "summary": "Check out the permutations ahead of another big weekend in the Nations Championship.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13111942/World-Rugby-ranking-Nov-13-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-13T11:30:55.000Z"
-        },
-        {
-          "title": "Habana: Rassie’s success 20 years in making",
-          "link": "https://www.sarugbymag.co.za/habana-rassies-success-20-years-in-making/",
-          "summary": "Bryan Habana has explained what he believes is behind Rassie Erasmus' sustained success as Springbok head coach. The post Habana: Rassie’s success 20 years in making appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/UP1EM8T150HAQ-e1788112875791.jpg",
+          "title": "LIVE: France vs Springboks",
+          "link": "https://www.sarugbymag.co.za/live-france-vs-springboks-2/",
+          "summary": "Follow the live action as France clash with the Springboks in round five of the Nations Championship. The post LIVE: France vs Springboks appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/France-vs-South-Africa-LIVE.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-13T10:04:22.000Z"
+          "publishedAt": "2026-11-13T19:45:37.000Z"
         },
         {
-          "title": "Romain Ntamack: I was ‘relieved’ when the Springboks knocked France out of the 2023 Rugby World Cup",
-          "link": "https://www.planetrugby.com/news/romain-ntamack-i-was-relieved-when-the-springboks-knocked-france-out-of-the-2023-rugby-world-cup",
-          "summary": "France star Romain Ntamack has opened up on the 2023 Rugby World Cup heartbreak.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13094452/France-dejected-after-Boks-and-Romain-Ntamack-1-120x120.jpg",
+          "title": "France v Springboks latest: Rassie Erasmus repeats late controversial changes for Les Bleus",
+          "link": "https://www.planetrugby.com/news/france-v-springboks-latest-rassie-erasmus-repeats-late-controversial-changes-for-les-bleus",
+          "summary": "Rassie Erasmus makes three late changes to his side, all of which come in the front-row!",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13191519/Springboks-lates-changes-for-France-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-13T09:55:28.000Z"
+          "publishedAt": "2026-11-13T19:22:15.000Z"
         },
         {
-          "title": "Watch: Dupont tears it up at 10",
-          "link": "https://www.sarugbymag.co.za/watch-dupont-tears-it-up-at-10/",
-          "summary": "Highlights from Antoine Dupont's eight starts at flyhalf for Toulouse ahead of Friday night's Test against the Springboks, when he will wear the France No 10 jersey for the first time. The post Watch: Dupont tears it up…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-flyhalf-10-Toulouse-e1794561013129.jpg",
+          "title": "Rassie flips his front row in France",
+          "link": "https://www.sarugbymag.co.za/rassie-flips-front-row-france/",
+          "summary": "Rassie Erasmus has pulled another late Springbok front-row switch, this time for Friday night’s Nations Championship Test against France in Paris. The post Rassie flips his front row in France appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2648480-e1794597597345.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-13T09:12:11.000Z"
+          "publishedAt": "2026-11-13T19:18:10.000Z"
         },
         {
-          "title": "Bryan Habana: Rassie Erasmus’ Springboks success is a culmination of 20 years of work",
-          "link": "https://www.planetrugby.com/news/bryan-habana-rassie-erasmus-springboks-success-is-a-culmination-of-20-years-of-work",
-          "summary": "Bryan Habana believes that Rassie Erasmus is reaping the rewards of two decades of work with SA Rugby with his success being a far cry from immediate.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13083835/Springboks-head-coach-Rassie-Erasmus-and-an-inset-of-legendary-winger-Byran-Habana-1-120x120.jpg",
+          "title": "France v South Africa, LIVE BLOG: Coverage of the Nations Championship fixture",
+          "link": "https://www.planetrugby.com/news/france-v-south-africa-live-blog-coverage-of-the-nations-championship-fixture",
+          "summary": "Follow our live blog of tonight's Nations Championship fixture between France and the Springboks at the Stade de France.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13194658/Stade-de-France-ahead-of-France-v-South-Africa-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-13T08:53:55.000Z"
+          "publishedAt": "2026-11-13T18:52:05.000Z"
+        },
+        {
+          "title": "Bok prop to coach Maties",
+          "link": "https://www.sarugbymag.co.za/bok-prop-coach-maties/",
+          "summary": "A Springbok scrum anchor and Stormers stalwart has reportedly joined the Maties backroom staff for the 2027 Varsity Cup season. The post Bok prop to coach Maties appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_1881208-e1794583630182.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-13T15:35:13.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Rabada 'chuffed at engagement from fans' after series win against Australia",
+          "link": "https://www.cricinfo.com/ci/content/story/1562543.html?ex_cid=OTC-RSS",
+          "summary": "Series against Bangladesh begins on Sunday, and Rabada hopes \"some exciting cricket\" shows \"how healthy cricket is\" in SA",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/424600/424677.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-13T16:22:51.000Z"
+        },
         {
           "title": "World Test Championship expansion to be debated at ICC meeting",
           "link": "https://www.cricinfo.com/ci/content/story/1562299.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-10T11:38:54.000Z"
-        },
-        {
-          "title": "'It was ridiculous' - Khawaja details Port Elizabeth sandpapering",
-          "link": "https://www.cricinfo.com/ci/content/story/1561991.html?ex_cid=OTC-RSS",
-          "summary": "Former Australia opener reveals how the team worked on the ball to trigger a South Africa collapse",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/409400/409402.png",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-10T00:53:42.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-13T11:39:19.082Z",
+    "generatedAt": "2026-11-13T20:07:42.409Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 21m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
