@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-11-12T20:30:36.985Z",
-  "edition": "Updated 22:30 SAST — Thu, 12 Nov",
+  "generatedAt": "2026-11-13T11:39:19.013Z",
+  "edition": "Updated 13:39 SAST — Fri, 13 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
+          "summary": "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-13T08:15:00.000Z"
+        },
         {
           "title": "Tony Miles: 25 years since the sudden death of an English star",
           "link": "https://en.chessbase.com/post/anthony-miles-25-years-death",
@@ -13,6 +21,14 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-12T21:30:00.000Z"
+        },
+        {
+          "title": "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
+          "summary": "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-12T20:54:00.000Z"
         },
         {
           "title": "Win Prizes In The Fall 2026 CCL Predictions Challenge",
@@ -23,28 +39,12 @@
           "publishedAt": "2026-11-12T20:17:00.000Z"
         },
         {
-          "title": "Total Chess: Group stage - Live!",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-          "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-12T14:45:00.000Z"
-        },
-        {
           "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
           "summary": "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana,…",
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-12T08:00:00.000Z"
-        },
-        {
-          "title": "CBM 233: Aronian and Pragg shine",
-          "link": "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
-          "summary": "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-11T21:30:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Qatar Under-17 World Cup is on despite US pull out",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
-          "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+          "title": "Live: Microsoft struggles to restore services as outage hits global users",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+          "summary": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T20:15:47.000Z"
+          "publishedAt": "2026-11-13T11:18:01.000Z"
         },
         {
-          "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-          "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-          "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+          "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
+          "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T20:12:21.000Z"
+          "publishedAt": "2026-11-13T10:57:20.000Z"
         },
         {
-          "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
-          "link": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
-          "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
+          "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+          "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T20:10:31.000Z"
+          "publishedAt": "2026-11-13T10:54:25.000Z"
         },
         {
-          "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-          "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
+          "title": "What we know about the global Microsoft outage",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-12T20:09:16.000Z"
+          "publishedAt": "2026-11-13T10:53:40.000Z"
         },
         {
-          "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
-          "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
-          "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
+          "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
+          "link": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
+          "summary": "New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-12T19:56:26.000Z"
+          "publishedAt": "2026-11-13T10:26:37.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "It’s game time for Siya in French ‘theatre’",
-          "link": "https://www.sarugbymag.co.za/game-time-siya-french-theatre/",
-          "summary": "Siya Kolisi dismissed any suggestion that historical dominance over Les Bleus gives the Springboks a psychological edge for Friday night at the Stade de France. The post It’s game time for Siya in French ‘theatre’…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2245720158-e1794489917138.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T14:17:44.000Z"
+          "title": "World Rugby rankings: Springboks risk losing top spot as Nations Championship could provide top 10 shake up",
+          "link": "https://www.planetrugby.com/news/world-rugby-rankings-springboks-risk-losing-top-spot-as-nations-championship-could-provide-top-10-shake-up",
+          "summary": "Check out the permutations ahead of another big weekend in the Nations Championship.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13111942/World-Rugby-ranking-Nov-13-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-13T11:30:55.000Z"
         },
         {
-          "title": "Boks brace for Dupont, Lucu’s ‘licence’ to roam",
-          "link": "https://www.sarugbymag.co.za/boks-brace-dupont-lucus-licence-roam/",
-          "summary": "The Springboks expect France’s new halfback pairing of Maxime Lucu and Antoine Dupont to operate as interchangeable playmakers at the Stade de France on Friday night. The post Boks brace for Dupont, Lucu’s ‘licence’ to…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-passes-15-October-2023-Chris-Hyde-Getty-Images-e1794492651104.jpg",
+          "title": "Habana: Rassie’s success 20 years in making",
+          "link": "https://www.sarugbymag.co.za/habana-rassies-success-20-years-in-making/",
+          "summary": "Bryan Habana has explained what he believes is behind Rassie Erasmus' sustained success as Springbok head coach. The post Habana: Rassie’s success 20 years in making appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/UP1EM8T150HAQ-e1788112875791.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T14:14:12.000Z"
+          "publishedAt": "2026-11-13T10:04:22.000Z"
         },
         {
-          "title": "Superbru: Boks feast in Paris, All Blacks overrun Wales",
-          "link": "https://www.sarugbymag.co.za/superbru-boks-feast-in-paris-all-blacks-overrun-wales/",
-          "summary": "The Springboks extend their dominance over France, while the All Blacks win big in Cardiff, according to the SA Rugby magazine team. The post Superbru: Boks feast in Paris, All Blacks overrun Wales appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-try-smiles-8-November-2025-David-Rogers-Getty-Images-e1794498433177.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T14:12:42.000Z"
+          "title": "Romain Ntamack: I was ‘relieved’ when the Springboks knocked France out of the 2023 Rugby World Cup",
+          "link": "https://www.planetrugby.com/news/romain-ntamack-i-was-relieved-when-the-springboks-knocked-france-out-of-the-2023-rugby-world-cup",
+          "summary": "France star Romain Ntamack has opened up on the 2023 Rugby World Cup heartbreak.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13094452/France-dejected-after-Boks-and-Romain-Ntamack-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-13T09:55:28.000Z"
         },
         {
-          "title": "Beauden captains All Blacks, Richie returns",
-          "link": "https://www.sarugbymag.co.za/beauden-captains-all-blacks-richie-returns/",
-          "summary": "Beauden Barrett will captain the All Blacks for the first time when they face Wales in Cardiff on Saturday, with Richie Mo'unga back at flyhalf. The post Beauden captains All Blacks, Richie returns appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Beauden-Barrett-7-November-2026-Stu-Forster-Getty-Images-e1794493842962.jpg",
+          "title": "Watch: Dupont tears it up at 10",
+          "link": "https://www.sarugbymag.co.za/watch-dupont-tears-it-up-at-10/",
+          "summary": "Highlights from Antoine Dupont's eight starts at flyhalf for Toulouse ahead of Friday night's Test against the Springboks, when he will wear the France No 10 jersey for the first time. The post Watch: Dupont tears it up…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-flyhalf-10-Toulouse-e1794561013129.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T14:10:24.000Z"
+          "publishedAt": "2026-11-13T09:12:11.000Z"
         },
         {
-          "title": "Ireland switch things up before Bok duel",
-          "link": "https://www.sarugbymag.co.za/ireland-switch-things-bok-duel/",
-          "summary": "Scrumhalf Jamison Gibson-Park starts with Mack Hansen shifting to fullback against Fiji on Saturday, as Tadhg Beirne takes over the Ireland captaincy. The post Ireland switch things up before Bok duel appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/MackHansen-e1794495126737.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-12T14:02:24.000Z"
+          "title": "Bryan Habana: Rassie Erasmus’ Springboks success is a culmination of 20 years of work",
+          "link": "https://www.planetrugby.com/news/bryan-habana-rassie-erasmus-springboks-success-is-a-culmination-of-20-years-of-work",
+          "summary": "Bryan Habana believes that Rassie Erasmus is reaping the rewards of two decades of work with SA Rugby with his success being a far cry from immediate.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13083835/Springboks-head-coach-Rassie-Erasmus-and-an-inset-of-legendary-winger-Byran-Habana-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-13T08:53:55.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-12T20:30:37.027Z",
+    "generatedAt": "2026-11-13T11:39:19.082Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 2h 21m"
     },
     "forecast": [
-      {
-        "date": "2026-11-12",
-        "day": "Thu",
-        "dayOfMonth": 12,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-13",
         "day": "Fri",
         "dayOfMonth": 13,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-14",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-15",
         "day": "Sun",
         "dayOfMonth": 15,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-16",
         "day": "Mon",
         "dayOfMonth": 16,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-17",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-19",
+        "day": "Thu",
+        "dayOfMonth": 19,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-12",
+        "date": "2026-11-13",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sun 15, 09:00–12:00"
+        "etr": "Mon 16, 09:00–12:00"
       }
     ],
     "reliability": {
