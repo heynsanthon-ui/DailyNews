@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-11-13T20:07:42.366Z",
-  "edition": "Updated 22:07 SAST — Fri, 13 Nov",
+  "generatedAt": "2026-11-14T11:00:33.029Z",
+  "edition": "Updated 13:00 SAST — Sat, 14 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Total Chess: Caruana and MVL impress, Martirosyan upsets Carlsen",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-3",
+          "summary": "Haik Martirosyan defeated Magnus Carlsen on Friday to take the sole lead in Group C at the Total Chess Pilot in Budapest. Fabiano Caruana remains the tournament's top scorer with 14 points, while Alireza Firouzja and…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-14T10:05:00.000Z"
+        },
+        {
+          "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)",
+          "link": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-3",
+          "summary": "“The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,” writes Lukas Köpl in his comprehensive review…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-14T07:00:00.000Z"
+        },
+        {
+          "title": "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+          "summary": "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-13T21:20:00.000Z"
+        },
+        {
+          "title": "Teenage Phenom Wins Freestyle Friday",
+          "link": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
+          "summary": "IM Khuong Duy Dau, the 15-year-old international master from Vietnam, won Freestyle Friday on November 13. A regular of both Freestyle Friday and Titled Tuesday, the win was Dau's first in either event, and he did it by…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-13T21:10:00.000Z"
+        },
         {
           "title": "Andreikin Nearly Sweeps 3 0 Thursday Tournaments",
           "link": "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
@@ -13,38 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-13T19:48:56.000Z"
-        },
-        {
-          "title": "Total Chess: Group stage - Live!",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-          "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-13T14:45:00.000Z"
-        },
-        {
-          "title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
-          "summary": "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-13T08:15:00.000Z"
-        },
-        {
-          "title": "Tony Miles: 25 years since the sudden death of an English star",
-          "link": "https://en.chessbase.com/post/anthony-miles-25-years-death",
-          "summary": "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-12T21:30:00.000Z"
-        },
-        {
-          "title": "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun",
-          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
-          "summary": "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-12T20:54:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+          "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-13T19:53:57.000Z"
+          "publishedAt": "2026-11-14T10:42:20.000Z"
         },
         {
-          "title": "Migrants risk deadly route to Spain’s Canary Islands",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
-          "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T19:23:40.000Z"
-        },
-        {
-          "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-          "summary": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T19:23:05.000Z"
-        },
-        {
-          "title": "Democratic Senate leader Schumer set to face leadership challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-          "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-13T19:03:10.000Z"
+          "publishedAt": "2026-11-14T10:30:38.000Z"
         },
         {
-          "title": "How will the US deal with Nvidia scandal?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-          "summary": "Tech giant CEO resigned and will testify before Congress.",
+          "title": "South Sudan postpones first-ever national elections until February",
+          "link": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+          "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-13T18:57:43.000Z"
+          "publishedAt": "2026-11-14T10:30:32.000Z"
+        },
+        {
+          "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
+          "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
+          "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-14T10:03:12.000Z"
+        },
+        {
+          "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+          "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-14T09:43:54.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "LIVE: France vs Springboks",
-          "link": "https://www.sarugbymag.co.za/live-france-vs-springboks-2/",
-          "summary": "Follow the live action as France clash with the Springboks in round five of the Nations Championship. The post LIVE: France vs Springboks appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/France-vs-South-Africa-LIVE.jpg",
+          "title": "‘We basically killed our dreams’",
+          "link": "https://www.sarugbymag.co.za/basically-killed-dreams/",
+          "summary": "Rassie Erasmus says the Springboks may have blown their chances of reaching the inaugural Nations Championship final after losing 21-19 to France in Paris. The post ‘We basically killed our dreams’ appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dejected-Springboks-13-November-2026-David-Rogers-Getty-Images-e1794638838431.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-13T19:45:37.000Z"
+          "publishedAt": "2026-11-14T06:51:25.000Z"
         },
         {
-          "title": "France v Springboks latest: Rassie Erasmus repeats late controversial changes for Les Bleus",
-          "link": "https://www.planetrugby.com/news/france-v-springboks-latest-rassie-erasmus-repeats-late-controversial-changes-for-les-bleus",
-          "summary": "Rassie Erasmus makes three late changes to his side, all of which come in the front-row!",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13191519/Springboks-lates-changes-for-France-120x120.jpg",
+          "title": "Frank Bunce’s verdict on the All Blacks centres and how they compare to standard-setting Springboks pair",
+          "link": "https://www.planetrugby.com/news/frank-bunces-verdict-on-the-all-blacks-centres-and-how-they-compare-to-standard-setting-springboks-pair",
+          "summary": "The Jordie Barrett and Quinn Tupaea partnership has left the ex-All Blacks centre very impressed.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13154751/Jordie-Barrett-and-Quinn-Tupaea-2026-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-13T19:22:15.000Z"
+          "publishedAt": "2026-11-14T06:49:11.000Z"
         },
         {
-          "title": "Rassie flips his front row in France",
-          "link": "https://www.sarugbymag.co.za/rassie-flips-front-row-france/",
-          "summary": "Rassie Erasmus has pulled another late Springbok front-row switch, this time for Friday night’s Nations Championship Test against France in Paris. The post Rassie flips his front row in France appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2648480-e1794597597345.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-13T19:18:10.000Z"
-        },
-        {
-          "title": "France v South Africa, LIVE BLOG: Coverage of the Nations Championship fixture",
-          "link": "https://www.planetrugby.com/news/france-v-south-africa-live-blog-coverage-of-the-nations-championship-fixture",
-          "summary": "Follow our live blog of tonight's Nations Championship fixture between France and the Springboks at the Stade de France.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13194658/Stade-de-France-ahead-of-France-v-South-Africa-Alamy-120x120.jpg",
+          "title": "France v Springboks winners and losers: Dupont otherworldly, Sacha a shadow of himself",
+          "link": "https://www.planetrugby.com/news/france-v-springboks-winners-losers-dupont-otherworldly-sacha-a-shadow-of-himself",
+          "summary": "Winners and losers from France's 21-19 victory over the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/14002918/Springboks-fly-half-Sacha-Feinberg-Mngomezulu-and-an-inset-of-Antoine-Dupont-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-13T18:52:05.000Z"
+          "publishedAt": "2026-11-14T06:48:50.000Z"
         },
         {
-          "title": "Bok prop to coach Maties",
-          "link": "https://www.sarugbymag.co.za/bok-prop-coach-maties/",
-          "summary": "A Springbok scrum anchor and Stormers stalwart has reportedly joined the Maties backroom staff for the 2027 Varsity Cup season. The post Bok prop to coach Maties appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_1881208-e1794583630182.jpg",
+          "title": "Why Rassie made front-row switch",
+          "link": "https://www.sarugbymag.co.za/why-rassie-made-front-row-switch/",
+          "summary": "Rassie Erasmus has explained why he made another late change to the Springbok front row ahead of Friday night's Nations Championship Test against France in Paris. The post Why Rassie made front-row switch appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Jan-Hendrik-Wessels-13-November-2026-David-Winter-Gallo-Images-e1794637276562.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-13T15:35:13.000Z"
+          "publishedAt": "2026-11-14T06:25:20.000Z"
+        },
+        {
+          "title": "Dupont: Beating Boks a mental boost",
+          "link": "https://www.sarugbymag.co.za/dupont-beating-boks-a-mental-boost/",
+          "summary": "France captain Antoine Dupont says Friday night's 21-19 win against the Springboks was important to show that his side is capable of grinding out victories when it matters. The post Dupont: Beating Boks a mental boost…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-13-November-2026-David-Rogers-Getty-Images-e1794639706395.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-14T06:20:08.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-13T20:07:42.409Z",
+    "generatedAt": "2026-11-14T11:00:33.096Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 2h 59m"
     },
     "forecast": [
-      {
-        "date": "2026-11-13",
-        "day": "Fri",
-        "dayOfMonth": 13,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-14",
         "day": "Sat",
         "dayOfMonth": 14,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-15",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-16",
         "day": "Mon",
         "dayOfMonth": 16,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-17",
         "day": "Tue",
         "dayOfMonth": 17,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-18",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-20",
+        "day": "Fri",
+        "dayOfMonth": 20,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Mon 16, 09:00–12:00"
+        "etr": "Tue 17, 09:00–12:00"
       }
     ],
     "reliability": {
