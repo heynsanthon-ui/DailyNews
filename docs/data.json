@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-14T18:33:06.417Z",
-  "edition": "Updated 20:33 SAST — Sat, 14 Nov",
+  "generatedAt": "2026-11-14T22:46:40.641Z",
+  "edition": "Morning Edition — Sun, 15 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
+          "summary": "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-14T21:56:00.000Z"
+        },
+        {
+          "title": "Like to play Magnus in London?",
+          "link": "https://en.chessbase.com/post/like-to-play-magnus-in-london",
+          "summary": "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-14T21:15:00.000Z"
+        },
         {
           "title": "Total Chess: Group stage - Live!",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-13T21:20:00.000Z"
-        },
-        {
-          "title": "Teenage Phenom Wins Freestyle Friday",
-          "link": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
-          "summary": "IM Khuong Duy Dau, the 15-year-old international master from Vietnam, won Freestyle Friday on November 13. A regular of both Freestyle Friday and Titled Tuesday, the win was Dau's first in either event, and he did it by…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-13T21:10:00.000Z"
-        },
-        {
-          "title": "Andreikin Nearly Sweeps 3 0 Thursday Tournaments",
-          "link": "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
-          "summary": "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-13T19:48:56.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-          "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-14T18:28:06.000Z"
+          "publishedAt": "2026-11-14T22:37:25.000Z"
         },
         {
-          "title": "Philippines wins first Eurovision Song Contest Asia",
-          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-          "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-14T18:17:58.000Z"
-        },
-        {
-          "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-          "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-          "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
+          "title": "Palestinian stories set for major presence at 2027 Oscars",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+          "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-14T18:02:53.000Z"
+          "publishedAt": "2026-11-14T22:28:47.000Z"
         },
         {
-          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-          "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-          "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-14T18:00:10.000Z"
+          "publishedAt": "2026-11-14T22:09:40.000Z"
         },
         {
-          "title": "Rising costs and arrests fuel protests in Central African Republic",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-          "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
+          "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+          "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+          "summary": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-14T17:50:28.000Z"
+          "publishedAt": "2026-11-14T22:00:45.000Z"
+        },
+        {
+          "title": "US flights resume after ageing technology blamed for outage",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+          "summary": "US flights resume after ageing technology blamed for outage",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-14T21:36:19.000Z"
         }
       ]
     },
@@ -98,6 +98,14 @@
       "id": "rugby",
       "title": "Springboks",
       "articles": [
+        {
+          "title": "Five-try Joseph stars in England romp",
+          "link": "https://www.sarugbymag.co.za/five-try-joseph-stars-in-england-romp/",
+          "summary": "Will Joseph marked his first Test start with a record-equalling five tries as England thrashed Japan in Saturday's Nations Championship clash at Twickenham. The post Five-try Joseph stars in England romp appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Will-Joseph-try-England-14-November-2026-Justin-Setterfield-Getty-Images-e1794680139764.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-14T18:38:22.000Z"
+        },
         {
           "title": "Latest World Rugby rankings: How the All Blacks’ shocking defeat to Wales has impacted the standings",
           "link": "https://www.planetrugby.com/news/latest-world-rugby-rankings-how-the-all-blacks-shocking-defeat-to-wales-has-impacted-the-standings",
@@ -129,14 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305101765-e1794673206795.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-11-14T16:14:07.000Z"
-        },
-        {
-          "title": "France’s injury crisis eased as playmaker makes timely return after Springboks victory",
-          "link": "https://www.planetrugby.com/news/frances-injury-crisis-eased-as-playmaker-makes-timely-return-after-springboks-victory",
-          "summary": "The news will be welcomed by Fabien Galthié, whose options at 10 have dwindled since the start of the autumn.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/14144811/France-fly-half-Matthieu-Jalibert-and-an-inset-of-head-coach-Fabien-Galthie-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-14T14:49:42.000Z"
         }
       ]
     },
@@ -1655,7 +1655,7 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-14T18:33:06.472Z",
+    "generatedAt": "2026-11-14T22:46:40.712Z",
     "status": {
       "level": "operational",
       "label": "🟢 Grid Operational"
