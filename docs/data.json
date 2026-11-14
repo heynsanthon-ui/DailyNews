@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-14T11:00:33.029Z",
-  "edition": "Updated 13:00 SAST — Sat, 14 Nov",
+  "generatedAt": "2026-11-14T18:33:06.417Z",
+  "edition": "Updated 20:33 SAST — Sat, 14 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "Total Chess: Caruana and MVL impress, Martirosyan upsets Carlsen",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-3",
-          "summary": "Haik Martirosyan defeated Magnus Carlsen on Friday to take the sole lead in Group C at the Total Chess Pilot in Budapest. Fabiano Caruana remains the tournament's top scorer with 14 points, while Alireza Firouzja and…",
+          "title": "Total Chess: Group stage - Live!",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-14T10:05:00.000Z"
+          "publishedAt": "2026-11-14T14:45:00.000Z"
         },
         {
           "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-          "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-          "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+          "title": "Italy fines Meta €805m over accessing users' photos",
+          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-14T10:42:20.000Z"
+          "publishedAt": "2026-11-14T18:28:06.000Z"
         },
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-14T10:30:38.000Z"
+          "publishedAt": "2026-11-14T18:17:58.000Z"
         },
         {
-          "title": "South Sudan postpones first-ever national elections until February",
-          "link": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-          "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+          "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+          "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+          "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-14T10:30:32.000Z"
+          "publishedAt": "2026-11-14T18:02:53.000Z"
         },
         {
-          "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
-          "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
-          "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-14T10:03:12.000Z"
+          "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+          "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-14T18:00:10.000Z"
         },
         {
-          "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
-          "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
+          "title": "Rising costs and arrests fuel protests in Central African Republic",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
+          "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-14T09:43:54.000Z"
+          "publishedAt": "2026-11-14T17:50:28.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "‘We basically killed our dreams’",
-          "link": "https://www.sarugbymag.co.za/basically-killed-dreams/",
-          "summary": "Rassie Erasmus says the Springboks may have blown their chances of reaching the inaugural Nations Championship final after losing 21-19 to France in Paris. The post ‘We basically killed our dreams’ appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dejected-Springboks-13-November-2026-David-Rogers-Getty-Images-e1794638838431.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-14T06:51:25.000Z"
-        },
-        {
-          "title": "Frank Bunce’s verdict on the All Blacks centres and how they compare to standard-setting Springboks pair",
-          "link": "https://www.planetrugby.com/news/frank-bunces-verdict-on-the-all-blacks-centres-and-how-they-compare-to-standard-setting-springboks-pair",
-          "summary": "The Jordie Barrett and Quinn Tupaea partnership has left the ex-All Blacks centre very impressed.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/13154751/Jordie-Barrett-and-Quinn-Tupaea-2026-1-120x120.jpg",
+          "title": "Latest World Rugby rankings: How the All Blacks’ shocking defeat to Wales has impacted the standings",
+          "link": "https://www.planetrugby.com/news/latest-world-rugby-rankings-how-the-all-blacks-shocking-defeat-to-wales-has-impacted-the-standings",
+          "summary": "Check out how stunning defeats for the All Blacks and Springboks impacted the World Rugby rankings.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/14174814/Wales-celebrate-and-All-Blacks-dejected-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-14T06:49:11.000Z"
+          "publishedAt": "2026-11-14T17:56:11.000Z"
         },
         {
-          "title": "France v Springboks winners and losers: Dupont otherworldly, Sacha a shadow of himself",
-          "link": "https://www.planetrugby.com/news/france-v-springboks-winners-losers-dupont-otherworldly-sacha-a-shadow-of-himself",
-          "summary": "Winners and losers from France's 21-19 victory over the Springboks.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/14002918/Springboks-fly-half-Sacha-Feinberg-Mngomezulu-and-an-inset-of-Antoine-Dupont-1-120x120.jpg",
+          "title": "‘Bad times’ drive Wales to historic win",
+          "link": "https://www.sarugbymag.co.za/bad-times-drive-wales-to-historic-win/",
+          "summary": "Wales captain Dewi Lake says the negative atmosphere surrounding Welsh rugby motivated his side to claim a first win over New Zealand since 1953. The post ‘Bad times’ drive Wales to historic win appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Wales-celebrate-14-November-2026-Dan-Istitene-Getty-Images-e1794675972282.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-14T17:08:34.000Z"
+        },
+        {
+          "title": "Boks back to No 1 after shock All Blacks loss",
+          "link": "https://www.sarugbymag.co.za/boks-back-no-1-shock-blacks-loss/",
+          "summary": "The Springboks have returned to the top of the World Rugby rankings after Wales stunned the All Blacks in Cardiff on Saturday. The post Boks back to No 1 after shock All Blacks loss appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dejected-All-Blacks-14-November-2026-Dan-Istitene-Getty-Images-e1794672722358.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-14T16:15:10.000Z"
+        },
+        {
+          "title": "Wales break All Blacks duck",
+          "link": "https://www.sarugbymag.co.za/wales-break-blacks-duck/",
+          "summary": "Wales edged the All Blacks in the Nations Championship on Saturday in Cardiff to claim their first victory over the All Blacks since 1953. The post Wales break All Blacks duck appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305101765-e1794673206795.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-14T16:14:07.000Z"
+        },
+        {
+          "title": "France’s injury crisis eased as playmaker makes timely return after Springboks victory",
+          "link": "https://www.planetrugby.com/news/frances-injury-crisis-eased-as-playmaker-makes-timely-return-after-springboks-victory",
+          "summary": "The news will be welcomed by Fabien Galthié, whose options at 10 have dwindled since the start of the autumn.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/14144811/France-fly-half-Matthieu-Jalibert-and-an-inset-of-head-coach-Fabien-Galthie-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-14T06:48:50.000Z"
-        },
-        {
-          "title": "Why Rassie made front-row switch",
-          "link": "https://www.sarugbymag.co.za/why-rassie-made-front-row-switch/",
-          "summary": "Rassie Erasmus has explained why he made another late change to the Springbok front row ahead of Friday night's Nations Championship Test against France in Paris. The post Why Rassie made front-row switch appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Jan-Hendrik-Wessels-13-November-2026-David-Winter-Gallo-Images-e1794637276562.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-14T06:25:20.000Z"
-        },
-        {
-          "title": "Dupont: Beating Boks a mental boost",
-          "link": "https://www.sarugbymag.co.za/dupont-beating-boks-a-mental-boost/",
-          "summary": "France captain Antoine Dupont says Friday night's 21-19 win against the Springboks was important to show that his side is capable of grinding out victories when it matters. The post Dupont: Beating Boks a mental boost…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-13-November-2026-David-Rogers-Getty-Images-e1794639706395.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-14T06:20:08.000Z"
+          "publishedAt": "2026-11-14T14:49:42.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "On-song South Africa host Bangladesh with an eye on another WTC final",
+          "link": "https://www.cricinfo.com/ci/content/story/1562635.html?ex_cid=OTC-RSS",
+          "summary": "Hamza and Paterson return to South Africa's XI in what is Johannesburg's first Test since March 2023",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425200/425246.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-14T16:15:41.000Z"
+        },
+        {
+          "title": "Justin Sammons resigns as Zimbabwe head coach",
+          "link": "https://www.cricinfo.com/ci/content/story/1562644.html?ex_cid=OTC-RSS",
+          "summary": "Ongoing Test against Afghanistan will be final role as he prepares to return to native South Africa",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/400800/400833.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-14T15:05:55.000Z"
+        },
         {
           "title": "Rabada 'chuffed at engagement from fans' after series win against Australia",
           "link": "https://www.cricinfo.com/ci/content/story/1562543.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425100/425111.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-11T13:32:36.000Z"
-        },
-        {
-          "title": "Shreyanka in India A squads for England A series; Anushka, Mani named captains",
-          "link": "https://www.cricinfo.com/ci/content/story/1562247.html?ex_cid=OTC-RSS",
-          "summary": "Amanjot Kaur, who returned to India's T20I squad against South Africa following a long injury layoff, has also been picked for the T20s",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/422700/422772.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-11T13:15:17.000Z"
-        },
-        {
-          "title": "Patterson-White wins maiden England call in Test squad for South Africa",
-          "link": "https://www.cricinfo.com/ci/content/story/1562006.html?ex_cid=OTC-RSS",
-          "summary": "Nottinghamshire allrounder included ahead of Shoaib Bashir and Rehan Ahmed",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/415300/415350.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-10T11:38:54.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-14T11:00:33.096Z",
+    "generatedAt": "2026-11-14T18:33:06.472Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 59m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
