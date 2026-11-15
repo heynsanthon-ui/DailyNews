@@ -1,42 +1,26 @@
 {
-  "generatedAt": "2026-11-15T11:35:11.460Z",
-  "edition": "Updated 13:35 SAST — Sun, 15 Nov",
+  "generatedAt": "2026-11-15T19:09:54.740Z",
+  "edition": "Updated 21:09 SAST — Sun, 15 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "Review: All new releases in October!",
-          "link": "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
-          "summary": "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be…",
+          "title": "ChessBase 27: Ready for Launch!",
+          "link": "https://en.chessbase.com/post/chessbase-27-all-new-functions",
+          "summary": "The most important change in th new ChessBase 27 is that it has moved beyond being a traditional chess database program – it is becoming an integrated environment for opening preparation, chess training, coaching,…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-15T07:00:00.000Z"
+          "publishedAt": "2026-11-15T18:26:30.000Z"
         },
         {
-          "title": "ChessBase for Mac: people are loving it",
-          "link": "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
-          "summary": "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase – because she didn't have a Windows computer.…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-15T01:07:42.000Z"
-        },
-        {
-          "title": "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention",
-          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
-          "summary": "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world…",
+          "title": "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title",
+          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
+          "summary": "GM Hikaru Nakamura brought up his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-14T21:56:00.000Z"
-        },
-        {
-          "title": "Like to play Magnus in London?",
-          "link": "https://en.chessbase.com/post/like-to-play-magnus-in-london",
-          "summary": "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-14T21:15:00.000Z"
+          "publishedAt": "2026-11-15T16:13:00.000Z"
         },
         {
           "title": "Total Chess: Group stage - Live!",
@@ -44,7 +28,23 @@
           "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-14T14:45:00.000Z"
+          "publishedAt": "2026-11-15T14:45:00.000Z"
+        },
+        {
+          "title": "ChessBase for Mac: people are loving it",
+          "link": "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
+          "summary": "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase – because she didn't have a Windows computer.…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-15T08:00:00.000Z"
+        },
+        {
+          "title": "Review: All new releases in October!",
+          "link": "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
+          "summary": "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-15T07:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-          "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
+          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+          "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+          "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-15T18:31:52.000Z"
+        },
+        {
+          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-15T11:06:32.000Z"
+          "publishedAt": "2026-11-15T18:08:20.000Z"
         },
         {
-          "title": "Police confront protesters in clashes across France and Germany",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-          "summary": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+          "title": "Christian priest says US denied him a visa for being Palestinian",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
+          "summary": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T11:04:10.000Z"
+          "publishedAt": "2026-11-15T18:07:32.000Z"
         },
         {
-          "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-          "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
-          "summary": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+          "title": "Estonia to close border crossings with Russia after attack on drone maker",
+          "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+          "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T10:58:36.000Z"
+          "publishedAt": "2026-11-15T18:07:02.000Z"
         },
         {
-          "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-          "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
-          "summary": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+          "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+          "summary": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T10:52:36.000Z"
-        },
-        {
-          "title": "Spain football coach denies racism ahead of England match",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
-          "summary": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T10:28:28.000Z"
+          "publishedAt": "2026-11-15T17:39:23.000Z"
         }
       ]
     },
@@ -99,12 +99,36 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Watch: Rugby player kicks for $1-million",
-          "link": "https://www.sarugbymag.co.za/watch-rugby-player-kicks-1-million/",
-          "summary": "Rugby player Easton Hanson had the chance to win $1-million by kicking a 33-yard American football field goal during a \"Kicking Is Easy\" contest on ESPN's College GameDay. The post Watch: Rugby player kicks for…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rugby-player-kicks-for-1-million-e1794739792277.jpeg",
+          "title": "Scots edge Wallabies in armwrestle",
+          "link": "https://www.sarugbymag.co.za/scots-edge-wallabies-murrayfield-armwrestle/",
+          "summary": "Scotland narrowly beat the Wallabies in a low-scoring Nations Championship clash at Murrayfield on Sunday. The post Scots edge Wallabies in armwrestle appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305234666-e1794766389214.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T10:50:33.000Z"
+          "publishedAt": "2026-11-15T17:04:54.000Z"
+        },
+        {
+          "title": "Wales legend hails All Blacks triumph as the ‘biggest shock in rugby since Japan beat South Africa in 2015’",
+          "link": "https://www.planetrugby.com/news/wales-legend-hails-all-blacks-triumph-as-the-biggest-shock-in-rugby-since-japan-beat-south-africa-in-2015",
+          "summary": "Wales legends Sam Warburton and Dan Biggar agreed that Wales' 35-28 win over the All Blacks in Cardiff on Saturday ranks as one of the biggest shocks in Test history.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/15142339/Dan-Biggar-and-Wales-players-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-15T14:34:09.000Z"
+        },
+        {
+          "title": "Injury boost for Les Bleus",
+          "link": "https://www.sarugbymag.co.za/injury-boost-les-bleus/",
+          "summary": "France's flyhalf stocks have been replenished somewhat by the return of one of their seasoned campaigners. The post Injury boost for Les Bleus appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/2286603094-e1784373002384.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-15T14:23:54.000Z"
+        },
+        {
+          "title": "Springboks: The ‘remarkable’ trait Rassie Erasmus’ side has as Schalk Burger issues Ireland ‘sausage machine’ reminder",
+          "link": "https://www.planetrugby.com/news/springboks-the-remarkable-trait-rassie-erasmus-side-has-as-schalk-burger-issues-ireland-sausage-machine-reminder",
+          "summary": "Springboks legend Schalk Burger has backed the team to bounce back in their \"next job\" after Friday's Nations Championship loss to France.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/15130231/Springboks-after-loss-to-France-with-Schalk-Burger-inset-Alamy-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-15T13:12:43.000Z"
         },
         {
           "title": "Kitsie: Boks will be looking for blood",
@@ -113,30 +137,6 @@
           "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2650392-e1794736681155.jpg",
           "source": "SA Rugby Mag",
           "publishedAt": "2026-11-15T10:04:32.000Z"
-        },
-        {
-          "title": "Stormers to let Gaza go",
-          "link": "https://www.sarugbymag.co.za/stormers-let-gaza-go/",
-          "summary": "The Stormers are willing to grant Damian Willemse a sabbatical while offering another double World Cup-winning Springbok a one-season deal. The post Stormers to let Gaza go appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Damian-Willemse-31-October-2026-Grant-Pitcher-Gallo-Images-e1793507054727.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T05:03:49.000Z"
-        },
-        {
-          "title": "Watch: ‘It feels like a death in the family’",
-          "link": "https://www.sarugbymag.co.za/watch-feels-like-death-family/",
-          "summary": "New Zealand radio personality Mark Watson reacts to the All Blacks' shock loss to Wales in Cardiff. The post Watch: ‘It feels like a death in the family’ appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Mark-Watson-All-Blacks-Wales-e1794724324704.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T05:02:52.000Z"
-        },
-        {
-          "title": "Sharks circle Stormers lock",
-          "link": "https://www.sarugbymag.co.za/sharks-circle-stormers-lock/",
-          "summary": "The Sharks are looking to lure a Stormers lock with Bok potential away from Cape Town. The post Sharks circle Stormers lock appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/10/Stormers-vs-Scarlets-unfiltered.jpeg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T05:00:02.000Z"
         }
       ]
     },
@@ -145,12 +145,28 @@
       "title": "Proteas",
       "articles": [
         {
-          "title": "Rabada's new-ball treble makes it South Africa's morning",
-          "link": "https://www.cricinfo.com/ci/content/story/1562759.html?ex_cid=OTC-RSS",
-          "summary": "Tanzid Hasan grinded out a half-century as he and Towhid Hridoy hung tight till lunch",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425200/425294.jpg",
+          "title": "Rabada: 'We need to be more ruthless'",
+          "link": "https://www.cricinfo.com/ci/content/story/1562805.html?ex_cid=OTC-RSS",
+          "summary": "He took the first five wickets to fall in Johannesburg but could not stop South Africa from letting the advantage slip",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425307.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-15T10:20:27.000Z"
+          "publishedAt": "2026-11-15T18:21:27.000Z"
+        },
+        {
+          "title": "Bangladesh, USA to host men's and women's LA28 qualifying tournaments",
+          "link": "https://www.cricinfo.com/ci/content/story/1562785.html?ex_cid=OTC-RSS",
+          "summary": "The ICC has finalised the windows for marquee men's tournaments until 2035",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414344.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-15T17:10:22.000Z"
+        },
+        {
+          "title": "Hridoy and Litton's 206-run stand powers Bangladesh after Rabada's five-for",
+          "link": "https://www.cricinfo.com/ci/content/story/1562759.html?ex_cid=OTC-RSS",
+          "summary": "Despite being reduced to 121 for 5, Bangladesh finished the day on 327 for 6",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425311.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-15T16:24:26.000Z"
         },
         {
           "title": "Sayers backs Khawaja's claims on sandpaper, goes against Cummins",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/409000/409091.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-15T07:59:37.000Z"
-        },
-        {
-          "title": "On-song South Africa host Bangladesh with an eye on another WTC final",
-          "link": "https://www.cricinfo.com/ci/content/story/1562635.html?ex_cid=OTC-RSS",
-          "summary": "Hamza and Paterson return to South Africa's XI in what is Johannesburg's first Test since March 2023",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425200/425246.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-14T16:15:41.000Z"
-        },
-        {
-          "title": "Justin Sammons resigns as Zimbabwe head coach",
-          "link": "https://www.cricinfo.com/ci/content/story/1562644.html?ex_cid=OTC-RSS",
-          "summary": "Ongoing Test against Afghanistan will be final role as he prepares to return to native South Africa",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/400800/400833.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-14T15:05:55.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-15T11:35:11.505Z",
+    "generatedAt": "2026-11-15T19:09:54.783Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 2h 25m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
