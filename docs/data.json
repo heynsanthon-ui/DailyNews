@@ -1,15 +1,23 @@
 {
-  "generatedAt": "2026-11-15T19:09:54.740Z",
-  "edition": "Updated 21:09 SAST — Sun, 15 Nov",
+  "generatedAt": "2026-11-16T12:09:08.425Z",
+  "edition": "Updated 14:09 SAST — Mon, 16 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
+          "title": "Firouzja, Caruana, Giri, MVL Win Groups; Carlsen's No. 1 Status Boosted By Caruana Loss",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-6",
+          "summary": "It's GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-15T21:28:00.000Z"
+        },
+        {
           "title": "ChessBase 27: Ready for Launch!",
           "link": "https://en.chessbase.com/post/chessbase-27-all-new-functions",
-          "summary": "The most important change in th new ChessBase 27 is that it has moved beyond being a traditional chess database program – it is becoming an integrated environment for opening preparation, chess training, coaching,…",
+          "summary": "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program – it is becoming an integrated environment for opening preparation, chess training, coaching,…",
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-15T18:26:30.000Z"
@@ -17,18 +25,10 @@
         {
           "title": "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title",
           "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
-          "summary": "GM Hikaru Nakamura brought up his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining…",
+          "summary": "GM Hikaru Nakamura gained his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers…",
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-15T16:13:00.000Z"
-        },
-        {
-          "title": "Total Chess: Group stage - Live!",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-          "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-15T14:45:00.000Z"
         },
         {
           "title": "ChessBase for Mac: people are loving it",
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-          "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-          "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T18:31:52.000Z"
-        },
-        {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-          "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+          "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-15T18:08:20.000Z"
+          "publishedAt": "2026-11-16T11:55:57.000Z"
         },
         {
-          "title": "Christian priest says US denied him a visa for being Palestinian",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-          "summary": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T18:07:32.000Z"
+          "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "summary": "Tech leaders, including Elon Musk, are among those backing a campaign to \"Bring Jensen Back\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/119c/live/eaafa8b0-e1a5-11f1-8433-4325183b3814.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-16T11:45:40.000Z"
         },
         {
-          "title": "Estonia to close border crossings with Russia after attack on drone maker",
-          "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-          "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
+          "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+          "link": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+          "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T18:07:02.000Z"
+          "publishedAt": "2026-11-16T11:40:25.000Z"
         },
         {
-          "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
-          "summary": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+          "title": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
+          "link": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+          "summary": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-15T17:39:23.000Z"
+          "publishedAt": "2026-11-16T11:23:43.000Z"
+        },
+        {
+          "title": "Yemeni forces retreat to defend port city from Houthis",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+          "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-16T11:09:38.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Scots edge Wallabies in armwrestle",
-          "link": "https://www.sarugbymag.co.za/scots-edge-wallabies-murrayfield-armwrestle/",
-          "summary": "Scotland narrowly beat the Wallabies in a low-scoring Nations Championship clash at Murrayfield on Sunday. The post Scots edge Wallabies in armwrestle appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305234666-e1794766389214.jpg",
+          "title": "Big Vic demands sharper Bok attack",
+          "link": "https://www.sarugbymag.co.za/big-vic-demands-sharper-bok-attack/",
+          "summary": "Victor Matfield says the Springboks must offer far more in attack against Ireland in Dublin on Saturday after a blunt display in their 21-19 defeat to France in Paris. The post Big Vic demands sharper Bok attack…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305058271-e1794819373472.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T17:04:54.000Z"
+          "publishedAt": "2026-11-16T09:30:22.000Z"
         },
         {
-          "title": "Wales legend hails All Blacks triumph as the ‘biggest shock in rugby since Japan beat South Africa in 2015’",
-          "link": "https://www.planetrugby.com/news/wales-legend-hails-all-blacks-triumph-as-the-biggest-shock-in-rugby-since-japan-beat-south-africa-in-2015",
-          "summary": "Wales legends Sam Warburton and Dan Biggar agreed that Wales' 35-28 win over the All Blacks in Cardiff on Saturday ranks as one of the biggest shocks in Test history.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/15142339/Dan-Biggar-and-Wales-players-image-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-15T14:34:09.000Z"
-        },
-        {
-          "title": "Injury boost for Les Bleus",
-          "link": "https://www.sarugbymag.co.za/injury-boost-les-bleus/",
-          "summary": "France's flyhalf stocks have been replenished somewhat by the return of one of their seasoned campaigners. The post Injury boost for Les Bleus appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/07/2286603094-e1784373002384.jpg",
+          "title": "McKenzie: No use moaning about KLA’s try",
+          "link": "https://www.sarugbymag.co.za/mckenzie-no-use-moaning-klas-try/",
+          "summary": "Former Wallabies coach Ewen McKenzie says the officials were inconsistent when they disallowed Springbok flyer Kurt-Lee Arendse’s score against France in Paris. The post McKenzie: No use moaning about KLA’s try appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2650384-e1794816418618.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T14:23:54.000Z"
+          "publishedAt": "2026-11-16T08:46:22.000Z"
         },
         {
-          "title": "Springboks: The ‘remarkable’ trait Rassie Erasmus’ side has as Schalk Burger issues Ireland ‘sausage machine’ reminder",
-          "link": "https://www.planetrugby.com/news/springboks-the-remarkable-trait-rassie-erasmus-side-has-as-schalk-burger-issues-ireland-sausage-machine-reminder",
-          "summary": "Springboks legend Schalk Burger has backed the team to bounce back in their \"next job\" after Friday's Nations Championship loss to France.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/15130231/Springboks-after-loss-to-France-with-Schalk-Burger-inset-Alamy-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-15T13:12:43.000Z"
-        },
-        {
-          "title": "Kitsie: Boks will be looking for blood",
-          "link": "https://www.sarugbymag.co.za/kitsie-boks-will-be-looking-for-blood/",
-          "summary": "Steven Kitshoff expects an angry response from the Springboks in Dublin following their 21-19 defeat to France in Paris. The post Kitsie: Boks will be looking for blood appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2650392-e1794736681155.jpg",
+          "title": "State of Nations Championship: Boks still in it",
+          "link": "https://www.sarugbymag.co.za/state-nations-championship-boks-still/",
+          "summary": "The Springboks can still reach the Nations Championship final, but need England to do them a favour. The post State of Nations Championship: Boks still in it appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Malcolm-Marx-try-Boks-13-November-2026-David-Winter-Gallo-Images-e1794805395426.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-15T10:04:32.000Z"
+          "publishedAt": "2026-11-16T05:08:36.000Z"
+        },
+        {
+          "title": "POLL: All Blacks or Boks in final?",
+          "link": "https://www.sarugbymag.co.za/poll-blacks-springboks/",
+          "summary": "Which southern hemisphere team will qualify for the Nations Championship final at Twickenham on Sunday, 29 November? The post POLL: All Blacks or Boks in final? appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Nations-Championship-trophy-featured-e1781629273657.jpeg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-16T05:05:11.000Z"
+        },
+        {
+          "title": "Paulie D: Boks will be up for it",
+          "link": "https://www.sarugbymag.co.za/paulie-d-boks-will/",
+          "summary": "Paul de Villiers says the Springboks will use the pain of their defeat to France to get in the zone for Ireland. The post Paulie D: Boks will be up for it appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2650536-e1794763753569.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-16T04:00:41.000Z"
         }
       ]
     },
@@ -145,12 +145,20 @@
       "title": "Proteas",
       "articles": [
         {
-          "title": "Rabada: 'We need to be more ruthless'",
+          "title": "Markram nicks off early after Litton, Hridoy centuries take Bangladesh to 400",
+          "link": "https://www.cricinfo.com/ci/content/story/1562841.html?ex_cid=OTC-RSS",
+          "summary": "After Litton brought up his first Test century in South Africa, cameos from Hasan Mahmud and Taskin Ahmed dragged Bangladesh to 400 before lunch on day two",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425318.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-16T10:11:53.000Z"
+        },
+        {
+          "title": "Rabada goes from 'not short and wide' to five in no time",
           "link": "https://www.cricinfo.com/ci/content/story/1562805.html?ex_cid=OTC-RSS",
-          "summary": "He took the first five wickets to fall in Johannesburg but could not stop South Africa from letting the advantage slip",
+          "summary": "He took the first five Bangladesh wickets to fall in Johannesburg but South Africa let the advantage slip",
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425307.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-15T18:21:27.000Z"
+          "publishedAt": "2026-11-16T07:47:06.000Z"
         },
         {
           "title": "Bangladesh, USA to host men's and women's LA28 qualifying tournaments",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/274300/274321.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-15T09:26:54.000Z"
-        },
-        {
-          "title": "Bangladesh opt to bat first in series opener at the Wanderers",
-          "link": "https://www.cricinfo.com/ci/content/story/1562729.html?ex_cid=OTC-RSS",
-          "summary": "Twenty-two-year-old Mahfijul Islam makes his debut for Bangladesh, while South Africa picked Zubayr Hamza at No. 3 and Dane Paterson as the fourth seamer",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/409000/409091.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-15T07:59:37.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-15T19:09:54.783Z",
+    "generatedAt": "2026-11-16T12:09:08.474Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 1h 51m"
     },
     "forecast": [
-      {
-        "date": "2026-11-15",
-        "day": "Sun",
-        "dayOfMonth": 15,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-16",
         "day": "Mon",
         "dayOfMonth": 16,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-17",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-18",
         "day": "Wed",
         "dayOfMonth": 18,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-19",
         "day": "Thu",
         "dayOfMonth": 19,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-20",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-22",
+        "day": "Sun",
+        "dayOfMonth": 22,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-15",
+        "date": "2026-11-16",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Wed 18, 09:00–12:00"
+        "etr": "Thu 19, 09:00–12:00"
       }
     ],
     "reliability": {
