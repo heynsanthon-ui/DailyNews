@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-17T21:24:50.117Z",
-  "edition": "Updated 23:24 SAST — Tue, 17 Nov",
+  "generatedAt": "2026-11-18T12:22:22.696Z",
+  "edition": "Updated 14:22 SAST — Wed, 18 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
+          "summary": "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-18T07:50:00.000Z"
+        },
+        {
+          "title": "Firouzja, Giri Lead Total Chess Semifinals; Carlsen Forfeits Final Game",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
+          "summary": "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-17T21:39:00.000Z"
+        },
+        {
+          "title": "Tabatabaei Win Streak Earns Second Titled Tuesday",
+          "link": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
+          "summary": "GM Amin Tabatabaei came from behind to win Titled Tuesday (TT) on tiebreaks on November 17, winning his last six games to finish with 9.5 points. GM Hikaru Nakamura was held to draws in two of his last three games and…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-17T21:30:00.000Z"
+        },
         {
           "title": "Streaks Are Freezing From November 19 To 23 So You Can Enjoy GTA VI's Launch Stress-Free",
           "link": "https://www.chess.com/news/view/gta-vi-streak-freeze",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-17T20:05:00.000Z"
-        },
-        {
-          "title": "Register Today For The 2027 Daily Chess Championship",
-          "link": "https://www.chess.com/news/view/daily-chess-championship-2027",
-          "summary": "One of Chess.com's biggest annual traditions is coming back in 2027: Registration is now open for the 2027 Daily Chess Championship (DCC). The Daily Chess Championship is one of the biggest tournaments in the world, and…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T16:00:00.000Z"
-        },
-        {
-          "title": "How To Play With Carlsen, Caruana, And Your Favorite Stars In The Chess Club Shodown",
-          "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
-          "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T15:30:00.000Z"
-        },
-        {
-          "title": "Gukesh Opens Up About Pressure, Criticism Ahead Of Sindarov Match",
-          "link": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
-          "summary": "World Champion Gukesh Dommaraju says he has struggled to handle the pressure and expectations of the world title, and is finding ways to deal with the criticism ahead of his match against GM Javokhir Sindarov. &ldquo;I…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T15:23:14.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Russian military plane crashes killing all 19 on board",
-          "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-17T21:06:11.000Z"
-        },
-        {
-          "title": "US loses measles elimination status after 26 years amid record case numbers",
-          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-          "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-17T21:04:00.000Z"
-        },
-        {
-          "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-          "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-          "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+          "title": "ICJ to rule on Rohingya genocide case: What to expect",
+          "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
+          "summary": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T20:57:56.000Z"
+          "publishedAt": "2026-11-18T12:11:47.000Z"
         },
         {
-          "title": "What’s behind the ANC’s decline in South Africa?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
-          "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
+          "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
+          "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
+          "summary": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-17T20:47:07.000Z"
+          "publishedAt": "2026-11-18T12:04:21.000Z"
         },
         {
-          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-          "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-          "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-17T20:44:54.000Z"
+          "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
+          "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
+          "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T11:58:10.000Z"
+        },
+        {
+          "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+          "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+          "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T11:57:09.000Z"
+        },
+        {
+          "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
+          "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
+          "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-18T11:51:26.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Opinion: Rassie Erasmus’s ‘match-fixing’ ban shows World Rugby must start docking points",
-          "link": "https://www.planetrugby.com/news/opinion-rassie-erasmuss-match-fixing-ban-shows-world-rugby-must-start-docking-points",
-          "summary": "Whilst Rassie Erasmus may have a point on some of this, his public tirades have gone on long enough, and next time it should cost the Springboks points.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/17205325/Rassie-Erasmus-and-Springboks-line-up-Alamy-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-17T21:00:49.000Z"
-        },
-        {
-          "title": "Rassie has betrayed his Boks",
-          "link": "https://www.sarugbymag.co.za/rassie-betrayed-boks/",
-          "summary": "Rassie Erasmus demands discipline, accountability and team-first values, yet abandoned all three in an unnecessary attack on match officials, writes @mark_keohane The post Rassie has betrayed his Boks appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rassie-Erasmus-13-November-2026-David-Winter-Gallo-Images-e1794940597568.jpg",
+          "title": "Sin-binned Lucu got lucky",
+          "link": "https://www.sarugbymag.co.za/sin-binned-lucu-got-lucky/",
+          "summary": "An investigation has backed up Rassie Erasmus' claim that France scrumhalf Maxime Lucu didn't spend the full 10 minutes in the sin bin against the Springboks in Paris. The post Sin-binned Lucu got lucky appeared first…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Maxime-Lucu-in-13-November-2026-David-Winter-Gallo-Images-e1795004058279.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-17T18:37:30.000Z"
+          "publishedAt": "2026-11-18T12:22:22.000Z"
         },
         {
-          "title": "POLL: Does Rassie deserve ban?",
-          "link": "https://www.sarugbymag.co.za/poll-does-rassie-deserve-ban/",
-          "summary": "Springbok coach Rassie Erasmus has been handed a six-match suspension by World Rugby. Have your say on the sanction. The post POLL: Does Rassie deserve ban? appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rassie-Erasmus-2-17-November-2026-Tom-OHanlon-Gallo-Images-e1794935234970.jpg",
+          "title": "Rugby Transfers: Springbok tipped for PREM move and Stuart Lancaster decides Connacht future",
+          "link": "https://www.planetrugby.com/news/rugby-transfers-springbok-tipped-for-prem-move-and-stuart-lancaster-decides-connacht-future",
+          "summary": "Check out the latest round-up of rugby transfers from across the globe.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/18110407/Rugby-Transfers-18-11-26-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-18T11:32:29.000Z"
+        },
+        {
+          "title": "‘I’m the scrum guy and just thinking of the farm’ – Springboks coach’s blunt reaction to Rassie Erasmus’ ban",
+          "link": "https://www.planetrugby.com/news/im-the-scrum-guy-and-just-thinking-of-the-farm-springboks-coachs-blunt-reaction-to-rassie-erasmus-ban",
+          "summary": "Springboks scrum coach Daan Human has given a blunt reaction to Rassie Erasmus' six-match suspension by World Rugby.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/18095231/Rassie-Erasmus-and-Daan-Human-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-18T10:08:29.000Z"
+        },
+        {
+          "title": "Rassie proved right as Prendergast gets off",
+          "link": "https://www.sarugbymag.co.za/rassie-proved-right-prendergast-gets-off/",
+          "summary": "Ireland flyhalf Sam Prendergast has been cleared to face the Springboks in Saturday's Nations Championship Test in Dublin. The post Rassie proved right as Prendergast gets off appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303880353-e1794028668521.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-17T17:09:43.000Z"
+          "publishedAt": "2026-11-18T09:31:56.000Z"
         },
         {
-          "title": "World Rugby ban Springboks boss Rassie Erasmus for ‘serious misconduct’ with immediate effect",
-          "link": "https://www.planetrugby.com/news/world-rugby-ban-springboks-boss-rassie-erasmus-for-serious-misconduct-with-immediate-effect",
-          "summary": "Rassie Erasmus has been banned by World Rugby over comments he made at a Springboks media briefing on Monday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/17163236/Rassie-Erasmus-and-a-Nations-Championship-flag-post-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-17T16:36:24.000Z"
-        },
-        {
-          "title": "Ireland enforcer insists ‘there’s no fear’ against the Springboks despite last year’s scrum capitulation",
-          "link": "https://www.planetrugby.com/news/ireland-enforcer-insists-theres-no-fear-against-the-springboks-despite-last-years-scrum-capitulation",
-          "summary": "Rassie Erasmus’ side broke Andy Farrell’s pack at the set-piece in their 24-13 win in November 2025.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/17160711/Ireland-rugby-scrum-against-South-Africa-and-Joe-McCarthy-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-17T16:28:24.000Z"
+          "title": "SA Rugby tackles the trolls",
+          "link": "https://www.sarugbymag.co.za/sa-rugby-tackles-trolls/",
+          "summary": "SA Rugby has condemned online threats and abuse directed at World Rugby officials and administrators during the Rassie Erasmus saga. The post SA Rugby tackles the trolls appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305063633-e1794996901607.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-18T09:23:07.000Z"
         }
       ]
     },
@@ -144,6 +144,30 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Bavuma suffers calf strain, will not take the field in the second innings",
+          "link": "https://www.cricinfo.com/ci/content/story/1563097.html?ex_cid=OTC-RSS",
+          "summary": "He will bat in the second innings if required but his availability for the second Test, which starts next Monday, is not yet known",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425369.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-18T11:31:14.000Z"
+        },
+        {
+          "title": "Rickelton century and Bavuma, Rabada fifties hand South Africa lead of 157",
+          "link": "https://www.cricinfo.com/ci/content/story/1563091.html?ex_cid=OTC-RSS",
+          "summary": "Rickelton and Rabada shared a 117-run eighth-wicket partnership as Bangladesh toiled at the Wanderers before lunch",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425429.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-18T10:57:10.000Z"
+        },
+        {
+          "title": "Bangladesh eye parity after new-ball burst on day slashed by erratic weather",
+          "link": "https://www.cricinfo.com/ci/content/story/1562948.html?ex_cid=OTC-RSS",
+          "summary": "South Africa left with 14-run deficit after Bavuma retired hurt, and lightning, rain and hail took over",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425374.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-18T01:06:47.000Z"
+        },
         {
           "title": "Rickelton lays out South Africa's plan: 'Bat long, get a lead, put ball in their court'",
           "link": "https://www.cricinfo.com/ci/content/story/1563004.html?ex_cid=OTC-RSS",
@@ -159,30 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425389.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-17T16:54:55.000Z"
-        },
-        {
-          "title": "Bethell to miss South Africa tour and IPL in bid to recover from knee injury",
-          "link": "https://www.cricinfo.com/ci/content/story/1562973.html?ex_cid=OTC-RSS",
-          "summary": "Batter has not played since July and will now focus on return to fitness ahead of English summer",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/418500/418525.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-17T15:35:42.000Z"
-        },
-        {
-          "title": "Bangladesh eye parity after new-ball burst on day slashed by erratic weather",
-          "link": "https://www.cricinfo.com/ci/content/story/1562948.html?ex_cid=OTC-RSS",
-          "summary": "South Africa left with 14-run deficit after Bavuma retired hurt, and lightning, rain and hail took over",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425374.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-17T14:24:04.000Z"
-        },
-        {
-          "title": "Ackerman 157 leads South Africa's strong reply",
-          "link": "https://www.cricinfo.com/ci/content/story/1562841.html?ex_cid=OTC-RSS",
-          "summary": "He shared a 202-run stand with Hamza as SA ended another batter-friendly day on 287 for 4",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425337.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-16T16:06:58.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-17T21:24:50.184Z",
+    "generatedAt": "2026-11-18T12:22:22.764Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 1h 38m"
     },
     "forecast": [
-      {
-        "date": "2026-11-17",
-        "day": "Tue",
-        "dayOfMonth": 17,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-18",
         "day": "Wed",
         "dayOfMonth": 18,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-19",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-20",
         "day": "Fri",
         "dayOfMonth": 20,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-21",
         "day": "Sat",
         "dayOfMonth": 21,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-22",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-24",
+        "day": "Tue",
+        "dayOfMonth": 24,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-17",
+        "date": "2026-11-18",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-17",
+        "date": "2026-11-18",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-20",
+        "date": "2026-11-21",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Fri 20, 09:00–12:00"
+        "etr": "Sat 21, 09:00–12:00"
       }
     ],
     "reliability": {
