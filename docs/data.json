@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-11-18T12:22:22.696Z",
-  "edition": "Updated 14:22 SAST — Wed, 18 Nov",
+  "generatedAt": "2026-11-18T20:56:39.653Z",
+  "edition": "Updated 22:56 SAST — Wed, 18 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Martinez, Oro Lead 9z Globant to 3rd Straight Chess Club Showdown Win",
+          "link": "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
+          "summary": "GM Jose Martinez and the world's youngest GM, Faustino Oro, led the 9z Globant Chess Club to victory in the Chess Club Showdown on November 18. The 72-28 final score marked the team's third straight victory. 9z Globant…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-18T20:34:00.000Z"
+        },
+        {
+          "title": "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses",
+          "link": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
+          "summary": "These glasses might not improve your calculation, but they'll definitely help your vision. The Zenni and Chess.com collab just dropped with an exclusive chess-inspired collection of glasses to show your passion for the…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-18T16:00:00.000Z"
+        },
+        {
+          "title": "Total Chess: Semifinals - Live!",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-18T14:45:00.000Z"
+        },
+        {
+          "title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
+          "link": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
+          "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-18T13:21:14.000Z"
+        },
         {
           "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
@@ -13,38 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-18T07:50:00.000Z"
-        },
-        {
-          "title": "Firouzja, Giri Lead Total Chess Semifinals; Carlsen Forfeits Final Game",
-          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
-          "summary": "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T21:39:00.000Z"
-        },
-        {
-          "title": "Tabatabaei Win Streak Earns Second Titled Tuesday",
-          "link": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
-          "summary": "GM Amin Tabatabaei came from behind to win Titled Tuesday (TT) on tiebreaks on November 17, winning his last six games to finish with 9.5 points. GM Hikaru Nakamura was held to draws in two of his last three games and…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T21:30:00.000Z"
-        },
-        {
-          "title": "Streaks Are Freezing From November 19 To 23 So You Can Enjoy GTA VI's Launch Stress-Free",
-          "link": "https://www.chess.com/news/view/gta-vi-streak-freeze",
-          "summary": "One of the most anticipated moments in gaming history is coming&mdash;and we don't want you to stress about losing your Chess.com streak. From November 19 to 23, we're freezing everyone's streak so you can disappear…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T21:00:00.000Z"
-        },
-        {
-          "title": "UTD Advances To Defend CCL Title",
-          "link": "https://www.chess.com/news/view/ccl-quarterfinals-fall-2026",
-          "summary": "The University of Texas, Dallas (UTD) earned a return trip to the Collegiate Chess League Finals by earning a first-round bye and then defeating Texas Tech in the Semifinals. They will play the winner of the upcoming…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-17T20:05:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "ICJ to rule on Rohingya genocide case: What to expect",
-          "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
-          "summary": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
+          "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+          "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+          "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T12:11:47.000Z"
+          "publishedAt": "2026-11-18T20:38:06.000Z"
         },
         {
-          "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
-          "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
-          "summary": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
+          "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+          "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+          "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T12:04:21.000Z"
+          "publishedAt": "2026-11-18T20:37:40.000Z"
         },
         {
-          "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
-          "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
-          "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
+          "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+          "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T11:58:10.000Z"
+          "publishedAt": "2026-11-18T20:24:50.000Z"
         },
         {
-          "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-          "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-          "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
+          "title": "Muslims projected to overtake Christians as world’s largest religious group",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+          "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T11:57:09.000Z"
+          "publishedAt": "2026-11-18T20:21:34.000Z"
         },
         {
-          "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-          "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-          "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
+          "title": "US loses measles-free status after 26 years in historic setback",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+          "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T11:51:26.000Z"
+          "publishedAt": "2026-11-18T20:18:25.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Sin-binned Lucu got lucky",
-          "link": "https://www.sarugbymag.co.za/sin-binned-lucu-got-lucky/",
-          "summary": "An investigation has backed up Rassie Erasmus' claim that France scrumhalf Maxime Lucu didn't spend the full 10 minutes in the sin bin against the Springboks in Paris. The post Sin-binned Lucu got lucky appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Maxime-Lucu-in-13-November-2026-David-Winter-Gallo-Images-e1795004058279.jpg",
+          "title": "Revealed: The 17 tackles that angered Erasmus",
+          "link": "https://www.sarugbymag.co.za/revealed-17-tackles-angered-erasmus/",
+          "summary": "The French tackles that prompted Rassie Erasmus' tirade against match officials following the Springboks' defeat in Paris have been identified. The post Revealed: The 17 tackles that angered Erasmus appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-Francois-Cros-tackle-13-November-2026-David-Rogers-Getty-Images-e1795022138449.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T12:22:22.000Z"
+          "publishedAt": "2026-11-18T17:27:13.000Z"
         },
         {
-          "title": "Rugby Transfers: Springbok tipped for PREM move and Stuart Lancaster decides Connacht future",
-          "link": "https://www.planetrugby.com/news/rugby-transfers-springbok-tipped-for-prem-move-and-stuart-lancaster-decides-connacht-future",
-          "summary": "Check out the latest round-up of rugby transfers from across the globe.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/18110407/Rugby-Transfers-18-11-26-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-18T11:32:29.000Z"
-        },
-        {
-          "title": "‘I’m the scrum guy and just thinking of the farm’ – Springboks coach’s blunt reaction to Rassie Erasmus’ ban",
-          "link": "https://www.planetrugby.com/news/im-the-scrum-guy-and-just-thinking-of-the-farm-springboks-coachs-blunt-reaction-to-rassie-erasmus-ban",
-          "summary": "Springboks scrum coach Daan Human has given a blunt reaction to Rassie Erasmus' six-match suspension by World Rugby.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/18095231/Rassie-Erasmus-and-Daan-Human-image-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-18T10:08:29.000Z"
-        },
-        {
-          "title": "Rassie proved right as Prendergast gets off",
-          "link": "https://www.sarugbymag.co.za/rassie-proved-right-prendergast-gets-off/",
-          "summary": "Ireland flyhalf Sam Prendergast has been cleared to face the Springboks in Saturday's Nations Championship Test in Dublin. The post Rassie proved right as Prendergast gets off appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2303880353-e1794028668521.jpg",
+          "title": "Rassie breaks silence after ban",
+          "link": "https://www.sarugbymag.co.za/rassie-breaks-silence-after-ban/",
+          "summary": "Rassie Erasmus has invited Springbok fans to watch Saturday's Test against Ireland with him. The post Rassie breaks silence after ban appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rassie-Erasmus-18-November-2026-Dan-Clohessy-Gallo-Images-e1795018940605.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T09:31:56.000Z"
+          "publishedAt": "2026-11-18T16:25:50.000Z"
         },
         {
-          "title": "SA Rugby tackles the trolls",
-          "link": "https://www.sarugbymag.co.za/sa-rugby-tackles-trolls/",
-          "summary": "SA Rugby has condemned online threats and abuse directed at World Rugby officials and administrators during the Rassie Erasmus saga. The post SA Rugby tackles the trolls appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305063633-e1794996901607.jpg",
+          "title": "Williams wired for Gibson-Park challenge",
+          "link": "https://www.sarugbymag.co.za/williams-wired-gibson-park-challenge/",
+          "summary": "Springbok scrumhalf Grant Williams is wary of the brilliance of Jamison Gibson-Park and expects his rival to be central to Ireland’s strategy in Dublin on Saturday. The post Williams wired for Gibson-Park challenge…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2608850-e1795015901531.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T09:23:07.000Z"
+          "publishedAt": "2026-11-18T16:20:58.000Z"
+        },
+        {
+          "title": "Big Wilco: No secrets to Bok scrum",
+          "link": "https://www.sarugbymag.co.za/big-wilco-no-secrets-bok-scrum/",
+          "summary": "Wilco Louw has no intention of gloating over last year’s scrum demolition of Ireland. The post Big Wilco: No secrets to Bok scrum appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626221-e1790568288700.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-18T15:44:29.000Z"
+        },
+        {
+          "title": "Jasper joins Rassie in dog box",
+          "link": "https://www.sarugbymag.co.za/jasper-joins-rassie-dog-box/",
+          "summary": "Springbok No 8 Jasper Wiese has been suspended following his red card against France in Paris last Friday. The post Jasper joins Rassie in dog box appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Jasper-Wiese-clean-out-13-November-2026-David-Winter-Gallo-Images-e1795014652246.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-18T15:11:09.000Z"
         }
       ]
     },
@@ -145,20 +145,28 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Paterson on Rabada: 'When you poke the bear, a different KG comes up'",
+          "link": "https://www.cricinfo.com/ci/content/story/1563137.html?ex_cid=OTC-RSS",
+          "summary": "Following a wicketless spell, Paterson found himself answering an unexpected question from his five-year-old son about why he can't bowl like Rabada",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425438.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-18T18:42:22.000Z"
+        },
+        {
+          "title": "Bad light stops play early with Bangladesh under the pump",
+          "link": "https://www.cricinfo.com/ci/content/story/1563091.html?ex_cid=OTC-RSS",
+          "summary": "Bangladesh still trail by 57 runs with only five wickets in hand, as South Africa look to wrap up the win on the final day",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425439.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-18T16:00:29.000Z"
+        },
+        {
           "title": "Bavuma suffers calf strain, will not take the field in the second innings",
           "link": "https://www.cricinfo.com/ci/content/story/1563097.html?ex_cid=OTC-RSS",
           "summary": "He will bat in the second innings if required but his availability for the second Test, which starts next Monday, is not yet known",
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425369.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-18T11:31:14.000Z"
-        },
-        {
-          "title": "Rickelton century and Bavuma, Rabada fifties hand South Africa lead of 157",
-          "link": "https://www.cricinfo.com/ci/content/story/1563091.html?ex_cid=OTC-RSS",
-          "summary": "Rickelton and Rabada shared a 117-run eighth-wicket partnership as Bangladesh toiled at the Wanderers before lunch",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425429.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-18T10:57:10.000Z"
         },
         {
           "title": "Bangladesh eye parity after new-ball burst on day slashed by erratic weather",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425379.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-17T17:37:34.000Z"
-        },
-        {
-          "title": "Ruan de Swardt agrees Leicestershire return for 2027",
-          "link": "https://www.cricinfo.com/ci/content/story/1563003.html?ex_cid=OTC-RSS",
-          "summary": "South African to feature across formats after arriving on short-term deal last season",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425389.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-17T16:54:55.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-18T12:22:22.764Z",
+    "generatedAt": "2026-11-18T20:56:39.713Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 1h 38m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
