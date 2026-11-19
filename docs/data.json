@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-18T20:56:39.653Z",
-  "edition": "Updated 22:56 SAST — Wed, 18 Nov",
+  "generatedAt": "2026-11-19T12:16:18.623Z",
+  "edition": "Updated 14:16 SAST — Thu, 19 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Total Chess: Giri and Firouzja to battle for tournament title",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
+          "summary": "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-19T07:10:00.000Z"
+        },
+        {
+          "title": "Giri, Firouzja Advance To Final Match",
+          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-8",
+          "summary": "GMs Alireza Firouzja and Anish Giri won their matches to advance to the Knockout 1 Final in the Total Chess World Championship Tour Pilot 2026. GM Fabiano Caruana won the second set against Firouzja (including a fast…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-18T21:01:00.000Z"
+        },
         {
           "title": "Martinez, Oro Lead 9z Globant to 3rd Straight Chess Club Showdown Win",
           "link": "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
@@ -23,28 +39,12 @@
           "publishedAt": "2026-11-18T16:00:00.000Z"
         },
         {
-          "title": "Total Chess: Semifinals - Live!",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-          "summary": "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-18T14:45:00.000Z"
-        },
-        {
           "title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
           "link": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
           "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world…",
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-18T13:21:14.000Z"
-        },
-        {
-          "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
-          "summary": "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-18T07:50:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-          "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-          "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
+          "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
+          "link": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
+          "summary": "Abel Nunez, 16, died after suffering a severe blow to the head during a youth football match for his club, Ezeiza.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T20:38:06.000Z"
+          "publishedAt": "2026-11-19T11:57:34.000Z"
         },
         {
-          "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-          "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-          "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+          "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+          "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+          "summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T20:37:40.000Z"
+          "publishedAt": "2026-11-19T11:38:39.000Z"
         },
         {
-          "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-          "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+          "title": "Putin says US-China-Russia can strengthen global stability",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
+          "summary": "Putin says US-China-Russia can strengthen global stability",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T20:24:50.000Z"
+          "publishedAt": "2026-11-19T11:22:43.000Z"
         },
         {
-          "title": "Muslims projected to overtake Christians as world’s largest religious group",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
-          "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+          "title": "Will laser weapons change warfare?",
+          "link": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+          "summary": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T20:21:34.000Z"
+          "publishedAt": "2026-11-19T11:20:00.000Z"
         },
         {
-          "title": "US loses measles-free status after 26 years in historic setback",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-          "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
+          "title": "Denmark parliament approves security deal with Greenland and US",
+          "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+          "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-18T20:18:25.000Z"
+          "publishedAt": "2026-11-19T11:09:00.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Revealed: The 17 tackles that angered Erasmus",
-          "link": "https://www.sarugbymag.co.za/revealed-17-tackles-angered-erasmus/",
-          "summary": "The French tackles that prompted Rassie Erasmus' tirade against match officials following the Springboks' defeat in Paris have been identified. The post Revealed: The 17 tackles that angered Erasmus appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-Francois-Cros-tackle-13-November-2026-David-Rogers-Getty-Images-e1795022138449.jpg",
+          "title": "Hansen: Referees a protected beast",
+          "link": "https://www.sarugbymag.co.za/hansen-referees-a-protected-beast/",
+          "summary": "Former All Blacks coach Steve Hansen has defended Rassie Erasmus after the Bok boss was slapped with a six-match ban. The post Hansen: Referees a protected beast appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Referee-Andrea-Piardi-13-November-2026-Florencia-Tan-Jun-Getty-Images-e1794612793863.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T17:27:13.000Z"
+          "publishedAt": "2026-11-19T11:32:29.000Z"
         },
         {
-          "title": "Rassie breaks silence after ban",
-          "link": "https://www.sarugbymag.co.za/rassie-breaks-silence-after-ban/",
-          "summary": "Rassie Erasmus has invited Springbok fans to watch Saturday's Test against Ireland with him. The post Rassie breaks silence after ban appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rassie-Erasmus-18-November-2026-Dan-Clohessy-Gallo-Images-e1795018940605.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T16:25:50.000Z"
+          "title": "France team v Argentina: Matthieu Jalibert among four changes from Springboks victory",
+          "link": "https://www.planetrugby.com/news/france-team-v-argentina-matthieu-jalibert-among-four-changes-from-springboks-victory",
+          "summary": "France have made four changes to the side that beat the Springboks last weekend.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/19105506/France-team-v-Argentina-2026-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-19T10:59:19.000Z"
         },
         {
-          "title": "Williams wired for Gibson-Park challenge",
-          "link": "https://www.sarugbymag.co.za/williams-wired-gibson-park-challenge/",
-          "summary": "Springbok scrumhalf Grant Williams is wary of the brilliance of Jamison Gibson-Park and expects his rival to be central to Ireland’s strategy in Dublin on Saturday. The post Williams wired for Gibson-Park challenge…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2608850-e1795015901531.jpg",
+          "title": "Les Bleus welcome back Jalibert",
+          "link": "https://www.sarugbymag.co.za/les-bleus-welcome-back-jalibert/",
+          "summary": "Fit-again flyhalf Matthieu Jalibert will start for France against Argentina in Saturday's Nations Championship Test in Paris. The post Les Bleus welcome back Jalibert appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Matthieu-Jalibert-18-Nov-2026-France-Rugby-Facebook-e1795085700337.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T16:20:58.000Z"
+          "publishedAt": "2026-11-19T10:56:29.000Z"
         },
         {
-          "title": "Big Wilco: No secrets to Bok scrum",
-          "link": "https://www.sarugbymag.co.za/big-wilco-no-secrets-bok-scrum/",
-          "summary": "Wilco Louw has no intention of gloating over last year’s scrum demolition of Ireland. The post Big Wilco: No secrets to Bok scrum appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/09/TL_2626221-e1790568288700.jpg",
+          "title": "Los Pumas ring changes for France",
+          "link": "https://www.sarugbymag.co.za/los-pumas-ring-changes-france/",
+          "summary": "Captain Julián Montoya returns as one of seven changes to Argentina's starting XV for Saturday's Nations Championship clash against France in Paris. The post Los Pumas ring changes for France appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Julian-Montoya-5-Nov-2026-Los-Pumas-Facebook-e1795084500852.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T15:44:29.000Z"
+          "publishedAt": "2026-11-19T10:36:17.000Z"
         },
         {
-          "title": "Jasper joins Rassie in dog box",
-          "link": "https://www.sarugbymag.co.za/jasper-joins-rassie-dog-box/",
-          "summary": "Springbok No 8 Jasper Wiese has been suspended following his red card against France in Paris last Friday. The post Jasper joins Rassie in dog box appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Jasper-Wiese-clean-out-13-November-2026-David-Winter-Gallo-Images-e1795014652246.jpg",
+          "title": "History-making Wales restore four",
+          "link": "https://www.sarugbymag.co.za/history-making-wales-restore-four/",
+          "summary": "Wales coach Steve Tandy has made four changes to the starting XV that beat the All Blacks for Saturday's Nations Championship Test against the Wallabies in Cardiff. The post History-making Wales restore four appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Josh-Adams-7-November-2026-Dan-Istitene-Getty-Images-e1795083296741.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-18T15:11:09.000Z"
+          "publishedAt": "2026-11-19T10:19:32.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
+          "link": "https://www.cricinfo.com/ci/content/story/1563218.html?ex_cid=OTC-RSS",
+          "summary": "Simon Harmer picked up a six-for for the second consecutive match, while Kagiso Rabada finished the game with eight wickets",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425479.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-19T11:30:06.000Z"
+        },
+        {
+          "title": "Bavuma ruled out of second Test against Bangladesh",
+          "link": "https://www.cricinfo.com/ci/content/story/1563231.html?ex_cid=OTC-RSS",
+          "summary": "Bavuma suffered a calf strain while batting in the first Test in Johannesburg",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425369.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-19T11:25:43.000Z"
+        },
         {
           "title": "Paterson on Rabada: 'When you poke the bear, a different KG comes up'",
           "link": "https://www.cricinfo.com/ci/content/story/1563137.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425369.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-18T11:31:14.000Z"
-        },
-        {
-          "title": "Bangladesh eye parity after new-ball burst on day slashed by erratic weather",
-          "link": "https://www.cricinfo.com/ci/content/story/1562948.html?ex_cid=OTC-RSS",
-          "summary": "South Africa left with 14-run deficit after Bavuma retired hurt, and lightning, rain and hail took over",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425374.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-18T01:06:47.000Z"
-        },
-        {
-          "title": "Rickelton lays out South Africa's plan: 'Bat long, get a lead, put ball in their court'",
-          "link": "https://www.cricinfo.com/ci/content/story/1563004.html?ex_cid=OTC-RSS",
-          "summary": "Taskin Ahmed, on the other hand, reckons that Bangladesh are \"still in the game\", particularly if they limit South Africa's lead",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425379.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-17T17:37:34.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-18T20:56:39.713Z",
+    "generatedAt": "2026-11-19T12:16:18.671Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 1h 44m"
     },
     "forecast": [
-      {
-        "date": "2026-11-18",
-        "day": "Wed",
-        "dayOfMonth": 18,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-19",
         "day": "Thu",
         "dayOfMonth": 19,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-20",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-21",
         "day": "Sat",
         "dayOfMonth": 21,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-22",
         "day": "Sun",
         "dayOfMonth": 22,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-23",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-25",
+        "day": "Wed",
+        "dayOfMonth": 25,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-18",
+        "date": "2026-11-19",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sat 21, 09:00–12:00"
+        "etr": "Sun 22, 09:00–12:00"
       }
     ],
     "reliability": {
