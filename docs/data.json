@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-19T12:16:18.623Z",
-  "edition": "Updated 14:16 SAST — Thu, 19 Nov",
+  "generatedAt": "2026-11-19T21:02:49.112Z",
+  "edition": "Updated 23:02 SAST — Thu, 19 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "The Difficult Road to Defending His Title: Gukesh Dommaraju",
+          "link": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
+          "summary": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-19T20:00:00.000Z"
+        },
+        {
+          "title": "Total Chess: Finals - Live!",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-19T14:45:00.000Z"
+        },
         {
           "title": "Total Chess: Giri and Firouzja to battle for tournament title",
           "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-18T20:34:00.000Z"
-        },
-        {
-          "title": "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses",
-          "link": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
-          "summary": "These glasses might not improve your calculation, but they'll definitely help your vision. The Zenni and Chess.com collab just dropped with an exclusive chess-inspired collection of glasses to show your passion for the…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-18T16:00:00.000Z"
-        },
-        {
-          "title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
-          "link": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
-          "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-18T13:21:14.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
-          "link": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
-          "summary": "Abel Nunez, 16, died after suffering a severe blow to the head during a youth football match for his club, Ezeiza.",
+          "title": "How vaccine fears fuelled a major measles comeback in the US",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+          "summary": "Measles is making a comeback in the US as vaccination rates fall.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-19T11:57:34.000Z"
+          "publishedAt": "2026-11-19T20:35:14.000Z"
         },
         {
-          "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-          "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
-          "summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
+          "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
+          "link": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+          "summary": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-19T11:38:39.000Z"
+          "publishedAt": "2026-11-19T20:32:46.000Z"
         },
         {
-          "title": "Putin says US-China-Russia can strengthen global stability",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-          "summary": "Putin says US-China-Russia can strengthen global stability",
+          "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+          "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+          "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-19T11:22:43.000Z"
+          "publishedAt": "2026-11-19T20:30:54.000Z"
         },
         {
-          "title": "Will laser weapons change warfare?",
-          "link": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
-          "summary": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
+          "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
+          "summary": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-19T11:20:00.000Z"
+          "publishedAt": "2026-11-19T20:26:09.000Z"
         },
         {
-          "title": "Denmark parliament approves security deal with Greenland and US",
-          "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
-          "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-19T11:09:00.000Z"
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-19T20:07:02.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Hansen: Referees a protected beast",
-          "link": "https://www.sarugbymag.co.za/hansen-referees-a-protected-beast/",
-          "summary": "Former All Blacks coach Steve Hansen has defended Rassie Erasmus after the Bok boss was slapped with a six-match ban. The post Hansen: Referees a protected beast appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Referee-Andrea-Piardi-13-November-2026-Florencia-Tan-Jun-Getty-Images-e1794612793863.jpg",
+          "title": "Rassie risks copyright showdown",
+          "link": "https://www.sarugbymag.co.za/rassie-risks-copyright-showdown/",
+          "summary": "Rugby bosses are keeping a close eye on Rassie Erasmus' plans to host an online watchalong of Saturday's Nations Championship clash against Ireland. The post Rassie risks copyright showdown appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rassie-Erasmus-18-November-2026-Dan-Clohessy-Gallo-Images-1-e1795111034806.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-19T11:32:29.000Z"
+          "publishedAt": "2026-11-19T17:58:52.000Z"
         },
         {
-          "title": "France team v Argentina: Matthieu Jalibert among four changes from Springboks victory",
-          "link": "https://www.planetrugby.com/news/france-team-v-argentina-matthieu-jalibert-among-four-changes-from-springboks-victory",
-          "summary": "France have made four changes to the side that beat the Springboks last weekend.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/19105506/France-team-v-Argentina-2026-120x120.jpg",
+          "title": "Rassie denied chance to defend himself",
+          "link": "https://www.sarugbymag.co.za/rassie-denied-chance-to-defend-himself/",
+          "summary": "Attorney Wouter Minnie questions the fairness of World Rugby's decision to suspend Rassie Erasmus before giving the Springbok coach the opportunity to present his case. The post Rassie denied chance to defend himself…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Rassie-Erasmus-attorney-e1795106080121.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-19T16:41:44.000Z"
+        },
+        {
+          "title": "Brian O’Driscoll calls out ‘nonsense’ conspiracy theories after Rassie Erasmus ‘brought the game into disrepute’",
+          "link": "https://www.planetrugby.com/news/brian-odriscoll-calls-out-nonsense-conspiracy-theories-after-rassie-erasmus-brought-the-game-into-disrepute",
+          "summary": "South African fans believe that World Rugby are deliberately looking to hinder the Springboks, but Brian O'Driscoll has called that “nonsense.”",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/19161008/Rassie-Erasmus-and-Brian-ODriscoll-2026-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-19T10:59:19.000Z"
+          "publishedAt": "2026-11-19T16:29:03.000Z"
         },
         {
-          "title": "Les Bleus welcome back Jalibert",
-          "link": "https://www.sarugbymag.co.za/les-bleus-welcome-back-jalibert/",
-          "summary": "Fit-again flyhalf Matthieu Jalibert will start for France against Argentina in Saturday's Nations Championship Test in Paris. The post Les Bleus welcome back Jalibert appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Matthieu-Jalibert-18-Nov-2026-France-Rugby-Facebook-e1795085700337.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-19T10:56:29.000Z"
+          "title": "England legend: Rassie criticism will only ‘galvanise’ Springboks who will follow him through a ‘brick wall’",
+          "link": "https://www.planetrugby.com/news/england-legend-rassie-criticism-will-only-galvanise-springboks-who-will-follow-him-through-a-brick-wall",
+          "summary": "Chris Ashton says the Rassie Erasmus affair will have a sizeable bearing on South Africa's Nations Championship clash against Ireland.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/19145233/Springboks-head-coach-Rassie-Erasmus-and-ex-England-wing-Chris-Ashton-inset-Alamy-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-19T15:18:53.000Z"
         },
         {
-          "title": "Los Pumas ring changes for France",
-          "link": "https://www.sarugbymag.co.za/los-pumas-ring-changes-france/",
-          "summary": "Captain Julián Montoya returns as one of seven changes to Argentina's starting XV for Saturday's Nations Championship clash against France in Paris. The post Los Pumas ring changes for France appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Julian-Montoya-5-Nov-2026-Los-Pumas-Facebook-e1795084500852.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-19T10:36:17.000Z"
-        },
-        {
-          "title": "History-making Wales restore four",
-          "link": "https://www.sarugbymag.co.za/history-making-wales-restore-four/",
-          "summary": "Wales coach Steve Tandy has made four changes to the starting XV that beat the All Blacks for Saturday's Nations Championship Test against the Wallabies in Cardiff. The post History-making Wales restore four appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Josh-Adams-7-November-2026-Dan-Istitene-Getty-Images-e1795083296741.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-19T10:19:32.000Z"
+          "title": "Ireland team v Springboks: Dan Sheehan returns in new position while Hugo Keenan brings up Test milestone",
+          "link": "https://www.planetrugby.com/news/ireland-team-v-springboks-dan-sheehan-returns-in-new-position-while-hugo-keenan-brings-up-test-milestone",
+          "summary": "Dan Sheehan returns to Ireland's starting line-up as captain and in a new position while Hugo Keenan will make his 50th appearance for his country in Saturday's Test against the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/19145704/Hugo-Keenan-and-Dan-Sheehan-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-19T15:03:14.000Z"
         }
       ]
     },
@@ -148,9 +148,9 @@
           "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
           "link": "https://www.cricinfo.com/ci/content/story/1563218.html?ex_cid=OTC-RSS",
           "summary": "Simon Harmer picked up a six-for for the second consecutive match, while Kagiso Rabada finished the game with eight wickets",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425479.jpg",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425480.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-19T11:30:06.000Z"
+          "publishedAt": "2026-11-19T12:40:55.000Z"
         },
         {
           "title": "Bavuma ruled out of second Test against Bangladesh",
@@ -158,7 +158,7 @@
           "summary": "Bavuma suffered a calf strain while batting in the first Test in Johannesburg",
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425369.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-19T11:25:43.000Z"
+          "publishedAt": "2026-11-19T12:20:08.000Z"
         },
         {
           "title": "Paterson on Rabada: 'When you poke the bear, a different KG comes up'",
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-19T12:16:18.671Z",
+    "generatedAt": "2026-11-19T21:02:49.179Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 1h 44m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
