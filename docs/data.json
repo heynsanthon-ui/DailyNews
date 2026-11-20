@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-20T12:16:26.437Z",
-  "edition": "Updated 14:16 SAST — Fri, 20 Nov",
+  "generatedAt": "2026-11-20T20:48:58.927Z",
+  "edition": "Updated 22:48 SAST — Fri, 20 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
-          "summary": "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished…",
+          "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce",
+          "link": "https://en.chessbase.com/post/chess-by-the-numbers-salesforce",
+          "summary": "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-20T07:10:00.000Z"
+          "publishedAt": "2026-11-20T21:00:00.000Z"
         },
         {
-          "title": "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800",
-          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
-          "summary": "GM Anish Giri leads the Final against GM Alireza Firouzja after winning the first set 11-9 in the Total Chess World Championship on Thursday. The fast classic game was critical, and he managed to defend a lost (but…",
+          "title": "Sklokin-Bagiyan, 13, Wins Freestyle Friday",
+          "link": "https://www.chess.com/news/view/sklokin-bagiyan-wins-freestyle-friday-november-20-2026",
+          "summary": "For the second straight week, a youthful IM won Freestyle Friday on November 20, this time IM Sergey Sklokin-Bagiyan, whose 9.5 points were enough for outright victory. GM Jeffery Xiong finished sole second on nine…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-19T21:14:00.000Z"
+          "publishedAt": "2026-11-20T20:18:31.000Z"
         },
         {
-          "title": "The difficult road to defending his title: Gukesh Dommaraju",
-          "link": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
-          "summary": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-19T20:00:00.000Z"
-        },
-        {
-          "title": "Total Chess: Giri and Firouzja to battle for tournament title",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
-          "summary": "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-19T07:10:00.000Z"
-        },
-        {
-          "title": "Giri, Firouzja Advance To Final Match",
-          "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-8",
-          "summary": "GMs Alireza Firouzja and Anish Giri won their matches to advance to the Knockout 1 Final in the Total Chess World Championship Tour Pilot 2026. GM Fabiano Caruana won the second set against Firouzja (including a fast…",
+          "title": "Dau, Movahed, Fedoseev Win 3 0 Thursday",
+          "link": "https://www.chess.com/news/view/duy-dau-movahed-fedoseev-3-0-thursday-11-19-2026",
+          "summary": "15-year-old IM Khuong Duy Dau won his first-ever 3 0 Thursday title in the first tournament on November 19, just six days after he won his first Freestyle Friday tournament. Later that day, GM Sina Movahed won his fifth…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-18T21:01:00.000Z"
+          "publishedAt": "2026-11-20T18:52:00.000Z"
+        },
+        {
+          "title": "Chess.com Releases Behind-The-Scenes Documentary Of Sindarov (Part 1)",
+          "link": "https://www.chess.com/news/view/sindarov-documentary-salesforce-2026-fide-world-championship",
+          "summary": "\"I will give my all and try to bring the crown to Uzbekistan,\" says 20-year-old World Championship Challenger Javokhir Sindarov in Chess.com's documentary, which will be released on November 20, days before the 2026…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-20T16:00:00.000Z"
+        },
+        {
+          "title": "Total Chess: Finals - Live!",
+          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+          "summary": "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-20T14:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Three Kyiv bridges hit during major Russian missile attack",
-          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
+          "title": "Trump threatens ban on US firms building AI data centres overseas",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-20T12:09:55.000Z"
+          "publishedAt": "2026-11-20T20:35:26.000Z"
         },
         {
-          "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
-          "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
+          "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+          "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+          "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T11:55:16.000Z"
+          "publishedAt": "2026-11-20T20:14:56.000Z"
         },
         {
-          "title": "US appoints new cybersecurity chief after series of tech failures",
-          "link": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
-          "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+          "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
+          "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
+          "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T11:26:28.000Z"
+          "publishedAt": "2026-11-20T20:03:11.000Z"
         },
         {
-          "title": "EU and UK seal reset deal",
-          "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-          "summary": "This is a breaking news story.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T11:20:19.000Z"
+          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-20T20:00:53.000Z"
         },
         {
-          "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-          "summary": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+          "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+          "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+          "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T11:10:06.000Z"
+          "publishedAt": "2026-11-20T19:57:05.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Three-way battle for top spot",
-          "link": "https://www.sarugbymag.co.za/three-way-battle-top-spot/",
-          "summary": "The Springboks will again put their No 1 world ranking on the line this Saturday, while the All Blacks risk equalling their lowest-ever position. The post Three-way battle for top spot appeared first on SA Rugby…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Springboks-vs-Ireland-2026-e1795174121230.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-20T11:28:53.000Z"
-        },
-        {
-          "title": "Watch: Rugby’s intensifying rivalry",
-          "link": "https://www.sarugbymag.co.za/watch-rugbys-intensifying-rivalry/",
-          "summary": "From Ireland's record win in 2017 to the Springboks' dominant victory last year, Siya Kolisi reflects on the last six meetings between rugby's growing rivals. The post Watch: Rugby’s intensifying rivalry appeared first…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Siya-Kolisi-13-July-2024-Steve-Haag-Gallo-Images-e1795173092566.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-20T11:15:09.000Z"
-        },
-        {
-          "title": "Davids to hit 50 alongside Blitzboks rookies",
-          "link": "https://www.sarugbymag.co.za/davids-hit-50-alongside-blitzboks-rookies/",
-          "summary": "Selvyn Davids will reach a milestone next weekend after being named in a 13-man Blitzboks squad for the SVNS Series opener in Dubai, which includes two newcomers. The post Davids to hit 50 alongside Blitzboks rookies…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2192331-e1795174770340.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-20T11:08:33.000Z"
-        },
-        {
-          "title": "World Rugby rankings: All Blacks risk record-equalling low as Springboks enter three-way battle for top spot",
-          "link": "https://www.planetrugby.com/news/world-rugby-rankings-all-blacks-risk-record-equalling-low-as-springboks-enter-three-way-battle-for-top-spot",
-          "summary": "Check out the World Rugby ranking permutations ahead of the final weekend of the Nations Championship pool games.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/20095518/World-Rugby-ranking-Nov-20-1-120x120.jpg",
+          "title": "All Blacks: Jordie Barrett’s blunt admission on ‘incredibly tough moment’ from 2023 World Cup final",
+          "link": "https://www.planetrugby.com/news/all-blacks-jordie-barretts-blunt-admission-on-incredibly-tough-moment-from-2023-world-cup-final",
+          "summary": "All Blacks star Jordie Barrett has revealed how difficult it was to overcome an \"incredibly tough moment\" from his side's defeat to the Springboks in the 2023 Rugby World Cup final.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/20130451/Jordie-Barrett-NZ-RWC-final-2023-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-20T09:59:49.000Z"
+          "publishedAt": "2026-11-20T17:01:01.000Z"
         },
         {
-          "title": "All Blacks: Jordie Barrett reveals why Rugby’s Greatest Rivalry series against Springboks was a ‘massive acid test’",
-          "link": "https://www.planetrugby.com/news/all-blacks-jordie-barrett-reveals-why-rugbys-greatest-rivalry-series-against-springboks-was-a-massive-acid-test",
-          "summary": "All Blacks star Jordie Barrett has described the recent Test series against Springboks as a \"massive acid test\" for him and his team-mates.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/20093742/Jordie-Barrett-image-120x120.jpg",
+          "title": "Israel Dagg predicts ‘more to come from’ Rassie Erasmus’ ‘outrageous’ tirade",
+          "link": "https://www.planetrugby.com/news/israel-dagg-predicts-more-to-come-from-rassie-erasmus-outrageous-tirade",
+          "summary": "The All Blacks great reckons the Rassie Erasmus controversy is not yet over after World Rugby banned the Springboks boss.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/03/02153858/Rassie-Erasmus-and-Israel-Dagg-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-20T09:56:30.000Z"
+          "publishedAt": "2026-11-20T16:56:39.000Z"
+        },
+        {
+          "title": "Ex-Ireland star feels for Erasmus",
+          "link": "https://www.sarugbymag.co.za/ex-ireland-star-feels-erasmus/",
+          "summary": "Conor Murray accepts that Rassie Erasmus has a reputation for getting “under people’s skin”, but credits his old coach with kick-starting the best years of his career. The post Ex-Ireland star feels for Erasmus appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2649401-e1795193656925.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-20T16:56:25.000Z"
+        },
+        {
+          "title": "Boks double down on double standards",
+          "link": "https://www.sarugbymag.co.za/boks-double-down-on-double-standards/",
+          "summary": "Mzwandile Stick says if Ireland flyhalf Sam Prendergast were Fijian, he'd be back home drinking kava and taking tackling lessons. The post Boks double down on double standards appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Mzwandile-Stick-Siya-Kolisi-20-November-2026-Dan-Clohessy-Gallo-Images-e1795191459949.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-20T16:19:57.000Z"
+        },
+        {
+          "title": "Riley in line to replace crocked Bok",
+          "link": "https://www.sarugbymag.co.za/riley-line-replace-crocked-bok/",
+          "summary": "Assistant coach Mzwandile Stick says Riley Norton was on the cusp of making his Test debut on Saturday, as the Springboks sweat on the availability of Ruan Nortjé. The post Riley in line to replace crocked Bok appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2649489.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-20T15:35:49.000Z"
         }
       ]
     },
@@ -145,12 +145,36 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Injured Hasan Mahmud ruled out of South Africa tour",
+          "link": "https://www.cricinfo.com/ci/content/story/1563369.html?ex_cid=OTC-RSS",
+          "summary": "Bangladesh have not named a replacement yet and could bring left-arm quick Shoriful Islam into the XI for the second Test against South Africa",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425362.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-20T14:03:18.000Z"
+        },
+        {
+          "title": "'You've got to take the emotion out of it': Conrad on Maharaj's omission",
+          "link": "https://www.cricinfo.com/ci/content/story/1563365.html?ex_cid=OTC-RSS",
+          "summary": "With Harmer on a roll, Maharaj has been left out of South Africa's last three Tests and is certain to miss the next one, too",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/408100/408150.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-20T13:46:56.000Z"
+        },
+        {
+          "title": "Ottis Gibson returns to Durham as head coach on three-year deal",
+          "link": "https://www.cricinfo.com/ci/content/story/1563364.html?ex_cid=OTC-RSS",
+          "summary": "Former West Indies and South Africa head coach returns to Riverside on three-year deal",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/298600/298633.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-20T13:07:14.000Z"
+        },
+        {
           "title": "Ngidi back from injury for Bangladesh ODIs; Maharaj to lead SA",
           "link": "https://www.cricinfo.com/ci/content/story/1563324.html?ex_cid=OTC-RSS",
           "summary": "Anrich Nortje, who has not played an ODI since before the 2023 ODI World Cup, is also back and is also expected to be fit for the second Test",
           "image": "http://p.imgci.com/db/PICTURES/CMS/371200/371230.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-20T09:38:00.000Z"
+          "publishedAt": "2026-11-20T12:38:00.000Z"
         },
         {
           "title": "'Really hard to get the energy right up' - Rabada urges fans to turn up for South Africa",
@@ -159,30 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425307.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-20T05:14:14.000Z"
-        },
-        {
-          "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
-          "link": "https://www.cricinfo.com/ci/content/story/1563218.html?ex_cid=OTC-RSS",
-          "summary": "Simon Harmer picked up a six-for for the second consecutive match, while Kagiso Rabada finished the game with eight wickets",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425480.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-19T12:40:55.000Z"
-        },
-        {
-          "title": "Bavuma ruled out of second Test against Bangladesh",
-          "link": "https://www.cricinfo.com/ci/content/story/1563231.html?ex_cid=OTC-RSS",
-          "summary": "Bavuma suffered a calf strain while batting in the first Test in Johannesburg",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425369.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-19T12:20:08.000Z"
-        },
-        {
-          "title": "Paterson on Rabada: 'When you poke the bear, a different KG comes up'",
-          "link": "https://www.cricinfo.com/ci/content/story/1563137.html?ex_cid=OTC-RSS",
-          "summary": "Following a wicketless spell, Paterson found himself answering an unexpected question from his five-year-old son about why he can't bowl like Rabada",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425438.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-18T18:42:22.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-20T12:16:26.490Z",
+    "generatedAt": "2026-11-20T20:48:59.003Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 1h 44m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
