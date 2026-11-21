@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-11-20T20:48:58.927Z",
-  "edition": "Updated 22:48 SAST — Fri, 20 Nov",
+  "generatedAt": "2026-11-21T11:51:59.650Z",
+  "edition": "Updated 13:51 SAST — Sat, 21 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "Javokhir Sindarov – the next World Champion?",
+          "link": "https://en.chessbase.com/post/javokhir-sindarov-the-next-world-champion",
+          "summary": "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-21T08:58:32.000Z"
+        },
+        {
+          "title": "Review: The English Opening – An overview",
+          "link": "https://en.chessbase.com/post/review-the-english-opening-an-overview",
+          "summary": "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the “Bremen Opening”. He has taken a look at the most important video courses in the ChessBase range…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-21T07:00:00.000Z"
+        },
+        {
+          "title": "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin",
+          "link": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-lazavik-andreikin",
+          "summary": "GM Denis Lazavik is through to face either GM Wesley So or GM Praggnanandhaa Rameshbabu in the Quarterfinals of the Speed Chess Championship XI after defeating GM Dmitry Andreikin 12-8 in the Round of 16. Lazavik won…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-21T00:15:00.000Z"
+        },
+        {
+          "title": "Firouzja Wins Total Chess World Championship Tour Pilot",
+          "link": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
+          "summary": "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against GM Anish Giri, but won the second set 13-8. He went on to win the…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-20T21:07:00.000Z"
+        },
         {
           "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce",
           "link": "https://en.chessbase.com/post/chess-by-the-numbers-salesforce",
@@ -13,38 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-20T21:00:00.000Z"
-        },
-        {
-          "title": "Sklokin-Bagiyan, 13, Wins Freestyle Friday",
-          "link": "https://www.chess.com/news/view/sklokin-bagiyan-wins-freestyle-friday-november-20-2026",
-          "summary": "For the second straight week, a youthful IM won Freestyle Friday on November 20, this time IM Sergey Sklokin-Bagiyan, whose 9.5 points were enough for outright victory. GM Jeffery Xiong finished sole second on nine…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-20T20:18:31.000Z"
-        },
-        {
-          "title": "Dau, Movahed, Fedoseev Win 3 0 Thursday",
-          "link": "https://www.chess.com/news/view/duy-dau-movahed-fedoseev-3-0-thursday-11-19-2026",
-          "summary": "15-year-old IM Khuong Duy Dau won his first-ever 3 0 Thursday title in the first tournament on November 19, just six days after he won his first Freestyle Friday tournament. Later that day, GM Sina Movahed won his fifth…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-20T18:52:00.000Z"
-        },
-        {
-          "title": "Chess.com Releases Behind-The-Scenes Documentary Of Sindarov (Part 1)",
-          "link": "https://www.chess.com/news/view/sindarov-documentary-salesforce-2026-fide-world-championship",
-          "summary": "\"I will give my all and try to bring the crown to Uzbekistan,\" says 20-year-old World Championship Challenger Javokhir Sindarov in Chess.com's documentary, which will be released on November 20, days before the 2026…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-20T16:00:00.000Z"
-        },
-        {
-          "title": "Total Chess: Finals - Live!",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-          "summary": "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-20T14:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Trump threatens ban on US firms building AI data centres overseas",
-          "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-20T20:35:26.000Z"
-        },
-        {
-          "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-          "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-          "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
+          "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+          "link": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
+          "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T20:14:56.000Z"
+          "publishedAt": "2026-11-21T11:35:42.000Z"
         },
         {
-          "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-          "link": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
-          "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
+          "title": "Migrants caravan in Mexico walks towards US border",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+          "summary": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T20:03:11.000Z"
+          "publishedAt": "2026-11-21T11:04:10.000Z"
         },
         {
-          "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-20T20:00:53.000Z"
-        },
-        {
-          "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-          "link": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-          "summary": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
+          "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+          "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+          "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-20T19:57:05.000Z"
+          "publishedAt": "2026-11-21T11:02:49.000Z"
+        },
+        {
+          "title": "Deadly fire engulfs power station in southern Iraq",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+          "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-21T11:02:29.000Z"
+        },
+        {
+          "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
+          "link": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
+          "summary": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-21T10:54:22.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
+          "title": "Siya backs Cam to outplay Dan",
+          "link": "https://www.sarugbymag.co.za/siya-backs-cam-outplay-dan/",
+          "summary": "Tasked with replacing the powerful Jasper Wiese, No 8 Cameron Hanekom has a chance to show he offers everything the Springboks need in Dublin on Saturday. The post Siya backs Cam to outplay Dan appeared first on SA…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305088200-e1795249372623.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-21T08:25:09.000Z"
+        },
+        {
+          "title": "‘The good ship Bokke is starting to list’",
+          "link": "https://www.sarugbymag.co.za/good-ship-bokke-starting-list/",
+          "summary": "Irish journalist Hugh Farrelly argues the Springboks won’t win a third consecutive World Cup next year and, beneath the hype, Rassie Erasmus’ men aren’t all that invincible. The post ‘The good ship Bokke is starting to…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2650394.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-21T07:03:52.000Z"
+        },
+        {
+          "title": "‘Springboks know Rassie Erasmus will do anything for them’ – Nick Mallett",
+          "link": "https://www.planetrugby.com/news/springboks-know-rassie-erasmus-will-do-anything-for-them-nick-mallett",
+          "summary": "Springboks players know Rassie Erasmus will do whatever is in the team's best interest.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/19081637/Springboks-centre-Damian-de-Allende-and-an-inset-of-ex-head-coach-Nick-Mallett-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-21T06:40:41.000Z"
+        },
+        {
+          "title": "Schalk: World Rugby must grow some balls",
+          "link": "https://www.sarugbymag.co.za/schalk-world-rugby-must-grow-balls/",
+          "summary": "Schalk Burger has criticised World Rugby’s handling of criticism directed at match officials, saying its overprotection of them led to Rassie Erasmus’ rant. The post Schalk: World Rugby must grow some balls appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2304995296-e1795240743397.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-21T06:25:20.000Z"
+        },
+        {
           "title": "All Blacks: Jordie Barrett’s blunt admission on ‘incredibly tough moment’ from 2023 World Cup final",
           "link": "https://www.planetrugby.com/news/all-blacks-jordie-barretts-blunt-admission-on-incredibly-tough-moment-from-2023-world-cup-final",
           "summary": "All Blacks star Jordie Barrett has revealed how difficult it was to overcome an \"incredibly tough moment\" from his side's defeat to the Springboks in the 2023 Rugby World Cup final.",
           "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/20130451/Jordie-Barrett-NZ-RWC-final-2023-image-120x120.jpg",
           "source": "Planet Rugby",
           "publishedAt": "2026-11-20T17:01:01.000Z"
-        },
-        {
-          "title": "Israel Dagg predicts ‘more to come from’ Rassie Erasmus’ ‘outrageous’ tirade",
-          "link": "https://www.planetrugby.com/news/israel-dagg-predicts-more-to-come-from-rassie-erasmus-outrageous-tirade",
-          "summary": "The All Blacks great reckons the Rassie Erasmus controversy is not yet over after World Rugby banned the Springboks boss.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/03/02153858/Rassie-Erasmus-and-Israel-Dagg-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-20T16:56:39.000Z"
-        },
-        {
-          "title": "Ex-Ireland star feels for Erasmus",
-          "link": "https://www.sarugbymag.co.za/ex-ireland-star-feels-erasmus/",
-          "summary": "Conor Murray accepts that Rassie Erasmus has a reputation for getting “under people’s skin”, but credits his old coach with kick-starting the best years of his career. The post Ex-Ireland star feels for Erasmus appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2649401-e1795193656925.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-20T16:56:25.000Z"
-        },
-        {
-          "title": "Boks double down on double standards",
-          "link": "https://www.sarugbymag.co.za/boks-double-down-on-double-standards/",
-          "summary": "Mzwandile Stick says if Ireland flyhalf Sam Prendergast were Fijian, he'd be back home drinking kava and taking tackling lessons. The post Boks double down on double standards appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Mzwandile-Stick-Siya-Kolisi-20-November-2026-Dan-Clohessy-Gallo-Images-e1795191459949.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-20T16:19:57.000Z"
-        },
-        {
-          "title": "Riley in line to replace crocked Bok",
-          "link": "https://www.sarugbymag.co.za/riley-line-replace-crocked-bok/",
-          "summary": "Assistant coach Mzwandile Stick says Riley Norton was on the cusp of making his Test debut on Saturday, as the Springboks sweat on the availability of Ruan Nortjé. The post Riley in line to replace crocked Bok appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2649489.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-20T15:35:49.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-20T20:48:59.003Z",
+    "generatedAt": "2026-11-21T11:51:59.699Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 2h 8m"
     },
     "forecast": [
-      {
-        "date": "2026-11-20",
-        "day": "Fri",
-        "dayOfMonth": 20,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-21",
         "day": "Sat",
         "dayOfMonth": 21,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-22",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-23",
         "day": "Mon",
         "dayOfMonth": 23,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-24",
         "day": "Tue",
         "dayOfMonth": 24,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-25",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-27",
+        "day": "Fri",
+        "dayOfMonth": 27,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-20",
+        "date": "2026-11-21",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-20",
+        "date": "2026-11-21",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Mon 23, 09:00–12:00"
+        "etr": "Tue 24, 09:00–12:00"
       }
     ],
     "reliability": {
