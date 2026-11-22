@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-11-21T19:51:29.635Z",
-  "edition": "Updated 21:51 SAST — Sat, 21 Nov",
+  "generatedAt": "2026-11-22T12:03:31.644Z",
+  "edition": "Updated 14:03 SAST — Sun, 22 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "FIDE Calls Carlsen's Forfeits 'Unacceptable,' Refers Him To Ethics Commission",
+          "title": "Indomitable Nakamura Captures 75th Bullet Brawl Title",
+          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
+          "summary": "GM Hikaru Nakamura's dynasty of dominance has been extended after he won his 75th career Bullet Brawl title on Saturday. With a score of 183, Nakamura was the convincing winner of $400 first prize. GM Arjun Erigaisi,…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-22T05:10:02.000Z"
+        },
+        {
+          "title": "Casablanca and Oromana take early lead at Spanish Team Championship",
+          "link": "https://en.chessbase.com/post/spanish-team-ch-2026-r2",
+          "summary": "MyInvestor Casablanca and Oromana Cen Solutions are the only teams to have won both their matches after two rounds of the Spanish Team Championship in Marbella. Casablanca lead the standings on tiebreaks following a…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-22T02:35:00.000Z"
+        },
+        {
+          "title": "FIDE Calls Carlsen's Forfeits 'Unacceptable,' Refers His Conduct To Ethics Commission",
           "link": "https://www.chess.com/news/view/fide-carlsen-total-chess-forfeits-ethics-commission",
           "summary": "FIDE will refer GM Magnus Carlsen's conduct at the Total Chess World Championship Tour Pilot to its Ethics and Disciplinary Commission (EDC), describing his forfeits as \"unacceptable.&rdquo; The tournament&rsquo;s…",
           "image": null,
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-21T14:34:49.000Z"
-        },
-        {
-          "title": "Javokhir Sindarov – the next World Champion?",
-          "link": "https://en.chessbase.com/post/javokhir-sindarov-the-next-world-champion",
-          "summary": "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-21T08:58:32.000Z"
-        },
-        {
-          "title": "Review: The English Opening – An overview",
-          "link": "https://en.chessbase.com/post/review-the-english-opening-an-overview",
-          "summary": "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the “Bremen Opening”. He has taken a look at the most important video courses in the ChessBase range…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-21T07:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-          "source": "BBC News",
-          "publishedAt": "2026-11-21T19:33:49.000Z"
+          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+          "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+          "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-22T11:46:42.000Z"
         },
         {
-          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
+          "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+          "summary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-22T11:44:50.000Z"
+        },
+        {
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
           "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/3bc66860-e665-11f1-8ebd-1d2173202734.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-21T19:20:22.000Z"
+          "publishedAt": "2026-11-22T11:25:14.000Z"
         },
         {
-          "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-          "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+          "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+          "summary": "Russian ship attacked by drone in Baltic Sea off Finland",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T18:42:38.000Z"
+          "publishedAt": "2026-11-22T11:15:27.000Z"
         },
         {
-          "title": "FBI national crime database suffers suspected breach: Reports",
-          "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-          "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+          "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+          "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+          "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T18:19:10.000Z"
-        },
-        {
-          "title": "Could Brexit be reversed?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
-          "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-21T18:18:11.000Z"
+          "publishedAt": "2026-11-22T11:07:30.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Latest World Rugby rankings: All Blacks fall to all-time low and the impact of the Springboks’ loss",
-          "link": "https://www.planetrugby.com/news/latest-world-rugby-rankings-all-blacks-fall-to-all-time-low-and-the-impact-of-the-springboks-loss",
-          "summary": "The latest World Rugby rankings following South Africa and New Zealand's defeats.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/21193120/Englands-Ollie-Chessum-and-Maro-Itoje-and-the-lastest-World-Rugby-Rankings-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-21T19:39:14.000Z"
-        },
-        {
-          "title": "Ireland player ratings: ‘All-action’ wing rules the air while Joe McCarthy a ‘colossus’ as Springboks stunned",
-          "link": "https://www.planetrugby.com/news/ireland-player-ratings-all-action-wing-rules-the-air-while-joe-mccarthy-a-colossus-as-springboks-stunned",
-          "summary": "Ireland player ratings following their victory over the Springboks in the Nations Championship.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/21190715/Robert-Baloucoune-and-Joe-McCarthy-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-21T19:31:37.000Z"
-        },
-        {
-          "title": "Siya: Boks have to be better",
-          "link": "https://www.sarugbymag.co.za/siya-boks-have-to-be-better/",
-          "summary": "Captain Siya Kolisi rued another night of missed opportunities and ill-discipline after the Springboks' 20-17 loss to Ireland in Dublin. The post Siya: Boks have to be better appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2654610-e1795287163512.jpg",
+          "title": "Mallett: Boks missing Kolbe’s magic dust",
+          "link": "https://www.sarugbymag.co.za/mallett-boks-missing-kolbes-magic-dust/",
+          "summary": "Nick Mallett says the Springbok backline needs more \"individual brilliance\" to pose a greater attacking threat. The post Mallett: Boks missing Kolbe’s magic dust appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Cheslin-Kolbe-29-August-2026-Roger-Sedres-Gallo-Images-e1788169719388.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-21T19:29:11.000Z"
+          "publishedAt": "2026-11-22T11:59:05.000Z"
         },
         {
-          "title": "Springboks player ratings: Marco van Staden’s ‘brain fade’ proves costly as Bomb Squad implodes",
-          "link": "https://www.planetrugby.com/news/springboks-player-ratings-marco-van-stadens-brain-fade-proves-costly-as-bomb-squad-implodes",
-          "summary": "Springboks player ratings following the defeat to Ireland.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/21185551/Springboks-flanker-Marco-van-Staden-and-an-inset-of-Malcolm-Marx-and-Morne-van-den-Berg-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-21T19:04:43.000Z"
-        },
-        {
-          "title": "Wasteful Boks undone by cunning Ireland",
-          "link": "https://www.sarugbymag.co.za/wasteful-boks-undone-cunning-ireland/",
-          "summary": "If the week started poorly, it ended just as miserably. The Springboks were undone in Dublin as much by their own wastefulness as by Ireland’s excellence, writes @ClintonV The post Wasteful Boks undone by cunning…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ireland-celebrate-Boks-dejected-21-November-2026-Ramsey-Cardy-Getty-Images-e1795287312609.jpg",
+          "title": "Keo & Zels: Boks play for title, Ireland play for fifth",
+          "link": "https://www.sarugbymag.co.za/keo-zels/",
+          "summary": "The disappointment of losing to Ireland is obvious, but the reality is the Boks are in the first ever Nations Championship final. And Ireland are not. The post Keo & Zels: Boks play for title, Ireland play for fifth…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-11.15.43-AM.jpeg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-21T18:55:52.000Z"
+          "publishedAt": "2026-11-22T10:51:52.000Z"
+        },
+        {
+          "title": "Ireland v Springboks: Winners and losers as ‘big men’ dominate and South African fans forced to eat ‘humble pie’",
+          "link": "https://www.planetrugby.com/news/ireland-v-springboks-winners-and-losers-as-big-men-dominate-and-south-african-fans-forced-to-eat-humble-pie",
+          "summary": "Ireland beat the Springboks 20-17 in a tightly fought contest at the Aviva Stadium on Saturday, in the final round of the Nations Championship pool stage.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22090922/Stuart-McCloskey-and-Marco-van-Staden-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-22T09:12:09.000Z"
+        },
+        {
+          "title": "Schalk Burger: Springboks ‘only have a maul and a scrum’ right now",
+          "link": "https://www.planetrugby.com/news/schalk-burger-springboks-only-have-a-maul-and-a-scrum-right-now",
+          "summary": "Schalk Burger has issued a blunt assesment of the Springboks' attack.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/21204849/Springboks-maul-against-Ireland-and-an-inset-of-Schalk-Burger-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-22T08:00:08.000Z"
+        },
+        {
+          "title": "Nations Championship finals weekend fixtures",
+          "link": "https://www.sarugbymag.co.za/nations-championship-finals-weekend-fixtures/",
+          "summary": "Who's playing who at Twickenham next weekend. The post Nations Championship finals weekend fixtures appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Nations-Championship-trophy-featured-e1781629273657.jpeg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-22T06:24:51.000Z"
         }
       ]
     },
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-21T19:51:29.705Z",
+    "generatedAt": "2026-11-22T12:03:31.694Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 1h 56m"
     },
     "forecast": [
-      {
-        "date": "2026-11-21",
-        "day": "Sat",
-        "dayOfMonth": 21,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-22",
         "day": "Sun",
         "dayOfMonth": 22,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-23",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-24",
         "day": "Tue",
         "dayOfMonth": 24,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-25",
         "day": "Wed",
         "dayOfMonth": 25,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-26",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-28",
+        "day": "Sat",
+        "dayOfMonth": 28,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Tue 24, 09:00–12:00"
+        "etr": "Wed 25, 09:00–12:00"
       }
     ],
     "reliability": {
