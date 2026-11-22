@@ -1,18 +1,26 @@
 {
-  "generatedAt": "2026-11-22T12:03:31.644Z",
-  "edition": "Updated 14:03 SAST — Sun, 22 Nov",
+  "generatedAt": "2026-11-22T20:00:22.910Z",
+  "edition": "Updated 22:00 SAST — Sun, 22 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
+          "title": "LIVE: The World Championship kicks off – press conference and opening ceremony today",
+          "link": "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
+          "summary": "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30,…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-22T15:00:00.000Z"
+        },
+        {
           "title": "Indomitable Nakamura Captures 75th Bullet Brawl Title",
           "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
           "summary": "GM Hikaru Nakamura's dynasty of dominance has been extended after he won his 75th career Bullet Brawl title on Saturday. With a score of 183, Nakamura was the convincing winner of $400 first prize. GM Arjun Erigaisi,…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-22T05:10:02.000Z"
+          "publishedAt": "2026-11-22T05:10:00.000Z"
         },
         {
           "title": "Casablanca and Oromana take early lead at Spanish Team Championship",
@@ -37,14 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-21T18:40:00.000Z"
-        },
-        {
-          "title": "New Classic Games App In Beta, Play And Learn 10 Incredible Games!",
-          "link": "https://www.chess.com/news/view/announcing-classic-games-beta",
-          "summary": "We're excited to announce the open Beta of Classic, our new online platform featuring some of the world's most traditional and beloved games. You can now play and learn 10 games, including sudoku, mahjong, Go,…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-21T14:34:49.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-          "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-          "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T11:46:42.000Z"
-        },
-        {
-          "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-          "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
-          "summary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T11:44:50.000Z"
-        },
-        {
-          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/3bc66860-e665-11f1-8ebd-1d2173202734.jpg",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-22T11:25:14.000Z"
+          "publishedAt": "2026-11-22T19:52:50.000Z"
         },
         {
-          "title": "Russian ship attacked by drone in Baltic Sea off Finland",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-          "summary": "Russian ship attacked by drone in Baltic Sea off Finland",
+          "title": "Cockroaches, dissent and a paradigm shift in India",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+          "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T11:15:27.000Z"
+          "publishedAt": "2026-11-22T19:40:12.000Z"
         },
         {
-          "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-          "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-          "summary": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
+          "title": "On China, is Trump bucking the US national security establishment?",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+          "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T11:07:30.000Z"
+          "publishedAt": "2026-11-22T19:30:00.000Z"
+        },
+        {
+          "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+          "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+          "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-22T19:18:29.000Z"
+        },
+        {
+          "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+          "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+          "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-22T19:10:00.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Mallett: Boks missing Kolbe’s magic dust",
-          "link": "https://www.sarugbymag.co.za/mallett-boks-missing-kolbes-magic-dust/",
-          "summary": "Nick Mallett says the Springbok backline needs more \"individual brilliance\" to pose a greater attacking threat. The post Mallett: Boks missing Kolbe’s magic dust appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Cheslin-Kolbe-29-August-2026-Roger-Sedres-Gallo-Images-e1788169719388.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-22T11:59:05.000Z"
-        },
-        {
-          "title": "Keo & Zels: Boks play for title, Ireland play for fifth",
-          "link": "https://www.sarugbymag.co.za/keo-zels/",
-          "summary": "The disappointment of losing to Ireland is obvious, but the reality is the Boks are in the first ever Nations Championship final. And Ireland are not. The post Keo & Zels: Boks play for title, Ireland play for fifth…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-11.15.43-AM.jpeg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-22T10:51:52.000Z"
-        },
-        {
-          "title": "Ireland v Springboks: Winners and losers as ‘big men’ dominate and South African fans forced to eat ‘humble pie’",
-          "link": "https://www.planetrugby.com/news/ireland-v-springboks-winners-and-losers-as-big-men-dominate-and-south-african-fans-forced-to-eat-humble-pie",
-          "summary": "Ireland beat the Springboks 20-17 in a tightly fought contest at the Aviva Stadium on Saturday, in the final round of the Nations Championship pool stage.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22090922/Stuart-McCloskey-and-Marco-van-Staden-image-120x120.jpg",
+          "title": "Siya Kolisi urges Springboks to ‘stick together’ as he warns teammates against ‘pointing fingers’ following loss to Ireland",
+          "link": "https://www.planetrugby.com/news/siya-kolisi-urges-springboks-to-stick-together-as-he-warns-teammates-against-pointing-fingers-following-loss-to-ireland",
+          "summary": "Springboks assistant coach Mzwandile Stick has provided an injury update on fly-half Sacha Feinberg-Mngomezulu, while captain Siya Kolisi issued a warning to his teammates.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22155415/sacha-and-kolisi-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-22T09:12:09.000Z"
+          "publishedAt": "2026-11-22T16:05:55.000Z"
         },
         {
-          "title": "Schalk Burger: Springboks ‘only have a maul and a scrum’ right now",
-          "link": "https://www.planetrugby.com/news/schalk-burger-springboks-only-have-a-maul-and-a-scrum-right-now",
-          "summary": "Schalk Burger has issued a blunt assesment of the Springboks' attack.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/21204849/Springboks-maul-against-Ireland-and-an-inset-of-Schalk-Burger-1-120x120.jpg",
+          "title": "Springboks: Nick Mallett highlights what’s needed from world champions’ backs to regain attacking spark",
+          "link": "https://www.planetrugby.com/news/springboks-nick-mallett-highlights-whats-needed-from-world-champions-backs-to-regain-attacking-spark",
+          "summary": "Nick Mallett has highlighted what's needed to improve the attacking play of the Springboks' backline.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22152114/Nick-Mallett-and-Springboks-players-image-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-22T08:00:08.000Z"
+          "publishedAt": "2026-11-22T15:50:06.000Z"
         },
         {
-          "title": "Nations Championship finals weekend fixtures",
-          "link": "https://www.sarugbymag.co.za/nations-championship-finals-weekend-fixtures/",
-          "summary": "Who's playing who at Twickenham next weekend. The post Nations Championship finals weekend fixtures appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Nations-Championship-trophy-featured-e1781629273657.jpeg",
+          "title": "Nations Championship: Schalk Burger is right about the Springboks as North-South wisdom is turned on its head",
+          "link": "https://www.planetrugby.com/news/nations-championship-schalk-burger-is-right-about-the-springboks-as-north-south-wisdom-is-turned-on-its-head",
+          "summary": "Planet Rugby features writer James While reviews some of the action from the final round of the inaugural Nations Championship's pool matches.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22132034/Jean-Baptiste-Gros-and-Springboks-huddle-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-22T13:23:22.000Z"
+        },
+        {
+          "title": "Schalk: Boks only have a maul and scrum",
+          "link": "https://www.sarugbymag.co.za/schalk-boks-only-have-a-maul-and-scrum/",
+          "summary": "Schalk Burger says the Springboks can't string together one good attacking set at the moment. The post Schalk: Boks only have a maul and scrum appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-21-November-2026-Ramsey-Cardy-Getty-Images-e1795352880443.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-22T06:24:51.000Z"
+          "publishedAt": "2026-11-22T13:15:08.000Z"
+        },
+        {
+          "title": "Steven Kitshoff claims no ‘real punch’ in Springboks attack following third loss in four matches",
+          "link": "https://www.planetrugby.com/news/steven-kitshoff-claims-no-real-punch-in-springboks-attack-following-third-loss-in-four-matches",
+          "summary": "Former Springboks prop Steven Kitshoff has highlighted the weakness in Rassie Erasmus' squad, but believes they can fix it before the Nations Championship final on Sunday.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22125309/Steven-Kitshoff-and-Sacha--120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-22T13:01:43.000Z"
         }
       ]
     },
@@ -144,6 +144,22 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
+          "link": "https://www.cricinfo.com/ci/content/story/1563619.html?ex_cid=OTC-RSS",
+          "summary": "Aiden Markram also said he is \"quite hungry to convert starts into big scores\"",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/423900/423917.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-22T13:35:59.000Z"
+        },
+        {
+          "title": "Injury-hit Bangladesh face uphill task against Bavuma-less South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1563618.html?ex_cid=OTC-RSS",
+          "summary": "Without Mushfiqur and Mahmud, Bangladesh will need a lot to go their way to challenge WTC title-holders South Africa",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425478.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-22T12:37:42.000Z"
+        },
         {
           "title": "Ben McKinney called up to England Test squad for South Africa",
           "link": "https://www.cricinfo.com/ci/content/story/1563517.html?ex_cid=OTC-RSS",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/408100/408150.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-20T13:46:56.000Z"
-        },
-        {
-          "title": "Ottis Gibson returns to Durham as head coach on three-year deal",
-          "link": "https://www.cricinfo.com/ci/content/story/1563364.html?ex_cid=OTC-RSS",
-          "summary": "Former West Indies and South Africa head coach returns to Riverside on three-year deal",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/298600/298633.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-20T13:07:14.000Z"
-        },
-        {
-          "title": "Ngidi back from injury for Bangladesh ODIs; Maharaj to lead SA",
-          "link": "https://www.cricinfo.com/ci/content/story/1563324.html?ex_cid=OTC-RSS",
-          "summary": "Anrich Nortje, who has not played an ODI since before the 2023 ODI World Cup, is also back and is also expected to be fit for the second Test",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/371200/371230.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-20T12:38:00.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-22T12:03:31.694Z",
+    "generatedAt": "2026-11-22T20:00:22.979Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 1h 56m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
