@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-22T20:00:22.910Z",
-  "edition": "Updated 22:00 SAST — Sun, 22 Nov",
+  "generatedAt": "2026-11-23T13:45:19.147Z",
+  "edition": "Updated 15:45 SAST — Mon, 23 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "LIVE: The World Championship kicks off – press conference and opening ceremony today",
-          "link": "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
-          "summary": "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-22T15:00:00.000Z"
-        },
-        {
-          "title": "Indomitable Nakamura Captures 75th Bullet Brawl Title",
-          "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
-          "summary": "GM Hikaru Nakamura's dynasty of dominance has been extended after he won his 75th career Bullet Brawl title on Saturday. With a score of 183, Nakamura was the convincing winner of $400 first prize. GM Arjun Erigaisi,…",
+          "title": "Vishy Anand's Gukesh-Sindarov World Championship Predictions",
+          "link": "https://www.chess.com/news/view/vishy-anand-gukesh-sindarov-world-championship-predictions",
+          "summary": "We caught up with five-time World Champion Viswanathan Anand ahead of the 2026 World Chess Championship match between reigning World Champion Gukesh Dommaraju and challenger GM Javokhir Sindarov. With Sindarov coming…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-22T05:10:00.000Z"
+          "publishedAt": "2026-11-23T10:57:24.000Z"
         },
         {
-          "title": "Casablanca and Oromana take early lead at Spanish Team Championship",
-          "link": "https://en.chessbase.com/post/spanish-team-ch-2026-r2",
-          "summary": "MyInvestor Casablanca and Oromana Cen Solutions are the only teams to have won both their matches after two rounds of the Spanish Team Championship in Marbella. Casablanca lead the standings on tiebreaks following a…",
+          "title": "The Two World Championship Contenders Open Up to the Media",
+          "link": "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
+          "summary": "November 22 marked the official kick-off of the Salesforce FIDE World Championship 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions,…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-22T02:35:00.000Z"
+          "publishedAt": "2026-11-23T06:03:11.000Z"
         },
         {
-          "title": "FIDE Calls Carlsen's Forfeits 'Unacceptable,' Refers His Conduct To Ethics Commission",
-          "link": "https://www.chess.com/news/view/fide-carlsen-total-chess-forfeits-ethics-commission",
-          "summary": "FIDE will refer GM Magnus Carlsen's conduct at the Total Chess World Championship Tour Pilot to its Ethics and Disciplinary Commission (EDC), describing his forfeits as \"unacceptable.&rdquo; The tournament&rsquo;s…",
+          "title": "Muzychuk Wins Blitz Portion Of WR Women's Chess Tour Grand Final",
+          "link": "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
+          "summary": "GM Anna Muzychuk won the blitz portion of the WR Women's Chess Tour - Grand Final 2026 after defeating GM Kateryna Lagno 2.5-1.5 in the Final. Muzychuk leads the event, but there is a full rapid knockout tournament to…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-21T19:13:00.000Z"
+          "publishedAt": "2026-11-22T21:59:48.000Z"
         },
         {
-          "title": "Firouzja beats Giri in Armageddon to claim Total Chess Pilot title",
-          "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-4",
-          "summary": "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over…",
+          "title": "Sindarov Gets White As Gukesh Vows To Win World Championship 'All Over Again'",
+          "link": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
+          "summary": "GM Javokhir Sindarov will start the 2026 Salesforce FIDE World Championship with the white pieces in Geneva on Tuesday after World Champion Gukesh Dommaraju selected a clock containing a black knight at the opening…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-22T21:21:00.000Z"
+        },
+        {
+          "title": "Total mess in Budapest",
+          "link": "https://en.chessbase.com/post/total-mess-in-budapest",
+          "summary": "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games -…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-21T18:40:00.000Z"
+          "publishedAt": "2026-11-22T19:50:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+          "title": "Flights and train services cancelled in Belgium due to strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+          "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-22T19:52:50.000Z"
+          "publishedAt": "2026-11-23T13:34:02.000Z"
         },
         {
-          "title": "Cockroaches, dissent and a paradigm shift in India",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
-          "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T19:40:12.000Z"
+          "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+          "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+          "summary": "The eight suspects were arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-23T13:26:36.000Z"
         },
         {
-          "title": "On China, is Trump bucking the US national security establishment?",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
-          "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+          "title": "Iran says it will use ‘all available means’ to counter US blockade",
+          "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+          "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T19:30:00.000Z"
+          "publishedAt": "2026-11-23T13:04:11.000Z"
         },
         {
-          "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-          "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-          "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T19:18:29.000Z"
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-23T13:02:05.000Z"
         },
         {
-          "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
-          "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
-          "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+          "title": "Argentina footballer Paredes collapses during post-match interview",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
+          "summary": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-22T19:10:00.000Z"
+          "publishedAt": "2026-11-23T12:40:21.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Siya Kolisi urges Springboks to ‘stick together’ as he warns teammates against ‘pointing fingers’ following loss to Ireland",
-          "link": "https://www.planetrugby.com/news/siya-kolisi-urges-springboks-to-stick-together-as-he-warns-teammates-against-pointing-fingers-following-loss-to-ireland",
-          "summary": "Springboks assistant coach Mzwandile Stick has provided an injury update on fly-half Sacha Feinberg-Mngomezulu, while captain Siya Kolisi issued a warning to his teammates.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22155415/sacha-and-kolisi-120x120.jpg",
+          "title": "Nick Mallett: Springboks ‘fortunate’ to avoid England clash after ‘best performance of the tournament’",
+          "link": "https://www.planetrugby.com/news/nick-mallett-springboks-fortunate-to-avoid-england-clash-after-best-performance-of-the-tournament",
+          "summary": "Nick Mallett is delighted the Springboks avoided England in the final of the Nations Championship.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/23131030/England-celebrate-and-Nick-Mallett-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-22T16:05:55.000Z"
+          "publishedAt": "2026-11-23T13:17:02.000Z"
         },
         {
-          "title": "Springboks: Nick Mallett highlights what’s needed from world champions’ backs to regain attacking spark",
-          "link": "https://www.planetrugby.com/news/springboks-nick-mallett-highlights-whats-needed-from-world-champions-backs-to-regain-attacking-spark",
-          "summary": "Nick Mallett has highlighted what's needed to improve the attacking play of the Springboks' backline.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22152114/Nick-Mallett-and-Springboks-players-image-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-22T15:50:06.000Z"
-        },
-        {
-          "title": "Nations Championship: Schalk Burger is right about the Springboks as North-South wisdom is turned on its head",
-          "link": "https://www.planetrugby.com/news/nations-championship-schalk-burger-is-right-about-the-springboks-as-north-south-wisdom-is-turned-on-its-head",
-          "summary": "Planet Rugby features writer James While reviews some of the action from the final round of the inaugural Nations Championship's pool matches.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22132034/Jean-Baptiste-Gros-and-Springboks-huddle-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-22T13:23:22.000Z"
-        },
-        {
-          "title": "Schalk: Boks only have a maul and scrum",
-          "link": "https://www.sarugbymag.co.za/schalk-boks-only-have-a-maul-and-scrum/",
-          "summary": "Schalk Burger says the Springboks can't string together one good attacking set at the moment. The post Schalk: Boks only have a maul and scrum appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Sacha-Feinberg-Mngomezulu-21-November-2026-Ramsey-Cardy-Getty-Images-e1795352880443.jpg",
+          "title": "Stick backs Manu to bomb Les Bleus",
+          "link": "https://www.sarugbymag.co.za/stick-backs-manu-bomb-les-bleus/",
+          "summary": "Springbok rookie Emmanuel Tshituka and a world-class bench will be central to a full 80-minute performance against France at Twickenham on Sunday. The post Stick backs Manu to bomb Les Bleus appeared first on SA Rugby…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2653366-e1795438855952.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-22T13:15:08.000Z"
+          "publishedAt": "2026-11-23T13:03:53.000Z"
         },
         {
-          "title": "Steven Kitshoff claims no ‘real punch’ in Springboks attack following third loss in four matches",
-          "link": "https://www.planetrugby.com/news/steven-kitshoff-claims-no-real-punch-in-springboks-attack-following-third-loss-in-four-matches",
-          "summary": "Former Springboks prop Steven Kitshoff has highlighted the weakness in Rassie Erasmus' squad, but believes they can fix it before the Nations Championship final on Sunday.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/22125309/Steven-Kitshoff-and-Sacha--120x120.jpg",
+          "title": "Who’s hot and who’s not: Ireland ‘redemption’, ‘invidious position’ England, ‘unlikable’ Rassie and ‘dreaded’ All Blacks reaction",
+          "link": "https://www.planetrugby.com/news/whos-hot-and-whos-not-439",
+          "summary": "What a weekend of Test rugby we had, with Ireland and England up in lights and South Africa and New Zealand making headlines for the wrong reasons.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/23115427/Whos-Hot-and-Whos-Not-Irelands-Dan-Sheehan-and-South-Africas-Rassie-Erasmus--120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-22T13:01:43.000Z"
+          "publishedAt": "2026-11-23T12:53:11.000Z"
+        },
+        {
+          "title": "Bok presser gets Xhosa twist",
+          "link": "https://www.sarugbymag.co.za/bok-presser-gets-xhosa-twist/",
+          "summary": "Assistant coach Mzwandile Stick conducted the Springboks’ team announcement press conference in London for Sunday’s Nations Championship final entirely in Xhosa. The post Bok presser gets Xhosa twist appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2654440-e1795435516549.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-23T12:07:28.000Z"
+        },
+        {
+          "title": "Springboks team: Rassie Erasmus wields the axe as Sacha Feinberg-Mngomezulu and Eben Etzebeth get new roles",
+          "link": "https://www.planetrugby.com/news/springboks-team-rassie-erasmus-wields-the-axe-as-sacha-feinberg-mngomezulu-and-eben-etzebeth-get-new-roles",
+          "summary": "Sacha Feinberg-Mngomezulu and Eben Etzebeth will have new roles for the Springboks when they take on France in Sunday's Nations Championship final at Allianz Stadium, Twickenham.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/23120035/Sacha-Feinberg-Mngomezulu-and-Eben-Etzebeth-photo-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-23T12:07:07.000Z"
         }
       ]
     },
@@ -144,6 +144,30 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "South Africa bowl in Centurion; Bangladesh bring in Jaker and field all-pace attack",
+          "link": "https://www.cricinfo.com/ci/content/story/1563693.html?ex_cid=OTC-RSS",
+          "summary": "Shoriful Islam and Khaled Ahmed came into the team, with Mehidy Hasan Miraz sitting out",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/421500/421584.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-23T11:37:00.000Z"
+        },
+        {
+          "title": "Injury-hit Bangladesh face uphill task against Bavuma-less South Africa",
+          "link": "https://www.cricinfo.com/ci/content/story/1563618.html?ex_cid=OTC-RSS",
+          "summary": "Without Mushfiqur and Mahmud, Bangladesh will need a lot to go their way to challenge WTC title-holders South Africa",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425478.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-23T07:08:45.000Z"
+        },
+        {
+          "title": "De Villiers claims Australia's 2018 ball tampering 'started in Durban'",
+          "link": "https://www.cricinfo.com/ci/content/story/1563656.html?ex_cid=OTC-RSS",
+          "summary": "The former South Africa batter said the ball had reversed \"way too early\" in the first Test",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/273800/273857.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-23T06:52:15.000Z"
+        },
         {
           "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
           "link": "https://www.cricinfo.com/ci/content/story/1563619.html?ex_cid=OTC-RSS",
@@ -153,36 +177,12 @@
           "publishedAt": "2026-11-22T13:35:59.000Z"
         },
         {
-          "title": "Injury-hit Bangladesh face uphill task against Bavuma-less South Africa",
-          "link": "https://www.cricinfo.com/ci/content/story/1563618.html?ex_cid=OTC-RSS",
-          "summary": "Without Mushfiqur and Mahmud, Bangladesh will need a lot to go their way to challenge WTC title-holders South Africa",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425478.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-22T12:37:42.000Z"
-        },
-        {
           "title": "Ben McKinney called up to England Test squad for South Africa",
           "link": "https://www.cricinfo.com/ci/content/story/1563517.html?ex_cid=OTC-RSS",
           "summary": "Durham opener comes in as spare batter after Bethell injury",
           "image": "http://p.imgci.com/db/PICTURES/CMS/422300/422321.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-21T14:35:17.000Z"
-        },
-        {
-          "title": "Injured Hasan Mahmud ruled out of South Africa tour",
-          "link": "https://www.cricinfo.com/ci/content/story/1563369.html?ex_cid=OTC-RSS",
-          "summary": "Bangladesh have not named a replacement yet and could bring left-arm quick Shoriful Islam into the XI for the second Test against South Africa",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425300/425362.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-20T14:03:18.000Z"
-        },
-        {
-          "title": "'You've got to take the emotion out of it': Conrad on Maharaj's omission",
-          "link": "https://www.cricinfo.com/ci/content/story/1563365.html?ex_cid=OTC-RSS",
-          "summary": "With Harmer on a roll, Maharaj has been left out of South Africa's last three Tests and is certain to miss the next one, too",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/408100/408150.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-20T13:46:56.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-22T20:00:22.979Z",
+    "generatedAt": "2026-11-23T13:45:19.192Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 15m"
     },
     "forecast": [
-      {
-        "date": "2026-11-22",
-        "day": "Sun",
-        "dayOfMonth": 22,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-23",
         "day": "Mon",
         "dayOfMonth": 23,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-24",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-25",
         "day": "Wed",
         "dayOfMonth": 25,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-26",
         "day": "Thu",
         "dayOfMonth": 26,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-27",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-11-29",
+        "day": "Sun",
+        "dayOfMonth": 29,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-22",
+        "date": "2026-11-23",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-22",
+        "date": "2026-11-23",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-25",
+        "date": "2026-11-26",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Wed 25, 09:00–12:00"
+        "etr": "Thu 26, 09:00–12:00"
       }
     ],
     "reliability": {
