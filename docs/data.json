@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-25T00:11:04.103Z",
-  "edition": "Morning Edition — Wed, 25 Nov",
+  "generatedAt": "2026-11-25T13:40:04.076Z",
+  "edition": "Updated 15:40 SAST — Wed, 25 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "How To Watch FIDE World Championship 2026 Game 2",
+          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
+          "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues on Wednesday, November 25, at 9 a.m. ET / 15:00 CET (local time in Geneva) /…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-25T07:56:09.000Z"
+        },
+        {
+          "title": "Daniel King analyses: How Gukesh saved the draw",
+          "link": "https://en.chessbase.com/post/world-championship-2026-analysis",
+          "summary": "The first game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov got off to a promising start. Sindarov opened with 1.e4, and Gukesh opted for the Berlin Defence. The…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-24T22:46:47.000Z"
+        },
         {
           "title": "World Championship Game 1: A draw in the Berlin, not without tension",
           "link": "https://en.chessbase.com/post/world-championship-2026-1",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-24T20:16:14.000Z"
-        },
-        {
-          "title": "World Chess Championship: A look at the international press",
-          "link": "https://en.chessbase.com/post/world-championship-2026-press-review",
-          "summary": "The World Chess Championship match between Gukesh Dommaraju and Javokhir Sindarov has attracted considerable attention beyond the specialised chess media. The youth of the two contenders, their contrasting results over…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-24T14:15:00.000Z"
-        },
-        {
-          "title": "Kateryna Lagno wins inaugural WR Women's Chess Tour",
-          "link": "https://en.chessbase.com/post/wr-women-tour-2026-stuttgart",
-          "summary": "Kateryna Lagno claimed the winner's trophy at the inaugural WR Women's Chess Tour 2026. She reached the final in both the rapid and the blitz section of the final tournament in Stuttgart but lost on both occasions.…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-24T12:35:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-          "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+          "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+          "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+          "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T00:00:00.000Z"
+          "publishedAt": "2026-11-25T13:04:17.000Z"
         },
         {
-          "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-          "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-          "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+          "title": "Solomon Islands signs security deal with Australia",
+          "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
+          "summary": "Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T23:39:13.000Z"
+          "publishedAt": "2026-11-25T13:02:45.000Z"
         },
         {
-          "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-          "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-          "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+          "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
+          "link": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+          "summary": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T23:29:40.000Z"
+          "publishedAt": "2026-11-25T12:45:16.000Z"
         },
         {
-          "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-          "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-          "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+          "title": "Trinity Rodman out of USWNT’s World Cup qualifier due to shoulder injury",
+          "link": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
+          "summary": "Star forward Trinity Rodman sustained a minor shoulder injury during Washington Spirit's 2-1 loss to Kansas City.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T22:50:16.000Z"
+          "publishedAt": "2026-11-25T12:43:25.000Z"
         },
         {
-          "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-          "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-          "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+          "title": "Bayern Munich’s Musiala checked for neurological symptoms in April 2025",
+          "link": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
+          "summary": "Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T22:37:20.000Z"
+          "publishedAt": "2026-11-25T12:42:56.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Nations Championship final: Five ways the Springboks can avenge the Paris defeat against France",
-          "link": "https://www.planetrugby.com/news/nations-championship-final-five-ways-the-springboks-can-avenge-the-paris-defeat-against-france",
-          "summary": "The Springboks need the most back-to-basics approach they have ever delivered if they are to beat France in the Nations Championship final.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/24163409/Springboks-and-France-scrum-with-Ethan-Hooker-inset-Alamy-120x120.jpg",
+          "title": "Mallett: Manie’s got it",
+          "link": "https://www.sarugbymag.co.za/mallett-manies-got/",
+          "summary": "Nick Mallett believes the variety of Manie Libbok's kicking game can put doubt into the minds of French defenders at Twickenham. The post Mallett: Manie’s got it appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Manie-Libbok-kicks-1-July-2026-David-Rogers-Getty-Images-e1795612164283.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-25T13:11:00.000Z"
+        },
+        {
+          "title": "Opinion: Rassie Erasmus must be bold and risk defeat without Pieter-Steph du Toit",
+          "link": "https://www.planetrugby.com/news/opinion-rassie-erasmus-must-be-bold-and-risk-defeat-without-pieter-steph-du-toit",
+          "summary": "The Springboks face a major selection headache after Pieter-Steph du Toit was ruled out of the Nations Championship final.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25115547/Springboks-back-rower-Pieter-Steph-du-Toit-and-an-inset-of-Rassie-Erasmus-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-24T17:40:05.000Z"
+          "publishedAt": "2026-11-25T12:05:35.000Z"
         },
         {
-          "title": "Salmaan grateful for what’s on his doorstep",
-          "link": "https://www.sarugbymag.co.za/salmaan-grateful-whats-doorstep/",
-          "summary": "After a frustrating time with injuries, lock Salmaan Moerat is excited to repay the faith shown in him by the Springboks and tackle the French at Twickenham on Sunday. The post Salmaan grateful for what’s on his…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2648513-e1795530390113.jpg",
+          "title": "Beaver: Boks’ final hopes rest with Marx",
+          "link": "https://www.sarugbymag.co.za/beaver-boks-final-hopes-rest-marx/",
+          "summary": "Stephen Donald expects Sunday's Nations Championship decider to come down to a huge performance from the world’s best Malcolm Marx or French star Antoine Dupont. The post Beaver: Boks’ final hopes rest with Marx…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305058887-e1795604242902.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T15:50:55.000Z"
+          "publishedAt": "2026-11-25T11:59:05.000Z"
         },
         {
-          "title": "Brown wants Bok mojo back by Sunday",
-          "link": "https://www.sarugbymag.co.za/brown-wants-bok-mojo-back-sunday/",
-          "summary": "Tony Brown is backing a new 10-15 axis featuring Manie Libbok and Sacha Feinberg-Mngomezulu to reignite the Springboks' attack against France at Twickenham. The post Brown wants Bok mojo back by Sunday appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Manie-Libbok-Sacha-Feinberg-Mngomezulu-27-June-2025-Ashley-Vlotman-Gallo-Images-e1780402170898.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T15:43:53.000Z"
+          "title": "Springboks are ‘struggling’ as Tony Brown defends Sacha: ‘People quick to point at the 10’",
+          "link": "https://www.planetrugby.com/news/springboks-are-struggling-as-tony-brown-defends-sacha-people-quick-to-point-at-the-10",
+          "summary": "Tony Brown has defended Springboks playmaker Sacha Feinberg-Mngomezulu.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25092619/Sacha-Feinberg-Mngomezulu-and-an-inset-of-Tony-Brown-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-25T09:59:05.000Z"
         },
         {
-          "title": "Watch: Forward pass in Ireland try?",
-          "link": "https://www.sarugbymag.co.za/watch-forward-pass-in-ireland-try/",
-          "summary": "Ireland hooker Rónan Kelleher scored from a lineout move just before half-time against the Springboks, but should his try have been disallowed for a forward pass? The post Watch: Forward pass in Ireland try? appeared…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ronan-Kelleher-try-21-November-2026-Charles-McQuillian-Getty-Images-e1795543047645.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T15:42:54.000Z"
-        },
-        {
-          "title": "Ireland captain cops ban",
-          "link": "https://www.sarugbymag.co.za/ireland-captain-cops-ban/",
-          "summary": "Dan Sheehan has been suspended following a croc roll on Springbok loose forward Marco van Staden in Dublin. The post Ireland captain cops ban appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dan-Sheehan-21-November-2026-Ramsey-Cardy-Getty-Images-e1795541466892.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T15:40:31.000Z"
+          "title": "Springboks rocked by Pieter-Steph du Toit withdrawal as Rassie delays replacement call",
+          "link": "https://www.planetrugby.com/news/springboks-rocked-by-pieter-steph-du-toit-withdrawal-as-rassie-delays-replacement-call",
+          "summary": "Pieter-Steph du Toit has been ruled out of the Nations Championship final against France.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25095123/Springboks-flanker-Pieter-Steph-du-Toit-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-25T09:54:29.000Z"
         }
       ]
     },
@@ -145,12 +145,28 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Seven-star Mulder leads South Africa to 2-0 whitewash",
+          "link": "https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS",
+          "summary": "The allrounder's century and seven-wicket haul helped South Africa inflict an innings defeat on Bangladesh",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425700/425764.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-25T13:02:03.000Z"
+        },
+        {
+          "title": "Bumrah rises to joint-second in Test bowling rankings, Rabada up to sixth",
+          "link": "https://www.cricinfo.com/ci/content/story/1563908.html?ex_cid=OTC-RSS",
+          "summary": "Rishabh Pant, Shubman Gill and Yashasvi Jaiswal have consolidated their places in the top ten among Test batters",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425400/425456.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-25T10:05:40.000Z"
+        },
+        {
           "title": "Ackerman, Mulder tons grind down Bangladesh as SA batters make hay",
           "link": "https://www.cricinfo.com/ci/content/story/1563809.html?ex_cid=OTC-RSS",
           "summary": "Tony de Zorzi and Marco Jansen also hit fifties as South Africa added 406 runs on the second day",
           "image": "http://p.imgci.com/db/PICTURES/CMS/425700/425724.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-24T18:39:11.000Z"
+          "publishedAt": "2026-11-25T07:38:02.000Z"
         },
         {
           "title": "South Africa pick eight uncapped players for India women's Test",
@@ -158,7 +174,7 @@
           "summary": "In the T20I squad, former Namibia captain Yasmeen Khan has earned her first South Africa call-up",
           "image": "http://p.imgci.com/db/PICTURES/CMS/384100/384102.jpg",
           "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-24T13:42:23.000Z"
+          "publishedAt": "2026-11-25T06:28:58.000Z"
         },
         {
           "title": "De Villiers claims Australia's 2018 ball tampering 'started in Durban'",
@@ -167,22 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/273800/273857.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-24T00:36:53.000Z"
-        },
-        {
-          "title": "South Africa dominate after bowling Bangladesh out for 91",
-          "link": "https://www.cricinfo.com/ci/content/story/1563706.html?ex_cid=OTC-RSS",
-          "summary": "SA's three quicks shared eight wickets before their top-order batters gave them further control",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425600/425673.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-23T16:42:46.000Z"
-        },
-        {
-          "title": "South Africa bowl in Centurion; Bangladesh bring in Jaker and field all-pace attack",
-          "link": "https://www.cricinfo.com/ci/content/story/1563693.html?ex_cid=OTC-RSS",
-          "summary": "Shoriful Islam and Khaled Ahmed came into the team, with Mehidy Hasan Miraz sitting out",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/421500/421584.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-23T11:37:00.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-25T00:11:04.144Z",
+    "generatedAt": "2026-11-25T13:40:04.129Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 13h 49m"
+      "label": "🟡 Planned Maintenance In 20m"
     },
     "forecast": [
       {
