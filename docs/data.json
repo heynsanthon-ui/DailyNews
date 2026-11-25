@@ -1,18 +1,34 @@
 {
-  "generatedAt": "2026-11-25T13:40:04.076Z",
-  "edition": "Updated 15:40 SAST — Wed, 25 Nov",
+  "generatedAt": "2026-11-25T23:50:00.117Z",
+  "edition": "Morning Edition — Thu, 26 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "How To Watch FIDE World Championship 2026 Game 2",
-          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
-          "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues on Wednesday, November 25, at 9 a.m. ET / 15:00 CET (local time in Geneva) /…",
+          "title": "Abdusattorov, Woodward Start With Wins In London Chess Classic",
+          "link": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
+          "summary": "GMs Nodirbek Abdusattorov and Andy Woodward started with wins in round one of the XTX Markets London Chess Classic 2026 on Wednesday. Defending Champion Abdusattorov (with White) defeated GM Shreyas Royal in a Benoni…",
           "image": null,
           "source": "Chess.com",
-          "publishedAt": "2026-11-25T07:56:09.000Z"
+          "publishedAt": "2026-11-25T22:38:00.000Z"
+        },
+        {
+          "title": "World Championship Game 2: A London in Geneva",
+          "link": "https://en.chessbase.com/post/world-championship-2026-2",
+          "summary": "Gukesh Dommaraju and Javokhir Sindarov drew the second game of their World Championship match in Geneva on Wednesday. Playing white for the first time, Gukesh opted for the London System, but found his opponent…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-25T22:35:00.000Z"
+        },
+        {
+          "title": "Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw",
+          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
+          "summary": "World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026, but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-25T07:56:00.000Z"
         },
         {
           "title": "Daniel King analyses: How Gukesh saved the draw",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-24T21:35:00.000Z"
-        },
-        {
-          "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
-          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
-          "summary": "GM Javokhir Sindarov seemed to get the better of a tense opening battle in game one of the Salesforce FIDE World Championship 2026, but World Champion Gukesh Dommaraju survived pressure on the board and clock to make a…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-24T21:20:00.000Z"
-        },
-        {
-          "title": "Nakamura Widens Lead In Esports World Cup Qualification Standings",
-          "link": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-24-2026",
-          "summary": "The 2026 Salesforce FIDE World Championship also began on November 24, but Titled Tuesday continued apace, with its ongoing role in qualification for one of next year's biggest chess competitions, the 2027 Esports World…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-24T20:16:14.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
-          "link": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
-          "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
+          "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+          "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+          "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T13:04:17.000Z"
+          "publishedAt": "2026-11-25T23:33:39.000Z"
         },
         {
-          "title": "Solomon Islands signs security deal with Australia",
-          "link": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
-          "summary": "Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.",
+          "title": "King tides and big waves batter coastal California",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+          "summary": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T13:02:45.000Z"
+          "publishedAt": "2026-11-25T23:20:03.000Z"
         },
         {
-          "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
-          "link": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
-          "summary": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
+          "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+          "summary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T12:45:16.000Z"
+          "publishedAt": "2026-11-25T22:48:47.000Z"
         },
         {
-          "title": "Trinity Rodman out of USWNT’s World Cup qualifier due to shoulder injury",
-          "link": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
-          "summary": "Star forward Trinity Rodman sustained a minor shoulder injury during Washington Spirit's 2-1 loss to Kansas City.",
+          "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+          "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+          "summary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T12:43:25.000Z"
+          "publishedAt": "2026-11-25T22:41:46.000Z"
         },
         {
-          "title": "Bayern Munich’s Musiala checked for neurological symptoms in April 2025",
-          "link": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
-          "summary": "Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T12:42:56.000Z"
+          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-25T22:18:06.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Mallett: Manie’s got it",
-          "link": "https://www.sarugbymag.co.za/mallett-manies-got/",
-          "summary": "Nick Mallett believes the variety of Manie Libbok's kicking game can put doubt into the minds of French defenders at Twickenham. The post Mallett: Manie’s got it appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Manie-Libbok-kicks-1-July-2026-David-Rogers-Getty-Images-e1795612164283.jpg",
+          "title": "Siya flies solo after coaches’ no-show",
+          "link": "https://www.sarugbymag.co.za/siya-flies-solo-coaches-no-show/",
+          "summary": "The Springbok coaching staff reportedly boycotted a Nations Championship media event in London on Wednesday, leaving captain Siya Kolisi to represent the team alone. The post Siya flies solo after coaches’ no-show…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2649558.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-25T13:11:00.000Z"
+          "publishedAt": "2026-11-25T18:13:33.000Z"
         },
         {
-          "title": "Opinion: Rassie Erasmus must be bold and risk defeat without Pieter-Steph du Toit",
-          "link": "https://www.planetrugby.com/news/opinion-rassie-erasmus-must-be-bold-and-risk-defeat-without-pieter-steph-du-toit",
-          "summary": "The Springboks face a major selection headache after Pieter-Steph du Toit was ruled out of the Nations Championship final.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25115547/Springboks-back-rower-Pieter-Steph-du-Toit-and-an-inset-of-Rassie-Erasmus-1-120x120.jpg",
+          "title": "Ireland team: Andy Farrell makes two changes to Springbok beating side as suspended Dan Sheehan replaced",
+          "link": "https://www.planetrugby.com/news/ireland-team-andy-farrell-makes-two-changes-to-springbok-beating-side-as-suspended-dan-sheehan-replaced",
+          "summary": "Jacob Stockdale has returned to the Ireland starting XV for their Nations Championship match against Australia at Allianz Stadium, Twickenham on Friday night.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25162855/dan-sheehan-and-jacob-stockdale-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-25T12:05:35.000Z"
+          "publishedAt": "2026-11-25T16:32:22.000Z"
         },
         {
-          "title": "Beaver: Boks’ final hopes rest with Marx",
-          "link": "https://www.sarugbymag.co.za/beaver-boks-final-hopes-rest-marx/",
-          "summary": "Stephen Donald expects Sunday's Nations Championship decider to come down to a huge performance from the world’s best Malcolm Marx or French star Antoine Dupont. The post Beaver: Boks’ final hopes rest with Marx…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305058887-e1795604242902.jpg",
+          "title": "Ex-Springboks star issues blunt warning to ‘amazing rugby player’ Henry Pollock",
+          "link": "https://www.planetrugby.com/news/ex-springboks-star-issues-blunt-warning-to-amazing-rugby-player-henry-pollock",
+          "summary": "Ex-Springboks loose forward Willem Alberts has given his verdict on England star Henry Pollock's recent rise to prominence in the game.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25150459/Willem-Alberts-and-Henry-Pollock-image-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-25T15:54:57.000Z"
+        },
+        {
+          "title": "Vinny T helps Manu settle his nerves",
+          "link": "https://www.sarugbymag.co.za/vinny-t-helps-manu-settle-nerves/",
+          "summary": "Emmanuel Tshituka is eager to follow in his brother's footsteps and make his Springbok debut in the Nations Championship final, which he calls an \"opportunity of a lifetime\". The post Vinny T helps Manu settle his…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2580987-e1795619848854.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-25T11:59:05.000Z"
+          "publishedAt": "2026-11-25T15:37:02.000Z"
         },
         {
-          "title": "Springboks are ‘struggling’ as Tony Brown defends Sacha: ‘People quick to point at the 10’",
-          "link": "https://www.planetrugby.com/news/springboks-are-struggling-as-tony-brown-defends-sacha-people-quick-to-point-at-the-10",
-          "summary": "Tony Brown has defended Springboks playmaker Sacha Feinberg-Mngomezulu.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25092619/Sacha-Feinberg-Mngomezulu-and-an-inset-of-Tony-Brown-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-25T09:59:05.000Z"
-        },
-        {
-          "title": "Springboks rocked by Pieter-Steph du Toit withdrawal as Rassie delays replacement call",
-          "link": "https://www.planetrugby.com/news/springboks-rocked-by-pieter-steph-du-toit-withdrawal-as-rassie-delays-replacement-call",
-          "summary": "Pieter-Steph du Toit has been ruled out of the Nations Championship final against France.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25095123/Springboks-flanker-Pieter-Steph-du-Toit-and-an-inset-of-head-coach-Rassie-Erasmus-1-120x120.jpg",
-          "source": "Planet Rugby",
-          "publishedAt": "2026-11-25T09:54:29.000Z"
+          "title": "Bok on French club’s radar",
+          "link": "https://www.sarugbymag.co.za/bok-french-clubs-radar-2/",
+          "summary": "Top 14 giants Stade Français are reportedly targeting a double World Cup-winning Springbok for next season. The post Bok on French club’s radar appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2487458-e1795627313673.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-25T15:35:00.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-25T13:40:04.129Z",
+    "generatedAt": "2026-11-25T23:50:00.188Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 20m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
