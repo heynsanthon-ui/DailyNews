@@ -1,18 +1,34 @@
 {
-  "generatedAt": "2026-11-24T14:21:24.107Z",
-  "edition": "Updated 16:21 SAST — Tue, 24 Nov",
+  "generatedAt": "2026-11-25T00:11:04.103Z",
+  "edition": "Morning Edition — Wed, 25 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "World Championship Match: Sindarov v. Gukesh - Game 1 Live!",
-          "link": "https://en.chessbase.com/post/world-championship-2026-live",
-          "summary": "The 2026 World Chess Championship match takes place at the Fondation Martin Bodmer in Cologny, near Geneva, Switzerland. India's Gukesh Dommaraju is defending the title he won in Singapore two years ago against…",
+          "title": "World Championship Game 1: A draw in the Berlin, not without tension",
+          "link": "https://en.chessbase.com/post/world-championship-2026-1",
+          "summary": "The World Chess Championship match between Gukesh Dommaraju and Javokhir Sindarov got under way on Tuesday in Geneva, with the two 20-year-old contenders signing a draw in a tense 38-move encounter. Playing white,…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-24T14:45:00.000Z"
+          "publishedAt": "2026-11-24T21:35:00.000Z"
+        },
+        {
+          "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
+          "summary": "GM Javokhir Sindarov seemed to get the better of a tense opening battle in game one of the Salesforce FIDE World Championship 2026, but World Champion Gukesh Dommaraju survived pressure on the board and clock to make a…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-24T21:20:00.000Z"
+        },
+        {
+          "title": "Nakamura Widens Lead In Esports World Cup Qualification Standings",
+          "link": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-24-2026",
+          "summary": "The 2026 Salesforce FIDE World Championship also began on November 24, but Titled Tuesday continued apace, with its ongoing role in qualification for one of next year's biggest chess competitions, the 2027 Esports World…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-24T20:16:14.000Z"
         },
         {
           "title": "World Chess Championship: A look at the international press",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-24T12:35:00.000Z"
-        },
-        {
-          "title": "How To Watch FIDE World Championship 2026 Game 1",
-          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
-          "summary": "The Salesforce FIDE World Championship 2026 between defending Indian World Champion Gukesh Dommaraju and Uzbek Challenger GM Javokhir Sindarov begins on Tuesday, November 24, at 9 a.m. ET / 15:00 CET (local time in…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-23T21:20:00.000Z"
-        },
-        {
-          "title": "Mizzou Defeats UTD In Tiebreaks To Win Collegiate Chess League",
-          "link": "https://www.chess.com/news/view/ccl-finals-fall-2026",
-          "summary": "The University of Missouri (Mizzou) defeated the defending champions, University of Texas at Dallas (UTD) in an exciting final match of the Collegiate Chess League Fall 2026 (CCL). Mizzou couldn't hold onto their early…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-23T20:45:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Israeli air strike kills senior Hamas military official in Gaza",
-          "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
-          "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
+          "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+          "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T13:55:11.000Z"
+          "publishedAt": "2026-11-25T00:00:00.000Z"
         },
         {
-          "title": "Records tumble as Indian teen Sooryavanshi smashes 53-ball 204 against UAE",
-          "link": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae?traffic_source=rss",
-          "summary": "The 15-year-old Sooryavanshi struck a staggering 28 sixes, the most ever in a senior men's innings.",
+          "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+          "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+          "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T13:52:45.000Z"
+          "publishedAt": "2026-11-24T23:39:13.000Z"
         },
         {
-          "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
-          "link": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers?traffic_source=rss",
-          "summary": "Jensen Huang returns to lead the most consequential company powering the AI revolution. But who wins, who loses?",
+          "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+          "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+          "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T13:39:22.000Z"
+          "publishedAt": "2026-11-24T23:29:40.000Z"
         },
         {
-          "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-          "link": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-          "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
+          "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+          "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+          "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T13:35:51.000Z"
+          "publishedAt": "2026-11-24T22:50:16.000Z"
         },
         {
-          "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-          "link": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
-          "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
+          "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+          "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+          "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-24T13:32:24.000Z"
+          "publishedAt": "2026-11-24T22:37:20.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Schalk Burger: Why I’m confident the Springboks will beat France",
-          "link": "https://www.planetrugby.com/news/schalk-burger-why-im-confident-the-springboks-will-beat-france",
-          "summary": "Schalk Burger is confident the Springboks will beat France in the Nations Championship final.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/24141039/Cobus-Reinach-during-a-scrum-between-the-Springboks-and-France-and-an-inset-of-Schalk-Burger-1-120x120.jpg",
+          "title": "Nations Championship final: Five ways the Springboks can avenge the Paris defeat against France",
+          "link": "https://www.planetrugby.com/news/nations-championship-final-five-ways-the-springboks-can-avenge-the-paris-defeat-against-france",
+          "summary": "The Springboks need the most back-to-basics approach they have ever delivered if they are to beat France in the Nations Championship final.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/24163409/Springboks-and-France-scrum-with-Ethan-Hooker-inset-Alamy-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-24T14:20:19.000Z"
+          "publishedAt": "2026-11-24T17:40:05.000Z"
         },
         {
-          "title": "Englishman beats Marx to world’s best award",
-          "link": "https://www.sarugbymag.co.za/englishman-beats-marx-worlds-best-award/",
-          "summary": "Twelve Springboks feature in Rugby World magazine's list of the world's top 50 players, but just two make the top 10. The post Englishman beats Marx to world’s best award appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Malcolm-Marx-claps-21-November-2026-Ramsey-Cardy-Getty-Images-e1795512352570.jpg",
+          "title": "Salmaan grateful for what’s on his doorstep",
+          "link": "https://www.sarugbymag.co.za/salmaan-grateful-whats-doorstep/",
+          "summary": "After a frustrating time with injuries, lock Salmaan Moerat is excited to repay the faith shown in him by the Springboks and tackle the French at Twickenham on Sunday. The post Salmaan grateful for what’s on his…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2648513-e1795530390113.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T13:37:22.000Z"
+          "publishedAt": "2026-11-24T15:50:55.000Z"
         },
         {
-          "title": "Watch: ‘Rassie has lost the plot’",
-          "link": "https://www.sarugbymag.co.za/watch-rassie-lost-plot/",
-          "summary": "Former England internationals Ben Youngs and Dan Cole respond to the banned Rassie Erasmus’ watchalong during the Springboks’ defeat by Ireland in Dublin. The post Watch: ‘Rassie has lost the plot’ appeared first on SA…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/RassieErasmus-e1795525899422.jpg",
+          "title": "Brown wants Bok mojo back by Sunday",
+          "link": "https://www.sarugbymag.co.za/brown-wants-bok-mojo-back-sunday/",
+          "summary": "Tony Brown is backing a new 10-15 axis featuring Manie Libbok and Sacha Feinberg-Mngomezulu to reignite the Springboks' attack against France at Twickenham. The post Brown wants Bok mojo back by Sunday appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/06/Manie-Libbok-Sacha-Feinberg-Mngomezulu-27-June-2025-Ashley-Vlotman-Gallo-Images-e1780402170898.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T13:18:25.000Z"
+          "publishedAt": "2026-11-24T15:43:53.000Z"
         },
         {
-          "title": "Big Vic warns Rassie",
-          "link": "https://www.sarugbymag.co.za/big-vic-warns-rassie/",
-          "summary": "Springbok legend Victor Matfield reckons that Rassie Erasmus could face increased media scrutiny if the world champions lose a third successive Test. The post Big Vic warns Rassie appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/2305014004-e1795520708264.jpg",
+          "title": "Watch: Forward pass in Ireland try?",
+          "link": "https://www.sarugbymag.co.za/watch-forward-pass-in-ireland-try/",
+          "summary": "Ireland hooker Rónan Kelleher scored from a lineout move just before half-time against the Springboks, but should his try have been disallowed for a forward pass? The post Watch: Forward pass in Ireland try? appeared…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Ronan-Kelleher-try-21-November-2026-Charles-McQuillian-Getty-Images-e1795543047645.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T12:30:42.000Z"
+          "publishedAt": "2026-11-24T15:42:54.000Z"
         },
         {
-          "title": "Player poachers set to be hit in pocket",
-          "link": "https://www.sarugbymag.co.za/player-poachers-set-to-be-hit-in-pocket/",
-          "summary": "World Rugby is looking to significantly increase the compensation paid for young players recruited by overseas clubs in a move that could benefit South African rugby. The post Player poachers set to be hit in pocket…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/02/Josh-Neill-SA-U18-Ireland-U20-e1779443689793.jpg",
+          "title": "Ireland captain cops ban",
+          "link": "https://www.sarugbymag.co.za/ireland-captain-cops-ban/",
+          "summary": "Dan Sheehan has been suspended following a croc roll on Springbok loose forward Marco van Staden in Dublin. The post Ireland captain cops ban appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dan-Sheehan-21-November-2026-Ramsey-Cardy-Getty-Images-e1795541466892.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-24T11:32:05.000Z"
+          "publishedAt": "2026-11-24T15:40:31.000Z"
         }
       ]
     },
@@ -145,20 +145,20 @@
       "title": "Proteas",
       "articles": [
         {
+          "title": "Ackerman, Mulder tons grind down Bangladesh as SA batters make hay",
+          "link": "https://www.cricinfo.com/ci/content/story/1563809.html?ex_cid=OTC-RSS",
+          "summary": "Tony de Zorzi and Marco Jansen also hit fifties as South Africa added 406 runs on the second day",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/425700/425724.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-24T18:39:11.000Z"
+        },
+        {
           "title": "South Africa pick eight uncapped players for India women's Test",
           "link": "https://www.cricinfo.com/ci/content/story/1563796.html?ex_cid=OTC-RSS",
           "summary": "In the T20I squad, former Namibia captain Yasmeen Khan has earned her first South Africa call-up",
           "image": "http://p.imgci.com/db/PICTURES/CMS/384100/384102.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-24T13:42:23.000Z"
-        },
-        {
-          "title": "De Zorzi fifty extends South Africa's advantage",
-          "link": "https://www.cricinfo.com/ci/content/story/1563809.html?ex_cid=OTC-RSS",
-          "summary": "Tony de Zorzi built on Marques Ackerman's 150 in the first session",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/425700/425707.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-24T13:33:39.000Z"
         },
         {
           "title": "De Villiers claims Australia's 2018 ball tampering 'started in Durban'",
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-24T14:21:24.168Z",
+    "generatedAt": "2026-11-25T00:11:04.144Z",
     "status": {
-      "level": "active",
-      "label": "🔴 Planned Maintenance In Progress"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 13h 49m"
     },
     "forecast": [
-      {
-        "date": "2026-11-24",
-        "day": "Tue",
-        "dayOfMonth": 24,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-25",
         "day": "Wed",
         "dayOfMonth": 25,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-26",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-27",
         "day": "Fri",
         "dayOfMonth": 27,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-28",
         "day": "Sat",
         "dayOfMonth": 28,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-29",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-12-01",
+        "day": "Tue",
+        "dayOfMonth": 1,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Fri 27, 09:00–12:00"
+        "etr": "Sat 28, 09:00–12:00"
       }
     ],
     "reliability": {
