@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-11-25T23:50:00.117Z",
-  "edition": "Morning Edition — Thu, 26 Nov",
+  "generatedAt": "2026-11-26T13:16:43.609Z",
+  "edition": "Updated 15:16 SAST — Thu, 26 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "When Chess Starts to Sing",
+          "link": "https://en.chessbase.com/post/when-chess-starts-to-sing",
+          "summary": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
+        },
+        {
+          "title": "How To Watch FIDE World Championship 2026 Game 3",
+          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
+          "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET / 7:30 p.m.…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-26T07:10:00.000Z"
+        },
+        {
+          "title": "Daniel King analyses: London System in Game 2",
+          "link": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
+          "summary": "The second game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov saw a London System on the board. Daniel King shows the key moments of Game 2 in his video analysis.",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-26T02:31:25.000Z"
+        },
         {
           "title": "Abdusattorov, Woodward Start With Wins In London Chess Classic",
           "link": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-25T22:35:00.000Z"
-        },
-        {
-          "title": "Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw",
-          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
-          "summary": "World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026, but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-25T07:56:00.000Z"
-        },
-        {
-          "title": "Daniel King analyses: How Gukesh saved the draw",
-          "link": "https://en.chessbase.com/post/world-championship-2026-analysis",
-          "summary": "The first game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov got off to a promising start. Sindarov opened with 1.e4, and Gukesh opted for the Berlin Defence. The…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-24T22:46:47.000Z"
-        },
-        {
-          "title": "World Championship Game 1: A draw in the Berlin, not without tension",
-          "link": "https://en.chessbase.com/post/world-championship-2026-1",
-          "summary": "The World Chess Championship match between Gukesh Dommaraju and Javokhir Sindarov got under way on Tuesday in Geneva, with the two 20-year-old contenders signing a draw in a tense 38-move encounter. Playing white,…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-24T21:35:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-          "link": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-          "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T23:33:39.000Z"
-        },
-        {
-          "title": "King tides and big waves batter coastal California",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
-          "summary": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T23:20:03.000Z"
-        },
-        {
-          "title": "Deadly truck fire is latest of Egypt’s transport disasters",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
-          "summary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T22:48:47.000Z"
-        },
-        {
-          "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
-          "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
-          "summary": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-25T22:41:46.000Z"
-        },
-        {
-          "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-          "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+          "title": "Miami runway incident disrupts flights on Thanksgiving eve",
+          "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+          "summary": "A FedEx aircraft overran a runway, prompting disruption on one of the busiest travel days of the year.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-25T22:18:06.000Z"
+          "publishedAt": "2026-11-26T13:09:15.000Z"
+        },
+        {
+          "title": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+          "summary": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-26T12:34:10.000Z"
+        },
+        {
+          "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+          "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+          "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-26T12:33:23.000Z"
+        },
+        {
+          "title": "FIFA says personal and business information stolen in cyberattack",
+          "link": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+          "summary": "No files from the abandoned FIFA Forward Enterprise project were accessed, according to media reports.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-26T12:31:46.000Z"
+        },
+        {
+          "title": "With the rise of AI, are we close to having universal basic income",
+          "link": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+          "summary": "Is UBI the solution to mass unemployment in an AI economy?",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-26T12:12:45.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Siya flies solo after coaches’ no-show",
-          "link": "https://www.sarugbymag.co.za/siya-flies-solo-coaches-no-show/",
-          "summary": "The Springbok coaching staff reportedly boycotted a Nations Championship media event in London on Wednesday, leaving captain Siya Kolisi to represent the team alone. The post Siya flies solo after coaches’ no-show…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2649558.jpg",
+          "title": "Nations Championship teams face relegation",
+          "link": "https://www.sarugbymag.co.za/nations-championship-teams-face-relegation/",
+          "summary": "The Nations Championship could introduce two relegation playoffs from 2030 despite growing resistance from some of the tournament's founding unions. The post Nations Championship teams face relegation appeared first on…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Italy-Fiji-Nations-Championship-e1795698417144.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-25T18:13:33.000Z"
+          "publishedAt": "2026-11-26T13:08:44.000Z"
         },
         {
-          "title": "Ireland team: Andy Farrell makes two changes to Springbok beating side as suspended Dan Sheehan replaced",
-          "link": "https://www.planetrugby.com/news/ireland-team-andy-farrell-makes-two-changes-to-springbok-beating-side-as-suspended-dan-sheehan-replaced",
-          "summary": "Jacob Stockdale has returned to the Ireland starting XV for their Nations Championship match against Australia at Allianz Stadium, Twickenham on Friday night.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25162855/dan-sheehan-and-jacob-stockdale-120x120.jpg",
+          "title": "Ex-ref boss slams ‘shameful’ Rassie Erasmus but admits to concern over ‘problematic’ law",
+          "link": "https://www.planetrugby.com/news/ex-ref-boss-slams-shameful-rassie-erasmus-but-admits-to-concern-over-problematic-law",
+          "summary": "A former Test referee has hit out at Springboks boss Rassie Erasmus.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/26122323/Rassie-Erasmus-and-possible-knee-drop-tackle-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-25T16:32:22.000Z"
+          "publishedAt": "2026-11-26T12:33:06.000Z"
         },
         {
-          "title": "Ex-Springboks star issues blunt warning to ‘amazing rugby player’ Henry Pollock",
-          "link": "https://www.planetrugby.com/news/ex-springboks-star-issues-blunt-warning-to-amazing-rugby-player-henry-pollock",
-          "summary": "Ex-Springboks loose forward Willem Alberts has given his verdict on England star Henry Pollock's recent rise to prominence in the game.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/25150459/Willem-Alberts-and-Henry-Pollock-image-1-120x120.jpg",
+          "title": "RG Snyman nears Leinster exit with ‘advanced talks’ with French club after massive All Blacks coup",
+          "link": "https://www.planetrugby.com/news/rg-snyman-nears-leinster-exit-with-advanced-talks-with-french-club-after-massive-all-blacks-coup",
+          "summary": "Stade Francais have turned their attention to the Springboks star after signing All Blacks loose forward Wallace Sititi.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/26112611/Springboks-lock-RG-Snyman-and-an-inset-of-All-Blacks-star-Wallace-Sititi-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-25T15:54:57.000Z"
+          "publishedAt": "2026-11-26T11:47:03.000Z"
         },
         {
-          "title": "Vinny T helps Manu settle his nerves",
-          "link": "https://www.sarugbymag.co.za/vinny-t-helps-manu-settle-nerves/",
-          "summary": "Emmanuel Tshituka is eager to follow in his brother's footsteps and make his Springbok debut in the Nations Championship final, which he calls an \"opportunity of a lifetime\". The post Vinny T helps Manu settle his…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2580987-e1795619848854.jpg",
+          "title": "Galthié: France to go ‘all in’ against Boks",
+          "link": "https://www.sarugbymag.co.za/galthie-france-to-go-all-in-against-boks/",
+          "summary": "Coach Fabien Galthié says France will hold nothing back as they bid to beat the \"best team in the world\" again in the Nations Championship final at Twickenham. The post Galthié: France to go ‘all in’ against Boks…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/France-celebrate-Boks-13-November-2026-David-Rogers-Getty-Images-e1794608873243.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-25T15:37:02.000Z"
+          "publishedAt": "2026-11-26T11:46:02.000Z"
         },
         {
-          "title": "Bok on French club’s radar",
-          "link": "https://www.sarugbymag.co.za/bok-french-clubs-radar-2/",
-          "summary": "Top 14 giants Stade Français are reportedly targeting a double World Cup-winning Springbok for next season. The post Bok on French club’s radar appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2487458-e1795627313673.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-25T15:35:00.000Z"
+          "title": "Law discussion: Should the Springboks be wary of Antoine Dupont’s trick-play and is it legal?",
+          "link": "https://www.planetrugby.com/news/law-discussion-should-the-springboks-be-wary-of-antoine-duponts-trick-play-and-is-it-legal",
+          "summary": "France's trick-play try from a scrum will have the Springboks on high alert, but were Antoine Dupont's actions legal?",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/26092927/Frances-Antoine-Dupont-and-Louis-Bielle-Biarrey-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-26T09:47:40.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh",
+          "link": "https://www.cricinfo.com/ci/content/story/1564291.html?ex_cid=OTC-RSS",
+          "summary": "The uncapped van Vuuren has been called up to the ODI squad, while Eathan Bosch and uncapped Basson have come into the T20I squad",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/369800/369837.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-26T09:09:41.000Z"
+        },
         {
           "title": "Seven-star Mulder leads South Africa to 2-0 whitewash",
           "link": "https://www.cricinfo.com/ci/content/story/1563890.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/384100/384102.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-25T06:28:58.000Z"
-        },
-        {
-          "title": "De Villiers claims Australia's 2018 ball tampering 'started in Durban'",
-          "link": "https://www.cricinfo.com/ci/content/story/1563656.html?ex_cid=OTC-RSS",
-          "summary": "The former South Africa batter said the ball had reversed \"way too early\" in the first Test",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/273800/273857.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-24T00:36:53.000Z"
         }
       ]
     }
@@ -1655,27 +1655,19 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-25T23:50:00.188Z",
+    "generatedAt": "2026-11-26T13:16:43.661Z",
     "status": {
-      "level": "operational",
-      "label": "🟢 Grid Operational"
+      "level": "planned",
+      "label": "🟡 Planned Maintenance In 43m"
     },
     "forecast": [
-      {
-        "date": "2026-11-25",
-        "day": "Wed",
-        "dayOfMonth": 25,
-        "hasOutage": true,
-        "window": "14:00–16:30",
-        "infrastructure": "Wapadrand Substation Upgrades"
-      },
       {
         "date": "2026-11-26",
         "day": "Thu",
         "dayOfMonth": 26,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "14:00–16:30",
+        "infrastructure": "Wapadrand Substation Upgrades"
       },
       {
         "date": "2026-11-27",
@@ -1689,17 +1681,17 @@
         "date": "2026-11-28",
         "day": "Sat",
         "dayOfMonth": 28,
-        "hasOutage": true,
-        "window": "09:00–12:00",
-        "infrastructure": "Die Wilgers Feeder Cable Replacement"
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       },
       {
         "date": "2026-11-29",
         "day": "Sun",
         "dayOfMonth": 29,
-        "hasOutage": false,
-        "window": null,
-        "infrastructure": null
+        "hasOutage": true,
+        "window": "09:00–12:00",
+        "infrastructure": "Die Wilgers Feeder Cable Replacement"
       },
       {
         "date": "2026-11-30",
@@ -1716,26 +1708,34 @@
         "hasOutage": false,
         "window": null,
         "infrastructure": null
+      },
+      {
+        "date": "2026-12-02",
+        "day": "Wed",
+        "dayOfMonth": 2,
+        "hasOutage": false,
+        "window": null,
+        "infrastructure": null
       }
     ],
     "maintenance": [
       {
-        "date": "2026-11-25",
+        "date": "2026-11-26",
         "infrastructure": "Wapadrand Substation Upgrades",
         "status": "Scheduled",
         "etr": "Today, 14:00–16:30"
       },
       {
-        "date": "2026-11-25",
+        "date": "2026-11-26",
         "infrastructure": "Garsfontein Rd Transformer Repair",
         "status": "In Progress",
         "etr": "~45 min remaining"
       },
       {
-        "date": "2026-11-28",
+        "date": "2026-11-29",
         "infrastructure": "Die Wilgers Feeder Cable Replacement",
         "status": "Scheduled",
-        "etr": "Sat 28, 09:00–12:00"
+        "etr": "Sun 29, 09:00–12:00"
       }
     ],
     "reliability": {
