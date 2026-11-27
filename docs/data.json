@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-11-27T00:08:03.497Z",
-  "edition": "Morning Edition — Fri, 27 Nov",
+  "generatedAt": "2026-11-27T13:14:32.177Z",
+  "edition": "Updated 15:14 SAST — Fri, 27 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
         {
-          "title": "World Championship: Game 3 ends in 60-move draw",
-          "link": "https://en.chessbase.com/post/world-championship-2026-live",
-          "summary": "The 2026 World Chess Championship match in Switzerland is seeing India's Gukesh Dommaraju defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov. Both players are 20 years old,…",
+          "title": "World Championship Game 3: A lively draw ahead of the first rest day",
+          "link": "https://en.chessbase.com/post/world-championship-2026-3",
+          "summary": "A third consecutive draw was seen at the World Chess Championship in Geneva on Thursday, though game three was the longest and the most engaging encounter of the match so far. Gukesh Dommaraju demonstrated the depth of…",
           "image": null,
           "source": "ChessBase",
-          "publishedAt": "2026-11-26T14:45:00.000Z"
+          "publishedAt": "2026-11-27T04:50:00.000Z"
+        },
+        {
+          "title": "Daniel King analyses: A fighting draw in Game 3",
+          "link": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king-3",
+          "summary": "The third game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov started off with a Ruy Lopez. Not a Berlin Endgame this time. Daniel King shows the key moments of Game 3…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-27T02:23:53.000Z"
+        },
+        {
+          "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
+          "summary": "World Champion Gukesh Dommaraju's early surprise of playing the Rio de Janeiro Variation of the Berlin gave him a 50-minute lead on the clock, with GM Javokhir Sindarov ultimately reaching move 40 with just six seconds…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-26T21:30:00.000Z"
+        },
+        {
+          "title": "Scandinavian Stars Bjerre, Haug Join Martinez In 3 0 Thursday Triumph",
+          "link": "https://www.chess.com/news/view/bjerre-haug-martinez-3-0-thursday-11-26-2026",
+          "summary": "GM Jonas Buhl Bjerre, IM Havard Haug, and GM Jose Martinez were all outright victors of the November 26 3 0 Thursday events, each winning with commanding scores of 10/11. Bjerre's win was particularly special as it was…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-26T21:00:00.000Z"
         },
         {
           "title": "When chess starts to sing",
@@ -21,30 +45,6 @@
           "image": null,
           "source": "ChessBase",
           "publishedAt": "2026-11-26T10:00:00.000Z"
-        },
-        {
-          "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
-          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
-          "summary": "World Champion Gukesh Dommaraju's early surprise of playing the Rio de Janeiro Variation of the Berlin gave him a 50-minute lead on the clock, with GM Javokhir Sindarov ultimately reaching move 40 with just six seconds…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-26T07:10:00.000Z"
-        },
-        {
-          "title": "Daniel King analyses: London System in Game 2",
-          "link": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
-          "summary": "The second game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov saw a London System on the board. Daniel King shows the key moments of Game 2 in his video analysis.",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-26T02:31:25.000Z"
-        },
-        {
-          "title": "Abdusattorov, Woodward Start With Wins In London Chess Classic",
-          "link": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
-          "summary": "GMs Nodirbek Abdusattorov and Andy Woodward started with wins in round one of the XTX Markets London Chess Classic 2026 on Wednesday. Defending Champion Abdusattorov (with White) defeated GM Shreyas Royal in a Benoni…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-25T22:38:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-          "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+          "title": "European football violence causes concern with far-right claim in UEFA game",
+          "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+          "summary": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T00:00:00.000Z"
+          "publishedAt": "2026-11-27T12:12:56.000Z"
         },
         {
-          "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
-          "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-          "summary": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
+          "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+          "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+          "summary": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-26T23:37:17.000Z"
+          "publishedAt": "2026-11-27T12:00:22.000Z"
         },
         {
-          "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
-          "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-          "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+          "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+          "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+          "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-26T23:07:36.000Z"
+          "publishedAt": "2026-11-27T11:51:26.000Z"
         },
         {
-          "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-          "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-          "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+          "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+          "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+          "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T11:44:46.000Z"
+        },
+        {
+          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+          "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+          "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-26T23:03:16.000Z"
-        },
-        {
-          "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
-          "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
-          "summary": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-26T22:51:55.000Z"
+          "publishedAt": "2026-11-27T11:44:40.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Nigel: Rugby overusing technology",
-          "link": "https://www.sarugbymag.co.za/nigel-rugby-overusing-technology/",
-          "summary": "Former Test referee Nigel Owens says rugby has become too technical and the TMO's role too great. The post Nigel: Rugby overusing technology appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/08/Matthew-Carley-TMO-2025-Dan-Istitene-Getty-Images-e1787029641720.jpg",
+          "title": "Ramos returns for bolstered Les Bleus",
+          "link": "https://www.sarugbymag.co.za/ramos-returns-for-bolstered-les-bleus/",
+          "summary": "Thomas Ramos will start at fullback for France in Sunday's Nations Championship final against the Springboks at Twickenham. The post Ramos returns for bolstered Les Bleus appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Thomas-Ramos-8-November-2025-David-Rogers-Getty-Images-e1795781022786.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-26T17:32:19.000Z"
+          "publishedAt": "2026-11-27T12:06:24.000Z"
         },
         {
-          "title": "Jordie captains embattled All Blacks",
-          "link": "https://www.sarugbymag.co.za/jordie-captains-embattled-all-blacks/",
-          "summary": "Coach Dave Rennie has made six changes to the All Blacks starting XV for Saturday's Nations Championship second-place final against England at Twickenham. The post Jordie captains embattled All Blacks appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Jordie-Barrett-All-Blacks-dejected-21-November-2026-Mike-Hewitt-Getty-Images-e1795290926921.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-26T16:26:48.000Z"
-        },
-        {
-          "title": "Eddie expects Boks to come back stronger",
-          "link": "https://www.sarugbymag.co.za/eddie-expects-boks-to-come-back-stronger/",
-          "summary": "Eddie Jones believes the Springboks' current struggles will stand them in good stead as they pursue a historic hat-trick of World Cup titles next year. The post Eddie expects Boks to come back stronger appeared first on…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2654732-e1795294595401.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-26T16:13:56.000Z"
-        },
-        {
-          "title": "Eddie Jones: Springboks need this period to win the World Cup",
-          "link": "https://www.planetrugby.com/news/eddie-jones-springboks-need-this-period-to-win-the-world-cup",
-          "summary": "Eddie Jones believes that the Springboks' current difficult period is exactly what they need.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/26144034/Springboks-huddle-after-the-defeat-to-Ireland-and-an-inset-of-Eddie-Jones-1-120x120.jpg",
+          "title": "France team: Galthié responds to Rassie’s ploy while sharpshooter Ramos returns for Springboks rematch",
+          "link": "https://www.planetrugby.com/news/france-team-galthie-responds-to-rassies-ploy-while-sharpshooter-ramos-returns-for-springboks-rematch",
+          "summary": "France have been bolstered by key returnees for the grudge Nations Championship final rematch against the Springboks.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27114507/Frances-Thomas-Ramos-and-an-inset-of-head-coach-Fabien-Galthie-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-26T15:28:05.000Z"
+          "publishedAt": "2026-11-27T11:49:49.000Z"
         },
         {
-          "title": "Superbru: Springboks or France?",
-          "link": "https://www.sarugbymag.co.za/superbru-springboks-or-france/",
-          "summary": "The SA Rugby magazine team is split on who will lift the Nations Championship trophy at Twickenham. The post Superbru: Springboks or France? appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Antoine-Dupont-Siya-Kolisi-Nations-Championship-trophy-25-November-2026-Andrew-Redington-Getty-Images-e1795704442520.jpg",
+          "title": "Schalk wants distracted Boks to keep it simple",
+          "link": "https://www.sarugbymag.co.za/schalk-wants-distracted-boks-keep-simple/",
+          "summary": "Schalk Burger, Jean de Villiers and Scott Spedding agree that Rassie Erasmus and the Springboks need to refocus on winning matches and cut out the sideshows. The post Schalk wants distracted Boks to keep it simple…",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2579550-e1795776824657.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-26T14:48:53.000Z"
+          "publishedAt": "2026-11-27T11:42:17.000Z"
+        },
+        {
+          "title": "Sir Steve Hansen: World Rugby Player of the Year a ‘two-man’ contest and I wouldn’t pick a Springbok",
+          "link": "https://www.planetrugby.com/news/sir-steve-hansen-world-rugby-player-of-the-year-a-two-man-contest-and-i-wouldnt-pick-a-springbok",
+          "summary": "Sir Steve Hansen believes that the World Rugby Player of the Year Award is a two-horse race.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27100502/All-Blacks-back-Jordie-Barrett-and-an-inset-of-Frances-Louis-Bielle-Biarrey-1-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-27T10:17:04.000Z"
+        },
+        {
+          "title": "Boks face rankings freefall",
+          "link": "https://www.sarugbymag.co.za/boks-face-rankings-freefall/",
+          "summary": "The Springboks could drop as low as fifth on the World Rugby rankings if the northern hemisphere's recent dominance continues this weekend. The post Boks face rankings freefall appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dejected-Springboks-13-November-2026-David-Rogers-Getty-Images-e1794638838431.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-27T09:34:44.000Z"
         }
       ]
     },
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-27T00:08:03.549Z",
+    "generatedAt": "2026-11-27T13:14:32.246Z",
     "status": {
       "level": "planned",
-      "label": "🟡 Planned Maintenance In 13h 52m"
+      "label": "🟡 Planned Maintenance In 45m"
     },
     "forecast": [
       {
