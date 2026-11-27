@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-27T13:14:32.177Z",
-  "edition": "Updated 15:14 SAST — Fri, 27 Nov",
+  "generatedAt": "2026-11-27T23:47:23.030Z",
+  "edition": "Morning Edition — Sat, 28 Nov",
   "sections": [
     {
       "id": "chess",
       "title": "Chess",
       "articles": [
+        {
+          "title": "London Chess Classic - Round 3 live",
+          "link": "https://en.chessbase.com/post/london-chess-classic-abdusattorov-aronian-ivanchuk-and-the-next-generation",
+          "summary": "While Gukesh and Sindarov are battling for the world championship title in Geneva, the 16th London Chess Classic, featuring a Masters and a Challengers section, is taking place from 25 November to 4 December. Defending…",
+          "image": null,
+          "source": "ChessBase",
+          "publishedAt": "2026-11-27T16:50:00.000Z"
+        },
+        {
+          "title": "How To Watch FIDE World Championship 2026 Game 4",
+          "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4",
+          "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00…",
+          "image": null,
+          "source": "Chess.com",
+          "publishedAt": "2026-11-27T13:44:00.000Z"
+        },
         {
           "title": "World Championship Game 3: A lively draw ahead of the first rest day",
           "link": "https://en.chessbase.com/post/world-championship-2026-3",
@@ -29,22 +45,6 @@
           "image": null,
           "source": "Chess.com",
           "publishedAt": "2026-11-26T21:30:00.000Z"
-        },
-        {
-          "title": "Scandinavian Stars Bjerre, Haug Join Martinez In 3 0 Thursday Triumph",
-          "link": "https://www.chess.com/news/view/bjerre-haug-martinez-3-0-thursday-11-26-2026",
-          "summary": "GM Jonas Buhl Bjerre, IM Havard Haug, and GM Jose Martinez were all outright victors of the November 26 3 0 Thursday events, each winning with commanding scores of 10/11. Bjerre's win was particularly special as it was…",
-          "image": null,
-          "source": "Chess.com",
-          "publishedAt": "2026-11-26T21:00:00.000Z"
-        },
-        {
-          "title": "When chess starts to sing",
-          "link": "https://en.chessbase.com/post/when-chess-starts-to-sing",
-          "summary": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess…",
-          "image": null,
-          "source": "ChessBase",
-          "publishedAt": "2026-11-26T10:00:00.000Z"
         }
       ]
     },
@@ -53,44 +53,44 @@
       "title": "World & Politics",
       "articles": [
         {
-          "title": "European football violence causes concern with far-right claim in UEFA game",
-          "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-          "summary": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
+          "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+          "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+          "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
           "image": null,
           "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T12:12:56.000Z"
+          "publishedAt": "2026-11-27T23:09:04.000Z"
         },
         {
-          "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-          "link": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
-          "summary": "Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T12:00:22.000Z"
-        },
-        {
-          "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-          "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
-          "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T11:51:26.000Z"
-        },
-        {
-          "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-          "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-          "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
-          "image": null,
-          "source": "Al Jazeera",
-          "publishedAt": "2026-11-27T11:44:46.000Z"
-        },
-        {
-          "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-          "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
+          "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+          "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+          "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg",
           "source": "BBC News",
-          "publishedAt": "2026-11-27T11:44:40.000Z"
+          "publishedAt": "2026-11-27T23:02:35.000Z"
+        },
+        {
+          "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+          "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+          "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T22:33:17.000Z"
+        },
+        {
+          "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+          "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+          "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+          "image": null,
+          "source": "Al Jazeera",
+          "publishedAt": "2026-11-27T22:22:02.000Z"
+        },
+        {
+          "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+          "source": "BBC News",
+          "publishedAt": "2026-11-27T22:03:46.000Z"
         }
       ]
     },
@@ -99,44 +99,44 @@
       "title": "Springboks",
       "articles": [
         {
-          "title": "Ramos returns for bolstered Les Bleus",
-          "link": "https://www.sarugbymag.co.za/ramos-returns-for-bolstered-les-bleus/",
-          "summary": "Thomas Ramos will start at fullback for France in Sunday's Nations Championship final against the Springboks at Twickenham. The post Ramos returns for bolstered Les Bleus appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Thomas-Ramos-8-November-2025-David-Rogers-Getty-Images-e1795781022786.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-27T12:06:24.000Z"
-        },
-        {
-          "title": "France team: Galthié responds to Rassie’s ploy while sharpshooter Ramos returns for Springboks rematch",
-          "link": "https://www.planetrugby.com/news/france-team-galthie-responds-to-rassies-ploy-while-sharpshooter-ramos-returns-for-springboks-rematch",
-          "summary": "France have been bolstered by key returnees for the grudge Nations Championship final rematch against the Springboks.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27114507/Frances-Thomas-Ramos-and-an-inset-of-head-coach-Fabien-Galthie-1-120x120.jpg",
+          "title": "Springboks star finds out disciplinary fate almost a week after red card incident",
+          "link": "https://www.planetrugby.com/news/springboks-star-finds-out-disciplinary-fate-almost-a-week-after-red-card-incident",
+          "summary": "Marco van Staden has finally found out his fate after being red carded for an incident against Ireland.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27211728/Marco-van-Staden-receives-yellow-and-the-incident-1-120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-27T11:49:49.000Z"
+          "publishedAt": "2026-11-27T21:20:51.000Z"
         },
         {
-          "title": "Schalk wants distracted Boks to keep it simple",
-          "link": "https://www.sarugbymag.co.za/schalk-wants-distracted-boks-keep-simple/",
-          "summary": "Schalk Burger, Jean de Villiers and Scott Spedding agree that Rassie Erasmus and the Springboks need to refocus on winning matches and cut out the sideshows. The post Schalk wants distracted Boks to keep it simple…",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/TL_2579550-e1795776824657.jpg",
-          "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-27T11:42:17.000Z"
-        },
-        {
-          "title": "Sir Steve Hansen: World Rugby Player of the Year a ‘two-man’ contest and I wouldn’t pick a Springbok",
-          "link": "https://www.planetrugby.com/news/sir-steve-hansen-world-rugby-player-of-the-year-a-two-man-contest-and-i-wouldnt-pick-a-springbok",
-          "summary": "Sir Steve Hansen believes that the World Rugby Player of the Year Award is a two-horse race.",
-          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27100502/All-Blacks-back-Jordie-Barrett-and-an-inset-of-Frances-Louis-Bielle-Biarrey-1-120x120.jpg",
+          "title": "Nigel Owens’ verdict on the Ireland-Springboks red cards and Jan-Hendrik Wessels’ late-game ruck offside call",
+          "link": "https://www.planetrugby.com/news/nigel-owens-verdict-on-the-ireland-springboks-red-cards-and-jan-hendrik-wessels-late-game-ruck-offside-call",
+          "summary": "Retired referee Nigel Owens has shared his verdict on the double red card that left Ireland and the Springboks finishing last Saturday’s Nations Championship match in Dublin with 14 players each.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27190810/Ireland-v-South-Africa-Referee-Christophe-Ridley-shows-the-yellow-card--120x120.jpg",
           "source": "Planet Rugby",
-          "publishedAt": "2026-11-27T10:17:04.000Z"
+          "publishedAt": "2026-11-27T19:16:57.000Z"
         },
         {
-          "title": "Boks face rankings freefall",
-          "link": "https://www.sarugbymag.co.za/boks-face-rankings-freefall/",
-          "summary": "The Springboks could drop as low as fifth on the World Rugby rankings if the northern hemisphere's recent dominance continues this weekend. The post Boks face rankings freefall appeared first on SA Rugby magazine.",
-          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Dejected-Springboks-13-November-2026-David-Rogers-Getty-Images-e1794638838431.jpg",
+          "title": "Italy edge Fiji to end losing run",
+          "link": "https://www.sarugbymag.co.za/italy-edge-fiji-to-end-losing-run/",
+          "summary": "Italy launched the Nations Championship finals weekend by gaining revenge over Jake White's Fiji with a tense win at Twickenham on Friday. The post Italy edge Fiji to end losing run appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Federico-Mori-Italy-try-27-November-2026-David-Rogers-Getty-Images-e1795804705104.jpg",
           "source": "SA Rugby Mag",
-          "publishedAt": "2026-11-27T09:34:44.000Z"
+          "publishedAt": "2026-11-27T19:03:46.000Z"
+        },
+        {
+          "title": "Another Bok banned",
+          "link": "https://www.sarugbymag.co.za/another-bok-banned/",
+          "summary": "Springbok loose forward Marco van Staden has been suspended for a dangerous cleanout on Ireland lock Tadhg Beirne. The post Another Bok banned appeared first on SA Rugby magazine.",
+          "image": "https://www.sarugbymag.co.za/wp-content/uploads/2026/11/Marco-van-Staden-yellow-card-21-November-2026-Ramsey-Cardy-Getty-Images-e1795801649862.jpg",
+          "source": "SA Rugby Mag",
+          "publishedAt": "2026-11-27T17:49:16.000Z"
+        },
+        {
+          "title": "Springboks: Manie Libbok makes bold prediction on his playmaking combination with Sacha Feinberg-Mngomezulu",
+          "link": "https://www.planetrugby.com/news/springboks-manie-libbok-makes-bold-prediction-on-his-playmaking-combination-with-sacha-feinberg-mngomezulu",
+          "summary": "Manie Libbok has revealed what he expects from his recall to the Springboks' starting line-up when they face France in Sunday's Nations Championship grand final at Allianz Stadium, Twickenham.",
+          "image": "https://d3gbf3ykm8gp5c.cloudfront.net/content/uploads/2026/11/27164529/Manie-Libbok-and-Sacha-Feinberg-Mngomezulu-image-120x120.jpg",
+          "source": "Planet Rugby",
+          "publishedAt": "2026-11-27T17:04:01.000Z"
         }
       ]
     },
@@ -144,6 +144,14 @@
       "id": "cricket",
       "title": "Proteas",
       "articles": [
+        {
+          "title": "CSA 4-day match in Newlands abandoned due to dangerous pitch",
+          "link": "https://www.cricinfo.com/ci/content/story/1564474.html?ex_cid=OTC-RSS",
+          "summary": "The game between Western Province and Titans was abandoned on the second morning after 14 wickets fell on the opening day",
+          "image": "http://p.imgci.com/db/PICTURES/CMS/324100/324124.jpg",
+          "source": "ESPNcricinfo",
+          "publishedAt": "2026-11-27T18:19:50.000Z"
+        },
         {
           "title": "Injured Coetzee, Maphaka out of SA's white-ball series against Bangladesh",
           "link": "https://www.cricinfo.com/ci/content/story/1564291.html?ex_cid=OTC-RSS",
@@ -175,14 +183,6 @@
           "image": "http://p.imgci.com/db/PICTURES/CMS/425700/425724.jpg",
           "source": "ESPNcricinfo",
           "publishedAt": "2026-11-25T07:38:02.000Z"
-        },
-        {
-          "title": "South Africa pick eight uncapped players for India women's Test",
-          "link": "https://www.cricinfo.com/ci/content/story/1563796.html?ex_cid=OTC-RSS",
-          "summary": "In the T20I squad, former Namibia captain Yasmeen Khan has earned her first South Africa call-up",
-          "image": "http://p.imgci.com/db/PICTURES/CMS/384100/384102.jpg",
-          "source": "ESPNcricinfo",
-          "publishedAt": "2026-11-25T06:28:58.000Z"
         }
       ]
     }
@@ -1655,10 +1655,10 @@
     "suburb": "Die Wilgers",
     "municipality": "City of Tshwane",
     "source": "City of Tshwane Service Interruptions Portal",
-    "generatedAt": "2026-11-27T13:14:32.246Z",
+    "generatedAt": "2026-11-27T23:47:23.081Z",
     "status": {
-      "level": "planned",
-      "label": "🟡 Planned Maintenance In 45m"
+      "level": "operational",
+      "label": "🟢 Grid Operational"
     },
     "forecast": [
       {
